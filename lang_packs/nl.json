@@ -242,6 +242,7 @@
   "quran_translation_loading": "Vertaling laden...",
   "quran_translation_unavailable": "Vertaling niet beschikbaar",
   "rakaat": "Rakaat",
+  "rakaat_count_label": "{rakaat} Rakaat",
   "rakaat_settings": "Rakaat Counter Instellingen",
   "rawatib_after": "Na {prayer}",
   "rawatib_badiyah": "Ba'diyah",
@@ -322,9 +323,11 @@
   "vibrate_subtitle": "Trillen wanneer het doelAantal is bereikt",
   "vibrate_target": "Trillen bij doel",
   "witir": "Witr",
+  "witir_choose_one_note": "Kies SLECHTS ÉÉN van de volgende 3 opties naar voorkeur — niet alle drie tegelijk.",
   "witir_modal_title": "Intentie & gids voor het Witr-gebed",
   "witir_note_one_rakaat": "Uitgevoerd als slechts 1 rakaat.",
-  "witir_note_three_together": "Uitgevoerd als 3 rakaat direct met één salam.",
+  "witir_note_three_together": "Uitgevoerd als 3 rakaat direct met één salam, zonder te zitten voor de eerste tasjahhoed bij de tweede rakaat (dit onderscheidt het van het Maghrib-gebed).",
   "witir_note_two_plus_one": "Uitgevoerd als 2 rakaat gevolgd door salam, daarna 1 rakaat (2 aparte intenties).",
+  "witir_recommended_badge": "Aanbevolen",
   "your_area": "uw regio"
 }

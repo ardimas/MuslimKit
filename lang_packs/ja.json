@@ -242,6 +242,7 @@
   "quran_translation_loading": "翻訳を読み込み中...",
   "quran_translation_unavailable": "翻訳は利用できません",
   "rakaat": "ラカート",
+  "rakaat_count_label": "{rakaat}ラカート",
   "rakaat_settings": "ラカートカウンター設定",
   "rawatib_after": "{prayer}の後",
   "rawatib_badiyah": "バァディーヤ",
@@ -322,9 +323,11 @@
   "vibrate_subtitle": "目標回数に達した時に振動でお知らせ",
   "vibrate_target": "target達成時のバイブ",
   "witir": "ウィトル",
+  "witir_choose_one_note": "以下の3つのオプションから、お好みに応じて1つだけを選んでください — 3つ同時にではありません。",
   "witir_modal_title": "ウィトル礼拝の意図とガイド",
   "witir_note_one_rakaat": "1ラカートのみ行う。",
-  "witir_note_three_together": "3ラカートを一度のサラームで直接行う。",
+  "witir_note_three_together": "2ラカート目で最初のタシャッフドのために座ることなく、3ラカートを一度のサラームで直接行う（これがマグリブ礼拝との違いです）。",
   "witir_note_two_plus_one": "2ラカートしてサラームした後、1ラカート行う（2つの別々の意図）。",
+  "witir_recommended_badge": "おすすめ",
   "your_area": "お住まいの地域"
 }

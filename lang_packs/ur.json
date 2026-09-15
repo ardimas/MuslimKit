@@ -242,6 +242,7 @@
   "quran_translation_loading": "ترجمہ لوڈ ہو رہا ہے...",
   "quran_translation_unavailable": "ترجمہ دستیاب نہیں",
   "rakaat": "رکعت",
+  "rakaat_count_label": "{rakaat} رکعت",
   "rakaat_settings": "رکعت کاؤنٹر سیٹنگز",
   "rawatib_after": "{prayer} کے بعد",
   "rawatib_badiyah": "بعدیہ",
@@ -322,9 +323,11 @@
   "vibrate_subtitle": "تعداد مکمل ہونے پر وائبریشن کریں",
   "vibrate_target": "ٹارگٹ پر وائبریشن",
   "witir": "وتر",
+  "witir_choose_one_note": "اپنی پسند کے مطابق ذیل کے 3 اختیارات میں سے صرف ایک کا انتخاب کریں — تینوں ایک ساتھ نہیں۔",
   "witir_modal_title": "وتر کی نیت اور رہنمائی",
   "witir_note_one_rakaat": "صرف 1 رکعت ادا کی جاتی ہے۔",
-  "witir_note_three_together": "3 رکعت براہ راست ایک سلام کے ساتھ ادا کی جاتی ہیں۔",
+  "witir_note_three_together": "3 رکعت براہ راست ایک سلام کے ساتھ ادا کی جاتی ہیں، دوسری رکعت میں پہلے تشہد کے لیے بیٹھے بغیر (یہی چیز اسے مغرب کی نماز سے ممتاز کرتی ہے)۔",
   "witir_note_two_plus_one": "2 رکعت ادا کر کے سلام پھیرا جاتا ہے، پھر 1 رکعت (2 الگ نیتیں)۔",
+  "witir_recommended_badge": "تجویز کردہ",
   "your_area": "آپ کا علاقہ"
 }

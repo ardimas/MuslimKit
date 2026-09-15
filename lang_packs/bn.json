@@ -242,6 +242,7 @@
   "quran_translation_loading": "অনুবাদ লোড হচ্ছে...",
   "quran_translation_unavailable": "অনুবাদ উপলব্ধ নেই",
   "rakaat": "রাকাত",
+  "rakaat_count_label": "{rakaat} রাকাত",
   "rakaat_settings": "রাকাত কাউন্টার সেটিংস",
   "rawatib_after": "{prayer} এর পরে",
   "rawatib_badiyah": "বাদিয়া",
@@ -322,9 +323,11 @@
   "vibrate_subtitle": "নির্দিষ্ট সংখ্যায় পৌঁছালে কম্পিত হবে",
   "vibrate_target": "টার্গেটে কম্পন",
   "witir": "বিতর",
+  "witir_choose_one_note": "আপনার পছন্দ অনুযায়ী নিচের ৩টি অপশনের মধ্যে থেকে শুধুমাত্র ১টি বেছে নিন — তিনটি একসাথে নয়।",
   "witir_modal_title": "বিতর নামাজের নিয়ত ও নির্দেশিকা",
   "witir_note_one_rakaat": "শুধুমাত্র ১ রাকাত আদায় করা হয়।",
-  "witir_note_three_together": "সরাসরি এক সালামে ৩ রাকাত আদায় করা হয়।",
+  "witir_note_three_together": "সরাসরি এক সালামে ৩ রাকাত আদায় করা হয়, দ্বিতীয় রাকাতে প্রথম তাশাহহুদের জন্য না বসে (এটিই একে মাগরিবের নামাজ থেকে আলাদা করে)।",
   "witir_note_two_plus_one": "২ রাকাত সালাম ফিরিয়ে, এরপর ১ রাকাত (২টি পৃথক নিয়ত) আদায় করা হয়।",
+  "witir_recommended_badge": "প্রস্তাবিত",
   "your_area": "আপনার অঞ্চল"
 }

@@ -242,6 +242,7 @@
   "quran_translation_loading": "Übersetzung wird geladen...",
   "quran_translation_unavailable": "Übersetzung nicht verfügbar",
   "rakaat": "Rakat",
+  "rakaat_count_label": "{rakaat} Rakaat",
   "rakaat_settings": "Rakaat Counter Einstellungen",
   "rawatib_after": "Nach {prayer}",
   "rawatib_badiyah": "Ba'diyah",
@@ -322,9 +323,11 @@
   "vibrate_subtitle": "Vibrieren bei Erreichen der Zielanzahl",
   "vibrate_target": "Vibration bei Ziel",
   "witir": "Witr",
+  "witir_choose_one_note": "Wählen Sie NUR EINE der folgenden 3 Optionen nach Ihrer Vorliebe — nicht alle drei gleichzeitig.",
   "witir_modal_title": "Absicht & Anleitung des Witr-Gebets",
   "witir_note_one_rakaat": "Als nur 1 Rakaat ausgeführt.",
-  "witir_note_three_together": "Als 3 Rakaat direkt mit einem Salam ausgeführt.",
+  "witir_note_three_together": "Als 3 Rakaat direkt mit einem Salam ausgeführt, ohne beim zweiten Rakaat für das erste Taschahhud zu sitzen (dies unterscheidet es vom Maghrib-Gebet).",
   "witir_note_two_plus_one": "Als 2 Rakaat mit Salam, gefolgt von 1 Rakaat (2 separate Absichten) ausgeführt.",
+  "witir_recommended_badge": "Empfohlen",
   "your_area": "Ihre Region"
 }

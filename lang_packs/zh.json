@@ -242,6 +242,7 @@
   "quran_translation_loading": "正在加载译文...",
   "quran_translation_unavailable": "译文不可用",
   "rakaat": "拜",
+  "rakaat_count_label": "{rakaat}拜",
   "rakaat_settings": "拜数计数器设置",
   "rawatib_after": "{prayer}后",
   "rawatib_badiyah": "后拉瓦提卜",
@@ -322,9 +323,11 @@
   "vibrate_subtitle": "达到设定的赞念次数时震动提示",
   "vibrate_target": "达到目标时震动",
   "witir": "维特尔拜",
+  "witir_choose_one_note": "请根据个人习惯从以下3个选项中只选择其中一个——而不是三个都做。",
   "witir_modal_title": "维特尔拜的举意与指南",
   "witir_note_one_rakaat": "只礼一拜。",
-  "witir_note_three_together": "直接礼三拜，只出一次赛俩目。",
+  "witir_note_three_together": "直接礼三拜，只出一次赛俩目，第二拜不坐着诵读初次作证词（这正是它与昏礼拜的区别所在）。",
   "witir_note_two_plus_one": "先礼拜两拜后出赛俩目，再接一拜（两次举意）。",
+  "witir_recommended_badge": "推荐",
   "your_area": "您所在地区"
 }

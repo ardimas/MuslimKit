@@ -242,6 +242,7 @@
   "quran_translation_loading": "Çeviri yükleniyor...",
   "quran_translation_unavailable": "Çeviri mevcut değil",
   "rakaat": "Rekat",
+  "rakaat_count_label": "{rakaat} Rekat",
   "rakaat_settings": "Rekat Sayacı Ayarları",
   "rawatib_after": "{prayer} Sonrası",
   "rawatib_badiyah": "Badiye",
@@ -322,9 +323,11 @@
   "vibrate_subtitle": "Hedef sayıya ulaşıldığında titre",
   "vibrate_target": "Hedefte Titreşim",
   "witir": "Vitir",
+  "witir_choose_one_note": "Aşağıdaki 3 seçenekten tercihinize göre SADECE BİRİNİ seçin — üçünü birden değil.",
   "witir_modal_title": "Vitir Namazı Niyeti ve Rehberi",
   "witir_note_one_rakaat": "Sadece 1 rekat kılınır.",
-  "witir_note_three_together": "3 rekat tek selamla kılınır.",
+  "witir_note_three_together": "3 rekat tek selamla, ikinci rekatta ilk teşehhüde oturmadan kılınır (bu, onu akşam namazından ayıran özelliktir).",
   "witir_note_two_plus_one": "2 rekat kılınıp selam verilir, ardından 1 rekat kılınır (2 ayrı niyet).",
+  "witir_recommended_badge": "Önerilen",
   "your_area": "bölgeniz"
 }

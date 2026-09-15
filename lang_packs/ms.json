@@ -242,6 +242,7 @@
   "quran_translation_loading": "Memuatkan terjemahan...",
   "quran_translation_unavailable": "Terjemahan tidak tersedia",
   "rakaat": "Rakaat",
+  "rakaat_count_label": "{rakaat} Rakaat",
   "rakaat_settings": "Tetapan Rakaat Counter",
   "rawatib_after": "Selepas {prayer}",
   "rawatib_badiyah": "Ba'diyah",
@@ -322,9 +323,11 @@
   "vibrate_subtitle": "Bergetar apabila cecah sasaran zikir",
   "vibrate_target": "Getar Pada Sasaran",
   "witir": "Witir",
+  "witir_choose_one_note": "Pilih HANYA SATU daripada 3 pilihan berikut mengikut kebiasaan anda — bukan ketiga-tiganya sekali gus.",
   "witir_modal_title": "Niat & Panduan Solat Witir",
   "witir_note_one_rakaat": "Dilakukan sebagai 1 rakaat sahaja.",
-  "witir_note_three_together": "Dilakukan sebagai 3 rakaat terus dengan satu salam.",
+  "witir_note_three_together": "Dilakukan sebagai 3 rakaat terus dengan satu salam, tanpa duduk tasyahud awal pada rakaat kedua (ini yang membezakannya daripada solat Maghrib).",
   "witir_note_two_plus_one": "Dilakukan sebagai 2 rakaat kemudian salam, diikuti 1 rakaat (2 niat berasingan).",
+  "witir_recommended_badge": "Disyorkan",
   "your_area": "kawasan anda"
 }

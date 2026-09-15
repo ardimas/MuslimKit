@@ -242,6 +242,7 @@
   "quran_translation_loading": "Cargando traducción...",
   "quran_translation_unavailable": "Traducción no disponible",
   "rakaat": "Rakaat",
+  "rakaat_count_label": "{rakaat} Rakaat",
   "rakaat_settings": "Ajustes de Rakaat Counter",
   "rawatib_after": "Después de {prayer}",
   "rawatib_badiyah": "Ba'diyah",
@@ -322,9 +323,11 @@
   "vibrate_subtitle": "Vibrar al alcanzar el número objetivo",
   "vibrate_target": "Vibrar en objetivo",
   "witir": "Witr",
+  "witir_choose_one_note": "Elige SOLO UNA de las siguientes 3 opciones según tu preferencia, no las tres a la vez.",
   "witir_modal_title": "Intención y guía de la oración Witr",
   "witir_note_one_rakaat": "Se realiza como un solo rakaat.",
-  "witir_note_three_together": "Se realiza como 3 rakaat directamente con un solo saludo.",
+  "witir_note_three_together": "Se realiza como 3 rakaat directamente con un solo saludo, sin sentarse para el primer tashahhud en el segundo rakaat (esto lo distingue de la oración del Magrib).",
   "witir_note_two_plus_one": "Se realiza como 2 rakaat con saludo final, seguido de 1 rakaat (2 intenciones separadas).",
+  "witir_recommended_badge": "Recomendado",
   "your_area": "tu región"
 }
