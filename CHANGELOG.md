@@ -1,49 +1,51 @@
-# Changelog / Catatan Perubahan
+# Changelog - MuslimKit
 
-All notable changes to the **MuslimKit** application will be documented in this file.  
-Format ini mengacu pada [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
+Semua perubahan penting pada rilis publik MuslimKit didokumentasikan di sini.
 
----
-
-## [Unreleased / Belum Dirilis]
-### 🇮🇩 Rencana / 🇬🇧 Planned
-- Integrasi audio Adhan.
-- Home screen widget support.
+Catatan: nomor versi di file ini **independen** dari nomor build internal repo pengembangan ([`rakaat_counter`](https://github.com/ardimas/rakaat_counter)). Versi di sini mencerminkan rilis publik yang sudah diuji & stabil — untuk riwayat pengembangan harian yang lebih granular, lihat CHANGELOG repo `rakaat_counter`.
 
 ---
 
-## [v1.0.0] - 2026-08-11
+## [1.0.0] - 2026-09
 
-### 🇮🇩 Bahasa Indonesia
-#### 🚀 Ditambahkan (Added)
-- Rilis perdana aplikasi **MuslimKit**.
-- Fitur **Rakaat Counter** menggunakan sensor jarak (*proximity sensor*) & hitungan manual.
-- Fitur **Jadwal Sholat** otomatis berdasarkan lokasi GPS.
-- Fitur **Kompas Kiblat** berakurasi tinggi.
-- Dukungan antarmuka bilingual (Bahasa Indonesia & English).
+### 🎉 Rilis Publik Pertama
 
-#### 🛠️ Diperbaiki (Fixed)
-- Memperbaiki kalkulasi offset waktu sholat untuk wilayah Indonesia Timur.
+MuslimKit hadir sebagai aplikasi pendamping ibadah Islami All-in-One, 100% on-device, dengan fitur:
 
-#### 📈 Ditingkatkan (Improved)
-- Optimasi konsumsi baterai saat mode penunjuk Kiblat aktif.
+#### 🕌 Jadwal Shalat & Shalat Sunnah
+- Perhitungan waktu shalat astronomis offline (8 metode kalkulasi + Auto-Detect)
+- Notifikasi per waktu shalat (Adzan/Standar/Senyap/Nonaktif)
+- Tampilan terkelompok Rawatib Mu'akkad & Witir (3 pilihan pelaksanaan)
+- Tambah shalat sunnah custom (Dhuha, Tahajud, Taubat, Hajat, Istikharah, atau custom) dengan niat, panduan rakaat, dan validasi waktu sesuai kaidah fiqih
+- Modal niat interaktif dengan pilihan peran (Sendiri/Makmum/Imam)
+
+#### 🎯 Rakaat Counter
+- Deteksi otomatis jumlah raka'at via Google ML Kit Pose Detection, 100% on-device
+
+#### 🧭 Kompas Kiblat
+- Penunjuk arah kiblat presisi berbasis sensor perangkat
+
+#### 📿 Tasbih Digital
+- Preset dzikir dengan target hitungan, progres independen per preset
+- Reset otomatis harian, indikator visual pencapaian target
+
+#### 📖 Al-Qur'an Digital
+- Teks Arab lengkap 114 surah + murottal audio per ayat
+- Terjemahan multi-bahasa, bookmark, pencarian, navigasi per Juz, highlight tajwid
+- Pengaturan pengulangan ayat & kecepatan playback
+
+#### 📅 Kalender Dual (Masehi & Hijriah)
+- Grid kalender dengan mode Masehi/Hijriah yang bisa ditukar
+- Koreksi offset Hijriah manual
+- Info otomatis puasa sunnah & terlarang, serta hari besar Islam
+- Reminder puasa sunnah (H-1 & Sahur) dengan waktu kustomisasi
+- Agenda personal (catatan & acara berjam + reminder), tampilan per hari/minggu/bulan
+
+#### 🌍 15 Bahasa
+Indonesia, English, العربية (dibundel di APK) + Français, Deutsch, Русский, Bahasa Melayu, Nederlands, اردو, Türkçe, Español, বাংলা, 中文, 日本語, 한국어 (via unduhan)
 
 ---
 
-### 🇬🇧 English
-#### 🚀 Added
-- Initial public release of **MuslimKit**.
-- **Rakaat Counter** utilizing proximity sensor & manual touch increments.
-- Automatic **Prayer Times** schedule based on GPS location coordinates.
-- High-precision **Qibla Compass**.
-- Bilingual UI support (Indonesian & English).
+## Riwayat Pengembangan
 
-#### 🛠️ Fixed
-- Fixed prayer time offset calculations for eastern time zones.
-
-#### 📈 Improved
-- Optimized battery consumption during active Qibla compass tracking.
-
----
-
-[v1.0.0]: https://github.com/ardimas/MuslimKit/releases/tag/v1.0.0
+Untuk detail teknis setiap perbaikan/fitur selama pengembangan (150+ iterasi internal), lihat [CHANGELOG.md repo rakaat_counter](https://github.com/ardimas/rakaat_counter/blob/main/CHANGELOG.md).

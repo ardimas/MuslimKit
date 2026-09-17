@@ -1,136 +1,100 @@
-<div align="center">
+# MuslimKit
 
-# 🌙 MuslimKit
+**All-in-One Islamic Companion App — 100% On-Device, 100% Offline**
 
-**Aplikasi Pendamping Ibadah Harian Muslim yang Ringan, Andal, dan Bebas Iklan.**  
-*A Lightweight, Reliable, and Ad-Free Daily Worship Companion for Muslims.*
-
-[![Latest Release](https://img.shields.io/github/v/release/ardimas/MuslimKit?color=008080&label=Latest%20Release&logo=github)](https://github.com/ardimas/MuslimKit/releases/latest)
-[![Android Version](https://img.shields.io/badge/Android-7.0%2B-3DDC84?logo=android&logoColor=white)](https://github.com/ardimas/MuslimKit/releases)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Hub Status](https://img.shields.io/badge/Hub-Distribution%20Only-orange)](#-tentang-repository-this-repository)
-
-[🌐 English](#-english) • [🇮🇩 Bahasa Indonesia](#-bahasa-indonesia) • [📥 Download APK](https://github.com/ardimas/MuslimKit/releases/latest)
+MuslimKit adalah aplikasi Android pendamping ibadah Islami yang menggabungkan kecerdasan buatan (AI) dengan panduan syar'i, semuanya berjalan sepenuhnya lokal di perangkat tanpa memerlukan koneksi internet (kecuali untuk fitur opsional seperti terjemahan ayat & unduhan paket bahasa).
 
 ---
 
-### 📷 Screenshots / Tampilan Aplikasi
-| Rakaat Counter | Jadwal Sholat | Arah Kiblat |
-| :---: | :---: | :---: |
-| ![Screenshot 1](https://via.placeholder.com/250x500?text=Rakaat+Counter) | ![Screenshot 2](https://via.placeholder.com/250x500?text=Prayer+Times) | ![Screenshot 3](https://via.placeholder.com/250x500?text=Qibla+Finder) |
+## ✨ Fitur Utama
 
-</div>
+### 🕌 Jadwal Shalat & Shalat Sunnah
+- Perhitungan waktu shalat astronomis offline (mendukung berbagai metode kalkulasi: MABIMS, Umm al-Qura, Mesir, Karachi, Turki, ISNA, MWL, dan Auto-Detect berdasarkan lokasi)
+- Notifikasi per waktu shalat dengan 4 pilihan (Adzan, Suara Standar, Senyap, Nonaktif)
+- **Rawatib & Witir**: tampilan terkelompok shalat sunnah Rawatib Mu'akkad (Qabliyah/Ba'diyah) di sekitar shalat Fardhu, dengan 3 pilihan pelaksanaan Witir
+- **Shalat Sunnah Custom**: tambahkan Dhuha, Tahajud, Taubat, Hajat, Istikharah (atau shalat/pengingat custom lainnya) lengkap dengan niat, panduan rakaat, dan **validasi waktu sesuai kaidah fiqih** (mis. Dhuha dikunci ke rentang terbit matahari s.d. menjelang Dzuhur; Tahajud ke rentang Isya s.d. Subuh; waktu-waktu terlarang shalat sunnah otomatis diblokir)
+- Modal niat interaktif dengan pilihan peran (Sendiri/Makmum/Imam) untuk shalat Fardhu
 
----
+### 🎯 Rakaat Counter (AI)
+- Deteksi otomatis jumlah raka'at menggunakan Google ML Kit Pose Detection — cukup letakkan HP, AI yang menghitung
+- Berjalan 100% on-device, tidak ada data yang dikirim ke server manapun
 
-## 📌 Tentang Repository / About This Repository
+### 🧭 Kompas Kiblat
+- Penunjuk arah kiblat presisi berbasis sensor magnetometer perangkat
 
-> [!NOTE]
-> **🇮🇩 Catatan:** Repository ini berfungsi khusus sebagai **Distribution Hub** untuk rilis aplikasi Android (APK), catatan perubahan (*changelog*), serta pusat pelaporan kendala (*issue/bug report*).  
-> **🇬🇧 Note:** This repository serves strictly as a **Distribution Hub** for Android application releases (APK), release notes (*changelog*), and issue/bug tracking.
+### 📿 Tasbih Digital
+- Preset dzikir (Tasbih, Tahmid, Takbir, Istighfar, Dzikir Setelah Shalat, dll.) dengan target hitungan
+- Progres tiap preset independen — pindah preset tidak menghapus progres yang sedang berjalan
+- Reset otomatis harian, dengan indikator visual preset yang sudah mencapai target
 
----
+### 📖 Al-Qur'an Digital
+- Teks Arab lengkap 114 surah dengan murottal audio per ayat
+- Terjemahan multi-bahasa (real-time via API untuk bahasa selain Indonesia)
+- Bookmark, pencarian surah/ayat, navigasi per Juz, mode highlight tajwid
+- Pengaturan pengulangan ayat (repeat per-ayat/rentang, kecepatan playback)
 
-<a name="-bahasa-indonesia"></a>
-## 🇮🇩 Bahasa Indonesia
+### 📅 Kalender Dual (Masehi & Hijriah)
+- Grid kalender dengan Masehi atau Hijriah sebagai tampilan utama (bisa ditukar), lengkap tanggal padanan di bawahnya
+- Koreksi offset Hijriah manual (-2 s.d. +2 hari) untuk menyesuaikan pengumuman resmi wilayah setempat
+- **Info Puasa Sunnah & Terlarang** otomatis: Ayyamul Bidh, Tasu'a, Asyura, 6 Hari Syawal, Arafah (dianjurkan) serta Idul Fitri, Idul Adha, Hari Tasyrik (terlarang)
+- **Hari Besar Islam**: Tahun Baru Islam, Maulid Nabi, Isra Mi'raj, Nisfu Sya'ban, Awal Ramadhan, Idul Fitri, Idul Adha
+- **Reminder Puasa Sunnah** otomatis (H-1 & Sahur) dengan waktu yang bisa dikustomisasi, plus deep-link notifikasi langsung ke tanggal terkait
+- **Agenda Personal**: catatan & acara (dengan jam + reminder otomatis 15/10/5 menit sebelum mulai), bisa dilihat per hari, minggu, atau bulan
 
-### ✨ Fitur Utama
-| Fitur | Deskripsi |
-| :--- | :--- |
-| 📿 **Hitung Rakaat (Rakaat Counter)** | Membantu menghitung jumlah rakaat sholat secara otomatis/manual menggunakan sensor perangkat. |
-| 🕌 **Jadwal Sholat Akurat** | Waktu sholat berdasarkan lokasi Anda dengan kalkulasi otomatis yang presisi. |
-| 🧭 **Arah Kiblat** | Kompas penunjuk arah Kiblat cepat dan akurat. |
-| 🔕 **Mode Khusyu / Hening** | Mengubah mode ponsel menjadi hening secara otomatis saat waktu sholat berlangsung. |
-| ⚡ **Ringan & Bebas Iklan** | Tanpa iklan yang mengganggu khusyuknya ibadah, efisien dalam penggunaan baterai. |
-
----
-
-### 📥 Cara Download & Instalasi (APK)
-
-1. **Unduh File APK:**
-   Buka halaman [GitHub Releases Latest](https://github.com/ardimas/MuslimKit/releases/latest) dan unduh file `MuslimKit-vX.Y.Z.apk`.
-2. **Izinkan Instalasi:**
-   Jika baru pertama kali memasang APK di luar Google Play Store, aktifkan opsi **"Izinkan Instalasi dari Sumber Tidak Dikenal"** *(Install Unknown Apps)* di pengaturan perangkat Android Anda.
-3. **Pasang Aplikasi:**
-   Buka file `.apk` yang telah diunduh lalu pilih **Install**.
-4. **Selesai:**
-   Aplikasi siap digunakan!
-
-> [!TIP]
-> Selalu pastikan Anda mengunduh APK resmi **hanya melalui repository ini** untuk menjamin keamanan perangkat Anda.
+### 🌍 Dukungan 15 Bahasa
+Indonesia, English, العربية, Français, Deutsch, Русский, Bahasa Melayu, Nederlands, اردو, Türkçe, Español, বাংলা, 中文, 日本語, 한국어 — dengan paket bahasa yang bisa diunduh terpisah agar ukuran APK tetap kecil.
 
 ---
 
-### 🐛 Pelaporan Bug & Saran Fitur
+## 🛠️ Tech Stack
 
-Punya ide fitur baru atau menemukan kendala teknis saat menggunakan aplikasi?
-- 🐞 **Laporkan Bug:** [Buat Laporan Bug Baru](https://github.com/ardimas/MuslimKit/issues/new?template=bug_report.md)
-- 💡 **Minta Fitur:** [Kirim Usulan Fitur Baru](https://github.com/ardimas/MuslimKit/issues/new?template=feature_request.md)
-
----
-
-### 🗺️ Rencana Pengembangan (Roadmap)
-- [x] Peluncuran versi rilis awal (Rakaat Counter + Jadwal Sholat)
-- [ [ Rilis kompas Kiblat berbasis sensor magnetik
-- [ ] Penambahan Widget Jadwal Sholat di Home Screen
-- [ ] Integrasi Notifikasi Adzan Suara
+- **Flutter** (Dart) — cross-platform UI framework
+- **Google ML Kit Pose Detection** — deteksi gerakan untuk Rakaat Counter
+- **adhan (Dart package)** — perhitungan waktu shalat astronomis
+- **flutter_local_notifications** — notifikasi terjadwal (shalat, dzikir, puasa, agenda)
+- **geolocator & geocoding** — lokasi & nama kota untuk perhitungan jadwal shalat
+- **flutter_compass** — sensor kompas untuk Kiblat
+- **api.alquran.cloud** — sumber terjemahan Al-Qur'an multi-bahasa (opsional, perlu internet)
 
 ---
 
-<a name="-english"></a>
-## 🇬🇧 English
+## 📦 Instalasi (dari Source)
 
-### ✨ Key Features
-| Feature | Description |
-| :--- | :--- |
-| 📿 **Rakaat Counter** | Helps count prayer units (*rakaat*) automatically or manually using device sensors. |
-| 🕌 **Accurate Prayer Times** | Precise prayer schedule calculated based on your current geographical location. |
-| 🧭 **Qibla Finder** | Fast, responsive, and accurate Qibla compass direction. |
-| 🔕 **Silent / Khusyu Mode** | Automatically mutes phone notifications during prayer times. |
-| ⚡ **Lightweight & Ad-Free** | Zero intrusive ads to preserve worship focus, optimized for minimal battery usage. |
+```bash
+git clone https://github.com/ardimas/rakaat_counter.git
+cd rakaat_counter
+flutter pub get
+flutter build apk --release
+```
 
----
-
-### 📥 Download & Installation Guide (APK)
-
-1. **Download the APK File:**
-   Visit the [GitHub Releases Latest](https://github.com/ardimas/MuslimKit/releases/latest) page and download `MuslimKit-vX.Y.Z.apk`.
-2. **Enable Installation Source:**
-   If installing an APK outside the Google Play Store for the first time, enable **"Install Unknown Apps"** in your Android Security Settings.
-3. **Install the Application:**
-   Open the downloaded `.apk` file and tap **Install**.
-4. **All Set:**
-   Launch the app and enjoy!
-
-> [!TIP]
-> Always verify that you are downloading the official APK **exclusively from this repository** for security and integrity.
+Untuk instalasi cepat tanpa build sendiri, unduh APK dari halaman **[Releases](https://github.com/ardimas/MuslimKit/releases)** repo ini.
 
 ---
 
-### 🐛 Issue Reporting & Feature Requests
+## 🔢 Skema Versi
 
-Found a bug or have an idea to improve the app?
-- 🐞 **Report a Bug:** [Submit a Bug Report](https://github.com/ardimas/MuslimKit/issues/new?template=bug_report.md)
-- 💡 **Request a Feature:** [Submit a Feature Request](https://github.com/ardimas/MuslimKit/issues/new?template=feature_request.md)
+Repo ini (**MuslimKit**, distribusi publik) menggunakan [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PATCH`) yang independen dari nomor build internal di repo pengembangan (`rakaat_counter`). Nomor versi di sini mencerminkan rilis publik yang sudah diuji & stabil, bukan tiap iterasi pengembangan harian.
 
----
+| Versi | Tanggal | Highlight |
+|---|---|---|
+| v1.0.0 | 2026-09 | Rilis publik pertama — Rakaat Counter AI, Jadwal Shalat + Rawatib/Witir/Shalat Sunnah Custom, Kiblat, Tasbih, Al-Qur'an, Kalender Dual + Agenda, 15 bahasa |
 
-### 🗺️ Roadmap
-- [x] Initial release deployment (Rakaat Counter + Prayer Times)
-- [ ] Qibla compass implementation via magnetic sensors
-- [ ] Home Screen Widget for daily Prayer Times
-- [ ] Audio Adhan notification integration
+Lihat [CHANGELOG.md](CHANGELOG.md) untuk rincian lengkap setiap rilis.
 
 ---
 
-## ⚠️ Disclaimer & Support
+## 🌐 Paket Bahasa
 
-**🇮🇩 Penolakan Tanggung Jawab:** Aplikasi ini disediakan secara gratis untuk mempermudah ibadah umat Muslim. Akurasi kompas dan jadwal sholat sangat bergantung pada sensor hardware serta izin lokasi pada perangkat Anda.
-
-**🇬🇧 Disclaimer:** This app is provided for free to assist Muslim daily worship. Compass and prayer time accuracy depend heavily on hardware sensor calibration and device location permissions.
+File paket bahasa (JSON) untuk 12 bahasa yang bisa diunduh terpisah ada di folder [`lang_packs/`](lang_packs/) repo ini. Aplikasi mengunduh paket ini otomatis saat pengguna memilih bahasa yang belum dibundel (Indonesia, English, dan Arabic sudah dibundel langsung di APK).
 
 ---
 
-<div align="center">
-Developed with ❤️ for the Global Ummah.
-</div>
+## 📄 Lisensi
+
+*(Isi sesuai lisensi yang kamu pilih — mis. MIT, GPL-3.0, atau proprietary/all-rights-reserved kalau belum open source penuh.)*
+
+---
+
+## 🤝 Kontribusi & Feedback
+
+Repo pengembangan aktif ada di [rakaat_counter](https://github.com/ardimas/rakaat_counter). Laporan bug atau saran fitur bisa dibuka lewat [Issues](../../issues) repo ini.
