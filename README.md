@@ -46,37 +46,18 @@ Indonesia, English, العربية, Français, Deutsch, Русский, Bahasa M
 
 ---
 
-## 🛠️ Tech Stack
+## 📲 Instalasi
 
-- **Flutter** (Dart) — cross-platform UI framework
-- **Google ML Kit Pose Detection** — deteksi gerakan untuk Rakaat Counter
-- **adhan (Dart package)** — perhitungan waktu shalat astronomis
-- **flutter_local_notifications** — notifikasi terjadwal (shalat, dzikir, puasa, agenda)
-- **geolocator & geocoding** — lokasi & nama kota untuk perhitungan jadwal shalat
-- **flutter_compass** — sensor kompas untuk Kiblat
-- **api.alquran.cloud** — sumber terjemahan Al-Qur'an multi-bahasa (opsional, perlu internet)
-
----
-
-## 📦 Instalasi (dari Source)
-
-```bash
-git clone https://github.com/ardimas/rakaat_counter.git
-cd rakaat_counter
-flutter pub get
-flutter build apk --release
-```
-
-Untuk instalasi cepat tanpa build sendiri, unduh APK dari halaman **[Releases](https://github.com/ardimas/MuslimKit/releases)** repo ini.
+Unduh APK langsung dari halaman **[Releases](https://github.com/ardimas/MuslimKit/releases)** repo ini — pilih rilis terbaru, unduh file `.apk` di bagian Assets, lalu instal di perangkat Android (aktifkan "Install from unknown sources" jika diminta).
 
 ---
 
 ## 🔢 Skema Versi
 
-Repo ini (**MuslimKit**, distribusi publik) menggunakan [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PATCH`) yang independen dari nomor build internal di repo pengembangan (`rakaat_counter`). Nomor versi di sini mencerminkan rilis publik yang sudah diuji & stabil, bukan tiap iterasi pengembangan harian.
+Versi mengikuti [Semantic Versioning](https://semver.org/) (`MAJOR.MINOR.PATCH`), mencerminkan rilis publik yang sudah diuji & stabil.
 
-| Versi | Tanggal | Highlight |
-|---|---|---|
+| Versi  | Tanggal | Highlight                                                                                                                                                  |
+| ------ | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | v1.0.0 | 2026-09 | Rilis publik pertama — Rakaat Counter AI, Jadwal Shalat + Rawatib/Witir/Shalat Sunnah Custom, Kiblat, Tasbih, Al-Qur'an, Kalender Dual + Agenda, 15 bahasa |
 
 Lihat [CHANGELOG.md](CHANGELOG.md) untuk rincian lengkap setiap rilis.
@@ -95,6 +76,6 @@ File paket bahasa (JSON) untuk 12 bahasa yang bisa diunduh terpisah ada di folde
 
 ---
 
-## 🤝 Kontribusi & Feedback
+## 🐞 Lapor Bug / Saran Fitur
 
-Repo pengembangan aktif ada di [rakaat_counter](https://github.com/ardimas/rakaat_counter). Laporan bug atau saran fitur bisa dibuka lewat [Issues](../../issues) repo ini.
+Semua laporan bug dan saran fitur silakan dibuka lewat **[Issues](../../issues/new/choose)** repo ini — pilih template yang sesuai (Bug Report / Feature Request) di [`.github/ISSUE_TEMPLATE`](.github/ISSUE_TEMPLATE).

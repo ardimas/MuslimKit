@@ -2,8 +2,6 @@
 
 Semua perubahan penting pada rilis publik MuslimKit didokumentasikan di sini.
 
-Catatan: nomor versi di file ini **independen** dari nomor build internal repo pengembangan ([`rakaat_counter`](https://github.com/ardimas/rakaat_counter)). Versi di sini mencerminkan rilis publik yang sudah diuji & stabil — untuk riwayat pengembangan harian yang lebih granular, lihat CHANGELOG repo `rakaat_counter`.
-
 ---
 
 ## [1.0.0] - 2026-09
@@ -43,9 +41,3 @@ MuslimKit hadir sebagai aplikasi pendamping ibadah Islami All-in-One, 100% on-de
 
 #### 🌍 15 Bahasa
 Indonesia, English, العربية (dibundel di APK) + Français, Deutsch, Русский, Bahasa Melayu, Nederlands, اردو, Türkçe, Español, বাংলা, 中文, 日本語, 한국어 (via unduhan)
-
----
-
-## Riwayat Pengembangan
-
-Untuk detail teknis setiap perbaikan/fitur selama pengembangan (150+ iterasi internal), lihat [CHANGELOG.md repo rakaat_counter](https://github.com/ardimas/rakaat_counter/blob/main/CHANGELOG.md).
