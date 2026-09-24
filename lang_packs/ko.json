@@ -279,7 +279,7 @@
   "preset_takbir": "타크비르",
   "preset_tasbih": "타스비흐",
   "preview_sound": "미리듣기",
-  "privacy_body": "100% 기기 내 AI 개인정보 보호 보장:\n\n1. AI 자세 추적 처리는 사용자의 휴대폰 메모리 내에서 로컬로 실행됩니다.\n2. 셀카 카메라의 영상/비디오는 저장, 녹화되거나 서버로 전송되지 않습니다.\n3. 위치 권한(GPS)은 오프라인 키블라 나침반 및 현지 예배 일정 계산에만 사용됩니다.\n4. 이 앱은 개인정보를 전혀 수집하지 않습니다. 이 앱은 배너 광고(Google AdMob)를 표시합니다. 전체 정책: https://ardimas.github.io/MuslimKit/privacy/",
+  "privacy_body": "100% 기기 내 AI 개인정보 보호 보장:\n\n1. AI 자세 추적 처리는 사용자의 휴대폰 메모리 내에서 로컬로 실행됩니다.\n2. 셀카 카메라의 영상/비디오는 저장, 녹화되거나 서버로 전송되지 않습니다.\n3. 위치 권한(GPS)은 오프라인 키블라 나침반 및 현지 예배 일정 계산에만 사용됩니다.\n4. 이 앱은 개인정보를 전혀 수집하지 않습니다. 이 앱은 배너 광고(Google AdMob)를 표시합니다. 전체 정책: https://muslimkit.org/privacy/",
   "privacy_desc": "모든 AI 처리는 사용자의 휴대폰에서 100% 로컬로 실행됩니다.",
   "privacy_policy": "개인정보 처리방침",
   "privacy_settings": "광고 개인정보 설정",
