@@ -226,7 +226,7 @@
   "movement_text": "动作文字提示",
   "nav_calendar": "日历",
   "nav_kiblat": "朝向",
-  "nav_prayer_times": "日程",
+  "nav_prayer_times": "礼拜",
   "nav_quran": "古兰经",
   "nav_rakaat": "拜数",
   "nav_settings": "设置",
@@ -504,5 +504,7 @@
   "report_ad_reason_other": "其他",
   "report_ad_thanks": "谢谢，您的举报已被记录",
   "report_ad_submit": "发送举报",
-  "report_ad_cancel": "取消"
+  "report_ad_cancel": "取消",
+  "qari_preview_hint": "选择前点击播放图标聆听简短样本。",
+  "qari_preview_sample": "播放样本"
 }

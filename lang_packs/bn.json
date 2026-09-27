@@ -226,7 +226,7 @@
   "movement_text": "গতির টেক্সট",
   "nav_calendar": "ক্যালেন্ডার",
   "nav_kiblat": "কিবলা",
-  "nav_prayer_times": "সময়সূচী",
+  "nav_prayer_times": "নামাজ",
   "nav_quran": "কুরআন",
   "nav_rakaat": "রাকাত",
   "nav_settings": "সেটিংস",
@@ -504,5 +504,7 @@
   "report_ad_reason_other": "অন্যান্য",
   "report_ad_thanks": "ধন্যবাদ, আপনার রিপোর্ট নথিভুক্ত করা হয়েছে",
   "report_ad_submit": "রিপোর্ট পাঠান",
-  "report_ad_cancel": "বাতিল"
+  "report_ad_cancel": "বাতিল",
+  "qari_preview_hint": "নির্বাচন করার আগে সংক্ষিপ্ত নমুনা শুনতে প্লে আইকনে ট্যাপ করুন।",
+  "qari_preview_sample": "নমুনা চালান"
 }

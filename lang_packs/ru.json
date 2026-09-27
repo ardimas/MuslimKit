@@ -226,7 +226,7 @@
   "movement_text": "Текст движений молитвы",
   "nav_calendar": "Календарь",
   "nav_kiblat": "Кибла",
-  "nav_prayer_times": "Расписание",
+  "nav_prayer_times": "Молитвы",
   "nav_quran": "Коран",
   "nav_rakaat": "Ракаат",
   "nav_settings": "Настройки",
@@ -504,5 +504,7 @@
   "report_ad_reason_other": "Другое",
   "report_ad_thanks": "Спасибо, ваша жалоба зарегистрирована",
   "report_ad_submit": "Отправить жалобу",
-  "report_ad_cancel": "Отмена"
+  "report_ad_cancel": "Отмена",
+  "qari_preview_hint": "Нажмите на значок воспроизведения, чтобы прослушать короткий образец перед выбором.",
+  "qari_preview_sample": "Воспроизвести образец"
 }

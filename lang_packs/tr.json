@@ -226,7 +226,7 @@
   "movement_text": "Hareket Metni",
   "nav_calendar": "Takvim",
   "nav_kiblat": "Kıble",
-  "nav_prayer_times": "Program",
+  "nav_prayer_times": "Namaz",
   "nav_quran": "Kur'an",
   "nav_rakaat": "Rekat",
   "nav_settings": "Ayarlar",
@@ -504,5 +504,7 @@
   "report_ad_reason_other": "Diğer",
   "report_ad_thanks": "Teşekkürler, bildiriminiz kaydedildi",
   "report_ad_submit": "Bildirimi Gönder",
-  "report_ad_cancel": "İptal"
+  "report_ad_cancel": "İptal",
+  "qari_preview_hint": "Seçmeden önce kısa bir örnek dinlemek için oynat simgesine dokunun.",
+  "qari_preview_sample": "Örneği oynat"
 }

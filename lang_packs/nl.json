@@ -226,7 +226,7 @@
   "movement_text": "Bewegingstekst",
   "nav_calendar": "Kalender",
   "nav_kiblat": "Qibla",
-  "nav_prayer_times": "Schema",
+  "nav_prayer_times": "Gebeden",
   "nav_quran": "Koran",
   "nav_rakaat": "Rakaat",
   "nav_settings": "Instellingen",
@@ -504,5 +504,7 @@
   "report_ad_reason_other": "Anders",
   "report_ad_thanks": "Bedankt, je melding is genoteerd",
   "report_ad_submit": "Melding versturen",
-  "report_ad_cancel": "Annuleren"
+  "report_ad_cancel": "Annuleren",
+  "qari_preview_hint": "Tik op het afspeelpictogram om een kort voorbeeld te horen voordat je kiest.",
+  "qari_preview_sample": "Voorbeeld afspelen"
 }

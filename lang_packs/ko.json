@@ -226,7 +226,7 @@
   "movement_text": "예배 동작 텍스트",
   "nav_calendar": "달력",
   "nav_kiblat": "키블라",
-  "nav_prayer_times": "일정",
+  "nav_prayer_times": "예배",
   "nav_quran": "꾸란",
   "nav_rakaat": "라카트",
   "nav_settings": "설정",
@@ -504,5 +504,7 @@
   "report_ad_reason_other": "기타",
   "report_ad_thanks": "감사합니다, 신고가 접수되었습니다",
   "report_ad_submit": "신고 보내기",
-  "report_ad_cancel": "취소"
+  "report_ad_cancel": "취소",
+  "qari_preview_hint": "선택하기 전에 재생 아이콘을 눌러 짧은 샘플을 들어보세요.",
+  "qari_preview_sample": "샘플 재생"
 }

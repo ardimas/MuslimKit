@@ -226,7 +226,7 @@
   "movement_text": "Teks Gerakan Solat",
   "nav_calendar": "Kalendar",
   "nav_kiblat": "Kiblat",
-  "nav_prayer_times": "Jadual",
+  "nav_prayer_times": "Solat",
   "nav_quran": "Al-Quran",
   "nav_rakaat": "Rakaat",
   "nav_settings": "Tetapan",
@@ -504,5 +504,7 @@
   "report_ad_reason_other": "Lain-lain",
   "report_ad_thanks": "Terima kasih, laporan anda telah dicatat",
   "report_ad_submit": "Hantar Laporan",
-  "report_ad_cancel": "Batal"
+  "report_ad_cancel": "Batal",
+  "qari_preview_hint": "Ketik ikon main untuk dengar contoh ringkas sebelum memilih.",
+  "qari_preview_sample": "Main contoh"
 }

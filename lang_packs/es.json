@@ -226,7 +226,7 @@
   "movement_text": "Texto de movimiento",
   "nav_calendar": "Calendario",
   "nav_kiblat": "Qibla",
-  "nav_prayer_times": "Horario",
+  "nav_prayer_times": "Oraciones",
   "nav_quran": "Corán",
   "nav_rakaat": "Rakaat",
   "nav_settings": "Ajustes",
@@ -504,5 +504,7 @@
   "report_ad_reason_other": "Otro",
   "report_ad_thanks": "Gracias, tu reporte ha sido registrado",
   "report_ad_submit": "Enviar reporte",
-  "report_ad_cancel": "Cancelar"
+  "report_ad_cancel": "Cancelar",
+  "qari_preview_hint": "Toca el ícono de reproducción para escuchar una muestra corta antes de elegir.",
+  "qari_preview_sample": "Reproducir muestra"
 }
