@@ -332,7 +332,7 @@
   "quran_search_no_results": "Keine Suchergebnisse gefunden.",
   "quran_search_results_verses": "ERGEBNISSE IN VERSÜBERSETZUNGEN",
   "quran_show_latin": "Lateinische Transliteration anzeigen",
-  "quran_show_latin_desc": "Lateinische Transliteration der Verse (nur für Indonesisch & Malaiisch verfügbar)",
+  "quran_show_latin_desc": "Lateinische Transliteration der Verse (verfügbar für alle Sprachen außer Arabisch)",
   "quran_show_translation": "Versübersetzung anzeigen",
   "quran_show_translation_desc": "Bedeutung/Übersetzung des Verses unter dem arabischen Text",
   "quran_surah_number_prefix": "Sure ",
@@ -470,5 +470,13 @@
   "witir_note_two_plus_one": "Als 2 Rakaat mit Salam, gefolgt von 1 Rakaat (2 separate Absichten) ausgeführt.",
   "witir_performed_last_badge": "Zuletzt ausgeführt",
   "witir_recommended_badge": "Empfohlen",
-  "your_area": "Ihre Region"
+  "your_area": "Ihre Region",
+  "quran_qari_picker_title": "Rezitator (Qari)",
+  "other_features": "Weitere Funktionen",
+  "menu_asma_ul_husna": "Asma-ul-Husna",
+  "menu_asma_ul_husna_desc": "Die 99 schönen Namen Allahs, mit Bedeutungen",
+  "asma_ul_husna_title": "Asma-ul-Husna",
+  "asma_ul_husna_name_of_day": "Name des Tages",
+  "asma_ul_husna_bookmarked_only": "Nur gespeicherte anzeigen",
+  "asma_ul_husna_no_bookmarks": "Noch keine gespeicherten Namen"
 }

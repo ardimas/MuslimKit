@@ -332,7 +332,7 @@
   "quran_search_no_results": "Arama sonucu bulunamadı.",
   "quran_search_results_verses": "AYET ÇEVİRİLERİNDE SONUÇLAR",
   "quran_show_latin": "Latin Harf Çevirisini Göster",
-  "quran_show_latin_desc": "Ayetlerin Latin harf çevirisi (yalnızca Endonezce ve Malayca için mevcuttur)",
+  "quran_show_latin_desc": "Ayetlerin Latin harfleriyle okunuşu (Arapça hariç tüm dillerde kullanılabilir)",
   "quran_show_translation": "Ayet Çevirisini Göster",
   "quran_show_translation_desc": "Arapça metnin altında ayetin anlamı/çevirisi",
   "quran_surah_number_prefix": "Sure ",
@@ -470,5 +470,13 @@
   "witir_note_two_plus_one": "2 rekat kılınıp selam verilir, ardından 1 rekat kılınır (2 ayrı niyet).",
   "witir_performed_last_badge": "En son kılınır",
   "witir_recommended_badge": "Önerilen",
-  "your_area": "bölgeniz"
+  "your_area": "bölgeniz",
+  "quran_qari_picker_title": "Kâri (Okuyucu)",
+  "other_features": "Diğer Özellikler",
+  "menu_asma_ul_husna": "Esma-ül Hüsna",
+  "menu_asma_ul_husna_desc": "Allah'ın 99 güzel ismi ve anlamları",
+  "asma_ul_husna_title": "Esma-ül Hüsna",
+  "asma_ul_husna_name_of_day": "Günün İsmi",
+  "asma_ul_husna_bookmarked_only": "Sadece favorileri göster",
+  "asma_ul_husna_no_bookmarks": "Henüz favori isim yok"
 }

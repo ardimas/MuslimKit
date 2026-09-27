@@ -332,7 +332,7 @@
   "quran_search_no_results": "未找到搜索结果。",
   "quran_search_results_verses": "经文译文中的结果",
   "quran_show_latin": "显示拉丁文转写",
-  "quran_show_latin_desc": "经文的拉丁文转写（仅印尼语和马来语提供）",
+  "quran_show_latin_desc": "经文的拉丁字母转写（除阿拉伯语外的所有语言均可使用）",
   "quran_show_translation": "显示经文译文",
   "quran_show_translation_desc": "阿拉伯文下方显示经文含义/译文",
   "quran_surah_number_prefix": "第",
@@ -470,5 +470,13 @@
   "witir_note_two_plus_one": "先礼拜两拜后出赛俩目，再接一拜（两次举意）。",
   "witir_performed_last_badge": "最后进行",
   "witir_recommended_badge": "推荐",
-  "your_area": "您所在地区"
+  "your_area": "您所在地区",
+  "quran_qari_picker_title": "诵读者（卡里）",
+  "other_features": "其他功能",
+  "menu_asma_ul_husna": "真主的99个尊名",
+  "menu_asma_ul_husna_desc": "真主的99个美名及其含义",
+  "asma_ul_husna_title": "真主的99个尊名",
+  "asma_ul_husna_name_of_day": "今日尊名",
+  "asma_ul_husna_bookmarked_only": "仅显示收藏",
+  "asma_ul_husna_no_bookmarks": "尚无收藏的名字"
 }

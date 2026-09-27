@@ -332,7 +332,7 @@
   "quran_search_no_results": "کوئی نتیجہ نہیں ملا۔",
   "quran_search_results_verses": "آیت کے ترجمے میں نتائج",
   "quran_show_latin": "لاطینی رسم الخط دکھائیں",
-  "quran_show_latin_desc": "آیات کی لاطینی رسم الخط (صرف انڈونیشیائی اور ملائی کے لیے دستیاب ہے)",
+  "quran_show_latin_desc": "آیات کا لاطینی تلفظ (عربی کے علاوہ تمام زبانوں میں دستیاب)",
   "quran_show_translation": "آیت کا ترجمہ دکھائیں",
   "quran_show_translation_desc": "عربی متن کے نیچے آیت کا مفہوم/ترجمہ",
   "quran_surah_number_prefix": "سورت ",
@@ -470,5 +470,13 @@
   "witir_note_two_plus_one": "2 رکعت ادا کر کے سلام پھیرا جاتا ہے، پھر 1 رکعت (2 الگ نیتیں)۔",
   "witir_performed_last_badge": "آخر میں ادا کی جاتی ہے",
   "witir_recommended_badge": "تجویز کردہ",
-  "your_area": "آپ کا علاقہ"
+  "your_area": "آپ کا علاقہ",
+  "quran_qari_picker_title": "قاری",
+  "other_features": "دیگر خصوصیات",
+  "menu_asma_ul_husna": "اسماء الحسنیٰ",
+  "menu_asma_ul_husna_desc": "اللہ کے 99 خوبصورت نام، معانی کے ساتھ",
+  "asma_ul_husna_title": "اسماء الحسنیٰ",
+  "asma_ul_husna_name_of_day": "آج کا نام",
+  "asma_ul_husna_bookmarked_only": "صرف محفوظ شدہ دکھائیں",
+  "asma_ul_husna_no_bookmarks": "ابھی تک کوئی نام محفوظ نہیں کیا گیا"
 }

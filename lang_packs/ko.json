@@ -332,7 +332,7 @@
   "quran_search_no_results": "검색 결과가 없습니다.",
   "quran_search_results_verses": "구절 번역 검색 결과",
   "quran_show_latin": "라틴 문자 표기 표시",
-  "quran_show_latin_desc": "구절의 라틴 문자 표기 (인도네시아어 및 말레이어에서만 사용 가능)",
+  "quran_show_latin_desc": "구절의 라틴어 음역 (아랍어를 제외한 모든 언어에서 사용 가능)",
   "quran_show_translation": "구절 번역 표시",
   "quran_show_translation_desc": "아랍어 텍스트 아래 구절의 의미/번역",
   "quran_surah_number_prefix": "수라 ",
@@ -470,5 +470,13 @@
   "witir_note_two_plus_one": "2라카트 후 살람하고 이어서 1라카트 (2개의 별도 니야)를 행합니다.",
   "witir_performed_last_badge": "마지막으로 수행됨",
   "witir_recommended_badge": "추천",
-  "your_area": "지역"
+  "your_area": "지역",
+  "quran_qari_picker_title": "낭송자 (카리)",
+  "other_features": "기타 기능",
+  "menu_asma_ul_husna": "아스마 울 후스나",
+  "menu_asma_ul_husna_desc": "알라의 99가지 아름다운 이름과 그 의미",
+  "asma_ul_husna_title": "아스마 울 후스나",
+  "asma_ul_husna_name_of_day": "오늘의 이름",
+  "asma_ul_husna_bookmarked_only": "북마크만 표시",
+  "asma_ul_husna_no_bookmarks": "북마크된 이름이 아직 없습니다"
 }

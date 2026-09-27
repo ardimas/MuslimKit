@@ -332,7 +332,7 @@
   "quran_search_no_results": "Tiada hasil carian dijumpai.",
   "quran_search_results_verses": "HASIL DALAM TERJEMAHAN AYAT",
   "quran_show_latin": "Tunjukkan Tulisan Latin",
-  "quran_show_latin_desc": "Transliterasi latin ayat (hanya tersedia untuk Bahasa Indonesia & Melayu)",
+  "quran_show_latin_desc": "Transliterasi latin ayat (tersedia untuk semua bahasa kecuali Arab)",
   "quran_show_translation": "Tunjukkan Arti Ayat",
   "quran_show_translation_desc": "Arti/terjemahan ayat di bawah teks Arab",
   "quran_surah_number_prefix": "Surah ke-",
@@ -470,5 +470,13 @@
   "witir_note_two_plus_one": "Dilakukan sebagai 2 rakaat kemudian salam, diikuti 1 rakaat (2 niat berasingan).",
   "witir_performed_last_badge": "Dilakukan terakhir",
   "witir_recommended_badge": "Disyorkan",
-  "your_area": "kawasan anda"
+  "your_area": "kawasan anda",
+  "quran_qari_picker_title": "Qari (Pembaca Al-Quran)",
+  "other_features": "Ciri Lain",
+  "menu_asma_ul_husna": "Asma-ul-Husna",
+  "menu_asma_ul_husna_desc": "99 Nama Baik Allah, berserta maksudnya",
+  "asma_ul_husna_title": "Asma-ul-Husna",
+  "asma_ul_husna_name_of_day": "Nama Hari Ini",
+  "asma_ul_husna_bookmarked_only": "Tunjukkan tanda buku sahaja",
+  "asma_ul_husna_no_bookmarks": "Belum ada nama ditanda buku"
 }

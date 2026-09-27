@@ -332,7 +332,7 @@
   "quran_search_no_results": "検索結果が見つかりません。",
   "quran_search_results_verses": "節の翻訳内の結果",
   "quran_show_latin": "ラテン文字転写を表示",
-  "quran_show_latin_desc": "節のラテン文字転写（インドネシア語とマレー語のみ利用可能）",
+  "quran_show_latin_desc": "各節のラテン文字表記（アラビア語以外のすべての言語で利用可能）",
   "quran_show_translation": "節の翻訳を表示",
   "quran_show_translation_desc": "アラビア語テキストの下に節の意味・翻訳",
   "quran_surah_number_prefix": "スーラ",
@@ -470,5 +470,13 @@
   "witir_note_two_plus_one": "2ラカートしてサラームした後、1ラカート行う（2つの別々の意図）。",
   "witir_performed_last_badge": "最後に行う",
   "witir_recommended_badge": "おすすめ",
-  "your_area": "お住まいの地域"
+  "your_area": "お住まいの地域",
+  "quran_qari_picker_title": "朗誦者（カーリー）",
+  "other_features": "その他の機能",
+  "menu_asma_ul_husna": "アスマー・ウル・フスナー",
+  "menu_asma_ul_husna_desc": "アッラーの99の美しい御名とその意味",
+  "asma_ul_husna_title": "アスマー・ウル・フスナー",
+  "asma_ul_husna_name_of_day": "今日の御名",
+  "asma_ul_husna_bookmarked_only": "ブックマークのみ表示",
+  "asma_ul_husna_no_bookmarks": "ブックマークした名前はまだありません"
 }

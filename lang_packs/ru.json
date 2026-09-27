@@ -332,7 +332,7 @@
   "quran_search_no_results": "Результаты не найдены.",
   "quran_search_results_verses": "РЕЗУЛЬТАТЫ В ПЕРЕВОДАХ АЯТОВ",
   "quran_show_latin": "Показать латинскую транслитерацию",
-  "quran_show_latin_desc": "Латинская транслитерация аятов (доступна только для индонезийского и малайского)",
+  "quran_show_latin_desc": "Латинская транслитерация аятов (доступна для всех языков, кроме арабского)",
   "quran_show_translation": "Показать перевод аята",
   "quran_show_translation_desc": "Значение/перевод аята под арабским текстом",
   "quran_surah_number_prefix": "Сура ",
@@ -470,5 +470,13 @@
   "witir_note_two_plus_one": "Выполняется как 2 ракаата с приветствием, затем 1 ракаат (2 отдельных намерения).",
   "witir_performed_last_badge": "Выполняется последним",
   "witir_recommended_badge": "Рекомендуется",
-  "your_area": "вашем регионе"
+  "your_area": "вашем регионе",
+  "quran_qari_picker_title": "Чтец (Кари)",
+  "other_features": "Другие функции",
+  "menu_asma_ul_husna": "Асма-уль-Хусна",
+  "menu_asma_ul_husna_desc": "99 прекрасных имён Аллаха с их значениями",
+  "asma_ul_husna_title": "Асма-уль-Хусна",
+  "asma_ul_husna_name_of_day": "Имя дня",
+  "asma_ul_husna_bookmarked_only": "Показать только избранные",
+  "asma_ul_husna_no_bookmarks": "Пока нет избранных имён"
 }

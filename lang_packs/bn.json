@@ -332,7 +332,7 @@
   "quran_search_no_results": "কোনো ফলাফল পাওয়া যায়নি।",
   "quran_search_results_verses": "আয়াতের অনুবাদে ফলাফল",
   "quran_show_latin": "ল্যাটিন প্রতিবর্ণীকরণ দেখান",
-  "quran_show_latin_desc": "আয়াতের ল্যাটিন প্রতিবর্ণীকরণ (শুধুমাত্র ইন্দোনেশিয়ান ও মালয় ভাষায় উপলব্ধ)",
+  "quran_show_latin_desc": "আয়াতের ল্যাটিন প্রতিবর্ণীকরণ (আরবি ছাড়া সব ভাষার জন্য উপলব্ধ)",
   "quran_show_translation": "আয়াতের অনুবাদ দেখান",
   "quran_show_translation_desc": "আরবি পাঠ্যের নিচে আয়াতের অর্থ/অনুবাদ",
   "quran_surah_number_prefix": "সূরা ",
@@ -470,5 +470,13 @@
   "witir_note_two_plus_one": "২ রাকাত সালাম ফিরিয়ে, এরপর ১ রাকাত (২টি পৃথক নিয়ত) আদায় করা হয়।",
   "witir_performed_last_badge": "সর্বশেষে আদায় করা হয়",
   "witir_recommended_badge": "প্রস্তাবিত",
-  "your_area": "আপনার অঞ্চল"
+  "your_area": "আপনার অঞ্চল",
+  "quran_qari_picker_title": "ক্বারী (তিলাওয়াতকারী)",
+  "other_features": "অন্যান্য বৈশিষ্ট্য",
+  "menu_asma_ul_husna": "আসমাউল হুসনা",
+  "menu_asma_ul_husna_desc": "আল্লাহর ৯৯টি সুন্দর নাম, অর্থসহ",
+  "asma_ul_husna_title": "আসমাউল হুসনা",
+  "asma_ul_husna_name_of_day": "আজকের নাম",
+  "asma_ul_husna_bookmarked_only": "শুধু বুকমার্ক করা দেখান",
+  "asma_ul_husna_no_bookmarks": "এখনও কোনো নাম বুকমার্ক করা হয়নি"
 }
