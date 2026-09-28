@@ -111,7 +111,7 @@
   "fasting_reminder_sahur_body": "Toma tu comida de sahur ahora, la hora del imsak se acerca.",
   "fasting_reminder_sahur_time_label": "Hora del recordatorio de Sahur",
   "fasting_reminder_sahur_title": "Hora del Sahur — {name}",
-  "fasting_reminder_settings_desc": "Enviar notificaciones H-1 (la noche anterior) y de Sahur para los días de ayuno Sunnah (Ayyamul Bidh, lunes-jueves, etc).",
+  "fasting_reminder_settings_desc": "Enviar notificaciones H-1 (la noche anterior) y de Sahur para los días de ayuno Sunnah (Ayyamul Bidh, etc).",
   "fasting_reminder_settings_title": "Recordatorio de ayuno Sunnah",
   "fasting_syawal6": "Ayuno de 6 días de Shawwal",
   "fasting_syawal6_note": "Sunnah — se puede realizar en cualquier momento dentro de este período, no necesariamente consecutivo.",
@@ -506,5 +506,15 @@
   "agenda_repeat_none": "No se repite",
   "agenda_repeat_active": "Se repite semanalmente",
   "agenda_repeat_delete_title": "¿Eliminar evento recurrente?",
-  "agenda_repeat_delete_body": "Esto eliminará todas las repeticiones de este evento recurrente, no solo esta."
+  "agenda_repeat_delete_body": "Esto eliminará todas las repeticiones de este evento recurrente, no solo esta.",
+  "fasting_reminder_senin_kamis_title": "Ayuno de lunes y jueves",
+  "fasting_reminder_senin_kamis_desc": "Envía también recordatorios H-1 y de Sahur para el ayuno sunnah de los lunes y jueves.",
+  "fasting_senin_kamis_label": "Ayuno sunnah de lunes y jueves",
+  "agenda_repeat_type_none": "No se repite",
+  "agenda_repeat_type_weekly": "Semanalmente",
+  "agenda_repeat_type_monthly": "Mensualmente",
+  "agenda_repeat_monthly_desc": "Se repite cada mes el día {day}.",
+  "agenda_repeat_active_monthly": "Se repite mensualmente",
+  "agenda_reminder_label": "Recordarme",
+  "agenda_reminder_minutes_before": "{minutes} min antes"
 }

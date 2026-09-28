@@ -111,7 +111,7 @@
   "fasting_reminder_sahur_body": "Neem nu uw sahur-maaltijd, de imsaktijd nadert.",
   "fasting_reminder_sahur_time_label": "Sahur-herinneringstijd",
   "fasting_reminder_sahur_title": "Tijd voor Sahur — {name}",
-  "fasting_reminder_settings_desc": "Stuur H-1 (avond ervoor) en Sahur-meldingen voor sunnah-vastendagen (Ayyamul Bidh, ma-do, enz).",
+  "fasting_reminder_settings_desc": "Stuur H-1 (avond ervoor) en Sahur-meldingen voor sunnah-vastendagen (Ayyamul Bidh, enz).",
   "fasting_reminder_settings_title": "Sunnah-vastenherinnering",
   "fasting_syawal6": "6 dagen Shawwal-vasten",
   "fasting_syawal6_note": "Sunnah — mag op elk moment binnen deze periode, niet per se opeenvolgend.",
@@ -506,5 +506,15 @@
   "agenda_repeat_none": "Herhaalt niet",
   "agenda_repeat_active": "Herhaalt wekelijks",
   "agenda_repeat_delete_title": "Terugkerende gebeurtenis verwijderen?",
-  "agenda_repeat_delete_body": "Dit verwijdert alle herhalingen van deze terugkerende gebeurtenis, niet alleen deze."
+  "agenda_repeat_delete_body": "Dit verwijdert alle herhalingen van deze terugkerende gebeurtenis, niet alleen deze.",
+  "fasting_reminder_senin_kamis_title": "Maandag-donderdag vasten",
+  "fasting_reminder_senin_kamis_desc": "Stuur ook H-1- en Sahur-herinneringen voor het sunnah-vasten op maandag en donderdag.",
+  "fasting_senin_kamis_label": "Maandag-donderdag sunnah-vasten",
+  "agenda_repeat_type_none": "Herhaalt niet",
+  "agenda_repeat_type_weekly": "Wekelijks",
+  "agenda_repeat_type_monthly": "Maandelijks",
+  "agenda_repeat_monthly_desc": "Herhaalt elke maand op dag {day}.",
+  "agenda_repeat_active_monthly": "Herhaalt maandelijks",
+  "agenda_reminder_label": "Herinner mij",
+  "agenda_reminder_minutes_before": "{minutes} min. van tevoren"
 }

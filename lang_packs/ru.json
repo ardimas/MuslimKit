@@ -111,7 +111,7 @@
   "fasting_reminder_sahur_body": "Поешьте сухур сейчас, время имсак приближается.",
   "fasting_reminder_sahur_time_label": "Время напоминания о Сухуре",
   "fasting_reminder_sahur_title": "Время Сухура — {name}",
-  "fasting_reminder_settings_desc": "Отправлять уведомления за день (вечером) и на Сухур для дней сунна-поста (Айям аль-Бид, пн-чт и т.д.).",
+  "fasting_reminder_settings_desc": "Отправлять уведомления за день (вечером) и на Сухур для дней сунна-поста (Айям аль-Бид и т.д.).",
   "fasting_reminder_settings_title": "Напоминание о сунна-посте",
   "fasting_syawal6": "Пост 6 дней Шавваля",
   "fasting_syawal6_note": "Сунна — можно выполнять в любое время в этот период, не обязательно подряд.",
@@ -506,5 +506,15 @@
   "agenda_repeat_none": "Не повторяется",
   "agenda_repeat_active": "Повторяется еженедельно",
   "agenda_repeat_delete_title": "Удалить повторяющееся событие?",
-  "agenda_repeat_delete_body": "Это удалит все повторения этого события, а не только текущее."
+  "agenda_repeat_delete_body": "Это удалит все повторения этого события, а не только текущее.",
+  "fasting_reminder_senin_kamis_title": "Пост по понедельникам и четвергам",
+  "fasting_reminder_senin_kamis_desc": "Также отправлять напоминания за день и на Сухур для сунна-поста по понедельникам и четвергам.",
+  "fasting_senin_kamis_label": "Сунна-пост по понедельникам и четвергам",
+  "agenda_repeat_type_none": "Не повторяется",
+  "agenda_repeat_type_weekly": "Еженедельно",
+  "agenda_repeat_type_monthly": "Ежемесячно",
+  "agenda_repeat_monthly_desc": "Повторяется каждый месяц {day} числа.",
+  "agenda_repeat_active_monthly": "Повторяется ежемесячно",
+  "agenda_reminder_label": "Напомнить мне",
+  "agenda_reminder_minutes_before": "За {minutes} мин."
 }

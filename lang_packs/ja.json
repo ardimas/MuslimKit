@@ -111,7 +111,7 @@
   "fasting_reminder_sahur_body": "今すぐサフールを取ってください、イムサークの時間が近づいています。",
   "fasting_reminder_sahur_time_label": "サフールリマインダー時刻",
   "fasting_reminder_sahur_title": "サフール（食事）の時間 — {name}",
-  "fasting_reminder_settings_desc": "スンナ断食日（アイヤーム・ビード、月・木曜日など）にH-1（前夜）とサフールの通知を送信します。",
+  "fasting_reminder_settings_desc": "スンナ断食日（アイヤーム・ビードなど）にH-1（前夜）とサフールの通知を送信します。",
   "fasting_reminder_settings_title": "スンナ断食リマインダー",
   "fasting_syawal6": "シャウワール月6日間断食",
   "fasting_syawal6_note": "スンナ——この期間内であればいつでもよく、連続している必要はない。",
@@ -506,5 +506,15 @@
   "agenda_repeat_none": "繰り返さない",
   "agenda_repeat_active": "毎週繰り返す",
   "agenda_repeat_delete_title": "繰り返しの予定を削除しますか?",
-  "agenda_repeat_delete_body": "この操作でこの繰り返し予定のすべての回が削除されます。今回分だけではありません。"
+  "agenda_repeat_delete_body": "この操作でこの繰り返し予定のすべての回が削除されます。今回分だけではありません。",
+  "fasting_reminder_senin_kamis_title": "月曜・木曜の断食",
+  "fasting_reminder_senin_kamis_desc": "月曜日と木曜日のスンナ断食についても、H-1とサフールのリマインダーを送信します。",
+  "fasting_senin_kamis_label": "月曜・木曜のスンナ断食",
+  "agenda_repeat_type_none": "繰り返さない",
+  "agenda_repeat_type_weekly": "毎週",
+  "agenda_repeat_type_monthly": "毎月",
+  "agenda_repeat_monthly_desc": "毎月{day}日に繰り返します。",
+  "agenda_repeat_active_monthly": "毎月繰り返す",
+  "agenda_reminder_label": "リマインドする",
+  "agenda_reminder_minutes_before": "{minutes}分前"
 }

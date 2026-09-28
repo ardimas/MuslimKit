@@ -111,7 +111,7 @@
   "fasting_reminder_sahur_body": "Şimdi sahur yapın, imsak vakti yaklaşıyor.",
   "fasting_reminder_sahur_time_label": "Sahur Hatırlatma Saati",
   "fasting_reminder_sahur_title": "Sahur Vakti — {name}",
-  "fasting_reminder_settings_desc": "Sünnet oruç günleri (Eyyam-ı Biyd, Pazartesi-Perşembe vb.) için bir gün öncesinden (akşam) ve sahur bildirimleri gönder.",
+  "fasting_reminder_settings_desc": "Sünnet oruç günleri (Eyyam-ı Biyd vb.) için bir gün öncesinden (akşam) ve sahur bildirimleri gönder.",
   "fasting_reminder_settings_title": "Sünnet Oruç Hatırlatıcısı",
   "fasting_syawal6": "Şevval Ayında 6 Gün Oruç",
   "fasting_syawal6_note": "Sünnet — bu süre içinde istenilen zamanda, ardışık olması şart olmadan tutulabilir.",
@@ -506,5 +506,15 @@
   "agenda_repeat_none": "Tekrarlanmıyor",
   "agenda_repeat_active": "Her hafta tekrarlanır",
   "agenda_repeat_delete_title": "Tekrarlanan etkinlik silinsin mi?",
-  "agenda_repeat_delete_body": "Bu, yalnızca bunu değil, bu tekrarlanan etkinliğin tüm tekrarlarını silecektir."
+  "agenda_repeat_delete_body": "Bu, yalnızca bunu değil, bu tekrarlanan etkinliğin tüm tekrarlarını silecektir.",
+  "fasting_reminder_senin_kamis_title": "Pazartesi-Perşembe Orucu",
+  "fasting_reminder_senin_kamis_desc": "Pazartesi ve Perşembe sünnet orucu için de bir gün önceden ve sahur hatırlatmaları gönder.",
+  "fasting_senin_kamis_label": "Pazartesi-Perşembe Sünnet Orucu",
+  "agenda_repeat_type_none": "Tekrarlanmıyor",
+  "agenda_repeat_type_weekly": "Haftalık",
+  "agenda_repeat_type_monthly": "Aylık",
+  "agenda_repeat_monthly_desc": "Her ayın {day}. gününde tekrarlanır.",
+  "agenda_repeat_active_monthly": "Aylık tekrarlanır",
+  "agenda_reminder_label": "Bana hatırlat",
+  "agenda_reminder_minutes_before": "{minutes} dk önce"
 }

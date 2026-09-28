@@ -111,7 +111,7 @@
   "fasting_reminder_sahur_body": "Nehmen Sie jetzt Ihr Sahur-Mahl ein, die Imsak-Zeit rückt näher.",
   "fasting_reminder_sahur_time_label": "Sahur-Erinnerungszeit",
   "fasting_reminder_sahur_title": "Zeit für Sahur — {name}",
-  "fasting_reminder_settings_desc": "Sendet H-1- (Vorabend) und Sahur-Benachrichtigungen für Sunnah-Fastentage (Ayyamul Bidh, Mo-Do usw.).",
+  "fasting_reminder_settings_desc": "Sendet H-1- (Vorabend) und Sahur-Benachrichtigungen für Sunnah-Fastentage (Ayyamul Bidh usw.).",
   "fasting_reminder_settings_title": "Sunnah-Fasten-Erinnerung",
   "fasting_syawal6": "6-Tage-Fasten im Schawwal",
   "fasting_syawal6_note": "Sunnah — kann jederzeit in diesem Zeitraum ausgeführt werden, nicht zwingend aufeinanderfolgend.",
@@ -506,5 +506,15 @@
   "agenda_repeat_none": "Wiederholt sich nicht",
   "agenda_repeat_active": "Wiederholt sich wöchentlich",
   "agenda_repeat_delete_title": "Wiederkehrendes Ereignis löschen?",
-  "agenda_repeat_delete_body": "Dadurch werden alle Vorkommen dieses wiederkehrenden Ereignisses gelöscht, nicht nur dieses."
+  "agenda_repeat_delete_body": "Dadurch werden alle Vorkommen dieses wiederkehrenden Ereignisses gelöscht, nicht nur dieses.",
+  "fasting_reminder_senin_kamis_title": "Montag-Donnerstag-Fasten",
+  "fasting_reminder_senin_kamis_desc": "Sendet auch H-1- und Sahur-Erinnerungen für das Sunnah-Fasten am Montag und Donnerstag.",
+  "fasting_senin_kamis_label": "Montag-Donnerstag-Sunnah-Fasten",
+  "agenda_repeat_type_none": "Wiederholt sich nicht",
+  "agenda_repeat_type_weekly": "Wöchentlich",
+  "agenda_repeat_type_monthly": "Monatlich",
+  "agenda_repeat_monthly_desc": "Wiederholt sich jeden Monat am {day}.",
+  "agenda_repeat_active_monthly": "Wiederholt sich monatlich",
+  "agenda_reminder_label": "Erinnere mich",
+  "agenda_reminder_minutes_before": "{minutes} Min. vorher"
 }

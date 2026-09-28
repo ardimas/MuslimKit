@@ -111,7 +111,7 @@
   "fasting_reminder_sahur_body": "এখনই সাহরি খান, ইমসাকের সময় ঘনিয়ে আসছে।",
   "fasting_reminder_sahur_time_label": "সাহরি অনুস্মারকের সময়",
   "fasting_reminder_sahur_title": "সাহরির সময় — {name}",
-  "fasting_reminder_settings_desc": "সুন্নত রোজার দিনগুলোর (আইয়ামে বিজ, সোম-বৃহস্পতি ইত্যাদি) জন্য এক দিন আগে (রাতে) ও সাহরির বিজ্ঞপ্তি পাঠান।",
+  "fasting_reminder_settings_desc": "সুন্নত রোজার দিনগুলোর (আইয়ামে বিজ ইত্যাদি) জন্য এক দিন আগে (রাতে) ও সাহরির বিজ্ঞপ্তি পাঠান।",
   "fasting_reminder_settings_title": "সুন্নত রোজার অনুস্মারক",
   "fasting_syawal6": "শাওয়ালের ৬ দিনের রোজা",
   "fasting_syawal6_note": "সুন্নত — এই সময়ের মধ্যে যেকোনো সময় রাখা যায়, ধারাবাহিক হওয়া আবশ্যক নয়।",
@@ -506,5 +506,15 @@
   "agenda_repeat_none": "পুনরাবৃত্তি হয় না",
   "agenda_repeat_active": "প্রতি সপ্তাহে পুনরাবৃত্তি হয়",
   "agenda_repeat_delete_title": "পুনরাবৃত্তিমূলক ইভেন্ট মুছবেন?",
-  "agenda_repeat_delete_body": "এটি এই পুনরাবৃত্তিমূলক ইভেন্টের সব ঘটনা মুছে ফেলবে, শুধু এটি নয়।"
+  "agenda_repeat_delete_body": "এটি এই পুনরাবৃত্তিমূলক ইভেন্টের সব ঘটনা মুছে ফেলবে, শুধু এটি নয়।",
+  "fasting_reminder_senin_kamis_title": "সোম-বৃহস্পতি রোজা",
+  "fasting_reminder_senin_kamis_desc": "সোম ও বৃহস্পতিবারের সুন্নত রোজার জন্যও এক দিন আগে ও সাহরির রিমাইন্ডার পাঠান।",
+  "fasting_senin_kamis_label": "সোম-বৃহস্পতি সুন্নত রোজা",
+  "agenda_repeat_type_none": "পুনরাবৃত্তি হয় না",
+  "agenda_repeat_type_weekly": "সাপ্তাহিক",
+  "agenda_repeat_type_monthly": "মাসিক",
+  "agenda_repeat_monthly_desc": "প্রতি মাসে {day} তারিখে পুনরাবৃত্তি হয়।",
+  "agenda_repeat_active_monthly": "প্রতি মাসে পুনরাবৃত্তি হয়",
+  "agenda_reminder_label": "আমাকে মনে করিয়ে দিন",
+  "agenda_reminder_minutes_before": "{minutes} মিনিট আগে"
 }

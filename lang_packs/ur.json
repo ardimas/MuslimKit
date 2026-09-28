@@ -111,7 +111,7 @@
   "fasting_reminder_sahur_body": "ابھی سحری کریں، امساک کا وقت قریب ہے۔",
   "fasting_reminder_sahur_time_label": "سحری کی یاد دہانی کا وقت",
   "fasting_reminder_sahur_title": "سحری کا وقت — {name}",
-  "fasting_reminder_settings_desc": "سنت روزے کے دنوں (ایام بیض، پیر-جمعرات وغیرہ) کے لیے ایک دن پہلے (رات) اور سحری کی اطلاعات بھیجیں۔",
+  "fasting_reminder_settings_desc": "سنت روزے کے دنوں (ایام بیض وغیرہ) کے لیے ایک دن پہلے (رات) اور سحری کی اطلاعات بھیجیں۔",
   "fasting_reminder_settings_title": "سنت روزے کی یاد دہانی",
   "fasting_syawal6": "شوال کے چھ روزے",
   "fasting_syawal6_note": "سنت — اس مدت میں کسی بھی وقت رکھے جا سکتے ہیں، لگاتار ہونا ضروری نہیں۔",
@@ -506,5 +506,15 @@
   "agenda_repeat_none": "تکرار نہیں ہوتا",
   "agenda_repeat_active": "ہر ہفتے تکرار ہوتی ہے",
   "agenda_repeat_delete_title": "بار بار ہونے والا ایونٹ حذف کریں؟",
-  "agenda_repeat_delete_body": "اس سے اس بار بار ہونے والے ایونٹ کے تمام مواقع حذف ہو جائیں گے، صرف یہ ایک نہیں۔"
+  "agenda_repeat_delete_body": "اس سے اس بار بار ہونے والے ایونٹ کے تمام مواقع حذف ہو جائیں گے، صرف یہ ایک نہیں۔",
+  "fasting_reminder_senin_kamis_title": "پیر-جمعرات کا روزہ",
+  "fasting_reminder_senin_kamis_desc": "پیر اور جمعرات کے سنت روزے کے لیے بھی ایک دن پہلے اور سحری کی یاد دہانیاں بھیجیں۔",
+  "fasting_senin_kamis_label": "پیر-جمعرات سنت روزہ",
+  "agenda_repeat_type_none": "تکرار نہیں ہوتا",
+  "agenda_repeat_type_weekly": "ہفتہ وار",
+  "agenda_repeat_type_monthly": "ماہانہ",
+  "agenda_repeat_monthly_desc": "ہر ماہ {day} تاریخ کو دہرایا جاتا ہے۔",
+  "agenda_repeat_active_monthly": "ماہانہ دہرایا جاتا ہے",
+  "agenda_reminder_label": "مجھے یاد دہانی کروائیں",
+  "agenda_reminder_minutes_before": "{minutes} منٹ پہلے"
 }

@@ -111,7 +111,7 @@
   "fasting_reminder_sahur_body": "Segera bersahur, waktu imsak semakin hampir.",
   "fasting_reminder_sahur_time_label": "Waktu Peringatan Sahur",
   "fasting_reminder_sahur_title": "Waktu Sahur — {name}",
-  "fasting_reminder_settings_desc": "Hantar notifikasi H-1 (malam) & Sahur untuk hari-hari puasa sunat (Ayyamul Bidh, Isnin-Khamis, dll).",
+  "fasting_reminder_settings_desc": "Hantar notifikasi H-1 (malam) & Sahur untuk hari-hari puasa sunat (Ayyamul Bidh, dll).",
   "fasting_reminder_settings_title": "Peringatan Puasa Sunat",
   "fasting_syawal6": "Puasa 6 Hari Syawal",
   "fasting_syawal6_note": "Sunat — boleh dilakukan bila-bila masa dalam tempoh ini, tidak semestinya berturut-turut.",
@@ -506,5 +506,15 @@
   "agenda_repeat_none": "Tidak berulang",
   "agenda_repeat_active": "Berulang setiap minggu",
   "agenda_repeat_delete_title": "Padam acara berulang?",
-  "agenda_repeat_delete_body": "Ini akan memadam semua kejadian acara berulang ini, bukan hanya yang ini sahaja."
+  "agenda_repeat_delete_body": "Ini akan memadam semua kejadian acara berulang ini, bukan hanya yang ini sahaja.",
+  "fasting_reminder_senin_kamis_title": "Puasa Isnin-Khamis",
+  "fasting_reminder_senin_kamis_desc": "Hantar juga peringatan H-1 & Sahur untuk puasa sunat Isnin dan Khamis.",
+  "fasting_senin_kamis_label": "Puasa Sunat Isnin-Khamis",
+  "agenda_repeat_type_none": "Tidak berulang",
+  "agenda_repeat_type_weekly": "Mingguan",
+  "agenda_repeat_type_monthly": "Bulanan",
+  "agenda_repeat_monthly_desc": "Berulang setiap bulan pada {day}.",
+  "agenda_repeat_active_monthly": "Berulang setiap bulan",
+  "agenda_reminder_label": "Ingatkan saya",
+  "agenda_reminder_minutes_before": "{minutes} minit sebelum"
 }

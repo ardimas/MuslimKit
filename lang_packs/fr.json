@@ -111,7 +111,7 @@
   "fasting_reminder_sahur_body": "Prenez votre repas du sahour maintenant, l'heure de l'imsak approche.",
   "fasting_reminder_sahur_time_label": "Heure du rappel de Sahour",
   "fasting_reminder_sahur_title": "Heure du Sahour — {name}",
-  "fasting_reminder_settings_desc": "Envoyer des notifications J-1 (la veille) et Sahour pour les jours de jeûne Sunnah (Ayyamul Bidh, lundi-jeudi, etc).",
+  "fasting_reminder_settings_desc": "Envoyer des notifications J-1 (la veille) et Sahour pour les jours de jeûne Sunnah (Ayyamul Bidh, etc).",
   "fasting_reminder_settings_title": "Rappel de jeûne Sunnah",
   "fasting_syawal6": "Jeûne des 6 jours de Chawwal",
   "fasting_syawal6_note": "Sunnah — boleh dikerjakan kapan saja dalam jendela ini, tidak harus berurutan.",
@@ -506,5 +506,15 @@
   "agenda_repeat_none": "Ne se répète pas",
   "agenda_repeat_active": "Se répète chaque semaine",
   "agenda_repeat_delete_title": "Supprimer l'événement récurrent ?",
-  "agenda_repeat_delete_body": "Cela supprimera toutes les occurrences de cet événement récurrent, pas seulement celle-ci."
+  "agenda_repeat_delete_body": "Cela supprimera toutes les occurrences de cet événement récurrent, pas seulement celle-ci.",
+  "fasting_reminder_senin_kamis_title": "Jeûne du lundi et jeudi",
+  "fasting_reminder_senin_kamis_desc": "Envoie aussi des rappels J-1 et Sahour pour le jeûne sunnah du lundi et du jeudi.",
+  "fasting_senin_kamis_label": "Jeûne sunnah du lundi et jeudi",
+  "agenda_repeat_type_none": "Ne se répète pas",
+  "agenda_repeat_type_weekly": "Hebdomadaire",
+  "agenda_repeat_type_monthly": "Mensuel",
+  "agenda_repeat_monthly_desc": "Se répète chaque mois le {day}.",
+  "agenda_repeat_active_monthly": "Se répète chaque mois",
+  "agenda_reminder_label": "Me le rappeler",
+  "agenda_reminder_minutes_before": "{minutes} min avant"
 }

@@ -111,7 +111,7 @@
   "fasting_reminder_sahur_body": "请立即用封斋饭，封斋时刻即将到来。",
   "fasting_reminder_sahur_time_label": "封斋饭提醒时间",
   "fasting_reminder_sahur_title": "封斋饭时间 — {name}",
-  "fasting_reminder_settings_desc": "为逊奈斋戒日（白色日、周一至周四等）发送提前一天（夜间）和封斋饭通知。",
+  "fasting_reminder_settings_desc": "为逊奈斋戒日（白色日等）发送提前一天（夜间）和封斋饭通知。",
   "fasting_reminder_settings_title": "逊奈斋戒提醒",
   "fasting_syawal6": "闪瓦鲁月六天封斋",
   "fasting_syawal6_note": "逊奈——可在此期间任意选择，无需连续。",
@@ -506,5 +506,15 @@
   "agenda_repeat_none": "不重复",
   "agenda_repeat_active": "每周重复",
   "agenda_repeat_delete_title": "删除重复事件？",
-  "agenda_repeat_delete_body": "这将删除此重复事件的所有发生次数，而不仅仅是这一次。"
+  "agenda_repeat_delete_body": "这将删除此重复事件的所有发生次数，而不仅仅是这一次。",
+  "fasting_reminder_senin_kamis_title": "周一、周四斋戒",
+  "fasting_reminder_senin_kamis_desc": "周一和周四的逊奈斋戒也会发送提前一天和封斋饭提醒。",
+  "fasting_senin_kamis_label": "周一周四逊奈斋戒",
+  "agenda_repeat_type_none": "不重复",
+  "agenda_repeat_type_weekly": "每周",
+  "agenda_repeat_type_monthly": "每月",
+  "agenda_repeat_monthly_desc": "每月{day}日重复。",
+  "agenda_repeat_active_monthly": "每月重复",
+  "agenda_reminder_label": "提醒我",
+  "agenda_reminder_minutes_before": "提前{minutes}分钟"
 }

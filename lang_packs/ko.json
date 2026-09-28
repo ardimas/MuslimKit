@@ -111,7 +111,7 @@
   "fasting_reminder_sahur_body": "지금 수후르 식사를 하세요, 임삭 시간이 다가오고 있습니다.",
   "fasting_reminder_sahur_time_label": "수후르 알림 시간",
   "fasting_reminder_sahur_title": "수후르 시간 — {name}",
-  "fasting_reminder_settings_desc": "순나 단식일(아이야물 비드, 월-목요일 등)에 대해 하루 전(밤) 및 수후르 알림을 보냅니다.",
+  "fasting_reminder_settings_desc": "순나 단식일(아이야물 비드 등)에 대해 하루 전(밤) 및 수후르 알림을 보냅니다.",
   "fasting_reminder_settings_title": "순나 단식 알림",
   "fasting_syawal6": "샤왈 6일 단식",
   "fasting_syawal6_note": "순나 — 이 기간 내 언제든 행할 수 있으며 연속될 필요는 없습니다.",
@@ -506,5 +506,15 @@
   "agenda_repeat_none": "반복 안 함",
   "agenda_repeat_active": "매주 반복",
   "agenda_repeat_delete_title": "반복 일정을 삭제하시겠습니까?",
-  "agenda_repeat_delete_body": "이 작업은 이 반복 일정의 모든 항목을 삭제합니다. 이번 항목만 삭제되는 것이 아닙니다."
+  "agenda_repeat_delete_body": "이 작업은 이 반복 일정의 모든 항목을 삭제합니다. 이번 항목만 삭제되는 것이 아닙니다.",
+  "fasting_reminder_senin_kamis_title": "월요일-목요일 단식",
+  "fasting_reminder_senin_kamis_desc": "월요일과 목요일 순나 단식에 대해서도 하루 전 및 수후르 알림을 보냅니다.",
+  "fasting_senin_kamis_label": "월-목 순나 단식",
+  "agenda_repeat_type_none": "반복 안 함",
+  "agenda_repeat_type_weekly": "매주",
+  "agenda_repeat_type_monthly": "매월",
+  "agenda_repeat_monthly_desc": "매월 {day}일에 반복됩니다.",
+  "agenda_repeat_active_monthly": "매월 반복",
+  "agenda_reminder_label": "알림 받기",
+  "agenda_reminder_minutes_before": "{minutes}분 전"
 }
