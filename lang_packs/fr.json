@@ -501,5 +501,10 @@
   "report_ad_submit": "Envoyer le signalement",
   "report_ad_cancel": "Annuler",
   "qari_preview_hint": "Appuyez sur l'icône de lecture pour écouter un court extrait avant de choisir.",
-  "qari_preview_sample": "Écouter un extrait"
+  "qari_preview_sample": "Écouter un extrait",
+  "agenda_repeat_label": "Répéter",
+  "agenda_repeat_none": "Ne se répète pas",
+  "agenda_repeat_active": "Se répète chaque semaine",
+  "agenda_repeat_delete_title": "Supprimer l'événement récurrent ?",
+  "agenda_repeat_delete_body": "Cela supprimera toutes les occurrences de cet événement récurrent, pas seulement celle-ci."
 }

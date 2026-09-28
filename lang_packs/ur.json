@@ -501,5 +501,10 @@
   "report_ad_submit": "شکایت بھیجیں",
   "report_ad_cancel": "منسوخ کریں",
   "qari_preview_hint": "منتخب کرنے سے پہلے مختصر نمونہ سننے کے لیے پلے آئیکن پر ٹیپ کریں۔",
-  "qari_preview_sample": "نمونہ چلائیں"
+  "qari_preview_sample": "نمونہ چلائیں",
+  "agenda_repeat_label": "تکرار",
+  "agenda_repeat_none": "تکرار نہیں ہوتا",
+  "agenda_repeat_active": "ہر ہفتے تکرار ہوتی ہے",
+  "agenda_repeat_delete_title": "بار بار ہونے والا ایونٹ حذف کریں؟",
+  "agenda_repeat_delete_body": "اس سے اس بار بار ہونے والے ایونٹ کے تمام مواقع حذف ہو جائیں گے، صرف یہ ایک نہیں۔"
 }

@@ -501,5 +501,10 @@
   "report_ad_submit": "Bildirimi Gönder",
   "report_ad_cancel": "İptal",
   "qari_preview_hint": "Seçmeden önce kısa bir örnek dinlemek için oynat simgesine dokunun.",
-  "qari_preview_sample": "Örneği oynat"
+  "qari_preview_sample": "Örneği oynat",
+  "agenda_repeat_label": "Tekrarla",
+  "agenda_repeat_none": "Tekrarlanmıyor",
+  "agenda_repeat_active": "Her hafta tekrarlanır",
+  "agenda_repeat_delete_title": "Tekrarlanan etkinlik silinsin mi?",
+  "agenda_repeat_delete_body": "Bu, yalnızca bunu değil, bu tekrarlanan etkinliğin tüm tekrarlarını silecektir."
 }

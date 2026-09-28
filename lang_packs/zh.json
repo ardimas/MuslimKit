@@ -501,5 +501,10 @@
   "report_ad_submit": "发送举报",
   "report_ad_cancel": "取消",
   "qari_preview_hint": "选择前点击播放图标聆听简短样本。",
-  "qari_preview_sample": "播放样本"
+  "qari_preview_sample": "播放样本",
+  "agenda_repeat_label": "重复",
+  "agenda_repeat_none": "不重复",
+  "agenda_repeat_active": "每周重复",
+  "agenda_repeat_delete_title": "删除重复事件？",
+  "agenda_repeat_delete_body": "这将删除此重复事件的所有发生次数，而不仅仅是这一次。"
 }

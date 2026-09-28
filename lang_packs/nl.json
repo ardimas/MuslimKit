@@ -501,5 +501,10 @@
   "report_ad_submit": "Melding versturen",
   "report_ad_cancel": "Annuleren",
   "qari_preview_hint": "Tik op het afspeelpictogram om een kort voorbeeld te horen voordat je kiest.",
-  "qari_preview_sample": "Voorbeeld afspelen"
+  "qari_preview_sample": "Voorbeeld afspelen",
+  "agenda_repeat_label": "Herhalen",
+  "agenda_repeat_none": "Herhaalt niet",
+  "agenda_repeat_active": "Herhaalt wekelijks",
+  "agenda_repeat_delete_title": "Terugkerende gebeurtenis verwijderen?",
+  "agenda_repeat_delete_body": "Dit verwijdert alle herhalingen van deze terugkerende gebeurtenis, niet alleen deze."
 }

@@ -501,5 +501,10 @@
   "report_ad_submit": "신고 보내기",
   "report_ad_cancel": "취소",
   "qari_preview_hint": "선택하기 전에 재생 아이콘을 눌러 짧은 샘플을 들어보세요.",
-  "qari_preview_sample": "샘플 재생"
+  "qari_preview_sample": "샘플 재생",
+  "agenda_repeat_label": "반복",
+  "agenda_repeat_none": "반복 안 함",
+  "agenda_repeat_active": "매주 반복",
+  "agenda_repeat_delete_title": "반복 일정을 삭제하시겠습니까?",
+  "agenda_repeat_delete_body": "이 작업은 이 반복 일정의 모든 항목을 삭제합니다. 이번 항목만 삭제되는 것이 아닙니다."
 }

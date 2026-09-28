@@ -501,5 +501,10 @@
   "report_ad_submit": "Hantar Laporan",
   "report_ad_cancel": "Batal",
   "qari_preview_hint": "Ketik ikon main untuk dengar contoh ringkas sebelum memilih.",
-  "qari_preview_sample": "Main contoh"
+  "qari_preview_sample": "Main contoh",
+  "agenda_repeat_label": "Ulang",
+  "agenda_repeat_none": "Tidak berulang",
+  "agenda_repeat_active": "Berulang setiap minggu",
+  "agenda_repeat_delete_title": "Padam acara berulang?",
+  "agenda_repeat_delete_body": "Ini akan memadam semua kejadian acara berulang ini, bukan hanya yang ini sahaja."
 }

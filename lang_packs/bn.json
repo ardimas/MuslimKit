@@ -501,5 +501,10 @@
   "report_ad_submit": "রিপোর্ট পাঠান",
   "report_ad_cancel": "বাতিল",
   "qari_preview_hint": "নির্বাচন করার আগে সংক্ষিপ্ত নমুনা শুনতে প্লে আইকনে ট্যাপ করুন।",
-  "qari_preview_sample": "নমুনা চালান"
+  "qari_preview_sample": "নমুনা চালান",
+  "agenda_repeat_label": "পুনরাবৃত্তি",
+  "agenda_repeat_none": "পুনরাবৃত্তি হয় না",
+  "agenda_repeat_active": "প্রতি সপ্তাহে পুনরাবৃত্তি হয়",
+  "agenda_repeat_delete_title": "পুনরাবৃত্তিমূলক ইভেন্ট মুছবেন?",
+  "agenda_repeat_delete_body": "এটি এই পুনরাবৃত্তিমূলক ইভেন্টের সব ঘটনা মুছে ফেলবে, শুধু এটি নয়।"
 }

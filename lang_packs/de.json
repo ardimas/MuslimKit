@@ -501,5 +501,10 @@
   "report_ad_submit": "Meldung senden",
   "report_ad_cancel": "Abbrechen",
   "qari_preview_hint": "Tippe auf das Wiedergabesymbol, um eine kurze Hörprobe zu hören, bevor du wählst.",
-  "qari_preview_sample": "Hörprobe abspielen"
+  "qari_preview_sample": "Hörprobe abspielen",
+  "agenda_repeat_label": "Wiederholen",
+  "agenda_repeat_none": "Wiederholt sich nicht",
+  "agenda_repeat_active": "Wiederholt sich wöchentlich",
+  "agenda_repeat_delete_title": "Wiederkehrendes Ereignis löschen?",
+  "agenda_repeat_delete_body": "Dadurch werden alle Vorkommen dieses wiederkehrenden Ereignisses gelöscht, nicht nur dieses."
 }

@@ -501,5 +501,10 @@
   "report_ad_submit": "報告を送信",
   "report_ad_cancel": "キャンセル",
   "qari_preview_hint": "選ぶ前に再生アイコンをタップして短いサンプルを聴いてください。",
-  "qari_preview_sample": "サンプルを再生"
+  "qari_preview_sample": "サンプルを再生",
+  "agenda_repeat_label": "繰り返し",
+  "agenda_repeat_none": "繰り返さない",
+  "agenda_repeat_active": "毎週繰り返す",
+  "agenda_repeat_delete_title": "繰り返しの予定を削除しますか?",
+  "agenda_repeat_delete_body": "この操作でこの繰り返し予定のすべての回が削除されます。今回分だけではありません。"
 }

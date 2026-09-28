@@ -501,5 +501,10 @@
   "report_ad_submit": "Отправить жалобу",
   "report_ad_cancel": "Отмена",
   "qari_preview_hint": "Нажмите на значок воспроизведения, чтобы прослушать короткий образец перед выбором.",
-  "qari_preview_sample": "Воспроизвести образец"
+  "qari_preview_sample": "Воспроизвести образец",
+  "agenda_repeat_label": "Повтор",
+  "agenda_repeat_none": "Не повторяется",
+  "agenda_repeat_active": "Повторяется еженедельно",
+  "agenda_repeat_delete_title": "Удалить повторяющееся событие?",
+  "agenda_repeat_delete_body": "Это удалит все повторения этого события, а не только текущее."
 }
