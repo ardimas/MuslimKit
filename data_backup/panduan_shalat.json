@@ -1,0 +1,561 @@
+{
+  "version": 1,
+  "disclaimer_id": "Tata cara berikut mengikuti praktik yang paling umum diajarkan (rujukan: Fiqh Sunnah, Fiqh al-Manhaji, Sifat Shalat Nabi/Qiyamul Lail Al-Albani). Beberapa detail (jumlah takbir Ied, variasi rakaat Witir, dsb.) memang memiliki perbedaan pendapat ulama yang masing-masing punya dasar sah -- ditandai eksplisit di catatan tiap shalat.",
+  "disclaimer_en": "The following steps follow the most commonly taught practice (references: Fiqh Sunnah, Fiqh al-Manhaji, Sifat Shalat Nabi/Qiyam al-Layl by Al-Albani). Some details (Eid takbir counts, Witr rak'ah variations, etc.) do have valid scholarly differences of opinion -- these are flagged explicitly in each prayer's notes.",
+  "prayers": [
+    {
+      "slug": "fardhu",
+      "category": "fardhu",
+      "name_id": "Shalat Fardhu",
+      "name_en": "Obligatory Prayer (Fardhu)",
+      "rakaat_info_id": "2 rakaat (Subuh), 3 rakaat (Maghrib), atau 4 rakaat (Dzuhur, Ashar, Isya)",
+      "rakaat_info_en": "2 rak'ahs (Fajr), 3 rak'ahs (Maghrib), or 4 rak'ahs (Dhuhr, Asr, Isha)",
+      "intro_id": "Shalat wajib 5 waktu yang menjadi tiang agama. Gerakan dasarnya sama di setiap rakaat, hanya jumlah rakaat dan jam pelaksanaan yang berbeda.",
+      "intro_en": "The five daily obligatory prayers, the pillar of the religion. The basic movements are the same each rak'ah -- only the number of rak'ahs and the time of day differ.",
+      "notes_id": "Shalat 3-4 rakaat punya tasyahud awal di rakaat ke-2 (hanya bacaan tasyahud, tanpa shalawat panjang), lalu berdiri lagi tanpa salam.",
+      "notes_en": "Prayers of 3-4 rak'ahs include a first tashahhud in the 2nd rak'ah (tashahhud recitation only, without the longer blessing), then stand again without salam.",
+      "recommended_reading_id": "Al-Fatihah di setiap rakaat, ditambah surah/ayat pendek pada 2 rakaat pertama.",
+      "recommended_reading_en": "Al-Fatihah in every rak'ah, plus a short surah/verses in the first two rak'ahs.",
+      "steps": [
+        {
+          "id": "niat",
+          "title_id": "Niat",
+          "title_en": "Intention (Niat)",
+          "desc_id": "Niat dilakukan di dalam hati, menentukan shalat apa yang akan dikerjakan (mis. Subuh, Dzuhur). Tidak perlu dilafalkan keras.",
+          "desc_en": "Intention is made silently in the heart, specifying which prayer is being performed. It does not need to be spoken aloud.",
+          "illustration": null
+        },
+        {
+          "id": "takbiratul_ihram",
+          "title_id": "Takbiratul Ihram",
+          "title_en": "Takbiratul Ihram",
+          "desc_id": "Mengangkat kedua tangan sejajar bahu/telinga sambil mengucapkan \"Allahu Akbar\", menandai dimulainya shalat.",
+          "desc_en": "Raise both hands to shoulder/ear level while saying \"Allahu Akbar\", marking the start of the prayer.",
+          "illustration": "takbir"
+        },
+        {
+          "id": "sedekap",
+          "title_id": "Bersedekap",
+          "title_en": "Placing Hands (Sedekap)",
+          "desc_id": "Meletakkan tangan kanan di atas tangan kiri di dada, lalu membaca doa iftitah, Al-Fatihah, dan surah pendek (2 rakaat pertama).",
+          "desc_en": "Place the right hand over the left on the chest, then recite the opening supplication, Al-Fatihah, and a short surah (first two rak'ahs).",
+          "illustration": "sedekap"
+        },
+        {
+          "id": "ruku",
+          "title_id": "Ruku'",
+          "title_en": "Ruku' (Bowing)",
+          "desc_id": "Membungkukkan badan hingga punggung rata, tangan memegang lutut, sambil membaca tasbih ruku' (\"Subhana rabbiyal 'adzimi\" 3x).",
+          "desc_en": "Bow until the back is flat, hands gripping the knees, while reciting the ruku' remembrance (\"Subhana rabbiyal 'adzim\" 3x).",
+          "illustration": "ruku"
+        },
+        {
+          "id": "itidal",
+          "title_id": "I'tidal",
+          "title_en": "I'tidal (Rising from Ruku')",
+          "desc_id": "Bangkit dari ruku' hingga berdiri tegak kembali, membaca \"Sami'allahu liman hamidah\" lalu \"Rabbana lakal hamd\".",
+          "desc_en": "Rise from ruku' back to an upright standing position, reciting \"Sami'allahu liman hamidah\" then \"Rabbana lakal hamd\".",
+          "illustration": "itidal"
+        },
+        {
+          "id": "sujud",
+          "title_id": "Sujud",
+          "title_en": "Sujud (Prostration)",
+          "desc_id": "Sujud dengan dahi, hidung, kedua telapak tangan, lutut, dan ujung jari kaki menyentuh lantai, membaca tasbih sujud (\"Subhana rabbiyal a'la\" 3x).",
+          "desc_en": "Prostrate with the forehead, nose, both palms, knees, and toes touching the ground, reciting the prostration remembrance (\"Subhana rabbiyal a'la\" 3x).",
+          "illustration": "sujud"
+        },
+        {
+          "id": "duduk_antara_dua_sujud",
+          "title_id": "Duduk di Antara Dua Sujud",
+          "title_en": "Sitting Between Two Prostrations",
+          "desc_id": "Duduk sejenak di antara dua sujud, membaca \"Rabbighfirli warhamni...\", lalu sujud kedua dengan bacaan yang sama seperti sujud pertama.",
+          "desc_en": "Sit briefly between the two prostrations, reciting \"Rabbighfirli warhamni...\", then perform the second prostration with the same recitation as the first.",
+          "illustration": "duduk"
+        },
+        {
+          "id": "tasyahud_akhir",
+          "title_id": "Tasyahud Akhir",
+          "title_en": "Final Tasyahud",
+          "desc_id": "Duduk tasyahud di rakaat terakhir, membaca bacaan tasyahud, shalawat kepada Nabi Muhammad ▷, dan doa perlindungan sebelum salam. (Shalat 3-4 rakaat juga punya tasyahud awal di rakaat ke-2, lalu berdiri lagi tanpa salam.)",
+          "desc_en": "Sit for the final tashahhud, reciting the tashahhud, sending blessings upon the Prophet ▷, and a protective supplication before the closing salam. (Prayers of 3-4 rak'ahs also have a first tashahhud in the 2nd rak'ah, then stand again without salam.)",
+          "illustration": "tasyahud_akhir"
+        },
+        {
+          "id": "salam",
+          "title_id": "Salam",
+          "title_en": "Salam (Closing Greeting)",
+          "desc_id": "Menoleh ke kanan membaca \"Assalamu'alaikum warahmatullah\", lalu ke kiri dengan bacaan yang sama, menandai berakhirnya shalat.",
+          "desc_en": "Turn the head to the right saying \"Assalamu'alaikum warahmatullah\", then to the left with the same words, marking the end of the prayer.",
+          "illustration": "noleh_kanan"
+        }
+      ]
+    },
+    {
+      "slug": "witir",
+      "category": "sunnah",
+      "name_id": "Shalat Witir",
+      "name_en": "Witr Prayer",
+      "rakaat_info_id": "Ganjil: umumnya 3 rakaat (bisa juga 1, 5, 7, 9, atau 11)",
+      "rakaat_info_en": "An odd number: commonly 3 rak'ahs (can also be 1, 5, 7, 9, or 11)",
+      "intro_id": "Shalat sunnah penutup shalat malam, dikerjakan setelah Isya hingga sebelum masuk waktu Subuh.",
+      "intro_en": "A sunnah prayer that closes the night prayers, performed after Isha until just before Fajr.",
+      "notes_id": "Untuk 3 rakaat ada dua cara yang sama-sama diajarkan: (1) seperti Maghrib -- 2 rakaat lalu tasyahud awal, dilanjut 1 rakaat & salam; atau (2) langsung 3 rakaat tanpa tasyahud awal, salam sekali di akhir.",
+      "notes_en": "For 3 rak'ahs there are two equally valid, commonly taught methods: (1) like Maghrib -- 2 rak'ahs then a first tashahhud, followed by 1 more rak'ah and salam; or (2) all 3 rak'ahs together with no first tashahhud, a single salam at the end.",
+      "recommended_reading_id": "Sunnah (tidak wajib): rakaat 1 Al-A'la, rakaat 2 Al-Kafirun, rakaat 3 Al-Ikhlas (+ Al-Falaq & An-Nas jika 3 rakaat terpisah).",
+      "recommended_reading_en": "Recommended (not obligatory): 1st rak'ah Al-A'la, 2nd rak'ah Al-Kafirun, 3rd rak'ah Al-Ikhlas (+ Al-Falaq & An-Nas if prayed as separate rak'ahs).",
+      "steps": [
+        {
+          "id": "niat",
+          "title_id": "Niat",
+          "title_en": "Intention (Niat)",
+          "desc_id": "Niat dilakukan di dalam hati, menentukan shalat apa yang akan dikerjakan (mis. Subuh, Dzuhur). Tidak perlu dilafalkan keras.",
+          "desc_en": "Intention is made silently in the heart, specifying which prayer is being performed. It does not need to be spoken aloud.",
+          "illustration": null
+        },
+        {
+          "id": "takbiratul_ihram",
+          "title_id": "Takbiratul Ihram",
+          "title_en": "Takbiratul Ihram",
+          "desc_id": "Mengangkat kedua tangan sejajar bahu/telinga sambil mengucapkan \"Allahu Akbar\", menandai dimulainya shalat.",
+          "desc_en": "Raise both hands to shoulder/ear level while saying \"Allahu Akbar\", marking the start of the prayer.",
+          "illustration": "takbir"
+        },
+        {
+          "id": "sedekap",
+          "title_id": "Bersedekap",
+          "title_en": "Placing Hands (Sedekap)",
+          "desc_id": "Meletakkan tangan kanan di atas tangan kiri di dada, lalu membaca doa iftitah, Al-Fatihah, dan surah pendek (2 rakaat pertama).",
+          "desc_en": "Place the right hand over the left on the chest, then recite the opening supplication, Al-Fatihah, and a short surah (first two rak'ahs).",
+          "illustration": "sedekap"
+        },
+        {
+          "id": "ruku",
+          "title_id": "Ruku'",
+          "title_en": "Ruku' (Bowing)",
+          "desc_id": "Membungkukkan badan hingga punggung rata, tangan memegang lutut, sambil membaca tasbih ruku' (\"Subhana rabbiyal 'adzimi\" 3x).",
+          "desc_en": "Bow until the back is flat, hands gripping the knees, while reciting the ruku' remembrance (\"Subhana rabbiyal 'adzim\" 3x).",
+          "illustration": "ruku"
+        },
+        {
+          "id": "itidal",
+          "title_id": "I'tidal",
+          "title_en": "I'tidal (Rising from Ruku')",
+          "desc_id": "Bangkit dari ruku' hingga berdiri tegak kembali, membaca \"Sami'allahu liman hamidah\" lalu \"Rabbana lakal hamd\".",
+          "desc_en": "Rise from ruku' back to an upright standing position, reciting \"Sami'allahu liman hamidah\" then \"Rabbana lakal hamd\".",
+          "illustration": "itidal"
+        },
+        {
+          "id": "sujud",
+          "title_id": "Sujud",
+          "title_en": "Sujud (Prostration)",
+          "desc_id": "Sujud dengan dahi, hidung, kedua telapak tangan, lutut, dan ujung jari kaki menyentuh lantai, membaca tasbih sujud (\"Subhana rabbiyal a'la\" 3x).",
+          "desc_en": "Prostrate with the forehead, nose, both palms, knees, and toes touching the ground, reciting the prostration remembrance (\"Subhana rabbiyal a'la\" 3x).",
+          "illustration": "sujud"
+        },
+        {
+          "id": "duduk_antara_dua_sujud",
+          "title_id": "Duduk di Antara Dua Sujud",
+          "title_en": "Sitting Between Two Prostrations",
+          "desc_id": "Duduk sejenak di antara dua sujud, membaca \"Rabbighfirli warhamni...\", lalu sujud kedua dengan bacaan yang sama seperti sujud pertama.",
+          "desc_en": "Sit briefly between the two prostrations, reciting \"Rabbighfirli warhamni...\", then perform the second prostration with the same recitation as the first.",
+          "illustration": "duduk"
+        },
+        {
+          "id": "tasyahud_akhir",
+          "title_id": "Tasyahud Akhir",
+          "title_en": "Final Tasyahud",
+          "desc_id": "Duduk tasyahud di rakaat terakhir, membaca bacaan tasyahud, shalawat kepada Nabi Muhammad ▷, dan doa perlindungan sebelum salam. (Shalat 3-4 rakaat juga punya tasyahud awal di rakaat ke-2, lalu berdiri lagi tanpa salam.)",
+          "desc_en": "Sit for the final tashahhud, reciting the tashahhud, sending blessings upon the Prophet ▷, and a protective supplication before the closing salam. (Prayers of 3-4 rak'ahs also have a first tashahhud in the 2nd rak'ah, then stand again without salam.)",
+          "illustration": "tasyahud_akhir"
+        },
+        {
+          "id": "salam",
+          "title_id": "Salam",
+          "title_en": "Salam (Closing Greeting)",
+          "desc_id": "Menoleh ke kanan membaca \"Assalamu'alaikum warahmatullah\", lalu ke kiri dengan bacaan yang sama, menandai berakhirnya shalat.",
+          "desc_en": "Turn the head to the right saying \"Assalamu'alaikum warahmatullah\", then to the left with the same words, marking the end of the prayer.",
+          "illustration": "noleh_kanan"
+        }
+      ]
+    },
+    {
+      "slug": "tahajud",
+      "category": "sunnah",
+      "name_id": "Shalat Tahajud",
+      "name_en": "Tahajud Prayer",
+      "rakaat_info_id": "2 rakaat per salam, jumlah set bebas (umumnya 2-8 rakaat), ditutup Witir",
+      "rakaat_info_en": "2 rak'ahs per salam, any number of sets (commonly 2-8 rak'ahs), closed with Witr",
+      "intro_id": "Shalat malam yang dikerjakan setelah tidur (walau sebentar), sebelum masuk waktu Subuh.",
+      "intro_en": "A night prayer performed after sleeping (even briefly), before the Fajr prayer time begins.",
+      "notes_id": "Tiap 2 rakaat diakhiri satu salam. Boleh dikerjakan berapa set pun sesuai kemampuan, lalu ditutup dengan Witir sebagai penutup shalat malam.",
+      "notes_en": "Every 2 rak'ahs ends with one salam. Any number of sets may be prayed according to one's ability, closed with Witr as the final night prayer.",
+      "recommended_reading_id": "Bebas, tidak ada surah khusus yang diwajibkan -- boleh surah apa saja yang hafal.",
+      "recommended_reading_en": "Free choice -- no specific surah is required; any memorized surah may be read.",
+      "steps": [
+        {
+          "id": "niat",
+          "title_id": "Niat",
+          "title_en": "Intention (Niat)",
+          "desc_id": "Niat dilakukan di dalam hati, menentukan shalat apa yang akan dikerjakan (mis. Subuh, Dzuhur). Tidak perlu dilafalkan keras.",
+          "desc_en": "Intention is made silently in the heart, specifying which prayer is being performed. It does not need to be spoken aloud.",
+          "illustration": null
+        },
+        {
+          "id": "takbiratul_ihram",
+          "title_id": "Takbiratul Ihram",
+          "title_en": "Takbiratul Ihram",
+          "desc_id": "Mengangkat kedua tangan sejajar bahu/telinga sambil mengucapkan \"Allahu Akbar\", menandai dimulainya shalat.",
+          "desc_en": "Raise both hands to shoulder/ear level while saying \"Allahu Akbar\", marking the start of the prayer.",
+          "illustration": "takbir"
+        },
+        {
+          "id": "sedekap",
+          "title_id": "Bersedekap",
+          "title_en": "Placing Hands (Sedekap)",
+          "desc_id": "Meletakkan tangan kanan di atas tangan kiri di dada, lalu membaca doa iftitah, Al-Fatihah, dan surah pendek (2 rakaat pertama).",
+          "desc_en": "Place the right hand over the left on the chest, then recite the opening supplication, Al-Fatihah, and a short surah (first two rak'ahs).",
+          "illustration": "sedekap"
+        },
+        {
+          "id": "ruku",
+          "title_id": "Ruku'",
+          "title_en": "Ruku' (Bowing)",
+          "desc_id": "Membungkukkan badan hingga punggung rata, tangan memegang lutut, sambil membaca tasbih ruku' (\"Subhana rabbiyal 'adzimi\" 3x).",
+          "desc_en": "Bow until the back is flat, hands gripping the knees, while reciting the ruku' remembrance (\"Subhana rabbiyal 'adzim\" 3x).",
+          "illustration": "ruku"
+        },
+        {
+          "id": "itidal",
+          "title_id": "I'tidal",
+          "title_en": "I'tidal (Rising from Ruku')",
+          "desc_id": "Bangkit dari ruku' hingga berdiri tegak kembali, membaca \"Sami'allahu liman hamidah\" lalu \"Rabbana lakal hamd\".",
+          "desc_en": "Rise from ruku' back to an upright standing position, reciting \"Sami'allahu liman hamidah\" then \"Rabbana lakal hamd\".",
+          "illustration": "itidal"
+        },
+        {
+          "id": "sujud",
+          "title_id": "Sujud",
+          "title_en": "Sujud (Prostration)",
+          "desc_id": "Sujud dengan dahi, hidung, kedua telapak tangan, lutut, dan ujung jari kaki menyentuh lantai, membaca tasbih sujud (\"Subhana rabbiyal a'la\" 3x).",
+          "desc_en": "Prostrate with the forehead, nose, both palms, knees, and toes touching the ground, reciting the prostration remembrance (\"Subhana rabbiyal a'la\" 3x).",
+          "illustration": "sujud"
+        },
+        {
+          "id": "duduk_antara_dua_sujud",
+          "title_id": "Duduk di Antara Dua Sujud",
+          "title_en": "Sitting Between Two Prostrations",
+          "desc_id": "Duduk sejenak di antara dua sujud, membaca \"Rabbighfirli warhamni...\", lalu sujud kedua dengan bacaan yang sama seperti sujud pertama.",
+          "desc_en": "Sit briefly between the two prostrations, reciting \"Rabbighfirli warhamni...\", then perform the second prostration with the same recitation as the first.",
+          "illustration": "duduk"
+        },
+        {
+          "id": "tasyahud_akhir",
+          "title_id": "Tasyahud Akhir",
+          "title_en": "Final Tasyahud",
+          "desc_id": "Duduk tasyahud di rakaat terakhir, membaca bacaan tasyahud, shalawat kepada Nabi Muhammad ▷, dan doa perlindungan sebelum salam. (Shalat 3-4 rakaat juga punya tasyahud awal di rakaat ke-2, lalu berdiri lagi tanpa salam.)",
+          "desc_en": "Sit for the final tashahhud, reciting the tashahhud, sending blessings upon the Prophet ▷, and a protective supplication before the closing salam. (Prayers of 3-4 rak'ahs also have a first tashahhud in the 2nd rak'ah, then stand again without salam.)",
+          "illustration": "tasyahud_akhir"
+        },
+        {
+          "id": "salam",
+          "title_id": "Salam",
+          "title_en": "Salam (Closing Greeting)",
+          "desc_id": "Menoleh ke kanan membaca \"Assalamu'alaikum warahmatullah\", lalu ke kiri dengan bacaan yang sama, menandai berakhirnya shalat.",
+          "desc_en": "Turn the head to the right saying \"Assalamu'alaikum warahmatullah\", then to the left with the same words, marking the end of the prayer.",
+          "illustration": "noleh_kanan"
+        }
+      ]
+    },
+    {
+      "slug": "dhuha",
+      "category": "sunnah",
+      "name_id": "Shalat Dhuha",
+      "name_en": "Dhuha Prayer",
+      "rakaat_info_id": "Minimal 2 rakaat, umumnya 4, hingga 8 rakaat (2 rakaat per salam)",
+      "rakaat_info_en": "At least 2 rak'ahs, commonly 4, up to 8 rak'ahs (2 rak'ahs per salam)",
+      "intro_id": "Shalat sunnah di pagi hari, waktunya sejak matahari naik sepenggalah (±15-20 menit setelah terbit) hingga menjelang masuk Dzuhur.",
+      "intro_en": "A mid-morning sunnah prayer, performed from shortly after sunrise (roughly 15-20 minutes after the sun has risen) until just before Dhuhr.",
+      "notes_id": "Setiap 2 rakaat diakhiri satu salam, sama seperti Tahajud.",
+      "notes_en": "Every 2 rak'ahs ends with one salam, the same as Tahajud.",
+      "recommended_reading_id": "Sunnah (tidak wajib): Asy-Syams & Ad-Dhuha, atau surah pendek lain yang dihafal.",
+      "recommended_reading_en": "Recommended (not obligatory): Ash-Shams & Ad-Duha, or any other memorized short surah.",
+      "steps": [
+        {
+          "id": "niat",
+          "title_id": "Niat",
+          "title_en": "Intention (Niat)",
+          "desc_id": "Niat dilakukan di dalam hati, menentukan shalat apa yang akan dikerjakan (mis. Subuh, Dzuhur). Tidak perlu dilafalkan keras.",
+          "desc_en": "Intention is made silently in the heart, specifying which prayer is being performed. It does not need to be spoken aloud.",
+          "illustration": null
+        },
+        {
+          "id": "takbiratul_ihram",
+          "title_id": "Takbiratul Ihram",
+          "title_en": "Takbiratul Ihram",
+          "desc_id": "Mengangkat kedua tangan sejajar bahu/telinga sambil mengucapkan \"Allahu Akbar\", menandai dimulainya shalat.",
+          "desc_en": "Raise both hands to shoulder/ear level while saying \"Allahu Akbar\", marking the start of the prayer.",
+          "illustration": "takbir"
+        },
+        {
+          "id": "sedekap",
+          "title_id": "Bersedekap",
+          "title_en": "Placing Hands (Sedekap)",
+          "desc_id": "Meletakkan tangan kanan di atas tangan kiri di dada, lalu membaca doa iftitah, Al-Fatihah, dan surah pendek (2 rakaat pertama).",
+          "desc_en": "Place the right hand over the left on the chest, then recite the opening supplication, Al-Fatihah, and a short surah (first two rak'ahs).",
+          "illustration": "sedekap"
+        },
+        {
+          "id": "ruku",
+          "title_id": "Ruku'",
+          "title_en": "Ruku' (Bowing)",
+          "desc_id": "Membungkukkan badan hingga punggung rata, tangan memegang lutut, sambil membaca tasbih ruku' (\"Subhana rabbiyal 'adzimi\" 3x).",
+          "desc_en": "Bow until the back is flat, hands gripping the knees, while reciting the ruku' remembrance (\"Subhana rabbiyal 'adzim\" 3x).",
+          "illustration": "ruku"
+        },
+        {
+          "id": "itidal",
+          "title_id": "I'tidal",
+          "title_en": "I'tidal (Rising from Ruku')",
+          "desc_id": "Bangkit dari ruku' hingga berdiri tegak kembali, membaca \"Sami'allahu liman hamidah\" lalu \"Rabbana lakal hamd\".",
+          "desc_en": "Rise from ruku' back to an upright standing position, reciting \"Sami'allahu liman hamidah\" then \"Rabbana lakal hamd\".",
+          "illustration": "itidal"
+        },
+        {
+          "id": "sujud",
+          "title_id": "Sujud",
+          "title_en": "Sujud (Prostration)",
+          "desc_id": "Sujud dengan dahi, hidung, kedua telapak tangan, lutut, dan ujung jari kaki menyentuh lantai, membaca tasbih sujud (\"Subhana rabbiyal a'la\" 3x).",
+          "desc_en": "Prostrate with the forehead, nose, both palms, knees, and toes touching the ground, reciting the prostration remembrance (\"Subhana rabbiyal a'la\" 3x).",
+          "illustration": "sujud"
+        },
+        {
+          "id": "duduk_antara_dua_sujud",
+          "title_id": "Duduk di Antara Dua Sujud",
+          "title_en": "Sitting Between Two Prostrations",
+          "desc_id": "Duduk sejenak di antara dua sujud, membaca \"Rabbighfirli warhamni...\", lalu sujud kedua dengan bacaan yang sama seperti sujud pertama.",
+          "desc_en": "Sit briefly between the two prostrations, reciting \"Rabbighfirli warhamni...\", then perform the second prostration with the same recitation as the first.",
+          "illustration": "duduk"
+        },
+        {
+          "id": "tasyahud_akhir",
+          "title_id": "Tasyahud Akhir",
+          "title_en": "Final Tasyahud",
+          "desc_id": "Duduk tasyahud di rakaat terakhir, membaca bacaan tasyahud, shalawat kepada Nabi Muhammad ▷, dan doa perlindungan sebelum salam. (Shalat 3-4 rakaat juga punya tasyahud awal di rakaat ke-2, lalu berdiri lagi tanpa salam.)",
+          "desc_en": "Sit for the final tashahhud, reciting the tashahhud, sending blessings upon the Prophet ▷, and a protective supplication before the closing salam. (Prayers of 3-4 rak'ahs also have a first tashahhud in the 2nd rak'ah, then stand again without salam.)",
+          "illustration": "tasyahud_akhir"
+        },
+        {
+          "id": "salam",
+          "title_id": "Salam",
+          "title_en": "Salam (Closing Greeting)",
+          "desc_id": "Menoleh ke kanan membaca \"Assalamu'alaikum warahmatullah\", lalu ke kiri dengan bacaan yang sama, menandai berakhirnya shalat.",
+          "desc_en": "Turn the head to the right saying \"Assalamu'alaikum warahmatullah\", then to the left with the same words, marking the end of the prayer.",
+          "illustration": "noleh_kanan"
+        }
+      ]
+    },
+    {
+      "slug": "idul_fitri_adha",
+      "category": "sunnah",
+      "name_id": "Shalat Ied (Idul Fitri & Idul Adha)",
+      "name_en": "Eid Prayer (Eid al-Fitr & Eid al-Adha)",
+      "rakaat_info_id": "2 rakaat, tanpa adzan maupun iqamah",
+      "rakaat_info_en": "2 rak'ahs, without adhan or iqamah",
+      "intro_id": "Shalat sunnah muakkadah yang dikerjakan di pagi hari raya, disunnahkan berjamaah (idealnya di lapangan terbuka), dilanjutkan khutbah.",
+      "intro_en": "A strongly emphasized sunnah prayer performed on the morning of Eid, recommended in congregation (ideally in an open field), followed by a sermon.",
+      "notes_id": "Berbeda dari Jumat, mendengarkan khutbah Ied sambil duduk tidak wajib. Jumlah takbir tambahan di atas (7 & 5) adalah pendapat yang paling umum diajarkan -- ada riwayat lain dengan jumlah sedikit berbeda.",
+      "notes_en": "Unlike Jumu'ah, sitting to listen to the Eid sermon is not obligatory. The additional takbir counts above (7 & 5) reflect the most commonly taught view -- other narrations give slightly different counts.",
+      "recommended_reading_id": "Sunnah: surah Qaf atau Al-A'la di rakaat 1, surah Al-Qamar atau Al-Ghashiyah di rakaat 2.",
+      "recommended_reading_en": "Recommended: Surah Qaf or Al-A'la in the 1st rak'ah, Surah Al-Qamar or Al-Ghashiyah in the 2nd.",
+      "steps": [
+        {
+          "id": "niat",
+          "title_id": "Niat",
+          "title_en": "Intention (Niat)",
+          "desc_id": "Niat dilakukan di dalam hati, menentukan shalat apa yang akan dikerjakan (mis. Subuh, Dzuhur). Tidak perlu dilafalkan keras.",
+          "desc_en": "Intention is made silently in the heart, specifying which prayer is being performed. It does not need to be spoken aloud.",
+          "illustration": null
+        },
+        {
+          "id": "takbiratul_ihram",
+          "title_id": "Takbiratul Ihram",
+          "title_en": "Takbiratul Ihram",
+          "desc_id": "Mengangkat kedua tangan sejajar bahu/telinga sambil mengucapkan \"Allahu Akbar\", menandai dimulainya shalat.",
+          "desc_en": "Raise both hands to shoulder/ear level while saying \"Allahu Akbar\", marking the start of the prayer.",
+          "illustration": "takbir"
+        },
+        {
+          "id": "takbir_tambahan_rakaat_1",
+          "title_id": "7x Takbir Tambahan (Rakaat 1)",
+          "title_en": "7x Additional Takbir (1st Rak'ah)",
+          "desc_id": "Setelah takbiratul ihram & doa iftitah, membaca takbir tambahan 7 kali (di sela-selanya disunnahkan membaca dzikir singkat), baru dilanjutkan Al-Fatihah & surah. Ini pendapat yang paling umum diajarkan -- jumlahnya ada perbedaan riwayat.",
+          "desc_en": "After takbiratul ihram & the opening supplication, recite 7 additional takbirs (a short dhikr between them is recommended), then continue with Al-Fatihah & a surah. This is the most commonly taught view -- narrations differ slightly on the exact count.",
+          "illustration": "takbir"
+        },
+        {
+          "id": "sedekap",
+          "title_id": "Bersedekap",
+          "title_en": "Placing Hands (Sedekap)",
+          "desc_id": "Meletakkan tangan kanan di atas tangan kiri di dada, lalu membaca doa iftitah, Al-Fatihah, dan surah pendek (2 rakaat pertama).",
+          "desc_en": "Place the right hand over the left on the chest, then recite the opening supplication, Al-Fatihah, and a short surah (first two rak'ahs).",
+          "illustration": "sedekap"
+        },
+        {
+          "id": "ruku",
+          "title_id": "Ruku'",
+          "title_en": "Ruku' (Bowing)",
+          "desc_id": "Membungkukkan badan hingga punggung rata, tangan memegang lutut, sambil membaca tasbih ruku' (\"Subhana rabbiyal 'adzimi\" 3x).",
+          "desc_en": "Bow until the back is flat, hands gripping the knees, while reciting the ruku' remembrance (\"Subhana rabbiyal 'adzim\" 3x).",
+          "illustration": "ruku"
+        },
+        {
+          "id": "itidal",
+          "title_id": "I'tidal",
+          "title_en": "I'tidal (Rising from Ruku')",
+          "desc_id": "Bangkit dari ruku' hingga berdiri tegak kembali, membaca \"Sami'allahu liman hamidah\" lalu \"Rabbana lakal hamd\".",
+          "desc_en": "Rise from ruku' back to an upright standing position, reciting \"Sami'allahu liman hamidah\" then \"Rabbana lakal hamd\".",
+          "illustration": "itidal"
+        },
+        {
+          "id": "sujud",
+          "title_id": "Sujud",
+          "title_en": "Sujud (Prostration)",
+          "desc_id": "Sujud dengan dahi, hidung, kedua telapak tangan, lutut, dan ujung jari kaki menyentuh lantai, membaca tasbih sujud (\"Subhana rabbiyal a'la\" 3x).",
+          "desc_en": "Prostrate with the forehead, nose, both palms, knees, and toes touching the ground, reciting the prostration remembrance (\"Subhana rabbiyal a'la\" 3x).",
+          "illustration": "sujud"
+        },
+        {
+          "id": "duduk_antara_dua_sujud",
+          "title_id": "Duduk di Antara Dua Sujud",
+          "title_en": "Sitting Between Two Prostrations",
+          "desc_id": "Duduk sejenak di antara dua sujud, membaca \"Rabbighfirli warhamni...\", lalu sujud kedua dengan bacaan yang sama seperti sujud pertama.",
+          "desc_en": "Sit briefly between the two prostrations, reciting \"Rabbighfirli warhamni...\", then perform the second prostration with the same recitation as the first.",
+          "illustration": "duduk"
+        },
+        {
+          "id": "takbir_tambahan_rakaat_2",
+          "title_id": "5x Takbir Tambahan (Rakaat 2)",
+          "title_en": "5x Additional Takbir (2nd Rak'ah)",
+          "desc_id": "Setelah bangun dari sujud rakaat pertama, sebelum membaca Al-Fatihah, membaca takbir tambahan 5 kali.",
+          "desc_en": "After rising from the first rak'ah's prostration, before reciting Al-Fatihah, recite 5 additional takbirs.",
+          "illustration": "takbir"
+        },
+        {
+          "id": "tasyahud_akhir",
+          "title_id": "Tasyahud Akhir",
+          "title_en": "Final Tasyahud",
+          "desc_id": "Duduk tasyahud di rakaat terakhir, membaca bacaan tasyahud, shalawat kepada Nabi Muhammad ▷, dan doa perlindungan sebelum salam. (Shalat 3-4 rakaat juga punya tasyahud awal di rakaat ke-2, lalu berdiri lagi tanpa salam.)",
+          "desc_en": "Sit for the final tashahhud, reciting the tashahhud, sending blessings upon the Prophet ▷, and a protective supplication before the closing salam. (Prayers of 3-4 rak'ahs also have a first tashahhud in the 2nd rak'ah, then stand again without salam.)",
+          "illustration": "tasyahud_akhir"
+        },
+        {
+          "id": "salam",
+          "title_id": "Salam",
+          "title_en": "Salam (Closing Greeting)",
+          "desc_id": "Menoleh ke kanan membaca \"Assalamu'alaikum warahmatullah\", lalu ke kiri dengan bacaan yang sama, menandai berakhirnya shalat.",
+          "desc_en": "Turn the head to the right saying \"Assalamu'alaikum warahmatullah\", then to the left with the same words, marking the end of the prayer.",
+          "illustration": "noleh_kanan"
+        }
+      ]
+    },
+    {
+      "slug": "jenazah",
+      "category": "sunnah",
+      "name_id": "Shalat Jenazah",
+      "name_en": "Funeral Prayer (Jenazah)",
+      "rakaat_info_id": "Tanpa ruku' & sujud -- 4 takbir sambil berdiri",
+      "rakaat_info_en": "No ruku' or sujud -- 4 takbirs while standing",
+      "intro_id": "Shalat yang hukumnya fardhu kifayah (gugur kewajiban jika sudah dikerjakan sebagian warga), dikerjakan seluruhnya sambil berdiri menghadap jenazah.",
+      "intro_en": "A prayer that is a communal obligation (fulfilled for everyone if performed by at least some members of the community), performed entirely standing, facing the deceased.",
+      "notes_id": "Tidak ada ruku', sujud, atau duduk sama sekali -- seluruh shalat dikerjakan berdiri dari takbir pertama hingga salam.",
+      "notes_en": "There is no ruku', sujud, or sitting at all -- the entire prayer is performed standing from the first takbir until the salam.",
+      "recommended_reading_id": "Al-Fatihah (setelah takbir 1), shalawat (setelah takbir 2), doa untuk jenazah (setelah takbir 3).",
+      "recommended_reading_en": "Al-Fatihah (after the 1st takbir), blessings upon the Prophet (after the 2nd), a supplication for the deceased (after the 3rd).",
+      "steps": [
+        {
+          "id": "takbir_1",
+          "title_id": "Takbir ke-1",
+          "title_en": "1st Takbir",
+          "desc_id": "Niat + takbiratul ihram sambil berdiri (tanpa ruku'/sujud), dilanjutkan membaca Al-Fatihah.",
+          "desc_en": "Intention + takbiratul ihram while standing (no ruku' or sujud), followed by reciting Al-Fatihah.",
+          "illustration": "takbir"
+        },
+        {
+          "id": "takbir_2",
+          "title_id": "Takbir ke-2",
+          "title_en": "2nd Takbir",
+          "desc_id": "Takbir kedua, dilanjutkan membaca shalawat kepada Nabi Muhammad ▷ (minimal \"Allahumma shalli 'ala Muhammad\").",
+          "desc_en": "Second takbir, followed by sending blessings upon the Prophet ▷ (at minimum \"Allahumma shalli 'ala Muhammad\").",
+          "illustration": "takbir"
+        },
+        {
+          "id": "takbir_3",
+          "title_id": "Takbir ke-3",
+          "title_en": "3rd Takbir",
+          "desc_id": "Takbir ketiga, dilanjutkan membaca doa untuk jenazah (mis. \"Allahummaghfir lahu warhamhu wa 'aafihi wa'fu 'anhu...\").",
+          "desc_en": "Third takbir, followed by a supplication for the deceased (e.g. \"Allahummaghfir lahu warhamhu wa 'aafihi wa'fu 'anhu...\").",
+          "illustration": "takbir"
+        },
+        {
+          "id": "takbir_4",
+          "title_id": "Takbir ke-4",
+          "title_en": "4th Takbir",
+          "desc_id": "Takbir keempat, dilanjutkan doa penutup singkat, lalu salam ke kanan (sebagian ulama juga ke kiri).",
+          "desc_en": "Fourth takbir, followed by a brief closing supplication, then salam to the right (some scholars also salam to the left).",
+          "illustration": "noleh_kanan"
+        }
+      ]
+    }
+  ],
+  "jamaah_formations": [
+    {
+      "id": "imam_dan_wanita",
+      "title_id": "Imam & Makmum Wanita",
+      "title_en": "Imam & Female Follower",
+      "desc_id": "Jika makmum hanya satu wanita, ia berdiri di belakang imam (tidak sejajar), berbeda dari makmum laki-laki tunggal yang berdiri sejajar di samping kanan imam.",
+      "desc_en": "If there is only one female follower, she stands behind the imam (not beside him) -- different from a single male follower, who stands beside the imam on his right.",
+      "illustration": "jamaah_imam_dan_wanita"
+    },
+    {
+      "id": "jamaah_1_laki_1_wanita",
+      "title_id": "1 Makmum Laki-laki & 1 Wanita",
+      "title_en": "1 Male & 1 Female Follower",
+      "desc_id": "Makmum laki-laki berdiri sejajar di samping kanan imam, makmum wanita berdiri sendiri di saf paling belakang.",
+      "desc_en": "The male follower stands beside the imam on his right; the female follower stands alone in the back row.",
+      "illustration": "jamaah_1_laki_1_wanita"
+    },
+    {
+      "id": "laki_laki_berdua",
+      "title_id": "Imam & 2 Makmum Laki-laki",
+      "title_en": "Imam & 2 Male Followers",
+      "desc_id": "Begitu makmum laki-laki berjumlah dua orang atau lebih, mereka membentuk saf sendiri di belakang imam (bukan lagi sejajar di samping).",
+      "desc_en": "Once there are two or more male followers, they form their own row behind the imam (no longer standing beside him).",
+      "illustration": "jamaah_laki_laki_berdua"
+    },
+    {
+      "id": "laki_laki_lebih_dari_satu",
+      "title_id": "Imam & Beberapa Makmum Laki-laki",
+      "title_en": "Imam & Several Male Followers",
+      "desc_id": "Saf laki-laki diisi rapat dari tengah ke tepi, diusahakan lurus dan tidak renggang antar bahu.",
+      "desc_en": "The men's row is filled from the center outward, kept straight with shoulders close together.",
+      "illustration": "jamaah_laki_laki_lebih_dari_satu"
+    },
+    {
+      "id": "makmum_1_laki_dan_wanita",
+      "title_id": "Makmum Campuran: 1 Laki-laki & Beberapa Wanita",
+      "title_en": "Mixed Followers: 1 Male & Several Women",
+      "desc_id": "Makmum laki-laki tunggal tetap sejajar di samping imam; saf wanita (berapapun jumlahnya) selalu ditempatkan di saf paling belakang.",
+      "desc_en": "A single male follower still stands beside the imam; the women's row (whatever its size) is always placed at the very back.",
+      "illustration": "jamaah_makmum_1_laki_dan_wanita"
+    },
+    {
+      "id": "makmum_laki_lebih_dari_satu_dan_wanita",
+      "title_id": "Makmum Campuran: Beberapa Laki-laki & Wanita",
+      "title_en": "Mixed Followers: Several Men & Women",
+      "desc_id": "Urutan saf dari depan ke belakang: imam, saf laki-laki (bisa lebih dari satu saf), baru saf wanita di paling belakang.",
+      "desc_en": "Row order from front to back: imam, men's row(s) (can be more than one row), then the women's row at the very back.",
+      "illustration": "jamaah_makmum_laki_lebih_dari_satu_dan_wanita"
+    }
+  ]
+}
