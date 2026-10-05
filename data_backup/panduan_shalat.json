@@ -2,6 +2,299 @@
   "version": 1,
   "disclaimer_id": "Tata cara berikut mengikuti praktik yang paling umum diajarkan (rujukan: Fiqh Sunnah, Fiqh al-Manhaji, Sifat Shalat Nabi/Qiyamul Lail Al-Albani). Beberapa detail (jumlah takbir Ied, variasi rakaat Witir, dsb.) memang memiliki perbedaan pendapat ulama yang masing-masing punya dasar sah -- ditandai eksplisit di catatan tiap shalat.",
   "disclaimer_en": "The following steps follow the most commonly taught practice (references: Fiqh Sunnah, Fiqh al-Manhaji, Sifat Shalat Nabi/Qiyam al-Layl by Al-Albani). Some details (Eid takbir counts, Witr rak'ah variations, etc.) do have valid scholarly differences of opinion -- these are flagged explicitly in each prayer's notes.",
+  "recitations": {
+    "takbir": {
+      "label_id": "Takbir",
+      "label_en": "Takbir",
+      "arabic": "اللَّهُ أَكْبَرُ",
+      "latin": "Allahu akbar",
+      "translation_id": "Allah Maha Besar.",
+      "translation_en": "Allah is the Greatest."
+    },
+    "iftitah_wajjahtu": {
+      "label_id": "Doa Iftitah (versi umum di Indonesia)",
+      "label_en": "Opening Supplication (common version in Indonesia)",
+      "arabic": "اللَّهُ أَكْبَرُ كَبِيرًا وَالْحَمْدُ لِلَّهِ كَثِيرًا وَسُبْحَانَ اللَّهِ بُكْرَةً وَأَصِيلًا، إِنِّي وَجَّهْتُ وَجْهِيَ لِلَّذِي فَطَرَ السَّمَاوَاتِ وَالْأَرْضَ حَنِيفًا مُسْلِمًا وَمَا أَنَا مِنَ الْمُشْرِكِينَ، إِنَّ صَلَاتِي وَنُسُكِي وَمَحْيَايَ وَمَمَاتِي لِلَّهِ رَبِّ الْعَالَمِينَ، لَا شَرِيكَ لَهُ وَبِذَلِكَ أُمِرْتُ وَأَنَا مِنَ الْمُسْلِمِينَ",
+      "latin": "Allahu akbar kabira, walhamdu lillahi katsira, wa subhanallahi bukratan wa ashila. Inni wajjahtu wajhiya lilladzi fatharas samawati wal ardha hanifan musliman wa ma ana minal musyrikin. Inna shalati wa nusuki wa mahyaya wa mamati lillahi rabbil 'alamin. La syarika lahu wa bidzalika umirtu wa ana minal muslimin.",
+      "translation_id": "Allah Maha Besar dengan sebesar-besarnya, segala puji bagi Allah dengan pujian yang banyak, dan Maha Suci Allah pada waktu pagi dan petang. Aku hadapkan wajahku kepada Dzat yang menciptakan langit dan bumi dengan lurus dan berserah diri, dan aku bukan termasuk orang-orang musyrik. Sesungguhnya shalatku, ibadahku, hidupku, dan matiku hanyalah untuk Allah, Tuhan semesta alam. Tidak ada sekutu bagi-Nya; dengan itulah aku diperintahkan dan aku termasuk orang-orang muslim.",
+      "translation_en": "Allah is the Greatest, greatly so; abundant praise is for Allah; and glory be to Allah morning and evening. I have turned my face to the One who created the heavens and the earth, upright and submitting, and I am not of the polytheists. Indeed my prayer, my worship, my life and my death are for Allah, Lord of the worlds. He has no partner; this I was commanded, and I am among the Muslims.",
+      "note_id": "Doa iftitah hukumnya sunnah, boleh ditinggalkan. Ini versi yang lazim diajarkan mazhab Syafi'i; mazhab lain memilih doa iftitah yang berbeda (lihat 2 pilihan berikutnya). Semuanya punya dasar.",
+      "note_en": "The opening supplication is sunnah and may be skipped. This is the version commonly taught in the Shafi'i school; other schools prefer different supplications (see the next two options). All have a basis.",
+      "source": "Muslim"
+    },
+    "iftitah_baidz": {
+      "label_id": "Doa Iftitah (alternatif 1)",
+      "label_en": "Opening Supplication (alternative 1)",
+      "arabic": "اللَّهُمَّ بَاعِدْ بَيْنِي وَبَيْنَ خَطَايَايَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ، اللَّهُمَّ نَقِّنِي مِنَ الْخَطَايَا كَمَا يُنَقَّى الثَّوْبُ الْأَبْيَضُ مِنَ الدَّنَسِ، اللَّهُمَّ اغْسِلْنِي مِنْ خَطَايَايَ بِالثَّلْجِ وَالْمَاءِ وَالْبَرَدِ",
+      "latin": "Allahumma ba'id baini wa baina khathayaya kama ba'adta bainal masyriqi wal maghrib. Allahumma naqqini minal khathaya kama yunaqqats tsaubul abyadhu minad danas. Allahummaghsilni min khathayaya bits tsalji wal ma'i wal barad.",
+      "translation_id": "Ya Allah, jauhkanlah antara aku dan kesalahan-kesalahanku sebagaimana Engkau jauhkan antara timur dan barat. Ya Allah, bersihkan aku dari kesalahan-kesalahanku sebagaimana kain putih dibersihkan dari kotoran. Ya Allah, cucilah kesalahan-kesalahanku dengan salju, air, dan embun beku.",
+      "translation_en": "O Allah, distance me from my sins as You have distanced the east from the west. O Allah, cleanse me of sins as a white garment is cleansed of dirt. O Allah, wash away my sins with snow, water and hail.",
+      "source": "Bukhari-Muslim"
+    },
+    "iftitah_subhanaka": {
+      "label_id": "Doa Iftitah (alternatif 2)",
+      "label_en": "Opening Supplication (alternative 2)",
+      "arabic": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ وَتَعَالَى جَدُّكَ وَلَا إِلَهَ غَيْرُكَ",
+      "latin": "Subhanakallahumma wa bihamdika wa tabarakasmuka wa ta'ala jadduka wa la ilaha ghairuk.",
+      "translation_id": "Maha Suci Engkau, ya Allah, dan dengan memuji-Mu. Maha berkah nama-Mu, Maha Tinggi keagungan-Mu, dan tidak ada tuhan selain Engkau.",
+      "translation_en": "Glory and praise be to You, O Allah. Blessed is Your name, exalted is Your majesty, and there is no god but You.",
+      "note_id": "Doa iftitah ini lazim dipakai mazhab Hanafi dan Hanbali. Boleh dipilih salah satu saja.",
+      "note_en": "This supplication is commonly used in the Hanafi and Hanbali schools. Choose just one opening supplication."
+    },
+    "iftitah_tahajud": {
+      "label_id": "Doa Iftitah Shalat Malam (opsional)",
+      "label_en": "Night Prayer Opening Supplication (optional)",
+      "arabic": "اللَّهُمَّ لَكَ الْحَمْدُ أَنْتَ قَيِّمُ السَّمَاوَاتِ وَالْأَرْضِ وَمَنْ فِيهِنَّ، وَلَكَ الْحَمْدُ لَكَ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَمَنْ فِيهِنَّ، وَلَكَ الْحَمْدُ أَنْتَ نُورُ السَّمَاوَاتِ وَالْأَرْضِ، وَلَكَ الْحَمْدُ أَنْتَ مَلِكُ السَّمَاوَاتِ وَالْأَرْضِ، وَلَكَ الْحَمْدُ أَنْتَ الْحَقُّ وَوَعْدُكَ الْحَقُّ وَقَوْلُكَ حَقٌّ وَلِقَاؤُكَ حَقٌّ وَالْجَنَّةُ حَقٌّ وَالنَّارُ حَقٌّ وَالنَّبِيُّونَ حَقٌّ وَمُحَمَّدٌ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حَقٌّ وَالسَّاعَةُ حَقٌّ، اللَّهُمَّ لَكَ أَسْلَمْتُ وَبِكَ آمَنْتُ وَعَلَيْكَ تَوَكَّلْتُ وَإِلَيْكَ أَنَبْتُ وَبِكَ خَاصَمْتُ وَإِلَيْكَ حَاكَمْتُ، فَاغْفِرْ لِي مَا قَدَّمْتُ وَمَا أَخَّرْتُ وَمَا أَسْرَرْتُ وَمَا أَعْلَنْتُ، أَنْتَ إِلَهِي لَا إِلَهَ إِلَّا أَنْتَ",
+      "latin": "Allahumma lakal hamdu anta qayyimus samawati wal ardhi wa man fihinna, wa lakal hamdu laka mulkus samawati wal ardhi wa man fihinna, wa lakal hamdu anta nurus samawati wal ardh, wa lakal hamdu anta malikus samawati wal ardh, wa lakal hamdu antal haqq, wa wa'duka haqq, wa qauluka haqq, wa liqa'uka haqq, wal jannatu haqq, wannaru haqq, wan nabiyyuna haqq, wa Muhammadun shallallahu 'alaihi wa sallam haqq, was sa'atu haqq. Allahumma laka aslamtu wa bika amantu wa 'alaika tawakkaltu wa ilaika anabtu wa bika khashamtu wa ilaika hakamtu, faghfir li ma qaddamtu wa ma akhkhartu wa ma asrartu wa ma a'lantu, anta ilahi la ilaha illa anta.",
+      "translation_id": "Ya Allah, bagi-Mu segala puji, Engkau penegak langit, bumi, dan siapa saja di dalamnya. Bagi-Mu segala puji, milik-Mu kerajaan langit, bumi, dan siapa saja di dalamnya. Bagi-Mu segala puji, Engkau cahaya langit dan bumi. Bagi-Mu segala puji, Engkau Raja langit dan bumi. Bagi-Mu segala puji, Engkau Maha Benar, janji-Mu benar, firman-Mu benar, pertemuan dengan-Mu benar, surga benar, neraka benar, para nabi benar, Muhammad shallallahu 'alaihi wa sallam benar, dan hari kiamat benar. Ya Allah, kepada-Mu aku berserah diri, kepada-Mu aku beriman, kepada-Mu aku bertawakal, kepada-Mu aku kembali, dengan pertolongan-Mu aku berdebat, dan kepada-Mu aku berhukum. Maka ampunilah dosaku yang telah lalu dan yang akan datang, yang kusembunyikan dan yang kutampakkan. Engkau Tuhanku, tidak ada tuhan selain Engkau.",
+      "translation_en": "O Allah, to You belongs all praise; You are the Sustainer of the heavens and the earth and all within them. To You belongs all praise; Yours is the dominion of the heavens and the earth and all within them. To You belongs all praise; You are the Light of the heavens and the earth. To You belongs all praise; You are the King of the heavens and the earth. To You belongs all praise; You are the Truth, Your promise is true, Your word is true, meeting You is true, Paradise is true, Hellfire is true, the prophets are true, Muhammad (peace be upon him) is true, and the Hour is true. O Allah, to You I have submitted, in You I believe, upon You I rely, to You I turn, by You I argue and to You I appeal for judgment. So forgive me what I have sent forth and what I have left behind, what I have concealed and what I have declared. You are my God; there is no god but You.",
+      "note_id": "Doa iftitah khusus untuk shalat malam (Tahajud). Dibaca sebagai pengganti doa iftitah biasa, boleh dilewati kalau belum hafal.",
+      "note_en": "An opening supplication specific to night prayer (Tahajjud), read in place of the usual one. Feel free to skip it if not yet memorized.",
+      "source": "Bukhari-Muslim"
+    },
+    "taawudz": {
+      "label_id": "Ta'awudz",
+      "label_en": "Ta'awwudh",
+      "arabic": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+      "latin": "A'udzu billahi minasy syaithanir rajim.",
+      "translation_id": "Aku berlindung kepada Allah dari godaan setan yang terkutuk.",
+      "translation_en": "I seek refuge in Allah from the accursed Satan.",
+      "note_id": "Dibaca sebelum Al-Fatihah di rakaat pertama (sunnah).",
+      "note_en": "Recited before Al-Fatihah in the first rak'ah (sunnah)."
+    },
+    "fatihah": {
+      "label_id": "Al-Fatihah",
+      "label_en": "Al-Fatihah",
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ\nالْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ\nالرَّحْمَٰنِ الرَّحِيمِ\nمَالِكِ يَوْمِ الدِّينِ\nإِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ\nاهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ\nصِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+      "latin": "Bismillahirrahmanirrahim. Alhamdu lillahi rabbil 'alamin. Arrahmanirrahim. Maliki yaumiddin. Iyyaka na'budu wa iyyaka nasta'in. Ihdinash shirathal mustaqim. Shirathal ladzina an'amta 'alaihim ghairil maghdhubi 'alaihim wa ladh dhallin.",
+      "translation_id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang. Segala puji bagi Allah, Tuhan semesta alam. Yang Maha Pengasih, Maha Penyayang. Pemilik hari pembalasan. Hanya kepada-Mu kami menyembah dan hanya kepada-Mu kami memohon pertolongan. Tunjukilah kami jalan yang lurus, (yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) mereka yang sesat.",
+      "translation_en": "In the name of Allah, the Most Gracious, the Most Merciful. All praise is for Allah, Lord of the worlds. The Most Gracious, the Most Merciful. Master of the Day of Judgment. You alone we worship, and You alone we ask for help. Guide us to the straight path: the path of those You have blessed, not of those who earned Your wrath, nor of those who went astray.",
+      "note_id": "Dibaca di setiap rakaat (wajib). Mazhab Syafi'i menghitung basmalah sebagai ayat pertama Al-Fatihah sehingga wajib dibaca; mazhab Hanafi dan Hanbali membacanya pelan dan tidak menghitungnya sebagai bagian Al-Fatihah; mazhab Maliki tidak membacanya dalam shalat fardhu. Untuk shalat jenazah, mazhab Hanafi membaca tsana (doa iftitah), bukan Al-Fatihah.",
+      "note_en": "Recited in every rak'ah (obligatory). The Shafi'i school counts the basmalah as the first verse of Al-Fatihah, so it is recited; the Hanafi and Hanbali schools recite it silently without counting it as part of Al-Fatihah; the Maliki school does not recite it in obligatory prayers. In the funeral prayer, the Hanafi school recites the opening supplication (thana') instead of Al-Fatihah.",
+      "source": "QS. 1:1-7"
+    },
+    "amin": {
+      "label_id": "Setelah Al-Fatihah",
+      "label_en": "After Al-Fatihah",
+      "arabic": "آمِينَ",
+      "latin": "Amin.",
+      "translation_id": "Ya Allah, kabulkanlah.",
+      "translation_en": "O Allah, accept our prayer.",
+      "note_id": "Imam dan makmum mengucapkannya setelah Al-Fatihah. Pada shalat jahr (Maghrib, Isya, Subuh), mazhab Syafi'i dan Hanbali menyunnahkan mengeraskannya.",
+      "note_en": "Said after Al-Fatihah by both imam and followers. In loud prayers (Maghrib, Isha, Fajr), the Shafi'i and Hanbali schools recommend saying it aloud."
+    },
+    "surah_ikhlas": {
+      "label_id": "Surah pendek: Al-Ikhlas",
+      "label_en": "Short surah: Al-Ikhlas",
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ\nقُلْ هُوَ اللَّهُ أَحَدٌ\nاللَّهُ الصَّمَدُ\nلَمْ يَلِدْ وَلَمْ يُولَدْ\nوَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+      "latin": "Bismillahirrahmanirrahim. Qul huwallahu ahad. Allahush shamad. Lam yalid wa lam yulad. Wa lam yakul lahu kufuwan ahad.",
+      "translation_id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang. Katakanlah (Muhammad), \"Dialah Allah, Yang Maha Esa. Allah tempat meminta segala sesuatu. (Dia) tidak beranak dan tidak pula diperanakkan. Dan tidak ada sesuatu pun yang setara dengan Dia.\"",
+      "translation_en": "In the name of Allah, the Most Gracious, the Most Merciful. Say, \"He is Allah, the One. Allah, the Eternal Refuge. He neither begets nor is born. And there is none comparable to Him.\"",
+      "source": "QS. 112"
+    },
+    "surah_kautsar": {
+      "label_id": "Surah pendek: Al-Kautsar",
+      "label_en": "Short surah: Al-Kawthar",
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ\nإِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ\nفَصَلِّ لِرَبِّكَ وَانْحَرْ\nإِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+      "latin": "Bismillahirrahmanirrahim. Inna a'thainakal kautsar. Fashalli lirabbika wanhar. Inna syani'aka huwal abtar.",
+      "translation_id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang. Sesungguhnya Kami telah memberimu (Muhammad) nikmat yang banyak. Maka laksanakanlah shalat karena Tuhanmu, dan berkurbanlah. Sesungguhnya orang yang membencimu, dialah yang terputus.",
+      "translation_en": "In the name of Allah, the Most Gracious, the Most Merciful. Indeed, We have granted you abundant good. So pray to your Lord and sacrifice. Indeed, it is your enemy who is cut off.",
+      "source": "QS. 108"
+    },
+    "surah_kafirun": {
+      "label_id": "Surah pendek: Al-Kafirun",
+      "label_en": "Short surah: Al-Kafirun",
+      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ\nقُلْ يَا أَيُّهَا الْكَافِرُونَ\nلَا أَعْبُدُ مَا تَعْبُدُونَ\nوَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ\nوَلَا أَنَا عَابِدٌ مَا عَبَدْتُمْ\nوَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ\nلَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+      "latin": "Bismillahirrahmanirrahim. Qul ya ayyuhal kafirun. La a'budu ma ta'budun. Wa la antum 'abiduna ma a'bud. Wa la ana 'abidun ma 'abattum. Wa la antum 'abiduna ma a'bud. Lakum dinukum wa liya din.",
+      "translation_id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang. Katakanlah (Muhammad), \"Wahai orang-orang kafir! Aku tidak akan menyembah apa yang kamu sembah. Dan kamu bukan penyembah apa yang aku sembah. Dan aku tidak pernah menjadi penyembah apa yang kamu sembah. Dan kamu tidak pernah (pula) menjadi penyembah apa yang aku sembah. Untukmu agamamu, dan untukkulah agamaku.\"",
+      "translation_en": "In the name of Allah, the Most Gracious, the Most Merciful. Say, \"O disbelievers! I do not worship what you worship. Nor do you worship what I worship. Nor will I worship what you worship. Nor will you worship what I worship. For you is your religion, and for me is my religion.\"",
+      "source": "QS. 109"
+    },
+    "ruku_tasbih": {
+      "label_id": "Tasbih Ruku'",
+      "label_en": "Ruku' Tasbih",
+      "arabic": "سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ",
+      "latin": "Subhana rabbiyal 'adzimi wa bihamdih.",
+      "translation_id": "Maha Suci Tuhanku Yang Maha Agung, dan dengan memuji-Nya.",
+      "translation_en": "Glory be to my Lord, the Almighty, and praise be to Him.",
+      "note_id": "Tambahan \"wa bihamdih\" lazim dibaca; membaca tanpa tambahan itu juga diajarkan. Minimal sekali, disunnahkan tiga kali.",
+      "note_en": "The addition \"wa bihamdih\" is commonly recited; saying it without the addition is also taught. Once is the minimum; three times is sunnah.",
+      "repeat": 3
+    },
+    "itidal_sami": {
+      "label_id": "Bangkit dari Ruku'",
+      "label_en": "Rising from Ruku'",
+      "arabic": "سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ",
+      "latin": "Sami'allahu liman hamidah.",
+      "translation_id": "Allah mendengar (menerima) pujian orang yang memuji-Nya.",
+      "translation_en": "Allah hears those who praise Him.",
+      "note_id": "Dibaca imam dan orang yang shalat sendirian sambil bangkit dari ruku'. Makmum langsung membaca \"Rabbana lakal hamd\".",
+      "note_en": "Said by the imam and by someone praying alone while rising from ruku'. Followers go straight to \"Rabbana lakal hamd\".",
+      "source": "Bukhari-Muslim"
+    },
+    "itidal_rabbana": {
+      "label_id": "Setelah Tegak (I'tidal)",
+      "label_en": "Standing Upright (I'tidal)",
+      "arabic": "رَبَّنَا لَكَ الْحَمْدُ مِلْءَ السَّمَاوَاتِ وَمِلْءَ الْأَرْضِ وَمِلْءَ مَا شِئْتَ مِنْ شَيْءٍ بَعْدُ",
+      "latin": "Rabbana lakal hamdu mil'as samawati wa mil'al ardhi wa mil'a ma syi'ta min syai'in ba'du.",
+      "translation_id": "Wahai Tuhan kami, bagi-Mu segala puji, sepenuh langit, sepenuh bumi, dan sepenuh apa yang Engkau kehendaki sesudahnya.",
+      "translation_en": "Our Lord, to You belongs all praise, filling the heavens, filling the earth, and filling whatever else You will.",
+      "note_id": "Bacaan singkat \"Rabbana lakal hamd\" (Ya Tuhan kami, bagi-Mu segala puji) sudah cukup; lanjutannya adalah tambahan yang dianjurkan.",
+      "note_en": "The short \"Rabbana lakal hamd\" (Our Lord, to You is all praise) is sufficient; the continuation is a recommended addition.",
+      "source": "Muslim"
+    },
+    "qunut": {
+      "label_id": "Doa Qunut (sunnah, ada perbedaan pendapat)",
+      "label_en": "Qunut Supplication (sunnah, scholars differ)",
+      "arabic": "اللَّهُمَّ اهْدِنِي فِيمَنْ هَدَيْتَ، وَعَافِنِي فِيمَنْ عَافَيْتَ، وَتَوَلَّنِي فِيمَنْ تَوَلَّيْتَ، وَبَارِكْ لِي فِيمَا أَعْطَيْتَ، وَقِنِي شَرَّ مَا قَضَيْتَ، فَإِنَّكَ تَقْضِي وَلَا يُقْضَى عَلَيْكَ، وَإِنَّهُ لَا يَذِلُّ مَنْ وَالَيْتَ، وَلَا يَعِزُّ مَنْ عَادَيْتَ، تَبَارَكْتَ رَبَّنَا وَتَعَالَيْتَ، فَلَكَ الْحَمْدُ عَلَى مَا قَضَيْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ، وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ النَّبِيِّ الْأُمِّيِّ وَعَلَى آلِهِ وَصَحْبِهِ وَسَلَّمَ",
+      "latin": "Allahummahdini fiman hadait, wa 'afini fiman 'afait, wa tawallani fiman tawallait, wa barik li fima a'thait, wa qini syarra ma qadhait, fa innaka taqdhi wa la yuqdha 'alaik, wa innahu la yadzillu man walait, wa la ya'izzu man 'adait, tabarakta rabbana wa ta'alait. Falakal hamdu 'ala ma qadhait, astaghfiruka wa atubu ilaik, wa shallallahu 'ala sayyidina Muhammadin nabiyyil ummiyyi wa 'ala alihi wa shahbihi wa sallam.",
+      "translation_id": "Ya Allah, berilah aku petunjuk bersama orang-orang yang Engkau beri petunjuk; berilah aku kesehatan bersama orang-orang yang Engkau beri kesehatan; urusilah aku bersama orang-orang yang Engkau urus; berkahilah apa yang Engkau berikan kepadaku; dan lindungilah aku dari keburukan apa yang Engkau tetapkan. Sesungguhnya Engkaulah yang menetapkan dan tidak ada yang menetapkan atas-Mu. Sesungguhnya tidak akan hina orang yang Engkau bela, dan tidak akan mulia orang yang Engkau musuhi. Maha Berkah Engkau, wahai Tuhan kami, dan Maha Tinggi. Maka bagi-Mu segala puji atas apa yang Engkau tetapkan. Aku memohon ampun kepada-Mu dan bertobat kepada-Mu. Semoga Allah melimpahkan shalawat dan salam kepada junjungan kami Nabi Muhammad, Nabi yang ummi, beserta keluarga dan sahabatnya.",
+      "translation_en": "O Allah, guide me among those You have guided; grant me well-being among those You have granted well-being; take me into Your care among those You have taken into Your care; bless me in what You have given; and protect me from the evil of what You have decreed. Indeed You decree, and none can decree over You. Indeed, whoever You support is never humiliated, and whoever You oppose is never honored. Blessed are You, our Lord, and exalted. To You is praise for what You have decreed. I seek Your forgiveness and repent to You. May Allah send blessings and peace upon our master Muhammad, the unlettered Prophet, and upon his family and companions.",
+      "note_id": "Qunut ini dibaca setelah i'tidal rakaat ke-2 shalat Subuh, serta pada rakaat terakhir Witir di paruh kedua Ramadhan (menurut mazhab Syafi'i). Pendapat ulama berbeda: mazhab Hanafi dan Hanbali tidak melakukan qunut Subuh (qunut mereka pada Witir), sedangkan mazhab Maliki melakukannya sebelum ruku'. Kalimat setelah \"tabarakta rabbana wa ta'alait\" adalah tambahan yang lazim di Indonesia. Ikuti kebiasaan mazhab/imam Anda atau tanyakan kepada ustadz.",
+      "note_en": "This qunut is read after i'tidal in the 2nd rak'ah of Fajr, and in the last rak'ah of Witr in the second half of Ramadan (Shafi'i school). Scholars differ: the Hanafi and Hanbali schools do not make qunut in Fajr (their qunut is in Witr), while the Maliki school does it before ruku'. The lines after \"tabarakta rabbana wa ta'alait\" are a customary addition in Indonesia. Follow your own school/imam or ask a teacher."
+    },
+    "sujud_tasbih": {
+      "label_id": "Tasbih Sujud",
+      "label_en": "Sujud Tasbih",
+      "arabic": "سُبْحَانَ رَبِّيَ الْأَعْلَى وَبِحَمْدِهِ",
+      "latin": "Subhana rabbiyal a'la wa bihamdih.",
+      "translation_id": "Maha Suci Tuhanku Yang Maha Tinggi, dan dengan memuji-Nya.",
+      "translation_en": "Glory be to my Lord, the Most High, and praise be to Him.",
+      "note_id": "Tambahan \"wa bihamdih\" lazim dibaca; membaca tanpa tambahan itu juga diajarkan. Dibaca di kedua sujud. Minimal sekali, disunnahkan tiga kali.",
+      "note_en": "The addition \"wa bihamdih\" is commonly recited; saying it without the addition is also taught. Recited in both prostrations. Once is the minimum; three times is sunnah.",
+      "repeat": 3
+    },
+    "duduk_short": {
+      "label_id": "Duduk di Antara Dua Sujud (singkat)",
+      "label_en": "Sitting Between Two Prostrations (short)",
+      "arabic": "رَبِّ اغْفِرْ لِي رَبِّ اغْفِرْ لِي",
+      "latin": "Rabbighfirli, rabbighfirli.",
+      "translation_id": "Ya Tuhanku, ampunilah aku. Ya Tuhanku, ampunilah aku.",
+      "translation_en": "My Lord, forgive me. My Lord, forgive me."
+    },
+    "duduk_full": {
+      "label_id": "Duduk di Antara Dua Sujud (lengkap)",
+      "label_en": "Sitting Between Two Prostrations (complete)",
+      "arabic": "رَبِّ اغْفِرْ لِي وَارْحَمْنِي وَاجْبُرْنِي وَارْفَعْنِي وَارْزُقْنِي وَاهْدِنِي وَعَافِنِي وَاعْفُ عَنِّي",
+      "latin": "Rabbighfirli warhamni wajburni warfa'ni warzuqni wahdini wa 'afini wa'fu 'anni.",
+      "translation_id": "Ya Tuhanku, ampunilah aku, rahmatilah aku, cukupkanlah kekuranganku, angkatlah derajatku, berilah aku rezeki, berilah aku petunjuk, berilah aku kesehatan, dan maafkanlah aku.",
+      "translation_en": "My Lord, forgive me, have mercy on me, mend my shortcomings, raise my rank, provide for me, guide me, grant me well-being, and pardon me.",
+      "note_id": "Redaksi doa ini sedikit berbeda antar riwayat; versi di atas yang paling lazim diajarkan di Indonesia. Membaca versi singkat saja juga cukup.",
+      "note_en": "The wording differs slightly between narrations; the version above is the one most commonly taught in Indonesia. The short version alone is also sufficient."
+    },
+    "tasyahud": {
+      "label_id": "Tasyahud (Tahiyyat)",
+      "label_en": "Tashahhud (Tahiyyat)",
+      "arabic": "التَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ لِلَّهِ، السَّلَامُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ",
+      "latin": "Attahiyyatul mubarakatush shalawatuth thayyibatu lillah. Assalamu 'alaika ayyuhan nabiyyu wa rahmatullahi wa barakatuh. Assalamu 'alaina wa 'ala 'ibadillahish shalihin. Asyhadu alla ilaha illallah, wa asyhadu anna Muhammadan rasulullah.",
+      "translation_id": "Segala penghormatan, keberkahan, shalawat, dan kebaikan hanyalah milik Allah. Semoga keselamatan, rahmat Allah, dan berkah-Nya tercurah kepadamu, wahai Nabi. Semoga keselamatan tercurah kepada kami dan kepada hamba-hamba Allah yang saleh. Aku bersaksi bahwa tidak ada tuhan selain Allah, dan aku bersaksi bahwa Muhammad adalah utusan Allah.",
+      "translation_en": "All greetings, blessings, prayers and good words are for Allah. Peace be upon you, O Prophet, and the mercy of Allah and His blessings. Peace be upon us and upon the righteous servants of Allah. I bear witness that there is no god but Allah, and I bear witness that Muhammad is the Messenger of Allah.",
+      "note_id": "Ini redaksi riwayat Ibnu Abbas yang dipakai mazhab Syafi'i. Mazhab Hanafi dan Hanbali memakai redaksi riwayat Ibnu Mas'ud (\"At-tahiyyatu lillahi wash-shalawatu wath-thayyibat...\"). Keduanya punya dasar sahih.",
+      "note_en": "This is the wording narrated by Ibn Abbas, used in the Shafi'i school. The Hanafi and Hanbali schools use the wording narrated by Ibn Mas'ud (\"At-tahiyyatu lillahi wash-shalawatu wath-thayyibat...\"). Both have sound basis.",
+      "source": "Muslim"
+    },
+    "shalawat_nabi_short": {
+      "label_id": "Shalawat Singkat",
+      "label_en": "Short Salawat",
+      "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ",
+      "latin": "Allahumma shalli 'ala Muhammad.",
+      "translation_id": "Ya Allah, limpahkanlah shalawat kepada Muhammad.",
+      "translation_en": "O Allah, send blessings upon Muhammad.",
+      "note_id": "Pada tasyahud awal, shalawat kepada Nabi disunnahkan menurut mazhab Syafi'i; mazhab lain tidak membaca shalawat di tasyahud awal. Pada shalat jenazah (setelah takbir ke-2), bacaan minimal ini sudah memenuhi rukun menurut mazhab Syafi'i, dan shalawat Ibrahimiyah lebih utama.",
+      "note_en": "In the first tashahhud, salawat on the Prophet is sunnah in the Shafi'i school; other schools do not recite it at the first tashahhud. In the funeral prayer (after the 2nd takbir), this minimum fulfils the requirement in the Shafi'i school, and the Ibrahimiyyah salawat is better."
+    },
+    "shalawat_ibrahimiyah": {
+      "label_id": "Shalawat Ibrahimiyah",
+      "label_en": "Ibrahimiyyah Salawat",
+      "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ، وَبَارِكْ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ إِبْرَاهِيمَ فِي الْعَالَمِينَ إِنَّكَ حَمِيدٌ مَجِيدٌ",
+      "latin": "Allahumma shalli 'ala Muhammad wa 'ala ali Muhammad, kama shallaita 'ala Ibrahim wa 'ala ali Ibrahim, wa barik 'ala Muhammad wa 'ala ali Muhammad, kama barakta 'ala Ibrahim wa 'ala ali Ibrahim, fil 'alamina innaka hamidum majid.",
+      "translation_id": "Ya Allah, limpahkanlah shalawat kepada Muhammad dan keluarga Muhammad, sebagaimana Engkau telah melimpahkan shalawat kepada Ibrahim dan keluarga Ibrahim. Dan limpahkanlah berkah kepada Muhammad dan keluarga Muhammad, sebagaimana Engkau telah melimpahkan berkah kepada Ibrahim dan keluarga Ibrahim, di seluruh alam. Sesungguhnya Engkau Maha Terpuji lagi Maha Mulia.",
+      "translation_en": "O Allah, send blessings upon Muhammad and the family of Muhammad, as You sent blessings upon Ibrahim and the family of Ibrahim. And bless Muhammad and the family of Muhammad, as You blessed Ibrahim and the family of Ibrahim, in all the worlds. Indeed, You are Praiseworthy and Glorious.",
+      "note_id": "Di Indonesia lazim ditambahkan kata \"sayyidina\" sebelum nama Muhammad dan Ibrahim; itu tambahan yang berasal dari kebiasaan para ulama, bukan bagian redaksi riwayat.",
+      "note_en": "In Indonesia the word \"sayyidina\" is customarily added before the names Muhammad and Ibrahim; this is a customary addition by scholars, not part of the narrated wording.",
+      "source": "Muslim"
+    },
+    "doa_empat_hal": {
+      "label_id": "Doa Perlindungan dari 4 Hal",
+      "label_en": "Supplication for Protection from 4 Things",
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ جَهَنَّمَ، وَمِنْ عَذَابِ الْقَبْرِ، وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، وَمِنْ شَرِّ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ",
+      "latin": "Allahumma inni a'udzu bika min 'adzabi jahannam, wa min 'adzabil qabri, wa min fitnatil mahya wal mamat, wa min syarri fitnatil masihid dajjal.",
+      "translation_id": "Ya Allah, aku berlindung kepada-Mu dari azab neraka Jahannam, dari azab kubur, dari fitnah kehidupan dan kematian, dan dari keburukan fitnah Al-Masih Ad-Dajjal.",
+      "translation_en": "O Allah, I seek refuge in You from the punishment of Hell, from the punishment of the grave, from the trials of life and death, and from the evil of the trial of the False Messiah (Dajjal).",
+      "note_id": "Dibaca setelah tasyahud akhir dan shalawat, sebelum salam.",
+      "note_en": "Recited after the final tashahhud and salawat, before the salam.",
+      "source": "Muslim"
+    },
+    "doa_zhalamtu": {
+      "label_id": "Doa Sebelum Salam (tambahan)",
+      "label_en": "Supplication Before Salam (additional)",
+      "arabic": "اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْمًا كَثِيرًا وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ، فَاغْفِرْ لِي مَغْفِرَةً مِنْ عِنْدِكَ وَارْحَمْنِي، إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ",
+      "latin": "Allahumma inni zhalamtu nafsi zhulman katsiran wa la yaghfirudz dzunuba illa anta, faghfir li maghfiratan min 'indika warhamni, innaka antal ghafurur rahim.",
+      "translation_id": "Ya Allah, sungguh aku telah banyak menzalimi diriku sendiri, dan tidak ada yang dapat mengampuni dosa selain Engkau. Maka ampunilah aku dengan ampunan dari sisi-Mu dan rahmatilah aku. Sesungguhnya Engkaulah Yang Maha Pengampun lagi Maha Penyayang.",
+      "translation_en": "O Allah, I have greatly wronged myself, and none forgives sins except You. So grant me forgiveness from You and have mercy on me. Indeed, You are the Most Forgiving, the Most Merciful.",
+      "note_id": "Boleh ditambah dengan doa-doa lain yang diinginkan sebelum salam.",
+      "note_en": "You may add other supplications of your choice before the salam.",
+      "source": "Bukhari-Muslim"
+    },
+    "salam": {
+      "label_id": "Salam",
+      "label_en": "Salam",
+      "arabic": "السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ",
+      "latin": "Assalamu'alaikum warahmatullah.",
+      "translation_id": "Semoga keselamatan dan rahmat Allah tercurah kepada kalian.",
+      "translation_en": "Peace and the mercy of Allah be upon you.",
+      "note_id": "Diucapkan sambil menoleh ke kanan lalu ke kiri. Menambahkan \"wa barakatuh\" di akhir juga diajarkan. Salam pertama adalah rukun; salam kedua hukumnya sunnah menurut mazhab Syafi'i, sedangkan sebagian ulama lain mewajibkan dua salam.",
+      "note_en": "Said while turning to the right and then to the left. Adding \"wa barakatuh\" at the end is also taught. The first salam is a pillar; the second is sunnah in the Shafi'i school, while some other scholars require both."
+    },
+    "ied_takbir_dzikir": {
+      "label_id": "Dzikir di Sela Takbir Tambahan",
+      "label_en": "Dhikr Between the Extra Takbirs",
+      "arabic": "سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ",
+      "latin": "Subhanallah walhamdulillah wa la ilaha illallah wallahu akbar.",
+      "translation_id": "Maha Suci Allah, segala puji bagi Allah, tidak ada tuhan selain Allah, dan Allah Maha Besar.",
+      "translation_en": "Glory be to Allah, praise be to Allah, there is no god but Allah, and Allah is the Greatest.",
+      "note_id": "Dibaca pelan di antara tiap dua takbir tambahan (disunnahkan menurut mazhab Syafi'i). Jumlah takbir tambahan berbeda antar mazhab: Syafi'i 7 di rakaat pertama dan 5 di rakaat kedua; sebagian mazhab lain 6 dan 5; Hanafi 3 dan 3. Ikuti imam Anda.",
+      "note_en": "Recited quietly between each two extra takbirs (sunnah in the Shafi'i school). The number of extra takbirs differs between schools: Shafi'i 7 in the first rak'ah and 5 in the second; some other schools 6 and 5; Hanafi 3 and 3. Follow your imam."
+    },
+    "jenazah_doa_male": {
+      "label_id": "Doa untuk Jenazah Laki-laki",
+      "label_en": "Supplication for a Deceased Man",
+      "arabic": "اللَّهُمَّ اغْفِرْ لَهُ وَارْحَمْهُ وَعَافِهِ وَاعْفُ عَنْهُ، وَأَكْرِمْ نُزُلَهُ وَوَسِّعْ مُدْخَلَهُ، وَاغْسِلْهُ بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ، وَنَقِّهِ مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الْأَبْيَضَ مِنَ الدَّنَسِ، وَأَبْدِلْهُ دَارًا خَيْرًا مِنْ دَارِهِ، وَأَهْلًا خَيْرًا مِنْ أَهْلِهِ، وَزَوْجًا خَيْرًا مِنْ زَوْجِهِ، وَأَدْخِلْهُ الْجَنَّةَ، وَأَعِذْهُ مِنْ عَذَابِ الْقَبْرِ وَمِنْ عَذَابِ النَّارِ",
+      "latin": "Allahummaghfir lahu warhamhu wa 'afihi wa'fu 'anhu, wa akrim nuzulahu wa wassi' mudkhalahu, waghsilhu bil ma'i wats tsalji wal barad, wa naqqihi minal khathaya kama naqqaitats tsaubal abyadha minad danas, wa abdilhu daran khairan min darihi wa ahlan khairan min ahlihi wa zaujan khairan min zaujihi, wa adkhilhul jannata wa a'idzhu min 'adzabil qabri wa min 'adzabin nar.",
+      "translation_id": "Ya Allah, ampunilah dia, rahmatilah dia, selamatkanlah dia, dan maafkanlah dia. Muliakanlah tempat tinggalnya dan luaskanlah tempat masuknya. Basuhlah dia dengan air, salju, dan embun beku. Bersihkanlah dia dari kesalahan sebagaimana kain putih dibersihkan dari kotoran. Gantilah rumahnya dengan rumah yang lebih baik, keluarganya dengan keluarga yang lebih baik, dan pasangannya dengan pasangan yang lebih baik. Masukkanlah dia ke surga, dan lindungilah dia dari azab kubur dan azab neraka.",
+      "translation_en": "O Allah, forgive him, have mercy on him, grant him safety and pardon him. Honor his place of rest and widen his entrance. Wash him with water, snow and hail. Cleanse him of sins as a white garment is cleansed of dirt. Give him a home better than his home, a family better than his family, and a spouse better than his spouse. Admit him to Paradise and protect him from the punishment of the grave and the punishment of the Fire.",
+      "note_id": "Dibaca setelah takbir ke-3. Untuk jenazah perempuan gunakan versi berikutnya. Untuk lebih dari satu jenazah laki-laki, ganti kata ganti \"-hu\" menjadi \"-hum\".",
+      "note_en": "Recited after the 3rd takbir. For a deceased woman use the next version. For more than one deceased man, change the pronoun \"-hu\" to \"-hum\".",
+      "source": "Muslim"
+    },
+    "jenazah_doa_female": {
+      "label_id": "Doa untuk Jenazah Perempuan",
+      "label_en": "Supplication for a Deceased Woman",
+      "arabic": "اللَّهُمَّ اغْفِرْ لَهَا وَارْحَمْهَا وَعَافِهَا وَاعْفُ عَنْهَا، وَأَكْرِمْ نُزُلَهَا وَوَسِّعْ مُدْخَلَهَا، وَاغْسِلْهَا بِالْمَاءِ وَالثَّلْجِ وَالْبَرَدِ، وَنَقِّهَا مِنَ الْخَطَايَا كَمَا نَقَّيْتَ الثَّوْبَ الْأَبْيَضَ مِنَ الدَّنَسِ، وَأَبْدِلْهَا دَارًا خَيْرًا مِنْ دَارِهَا، وَأَهْلًا خَيْرًا مِنْ أَهْلِهَا، وَزَوْجًا خَيْرًا مِنْ زَوْجِهَا، وَأَدْخِلْهَا الْجَنَّةَ، وَأَعِذْهَا مِنْ عَذَابِ الْقَبْرِ وَمِنْ عَذَابِ النَّارِ",
+      "latin": "Allahummaghfir laha warhamha wa 'afiha wa'fu 'anha, wa akrim nuzulaha wa wassi' mudkhalaha, waghsilha bil ma'i wats tsalji wal barad, wa naqqiha minal khathaya kama naqqaitats tsaubal abyadha minad danas, wa abdilha daran khairan min dariha wa ahlan khairan min ahliha wa zaujan khairan min zaujiha, wa adkhilhal jannata wa a'idzha min 'adzabil qabri wa min 'adzabin nar.",
+      "translation_id": "Ya Allah, ampunilah dia, rahmatilah dia, selamatkanlah dia, dan maafkanlah dia. Muliakanlah tempat tinggalnya dan luaskanlah tempat masuknya. Basuhlah dia dengan air, salju, dan embun beku. Bersihkanlah dia dari kesalahan sebagaimana kain putih dibersihkan dari kotoran. Gantilah rumahnya dengan rumah yang lebih baik, keluarganya dengan keluarga yang lebih baik, dan pasangannya dengan pasangan yang lebih baik. Masukkanlah dia ke surga, dan lindungilah dia dari azab kubur dan azab neraka.",
+      "translation_en": "O Allah, forgive her, have mercy on her, grant her safety and pardon her. Honor her place of rest and widen her entrance. Wash her with water, snow and hail. Cleanse her of sins as a white garment is cleansed of dirt. Give her a home better than her home, a family better than her family, and a spouse better than her spouse. Admit her to Paradise and protect her from the punishment of the grave and the punishment of the Fire.",
+      "source": "Muslim"
+    },
+    "jenazah_takbir4_male": {
+      "label_id": "Doa Setelah Takbir ke-4 (laki-laki)",
+      "label_en": "Supplication After the 4th Takbir (man)",
+      "arabic": "اللَّهُمَّ لَا تَحْرِمْنَا أَجْرَهُ وَلَا تَفْتِنَّا بَعْدَهُ وَاغْفِرْ لَنَا وَلَهُ",
+      "latin": "Allahumma la tahrimna ajrahu wa la taftinna ba'dahu waghfir lana wa lahu.",
+      "translation_id": "Ya Allah, janganlah Engkau halangi kami dari pahalanya, janganlah Engkau menimpakan fitnah kepada kami sepeninggalnya, dan ampunilah kami serta dia.",
+      "translation_en": "O Allah, do not deprive us of his reward, do not put us to trial after him, and forgive us and him.",
+      "note_id": "Bacaan ini lazim diajarkan setelah takbir ke-4 sebelum salam. Sebagian ulama menyebutkan doa lain atau cukup berhenti sejenak; ikuti yang diajarkan imam/ustadz Anda.",
+      "note_en": "This is commonly taught after the 4th takbir before the salam. Some scholars mention other supplications or simply pausing briefly; follow what your imam/teacher teaches."
+    },
+    "jenazah_takbir4_female": {
+      "label_id": "Doa Setelah Takbir ke-4 (perempuan)",
+      "label_en": "Supplication After the 4th Takbir (woman)",
+      "arabic": "اللَّهُمَّ لَا تَحْرِمْنَا أَجْرَهَا وَلَا تَفْتِنَّا بَعْدَهَا وَاغْفِرْ لَنَا وَلَهَا",
+      "latin": "Allahumma la tahrimna ajraha wa la taftinna ba'daha waghfir lana wa laha.",
+      "translation_id": "Ya Allah, janganlah Engkau halangi kami dari pahalanya, janganlah Engkau menimpakan fitnah kepada kami sepeninggalnya, dan ampunilah kami serta dia.",
+      "translation_en": "O Allah, do not deprive us of her reward, do not put us to trial after her, and forgive us and her."
+    }
+  },
   "prayers": [
     {
       "slug": "fardhu",
@@ -31,7 +324,10 @@
           "title_en": "Takbiratul Ihram",
           "desc_id": "Mengangkat kedua tangan sejajar bahu/telinga sambil mengucapkan \"Allahu Akbar\", menandai dimulainya shalat.",
           "desc_en": "Raise both hands to shoulder/ear level while saying \"Allahu Akbar\", marking the start of the prayer.",
-          "illustration": "takbir"
+          "illustration": "takbir",
+          "recitations": [
+            "takbir"
+          ]
         },
         {
           "id": "sedekap",
@@ -39,7 +335,17 @@
           "title_en": "Placing Hands (Sedekap)",
           "desc_id": "Meletakkan tangan kanan di atas tangan kiri di dada, lalu membaca doa iftitah, Al-Fatihah, dan surah pendek (2 rakaat pertama).",
           "desc_en": "Place the right hand over the left on the chest, then recite the opening supplication, Al-Fatihah, and a short surah (first two rak'ahs).",
-          "illustration": "sedekap"
+          "illustration": "sedekap",
+          "recitations": [
+            "iftitah_wajjahtu",
+            "iftitah_baidz",
+            "iftitah_subhanaka",
+            "taawudz",
+            "fatihah",
+            "amin",
+            "surah_ikhlas",
+            "surah_kautsar"
+          ]
         },
         {
           "id": "ruku",
@@ -47,7 +353,10 @@
           "title_en": "Ruku' (Bowing)",
           "desc_id": "Membungkukkan badan hingga punggung rata, tangan memegang lutut, sambil membaca tasbih ruku' (\"Subhana rabbiyal 'adzimi\" 3x).",
           "desc_en": "Bow until the back is flat, hands gripping the knees, while reciting the ruku' remembrance (\"Subhana rabbiyal 'adzim\" 3x).",
-          "illustration": "ruku"
+          "illustration": "ruku",
+          "recitations": [
+            "ruku_tasbih"
+          ]
         },
         {
           "id": "itidal",
@@ -55,7 +364,12 @@
           "title_en": "I'tidal (Rising from Ruku')",
           "desc_id": "Bangkit dari ruku' hingga berdiri tegak kembali, membaca \"Sami'allahu liman hamidah\" lalu \"Rabbana lakal hamd\".",
           "desc_en": "Rise from ruku' back to an upright standing position, reciting \"Sami'allahu liman hamidah\" then \"Rabbana lakal hamd\".",
-          "illustration": "itidal"
+          "illustration": "itidal",
+          "recitations": [
+            "itidal_sami",
+            "itidal_rabbana",
+            "qunut"
+          ]
         },
         {
           "id": "sujud",
@@ -63,7 +377,10 @@
           "title_en": "Sujud (Prostration)",
           "desc_id": "Sujud dengan dahi, hidung, kedua telapak tangan, lutut, dan ujung jari kaki menyentuh lantai, membaca tasbih sujud (\"Subhana rabbiyal a'la\" 3x).",
           "desc_en": "Prostrate with the forehead, nose, both palms, knees, and toes touching the ground, reciting the prostration remembrance (\"Subhana rabbiyal a'la\" 3x).",
-          "illustration": "sujud"
+          "illustration": "sujud",
+          "recitations": [
+            "sujud_tasbih"
+          ]
         },
         {
           "id": "duduk_antara_dua_sujud",
@@ -71,7 +388,23 @@
           "title_en": "Sitting Between Two Prostrations",
           "desc_id": "Duduk sejenak di antara dua sujud, membaca \"Rabbighfirli warhamni...\", lalu sujud kedua dengan bacaan yang sama seperti sujud pertama.",
           "desc_en": "Sit briefly between the two prostrations, reciting \"Rabbighfirli warhamni...\", then perform the second prostration with the same recitation as the first.",
-          "illustration": "duduk"
+          "illustration": "duduk",
+          "recitations": [
+            "duduk_short",
+            "duduk_full"
+          ]
+        },
+        {
+          "id": "tasyahud_awal",
+          "title_id": "Tasyahud Awal",
+          "title_en": "First Tashahhud",
+          "desc_id": "Pada shalat 3 atau 4 rakaat, setelah sujud kedua di rakaat ke-2 duduk iftirasy (kaki kiri dilipat dan diduduki, kaki kanan ditegakkan) dan membaca tasyahud, lalu bangkit berdiri untuk rakaat ketiga tanpa salam.",
+          "desc_en": "In prayers of 3 or 4 rak'ahs, after the second prostration of the 2nd rak'ah, sit in iftirash (left foot folded and sat upon, right foot upright), recite the tashahhud, then rise for the third rak'ah without salam.",
+          "illustration": null,
+          "recitations": [
+            "tasyahud",
+            "shalawat_nabi_short"
+          ]
         },
         {
           "id": "tasyahud_akhir",
@@ -79,7 +412,13 @@
           "title_en": "Final Tasyahud",
           "desc_id": "Duduk tasyahud di rakaat terakhir, membaca bacaan tasyahud, shalawat kepada Nabi Muhammad ▷, dan doa perlindungan sebelum salam. (Shalat 3-4 rakaat juga punya tasyahud awal di rakaat ke-2, lalu berdiri lagi tanpa salam.)",
           "desc_en": "Sit for the final tashahhud, reciting the tashahhud, sending blessings upon the Prophet ▷, and a protective supplication before the closing salam. (Prayers of 3-4 rak'ahs also have a first tashahhud in the 2nd rak'ah, then stand again without salam.)",
-          "illustration": "tasyahud_akhir"
+          "illustration": "tasyahud_akhir",
+          "recitations": [
+            "tasyahud",
+            "shalawat_ibrahimiyah",
+            "doa_empat_hal",
+            "doa_zhalamtu"
+          ]
         },
         {
           "id": "salam",
@@ -87,7 +426,10 @@
           "title_en": "Salam (Closing Greeting)",
           "desc_id": "Menoleh ke kanan membaca \"Assalamu'alaikum warahmatullah\", lalu ke kiri dengan bacaan yang sama, menandai berakhirnya shalat.",
           "desc_en": "Turn the head to the right saying \"Assalamu'alaikum warahmatullah\", then to the left with the same words, marking the end of the prayer.",
-          "illustration": "noleh_kanan"
+          "illustration": "noleh_kanan",
+          "recitations": [
+            "salam"
+          ]
         }
       ]
     },
@@ -119,7 +461,10 @@
           "title_en": "Takbiratul Ihram",
           "desc_id": "Mengangkat kedua tangan sejajar bahu/telinga sambil mengucapkan \"Allahu Akbar\", menandai dimulainya shalat.",
           "desc_en": "Raise both hands to shoulder/ear level while saying \"Allahu Akbar\", marking the start of the prayer.",
-          "illustration": "takbir"
+          "illustration": "takbir",
+          "recitations": [
+            "takbir"
+          ]
         },
         {
           "id": "sedekap",
@@ -127,7 +472,17 @@
           "title_en": "Placing Hands (Sedekap)",
           "desc_id": "Meletakkan tangan kanan di atas tangan kiri di dada, lalu membaca doa iftitah, Al-Fatihah, dan surah pendek (2 rakaat pertama).",
           "desc_en": "Place the right hand over the left on the chest, then recite the opening supplication, Al-Fatihah, and a short surah (first two rak'ahs).",
-          "illustration": "sedekap"
+          "illustration": "sedekap",
+          "recitations": [
+            "iftitah_wajjahtu",
+            "iftitah_baidz",
+            "iftitah_subhanaka",
+            "taawudz",
+            "fatihah",
+            "amin",
+            "surah_kafirun",
+            "surah_ikhlas"
+          ]
         },
         {
           "id": "ruku",
@@ -135,7 +490,10 @@
           "title_en": "Ruku' (Bowing)",
           "desc_id": "Membungkukkan badan hingga punggung rata, tangan memegang lutut, sambil membaca tasbih ruku' (\"Subhana rabbiyal 'adzimi\" 3x).",
           "desc_en": "Bow until the back is flat, hands gripping the knees, while reciting the ruku' remembrance (\"Subhana rabbiyal 'adzim\" 3x).",
-          "illustration": "ruku"
+          "illustration": "ruku",
+          "recitations": [
+            "ruku_tasbih"
+          ]
         },
         {
           "id": "itidal",
@@ -143,7 +501,12 @@
           "title_en": "I'tidal (Rising from Ruku')",
           "desc_id": "Bangkit dari ruku' hingga berdiri tegak kembali, membaca \"Sami'allahu liman hamidah\" lalu \"Rabbana lakal hamd\".",
           "desc_en": "Rise from ruku' back to an upright standing position, reciting \"Sami'allahu liman hamidah\" then \"Rabbana lakal hamd\".",
-          "illustration": "itidal"
+          "illustration": "itidal",
+          "recitations": [
+            "itidal_sami",
+            "itidal_rabbana",
+            "qunut"
+          ]
         },
         {
           "id": "sujud",
@@ -151,7 +514,10 @@
           "title_en": "Sujud (Prostration)",
           "desc_id": "Sujud dengan dahi, hidung, kedua telapak tangan, lutut, dan ujung jari kaki menyentuh lantai, membaca tasbih sujud (\"Subhana rabbiyal a'la\" 3x).",
           "desc_en": "Prostrate with the forehead, nose, both palms, knees, and toes touching the ground, reciting the prostration remembrance (\"Subhana rabbiyal a'la\" 3x).",
-          "illustration": "sujud"
+          "illustration": "sujud",
+          "recitations": [
+            "sujud_tasbih"
+          ]
         },
         {
           "id": "duduk_antara_dua_sujud",
@@ -159,7 +525,11 @@
           "title_en": "Sitting Between Two Prostrations",
           "desc_id": "Duduk sejenak di antara dua sujud, membaca \"Rabbighfirli warhamni...\", lalu sujud kedua dengan bacaan yang sama seperti sujud pertama.",
           "desc_en": "Sit briefly between the two prostrations, reciting \"Rabbighfirli warhamni...\", then perform the second prostration with the same recitation as the first.",
-          "illustration": "duduk"
+          "illustration": "duduk",
+          "recitations": [
+            "duduk_short",
+            "duduk_full"
+          ]
         },
         {
           "id": "tasyahud_akhir",
@@ -167,7 +537,13 @@
           "title_en": "Final Tasyahud",
           "desc_id": "Duduk tasyahud di rakaat terakhir, membaca bacaan tasyahud, shalawat kepada Nabi Muhammad ▷, dan doa perlindungan sebelum salam. (Shalat 3-4 rakaat juga punya tasyahud awal di rakaat ke-2, lalu berdiri lagi tanpa salam.)",
           "desc_en": "Sit for the final tashahhud, reciting the tashahhud, sending blessings upon the Prophet ▷, and a protective supplication before the closing salam. (Prayers of 3-4 rak'ahs also have a first tashahhud in the 2nd rak'ah, then stand again without salam.)",
-          "illustration": "tasyahud_akhir"
+          "illustration": "tasyahud_akhir",
+          "recitations": [
+            "tasyahud",
+            "shalawat_ibrahimiyah",
+            "doa_empat_hal",
+            "doa_zhalamtu"
+          ]
         },
         {
           "id": "salam",
@@ -175,7 +551,10 @@
           "title_en": "Salam (Closing Greeting)",
           "desc_id": "Menoleh ke kanan membaca \"Assalamu'alaikum warahmatullah\", lalu ke kiri dengan bacaan yang sama, menandai berakhirnya shalat.",
           "desc_en": "Turn the head to the right saying \"Assalamu'alaikum warahmatullah\", then to the left with the same words, marking the end of the prayer.",
-          "illustration": "noleh_kanan"
+          "illustration": "noleh_kanan",
+          "recitations": [
+            "salam"
+          ]
         }
       ]
     },
@@ -207,7 +586,10 @@
           "title_en": "Takbiratul Ihram",
           "desc_id": "Mengangkat kedua tangan sejajar bahu/telinga sambil mengucapkan \"Allahu Akbar\", menandai dimulainya shalat.",
           "desc_en": "Raise both hands to shoulder/ear level while saying \"Allahu Akbar\", marking the start of the prayer.",
-          "illustration": "takbir"
+          "illustration": "takbir",
+          "recitations": [
+            "takbir"
+          ]
         },
         {
           "id": "sedekap",
@@ -215,7 +597,18 @@
           "title_en": "Placing Hands (Sedekap)",
           "desc_id": "Meletakkan tangan kanan di atas tangan kiri di dada, lalu membaca doa iftitah, Al-Fatihah, dan surah pendek (2 rakaat pertama).",
           "desc_en": "Place the right hand over the left on the chest, then recite the opening supplication, Al-Fatihah, and a short surah (first two rak'ahs).",
-          "illustration": "sedekap"
+          "illustration": "sedekap",
+          "recitations": [
+            "iftitah_tahajud",
+            "iftitah_wajjahtu",
+            "iftitah_baidz",
+            "iftitah_subhanaka",
+            "taawudz",
+            "fatihah",
+            "amin",
+            "surah_ikhlas",
+            "surah_kautsar"
+          ]
         },
         {
           "id": "ruku",
@@ -223,7 +616,10 @@
           "title_en": "Ruku' (Bowing)",
           "desc_id": "Membungkukkan badan hingga punggung rata, tangan memegang lutut, sambil membaca tasbih ruku' (\"Subhana rabbiyal 'adzimi\" 3x).",
           "desc_en": "Bow until the back is flat, hands gripping the knees, while reciting the ruku' remembrance (\"Subhana rabbiyal 'adzim\" 3x).",
-          "illustration": "ruku"
+          "illustration": "ruku",
+          "recitations": [
+            "ruku_tasbih"
+          ]
         },
         {
           "id": "itidal",
@@ -231,7 +627,11 @@
           "title_en": "I'tidal (Rising from Ruku')",
           "desc_id": "Bangkit dari ruku' hingga berdiri tegak kembali, membaca \"Sami'allahu liman hamidah\" lalu \"Rabbana lakal hamd\".",
           "desc_en": "Rise from ruku' back to an upright standing position, reciting \"Sami'allahu liman hamidah\" then \"Rabbana lakal hamd\".",
-          "illustration": "itidal"
+          "illustration": "itidal",
+          "recitations": [
+            "itidal_sami",
+            "itidal_rabbana"
+          ]
         },
         {
           "id": "sujud",
@@ -239,7 +639,10 @@
           "title_en": "Sujud (Prostration)",
           "desc_id": "Sujud dengan dahi, hidung, kedua telapak tangan, lutut, dan ujung jari kaki menyentuh lantai, membaca tasbih sujud (\"Subhana rabbiyal a'la\" 3x).",
           "desc_en": "Prostrate with the forehead, nose, both palms, knees, and toes touching the ground, reciting the prostration remembrance (\"Subhana rabbiyal a'la\" 3x).",
-          "illustration": "sujud"
+          "illustration": "sujud",
+          "recitations": [
+            "sujud_tasbih"
+          ]
         },
         {
           "id": "duduk_antara_dua_sujud",
@@ -247,7 +650,11 @@
           "title_en": "Sitting Between Two Prostrations",
           "desc_id": "Duduk sejenak di antara dua sujud, membaca \"Rabbighfirli warhamni...\", lalu sujud kedua dengan bacaan yang sama seperti sujud pertama.",
           "desc_en": "Sit briefly between the two prostrations, reciting \"Rabbighfirli warhamni...\", then perform the second prostration with the same recitation as the first.",
-          "illustration": "duduk"
+          "illustration": "duduk",
+          "recitations": [
+            "duduk_short",
+            "duduk_full"
+          ]
         },
         {
           "id": "tasyahud_akhir",
@@ -255,7 +662,13 @@
           "title_en": "Final Tasyahud",
           "desc_id": "Duduk tasyahud di rakaat terakhir, membaca bacaan tasyahud, shalawat kepada Nabi Muhammad ▷, dan doa perlindungan sebelum salam. (Shalat 3-4 rakaat juga punya tasyahud awal di rakaat ke-2, lalu berdiri lagi tanpa salam.)",
           "desc_en": "Sit for the final tashahhud, reciting the tashahhud, sending blessings upon the Prophet ▷, and a protective supplication before the closing salam. (Prayers of 3-4 rak'ahs also have a first tashahhud in the 2nd rak'ah, then stand again without salam.)",
-          "illustration": "tasyahud_akhir"
+          "illustration": "tasyahud_akhir",
+          "recitations": [
+            "tasyahud",
+            "shalawat_ibrahimiyah",
+            "doa_empat_hal",
+            "doa_zhalamtu"
+          ]
         },
         {
           "id": "salam",
@@ -263,7 +676,10 @@
           "title_en": "Salam (Closing Greeting)",
           "desc_id": "Menoleh ke kanan membaca \"Assalamu'alaikum warahmatullah\", lalu ke kiri dengan bacaan yang sama, menandai berakhirnya shalat.",
           "desc_en": "Turn the head to the right saying \"Assalamu'alaikum warahmatullah\", then to the left with the same words, marking the end of the prayer.",
-          "illustration": "noleh_kanan"
+          "illustration": "noleh_kanan",
+          "recitations": [
+            "salam"
+          ]
         }
       ]
     },
@@ -295,7 +711,10 @@
           "title_en": "Takbiratul Ihram",
           "desc_id": "Mengangkat kedua tangan sejajar bahu/telinga sambil mengucapkan \"Allahu Akbar\", menandai dimulainya shalat.",
           "desc_en": "Raise both hands to shoulder/ear level while saying \"Allahu Akbar\", marking the start of the prayer.",
-          "illustration": "takbir"
+          "illustration": "takbir",
+          "recitations": [
+            "takbir"
+          ]
         },
         {
           "id": "sedekap",
@@ -303,7 +722,17 @@
           "title_en": "Placing Hands (Sedekap)",
           "desc_id": "Meletakkan tangan kanan di atas tangan kiri di dada, lalu membaca doa iftitah, Al-Fatihah, dan surah pendek (2 rakaat pertama).",
           "desc_en": "Place the right hand over the left on the chest, then recite the opening supplication, Al-Fatihah, and a short surah (first two rak'ahs).",
-          "illustration": "sedekap"
+          "illustration": "sedekap",
+          "recitations": [
+            "iftitah_wajjahtu",
+            "iftitah_baidz",
+            "iftitah_subhanaka",
+            "taawudz",
+            "fatihah",
+            "amin",
+            "surah_ikhlas",
+            "surah_kautsar"
+          ]
         },
         {
           "id": "ruku",
@@ -311,7 +740,10 @@
           "title_en": "Ruku' (Bowing)",
           "desc_id": "Membungkukkan badan hingga punggung rata, tangan memegang lutut, sambil membaca tasbih ruku' (\"Subhana rabbiyal 'adzimi\" 3x).",
           "desc_en": "Bow until the back is flat, hands gripping the knees, while reciting the ruku' remembrance (\"Subhana rabbiyal 'adzim\" 3x).",
-          "illustration": "ruku"
+          "illustration": "ruku",
+          "recitations": [
+            "ruku_tasbih"
+          ]
         },
         {
           "id": "itidal",
@@ -319,7 +751,11 @@
           "title_en": "I'tidal (Rising from Ruku')",
           "desc_id": "Bangkit dari ruku' hingga berdiri tegak kembali, membaca \"Sami'allahu liman hamidah\" lalu \"Rabbana lakal hamd\".",
           "desc_en": "Rise from ruku' back to an upright standing position, reciting \"Sami'allahu liman hamidah\" then \"Rabbana lakal hamd\".",
-          "illustration": "itidal"
+          "illustration": "itidal",
+          "recitations": [
+            "itidal_sami",
+            "itidal_rabbana"
+          ]
         },
         {
           "id": "sujud",
@@ -327,7 +763,10 @@
           "title_en": "Sujud (Prostration)",
           "desc_id": "Sujud dengan dahi, hidung, kedua telapak tangan, lutut, dan ujung jari kaki menyentuh lantai, membaca tasbih sujud (\"Subhana rabbiyal a'la\" 3x).",
           "desc_en": "Prostrate with the forehead, nose, both palms, knees, and toes touching the ground, reciting the prostration remembrance (\"Subhana rabbiyal a'la\" 3x).",
-          "illustration": "sujud"
+          "illustration": "sujud",
+          "recitations": [
+            "sujud_tasbih"
+          ]
         },
         {
           "id": "duduk_antara_dua_sujud",
@@ -335,7 +774,11 @@
           "title_en": "Sitting Between Two Prostrations",
           "desc_id": "Duduk sejenak di antara dua sujud, membaca \"Rabbighfirli warhamni...\", lalu sujud kedua dengan bacaan yang sama seperti sujud pertama.",
           "desc_en": "Sit briefly between the two prostrations, reciting \"Rabbighfirli warhamni...\", then perform the second prostration with the same recitation as the first.",
-          "illustration": "duduk"
+          "illustration": "duduk",
+          "recitations": [
+            "duduk_short",
+            "duduk_full"
+          ]
         },
         {
           "id": "tasyahud_akhir",
@@ -343,7 +786,13 @@
           "title_en": "Final Tasyahud",
           "desc_id": "Duduk tasyahud di rakaat terakhir, membaca bacaan tasyahud, shalawat kepada Nabi Muhammad ▷, dan doa perlindungan sebelum salam. (Shalat 3-4 rakaat juga punya tasyahud awal di rakaat ke-2, lalu berdiri lagi tanpa salam.)",
           "desc_en": "Sit for the final tashahhud, reciting the tashahhud, sending blessings upon the Prophet ▷, and a protective supplication before the closing salam. (Prayers of 3-4 rak'ahs also have a first tashahhud in the 2nd rak'ah, then stand again without salam.)",
-          "illustration": "tasyahud_akhir"
+          "illustration": "tasyahud_akhir",
+          "recitations": [
+            "tasyahud",
+            "shalawat_ibrahimiyah",
+            "doa_empat_hal",
+            "doa_zhalamtu"
+          ]
         },
         {
           "id": "salam",
@@ -351,7 +800,10 @@
           "title_en": "Salam (Closing Greeting)",
           "desc_id": "Menoleh ke kanan membaca \"Assalamu'alaikum warahmatullah\", lalu ke kiri dengan bacaan yang sama, menandai berakhirnya shalat.",
           "desc_en": "Turn the head to the right saying \"Assalamu'alaikum warahmatullah\", then to the left with the same words, marking the end of the prayer.",
-          "illustration": "noleh_kanan"
+          "illustration": "noleh_kanan",
+          "recitations": [
+            "salam"
+          ]
         }
       ]
     },
@@ -383,7 +835,13 @@
           "title_en": "Takbiratul Ihram",
           "desc_id": "Mengangkat kedua tangan sejajar bahu/telinga sambil mengucapkan \"Allahu Akbar\", menandai dimulainya shalat.",
           "desc_en": "Raise both hands to shoulder/ear level while saying \"Allahu Akbar\", marking the start of the prayer.",
-          "illustration": "takbir"
+          "illustration": "takbir",
+          "recitations": [
+            "takbir",
+            "iftitah_wajjahtu",
+            "iftitah_baidz",
+            "iftitah_subhanaka"
+          ]
         },
         {
           "id": "takbir_tambahan_rakaat_1",
@@ -391,7 +849,10 @@
           "title_en": "7x Additional Takbir (1st Rak'ah)",
           "desc_id": "Setelah takbiratul ihram & doa iftitah, membaca takbir tambahan 7 kali (di sela-selanya disunnahkan membaca dzikir singkat), baru dilanjutkan Al-Fatihah & surah. Ini pendapat yang paling umum diajarkan -- jumlahnya ada perbedaan riwayat.",
           "desc_en": "After takbiratul ihram & the opening supplication, recite 7 additional takbirs (a short dhikr between them is recommended), then continue with Al-Fatihah & a surah. This is the most commonly taught view -- narrations differ slightly on the exact count.",
-          "illustration": "takbir"
+          "illustration": "takbir",
+          "recitations": [
+            "ied_takbir_dzikir"
+          ]
         },
         {
           "id": "sedekap",
@@ -399,7 +860,14 @@
           "title_en": "Placing Hands (Sedekap)",
           "desc_id": "Meletakkan tangan kanan di atas tangan kiri di dada, lalu membaca doa iftitah, Al-Fatihah, dan surah pendek (2 rakaat pertama).",
           "desc_en": "Place the right hand over the left on the chest, then recite the opening supplication, Al-Fatihah, and a short surah (first two rak'ahs).",
-          "illustration": "sedekap"
+          "illustration": "sedekap",
+          "recitations": [
+            "taawudz",
+            "fatihah",
+            "amin",
+            "surah_ikhlas",
+            "surah_kautsar"
+          ]
         },
         {
           "id": "ruku",
@@ -407,7 +875,10 @@
           "title_en": "Ruku' (Bowing)",
           "desc_id": "Membungkukkan badan hingga punggung rata, tangan memegang lutut, sambil membaca tasbih ruku' (\"Subhana rabbiyal 'adzimi\" 3x).",
           "desc_en": "Bow until the back is flat, hands gripping the knees, while reciting the ruku' remembrance (\"Subhana rabbiyal 'adzim\" 3x).",
-          "illustration": "ruku"
+          "illustration": "ruku",
+          "recitations": [
+            "ruku_tasbih"
+          ]
         },
         {
           "id": "itidal",
@@ -415,7 +886,11 @@
           "title_en": "I'tidal (Rising from Ruku')",
           "desc_id": "Bangkit dari ruku' hingga berdiri tegak kembali, membaca \"Sami'allahu liman hamidah\" lalu \"Rabbana lakal hamd\".",
           "desc_en": "Rise from ruku' back to an upright standing position, reciting \"Sami'allahu liman hamidah\" then \"Rabbana lakal hamd\".",
-          "illustration": "itidal"
+          "illustration": "itidal",
+          "recitations": [
+            "itidal_sami",
+            "itidal_rabbana"
+          ]
         },
         {
           "id": "sujud",
@@ -423,7 +898,10 @@
           "title_en": "Sujud (Prostration)",
           "desc_id": "Sujud dengan dahi, hidung, kedua telapak tangan, lutut, dan ujung jari kaki menyentuh lantai, membaca tasbih sujud (\"Subhana rabbiyal a'la\" 3x).",
           "desc_en": "Prostrate with the forehead, nose, both palms, knees, and toes touching the ground, reciting the prostration remembrance (\"Subhana rabbiyal a'la\" 3x).",
-          "illustration": "sujud"
+          "illustration": "sujud",
+          "recitations": [
+            "sujud_tasbih"
+          ]
         },
         {
           "id": "duduk_antara_dua_sujud",
@@ -431,7 +909,11 @@
           "title_en": "Sitting Between Two Prostrations",
           "desc_id": "Duduk sejenak di antara dua sujud, membaca \"Rabbighfirli warhamni...\", lalu sujud kedua dengan bacaan yang sama seperti sujud pertama.",
           "desc_en": "Sit briefly between the two prostrations, reciting \"Rabbighfirli warhamni...\", then perform the second prostration with the same recitation as the first.",
-          "illustration": "duduk"
+          "illustration": "duduk",
+          "recitations": [
+            "duduk_short",
+            "duduk_full"
+          ]
         },
         {
           "id": "takbir_tambahan_rakaat_2",
@@ -439,7 +921,10 @@
           "title_en": "5x Additional Takbir (2nd Rak'ah)",
           "desc_id": "Setelah bangun dari sujud rakaat pertama, sebelum membaca Al-Fatihah, membaca takbir tambahan 5 kali.",
           "desc_en": "After rising from the first rak'ah's prostration, before reciting Al-Fatihah, recite 5 additional takbirs.",
-          "illustration": "takbir"
+          "illustration": "takbir",
+          "recitations": [
+            "ied_takbir_dzikir"
+          ]
         },
         {
           "id": "tasyahud_akhir",
@@ -447,7 +932,13 @@
           "title_en": "Final Tasyahud",
           "desc_id": "Duduk tasyahud di rakaat terakhir, membaca bacaan tasyahud, shalawat kepada Nabi Muhammad ▷, dan doa perlindungan sebelum salam. (Shalat 3-4 rakaat juga punya tasyahud awal di rakaat ke-2, lalu berdiri lagi tanpa salam.)",
           "desc_en": "Sit for the final tashahhud, reciting the tashahhud, sending blessings upon the Prophet ▷, and a protective supplication before the closing salam. (Prayers of 3-4 rak'ahs also have a first tashahhud in the 2nd rak'ah, then stand again without salam.)",
-          "illustration": "tasyahud_akhir"
+          "illustration": "tasyahud_akhir",
+          "recitations": [
+            "tasyahud",
+            "shalawat_ibrahimiyah",
+            "doa_empat_hal",
+            "doa_zhalamtu"
+          ]
         },
         {
           "id": "salam",
@@ -455,7 +946,10 @@
           "title_en": "Salam (Closing Greeting)",
           "desc_id": "Menoleh ke kanan membaca \"Assalamu'alaikum warahmatullah\", lalu ke kiri dengan bacaan yang sama, menandai berakhirnya shalat.",
           "desc_en": "Turn the head to the right saying \"Assalamu'alaikum warahmatullah\", then to the left with the same words, marking the end of the prayer.",
-          "illustration": "noleh_kanan"
+          "illustration": "noleh_kanan",
+          "recitations": [
+            "salam"
+          ]
         }
       ]
     },
@@ -479,7 +973,11 @@
           "title_en": "1st Takbir",
           "desc_id": "Niat + takbiratul ihram sambil berdiri (tanpa ruku'/sujud), dilanjutkan membaca Al-Fatihah.",
           "desc_en": "Intention + takbiratul ihram while standing (no ruku' or sujud), followed by reciting Al-Fatihah.",
-          "illustration": "takbir"
+          "illustration": "takbir",
+          "recitations": [
+            "takbir",
+            "fatihah"
+          ]
         },
         {
           "id": "takbir_2",
@@ -487,7 +985,11 @@
           "title_en": "2nd Takbir",
           "desc_id": "Takbir kedua, dilanjutkan membaca shalawat kepada Nabi Muhammad ▷ (minimal \"Allahumma shalli 'ala Muhammad\").",
           "desc_en": "Second takbir, followed by sending blessings upon the Prophet ▷ (at minimum \"Allahumma shalli 'ala Muhammad\").",
-          "illustration": "takbir"
+          "illustration": "takbir",
+          "recitations": [
+            "shalawat_nabi_short",
+            "shalawat_ibrahimiyah"
+          ]
         },
         {
           "id": "takbir_3",
@@ -495,7 +997,11 @@
           "title_en": "3rd Takbir",
           "desc_id": "Takbir ketiga, dilanjutkan membaca doa untuk jenazah (mis. \"Allahummaghfir lahu warhamhu wa 'aafihi wa'fu 'anhu...\").",
           "desc_en": "Third takbir, followed by a supplication for the deceased (e.g. \"Allahummaghfir lahu warhamhu wa 'aafihi wa'fu 'anhu...\").",
-          "illustration": "takbir"
+          "illustration": "takbir",
+          "recitations": [
+            "jenazah_doa_male",
+            "jenazah_doa_female"
+          ]
         },
         {
           "id": "takbir_4",
@@ -503,7 +1009,12 @@
           "title_en": "4th Takbir",
           "desc_id": "Takbir keempat, dilanjutkan doa penutup singkat, lalu salam ke kanan (sebagian ulama juga ke kiri).",
           "desc_en": "Fourth takbir, followed by a brief closing supplication, then salam to the right (some scholars also salam to the left).",
-          "illustration": "noleh_kanan"
+          "illustration": "noleh_kanan",
+          "recitations": [
+            "jenazah_takbir4_male",
+            "jenazah_takbir4_female",
+            "salam"
+          ]
         }
       ]
     }
