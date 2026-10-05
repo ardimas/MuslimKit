@@ -83,33 +83,6 @@
       "note_id": "Imam dan makmum mengucapkannya setelah Al-Fatihah. Pada shalat jahr (Subuh, Maghrib, Isya), disunnahkan mengucapkannya dengan suara terdengar menurut mazhab Syafi'i; sebagian pendapat lain memelankannya. Ini berbeda dengan bacaan Al-Fatihah oleh makmum, yang dibaca pelan.",
       "note_en": "Said after Al-Fatihah by both imam and followers. In loud prayers (Fajr, Maghrib, Isha), saying it audibly is sunnah in the Shafi'i school; some other views say it quietly. This is different from the recitation of Al-Fatihah by followers, which is done quietly."
     },
-    "surah_ikhlas": {
-      "label_id": "Surah pendek: Al-Ikhlas",
-      "label_en": "Short surah: Al-Ikhlas",
-      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ\nقُلْ هُوَ اللَّهُ أَحَدٌ\nاللَّهُ الصَّمَدُ\nلَمْ يَلِدْ وَلَمْ يُولَدْ\nوَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
-      "latin": "Bismillahirrahmanirrahim. Qul huwallahu ahad. Allahush shamad. Lam yalid wa lam yulad. Wa lam yakul lahu kufuwan ahad.",
-      "translation_id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang. Katakanlah (Muhammad), \"Dialah Allah, Yang Maha Esa. Allah tempat meminta segala sesuatu. (Dia) tidak beranak dan tidak pula diperanakkan. Dan tidak ada sesuatu pun yang setara dengan Dia.\"",
-      "translation_en": "In the name of Allah, the Most Gracious, the Most Merciful. Say, \"He is Allah, the One. Allah, the Eternal Refuge. He neither begets nor is born. And there is none comparable to Him.\"",
-      "source": "QS. 112"
-    },
-    "surah_kautsar": {
-      "label_id": "Surah pendek: Al-Kautsar",
-      "label_en": "Short surah: Al-Kawthar",
-      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ\nإِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ\nفَصَلِّ لِرَبِّكَ وَانْحَرْ\nإِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
-      "latin": "Bismillahirrahmanirrahim. Inna a'thainakal kautsar. Fashalli lirabbika wanhar. Inna syani'aka huwal abtar.",
-      "translation_id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang. Sesungguhnya Kami telah memberimu (Muhammad) nikmat yang banyak. Maka laksanakanlah shalat karena Tuhanmu, dan berkurbanlah. Sesungguhnya orang yang membencimu, dialah yang terputus.",
-      "translation_en": "In the name of Allah, the Most Gracious, the Most Merciful. Indeed, We have granted you abundant good. So pray to your Lord and sacrifice. Indeed, it is your enemy who is cut off.",
-      "source": "QS. 108"
-    },
-    "surah_kafirun": {
-      "label_id": "Surah pendek: Al-Kafirun",
-      "label_en": "Short surah: Al-Kafirun",
-      "arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ\nقُلْ يَا أَيُّهَا الْكَافِرُونَ\nلَا أَعْبُدُ مَا تَعْبُدُونَ\nوَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ\nوَلَا أَنَا عَابِدٌ مَا عَبَدْتُمْ\nوَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ\nلَكُمْ دِينُكُمْ وَلِيَ دِينِ",
-      "latin": "Bismillahirrahmanirrahim. Qul ya ayyuhal kafirun. La a'budu ma ta'budun. Wa la antum 'abiduna ma a'bud. Wa la ana 'abidun ma 'abattum. Wa la antum 'abiduna ma a'bud. Lakum dinukum wa liya din.",
-      "translation_id": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang. Katakanlah (Muhammad), \"Wahai orang-orang kafir! Aku tidak akan menyembah apa yang kamu sembah. Dan kamu bukan penyembah apa yang aku sembah. Dan aku tidak pernah menjadi penyembah apa yang kamu sembah. Dan kamu tidak pernah (pula) menjadi penyembah apa yang aku sembah. Untukmu agamamu, dan untukkulah agamaku.\"",
-      "translation_en": "In the name of Allah, the Most Gracious, the Most Merciful. Say, \"O disbelievers! I do not worship what you worship. Nor do you worship what I worship. Nor will I worship what you worship. Nor will you worship what I worship. For you is your religion, and for me is my religion.\"",
-      "source": "QS. 109"
-    },
     "ruku_tasbih": {
       "label_id": "Tasbih Ruku'",
       "label_en": "Ruku' Tasbih",
@@ -307,8 +280,8 @@
       "intro_en": "The five daily obligatory prayers, the pillar of the religion. The basic movements are the same each rak'ah -- only the number of rak'ahs and the time of day differ.",
       "notes_id": "Shalat 3-4 rakaat punya tasyahud awal di rakaat ke-2 (hanya bacaan tasyahud, tanpa shalawat panjang), lalu berdiri lagi tanpa salam. Bacaan keras (jahr) hanya oleh imam pada Subuh serta rakaat ke-1 dan ke-2 Maghrib dan Isya; Dzuhur dan Ashar dibaca pelan. Makmum membaca pelan (cukup menggerakkan bibir hingga terdengar oleh diri sendiri), kecuali amin yang disunnahkan terdengar pada shalat jahr.",
       "notes_en": "Prayers of 3-4 rak'ahs include a first tashahhud in the 2nd rak'ah (tashahhud recitation only, without the longer blessing), then stand again without salam. Loud recitation (jahr) is by the imam only, in Fajr and the 1st and 2nd rak'ahs of Maghrib and Isha; Dhuhr and Asr are recited quietly. Followers recite quietly (just moving the lips so they can hear themselves), except \"Amin\", which is sunnah to say audibly in loud prayers.",
-      "recommended_reading_id": "Al-Fatihah di setiap rakaat, ditambah surah/ayat pendek pada 2 rakaat pertama.",
-      "recommended_reading_en": "Al-Fatihah in every rak'ah, plus a short surah/verses in the first two rak'ahs.",
+      "recommended_reading_id": "Al-Fatihah di setiap rakaat. Pada 2 rakaat pertama, ditambah surat pendek dari Al-Qur'an (bebas, mis. Al-Ikhlas, Al-Kautsar, Al-Ashr, An-Nashr, Al-Falaq, An-Nas).",
+      "recommended_reading_en": "Al-Fatihah in every rak'ah. In the first two rak'ahs, add a short surah from the Qur'an (your choice, e.g. Al-Ikhlas, Al-Kawthar, Al-Asr, An-Nasr, Al-Falaq, An-Nas).",
       "steps": [
         {
           "id": "niat",
@@ -342,9 +315,7 @@
             "iftitah_subhanaka",
             "taawudz",
             "fatihah",
-            "amin",
-            "surah_ikhlas",
-            "surah_kautsar"
+            "amin"
           ]
         },
         {
@@ -479,9 +450,7 @@
             "iftitah_subhanaka",
             "taawudz",
             "fatihah",
-            "amin",
-            "surah_kafirun",
-            "surah_ikhlas"
+            "amin"
           ]
         },
         {
@@ -569,8 +538,8 @@
       "intro_en": "A night prayer performed after sleeping (even briefly), before the Fajr prayer time begins.",
       "notes_id": "Tiap 2 rakaat diakhiri satu salam. Boleh dikerjakan berapa set pun sesuai kemampuan, lalu ditutup dengan Witir sebagai penutup shalat malam.",
       "notes_en": "Every 2 rak'ahs ends with one salam. Any number of sets may be prayed according to one's ability, closed with Witr as the final night prayer.",
-      "recommended_reading_id": "Bebas, tidak ada surah khusus yang diwajibkan -- boleh surah apa saja yang hafal.",
-      "recommended_reading_en": "Free choice -- no specific surah is required; any memorized surah may be read.",
+      "recommended_reading_id": "Bebas, tidak ada surat khusus yang diwajibkan: setelah Al-Fatihah, baca surat atau ayat yang dihafal (mis. Al-Ikhlas, Al-Kafirun, Al-Kautsar, atau surat pendek lain).",
+      "recommended_reading_en": "Free choice, no specific surah is required: after Al-Fatihah, read any memorized surah or verses (e.g. Al-Ikhlas, Al-Kafirun, Al-Kawthar, or another short surah).",
       "steps": [
         {
           "id": "niat",
@@ -605,9 +574,7 @@
             "iftitah_subhanaka",
             "taawudz",
             "fatihah",
-            "amin",
-            "surah_ikhlas",
-            "surah_kautsar"
+            "amin"
           ]
         },
         {
@@ -729,9 +696,7 @@
             "iftitah_subhanaka",
             "taawudz",
             "fatihah",
-            "amin",
-            "surah_ikhlas",
-            "surah_kautsar"
+            "amin"
           ]
         },
         {
@@ -864,9 +829,7 @@
           "recitations": [
             "taawudz",
             "fatihah",
-            "amin",
-            "surah_ikhlas",
-            "surah_kautsar"
+            "amin"
           ]
         },
         {
