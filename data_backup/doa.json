@@ -30,7 +30,7 @@
       "slug": "dhikr-after-salah",
       "name_id": "Dzikir Setelah Shalat",
       "name_en": "Dhikr After Salah",
-      "count": 14
+      "count": 13
     }
   ],
   "doa": [
@@ -51,7 +51,8 @@
       "grade": "Hasan",
       "grade_verified": true,
       "graded_by": "Al-Albani (Sahih Abu Dawud); an-Nawawi",
-      "grade_source_url": "https://sunnah.com/abudawud:5082"
+      "grade_source_url": "https://sunnah.com/abudawud:5082",
+      "graded_by_key": "gb01"
     },
     {
       "id": "morning-dhikr-003",
@@ -70,7 +71,8 @@
       "grade": "Hasan",
       "grade_verified": true,
       "graded_by": "Al-Albani (Sahih Abu Dawud); an-Nawawi",
-      "grade_source_url": "https://sunnah.com/abudawud:5082"
+      "grade_source_url": "https://sunnah.com/abudawud:5082",
+      "graded_by_key": "gb01"
     },
     {
       "id": "morning-dhikr-004",
@@ -89,7 +91,8 @@
       "grade": "Hasan",
       "grade_verified": true,
       "graded_by": "Al-Albani (Sahih Abu Dawud); an-Nawawi",
-      "grade_source_url": "https://sunnah.com/abudawud:5082"
+      "grade_source_url": "https://sunnah.com/abudawud:5082",
+      "graded_by_key": "gb01"
     },
     {
       "id": "morning-dhikr-005",
@@ -210,7 +213,8 @@
       "grade": "Shahih",
       "grade_verified": true,
       "graded_by": "Al-Albani (Sahih Abu Dawud); Ibnu Qayyim",
-      "grade_source_url": "https://sunnah.com/abudawud:5088"
+      "grade_source_url": "https://sunnah.com/abudawud:5088",
+      "graded_by_key": "gb02"
     },
     {
       "id": "morning-dhikr-012",
@@ -229,7 +233,8 @@
       "grade": "Hasan",
       "grade_verified": true,
       "graded_by": "Al-Albani; Islamweb fatwa (sahih li ghairihi)",
-      "grade_source_url": "https://dorar.net/hadith/sharh/28330"
+      "grade_source_url": "https://dorar.net/hadith/sharh/28330",
+      "graded_by_key": "gb03"
     },
     {
       "id": "morning-dhikr-013",
@@ -367,7 +372,8 @@
       "grade": "Hasan",
       "grade_verified": true,
       "graded_by": "Al-Albani (Sahih Abu Dawud); an-Nawawi",
-      "grade_source_url": "https://sunnah.com/abudawud:5082"
+      "grade_source_url": "https://sunnah.com/abudawud:5082",
+      "graded_by_key": "gb01"
     },
     {
       "id": "evening-dhikr-003",
@@ -386,7 +392,8 @@
       "grade": "Hasan",
       "grade_verified": true,
       "graded_by": "Al-Albani (Sahih Abu Dawud); an-Nawawi",
-      "grade_source_url": "https://sunnah.com/abudawud:5082"
+      "grade_source_url": "https://sunnah.com/abudawud:5082",
+      "graded_by_key": "gb01"
     },
     {
       "id": "evening-dhikr-004",
@@ -405,7 +412,8 @@
       "grade": "Hasan",
       "grade_verified": true,
       "graded_by": "Al-Albani (Sahih Abu Dawud); an-Nawawi",
-      "grade_source_url": "https://sunnah.com/abudawud:5082"
+      "grade_source_url": "https://sunnah.com/abudawud:5082",
+      "graded_by_key": "gb01"
     },
     {
       "id": "evening-dhikr-005",
@@ -526,7 +534,8 @@
       "grade": "Shahih",
       "grade_verified": true,
       "graded_by": "Al-Albani (Sahih Abu Dawud); Ibnu Qayyim",
-      "grade_source_url": "https://sunnah.com/abudawud:5088"
+      "grade_source_url": "https://sunnah.com/abudawud:5088",
+      "graded_by_key": "gb02"
     },
     {
       "id": "evening-dhikr-012",
@@ -545,7 +554,8 @@
       "grade": "Hasan",
       "grade_verified": true,
       "graded_by": "Al-Albani; Islamweb fatwa (sahih li ghairihi)",
-      "grade_source_url": "https://dorar.net/hadith/sharh/28330"
+      "grade_source_url": "https://dorar.net/hadith/sharh/28330",
+      "graded_by_key": "gb03"
     },
     {
       "id": "evening-dhikr-013",
@@ -734,7 +744,8 @@
       "grade": "Shahih",
       "grade_verified": true,
       "graded_by": "Al-Albani (Sahih at-Tirmidzi)",
-      "grade_source_url": "https://sunnah.com/tirmidhi:7"
+      "grade_source_url": "https://sunnah.com/tirmidhi:7",
+      "graded_by_key": "gb04"
     },
     {
       "id": "daily-dua-005",
@@ -770,7 +781,8 @@
       "grade": "Shahih",
       "grade_verified": true,
       "graded_by": "at-Tirmidzi (hasan sahih); Al-Albani (Irwa' al-Ghalil, Silsilah Sahihah)",
-      "grade_source_url": "https://www.alukah.net/sharia/0/108558/"
+      "grade_source_url": "https://www.alukah.net/sharia/0/108558/",
+      "graded_by_key": "gb05"
     },
     {
       "id": "daily-dua-007",
@@ -874,7 +886,8 @@
       "grade": "Shahih",
       "grade_verified": true,
       "graded_by": "Al-Albani (Sahih al-Jami, Sahih at-Targhib)",
-      "grade_source_url": "https://alsunna.net/hadith/126"
+      "grade_source_url": "https://alsunna.net/hadith/126",
+      "graded_by_key": "gb06"
     },
     {
       "id": "daily-dua-016",
@@ -892,7 +905,8 @@
       "source_type": "hadith",
       "grade": "Shahih",
       "grade_verified": true,
-      "graded_by": "Syu'aib al-Arna'uth; Al-Albani (Sahih Abu Dawud)"
+      "graded_by": "Syu'aib al-Arna'uth; Al-Albani (Sahih Abu Dawud)",
+      "graded_by_key": "gb07"
     },
     {
       "id": "daily-dua-017",
@@ -927,7 +941,8 @@
       "source_type": "hadith",
       "grade": "Shahih",
       "grade_verified": true,
-      "graded_by": "Al-Albani (Sahih al-Jami)"
+      "graded_by": "Al-Albani (Sahih al-Jami)",
+      "graded_by_key": "gb08"
     },
     {
       "id": "daily-dua-019",
@@ -945,7 +960,8 @@
       "source_type": "hadith",
       "grade": "Shahih",
       "grade_verified": true,
-      "graded_by": "Al-Albani"
+      "graded_by": "Al-Albani",
+      "graded_by_key": "gb09"
     },
     {
       "id": "daily-dua-020",
@@ -963,7 +979,8 @@
       "source_type": "hadith",
       "grade": "Shahih",
       "grade_verified": true,
-      "graded_by": "Al-Albani; at-Tirmidzi (hasan)"
+      "graded_by": "Al-Albani; at-Tirmidzi (hasan)",
+      "graded_by_key": "gb10"
     },
     {
       "id": "daily-dua-021",
@@ -981,7 +998,8 @@
       "source_type": "hadith",
       "grade": "Hasan",
       "grade_verified": true,
-      "graded_by": "Al-Albani"
+      "graded_by": "Al-Albani",
+      "graded_by_key": "gb09"
     },
     {
       "id": "daily-dua-022",
@@ -999,7 +1017,8 @@
       "source_type": "hadith",
       "grade": "Shahih",
       "grade_verified": true,
-      "graded_by": "Shahih Muslim"
+      "graded_by": "Shahih Muslim",
+      "graded_by_key": "gb11"
     },
     {
       "id": "daily-dua-023",
@@ -1085,7 +1104,8 @@
       "source_type": "hadith",
       "grade": "Shahih",
       "grade_verified": true,
-      "graded_by": "Al-Albani (Silsilah Sahihah, 'ala syarat Muslim)"
+      "graded_by": "Al-Albani (Silsilah Sahihah, 'ala syarat Muslim)",
+      "graded_by_key": "gb12"
     },
     {
       "id": "daily-dua-029",
@@ -1120,7 +1140,8 @@
       "source_type": "hadith",
       "grade": "Hasan",
       "grade_verified": true,
-      "graded_by": "Al-Albani"
+      "graded_by": "Al-Albani",
+      "graded_by_key": "gb09"
     },
     {
       "id": "daily-dua-031",
@@ -1138,7 +1159,8 @@
       "source_type": "hadith",
       "grade": "Shahih",
       "grade_verified": true,
-      "graded_by": "Shahih al-Bukhari"
+      "graded_by": "Shahih al-Bukhari",
+      "graded_by_key": "gb13"
     },
     {
       "id": "daily-dua-032",
@@ -1241,7 +1263,8 @@
       "source_type": "hadith",
       "grade": "Shahih",
       "grade_verified": true,
-      "graded_by": "Shahih al-Bukhari"
+      "graded_by": "Shahih al-Bukhari",
+      "graded_by_key": "gb13"
     },
     {
       "id": "daily-dua-038",
@@ -1293,7 +1316,8 @@
       "source_type": "hadith",
       "grade": "Shahih",
       "grade_verified": true,
-      "graded_by": "Al-Albani (Sahih al-Jami)"
+      "graded_by": "Al-Albani (Sahih al-Jami)",
+      "graded_by_key": "gb08"
     },
     {
       "id": "selected-dua-003",
@@ -1379,7 +1403,8 @@
       "source_type": "hadith",
       "grade": "Shahih",
       "grade_verified": true,
-      "graded_by": "Shahih al-Bukhari"
+      "graded_by": "Shahih al-Bukhari",
+      "graded_by_key": "gb13"
     },
     {
       "id": "selected-dua-008",
@@ -1397,7 +1422,8 @@
       "source_type": "hadith",
       "grade": "Shahih",
       "grade_verified": true,
-      "graded_by": "Al-Albani (Sahih al-Jami, Silsilah Sahihah) -- independen dari penilaian al-Hakim sendiri"
+      "graded_by": "Al-Albani (Sahih al-Jami, Silsilah Sahihah) -- independen dari penilaian al-Hakim sendiri",
+      "graded_by_key": "gb14"
     },
     {
       "id": "dhikr-after-salah-001",
@@ -1483,7 +1509,8 @@
       "source_type": "hadith",
       "grade": "Shahih",
       "grade_verified": true,
-      "graded_by": "Shahih Muslim"
+      "graded_by": "Shahih Muslim",
+      "graded_by_key": "gb11"
     },
     {
       "id": "dhikr-after-salah-006",
@@ -1501,7 +1528,8 @@
       "source_type": "hadith",
       "grade": "Shahih",
       "grade_verified": true,
-      "graded_by": "Shahih Muslim"
+      "graded_by": "Shahih Muslim",
+      "graded_by_key": "gb11"
     },
     {
       "id": "dhikr-after-salah-007",
@@ -1519,7 +1547,8 @@
       "source_type": "hadith",
       "grade": "Shahih",
       "grade_verified": true,
-      "graded_by": "Shahih Muslim"
+      "graded_by": "Shahih Muslim",
+      "graded_by_key": "gb11"
     },
     {
       "id": "dhikr-after-salah-008",
@@ -1553,7 +1582,10 @@
       "source": "HR. an-Nasai dalam Al-Kubro 9: 44. Hadits ini dinyatakan shahih oleh Ibnu Hibban, sebagaimana disebut oleh Ibnu Hajar dalam Bulughul Maram",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "graded_by": "Al-Albani (As-Silsilah Ash-Shahihah No. 972) -- hanya redaksi inti ini, bukan versi panjang dengan tambahan riwayat lain yang lebih lemah",
+      "grade_source_url": "https://www.islamweb.net/ar/fatwa/276580/",
+      "graded_by_key": "gb15"
     },
     {
       "id": "dhikr-after-salah-010",
@@ -1622,25 +1654,6 @@
       "source_type": "hadith",
       "grade": "Shahih",
       "grade_verified": true
-    },
-    {
-      "id": "dhikr-after-salah-new-ayat-kursi",
-      "category_slug": "dhikr-after-salah",
-      "category_id": "Dzikir Setelah Shalat",
-      "category_en": "Dhikr After Salah",
-      "order": 14,
-      "title": "Ayat al-Kursi",
-      "arabic": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ ۚ لَا تَأْخُذُهُۥ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُۥ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۗ مَن ذَا ٱلَّذِى يَشْفَعُ عِندَهُۥٓ إِلَّا بِإِذْنِهِۦ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَىْءٍ مِّنْ عِلْمِهِۦٓ إِلَّا بِمَا شَآءَ ۚ وَسِعَ كُرْسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ ۖ وَلَا يَـُٔودُهُۥ حِفْظُهُمَا ۚ وَهُوَ ٱلْعَلِىُّ ٱلْعَظِيمُ",
-      "latin": "Allāhu lā ilāha illā huwalḥayyul qayyụm, lā ta`khużuhụ sinatuw wa lā na`ụm, lahụ mā fis samāwāti wa mā fil arḍ, man żallażī yasyfa'u 'indahū illā bi`iżnih, ya'lamu mā baina aidīhim wa mā khalfahum, wa lā yuḥīṭụna bisyai`im min 'ilmihī illā bimā syā`, wasi'a kursiyyuhus samāwāti wal arḍ, wa lā ya`ụduhụ ḥifẓuhumā, wa huwal 'aliyyul 'aẓīm",
-      "translation_id": "Allah, tidak ada Tuhan (yang berhak disembah) melainkan Dia Yang Hidup kekal lagi terus menerus mengurus (makhluk-Nya); tidak mengantuk dan tidak tidur. Kepunyaan-Nya apa yang di langit dan di bumi. Tiada yang dapat memberi syafa'at di sisi Allah tanpa izin-Nya? Allah mengetahui apa-apa yang di hadapan mereka dan di belakang mereka, dan mereka tidak mengetahui apa-apa dari ilmu Allah melainkan apa yang dikehendaki-Nya. Kursi Allah meliputi langit dan bumi. Dan Allah tidak merasa berat memelihara keduanya, dan Allah Maha Tinggi lagi Maha Besar.",
-      "notes": "Dibaca 1x setiap selesai shalat fardhu",
-      "fawaid": "Barang siapa yang membaca ayat ini setiap selesai shalat fardhu, tidak ada yang menghalanginya masuk surga kecuali kematian.",
-      "source": "HR. an-Nasa'i (As-Sunan al-Kubra) dan at-Thabrani, dari Abu Umamah al-Bahili",
-      "source_type": "hadith",
-      "grade": "Shahih",
-      "grade_verified": true,
-      "graded_by": "Al-Albani (As-Silsilah Ash-Shahihah No. 972) -- hanya redaksi inti ini, bukan versi panjang dengan tambahan riwayat lain yang lebih lemah",
-      "grade_source_url": "https://www.islamweb.net/ar/fatwa/276580/"
     }
   ]
 }
