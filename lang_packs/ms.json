@@ -1576,7 +1576,7 @@
   "wudhu_step_kumur_title": "Berkumur",
   "wudhu_step_lengan_desc": "Basuh tangan kanan dahulu dari hujung jari hingga siku (siku turut dibasuh), kemudian tangan kiri. Ulang 3 kali. Kedua-dua gambar menunjukkan gerakan membasuh lengan.",
   "wudhu_step_lengan_title": "Basuh kedua-dua tangan hingga siku",
-  "wudhu_step_niat_desc": "Pergi ke tempat berwuduk, niatkan dalam hati untuk berwuduk kerana Allah, kemudian ucapkan “Bismillah”. Niat ialah rukun wuduk dan tempatnya di hati; melafazkannya tidak wajib.",
+  "wudhu_step_niat_desc": "Menuju ke tempat berwuduk, berniat di dalam hati untuk berwuduk kerana Allah, kemudian ucapkan «Bismillah». Niat dihadirkan sejak awal; dalam mazhab Syafi'i rukunnya ialah niat yang menyertai basuhan pertama muka, jadi hadirkan semula niat itu semasa membasuh muka. Tempatnya di hati; melafazkannya tidak wajib.",
   "wudhu_step_niat_rec1_label": "Basmalah",
   "wudhu_step_niat_rec1_note": "Membaca basmalah pada permulaan wuduk disunatkan menurut majoriti ulama.",
   "wudhu_step_niat_rec1_translation": "Dengan nama Allah.",
@@ -1593,7 +1593,7 @@
   "wudhu_step_tertib_doa_rec2_note": "Tambahan doa ini dicatat oleh at-Tirmizi dan lazim dibaca selepas wuduk. Untuk status riwayatnya, sila rujuk kepada ahli hadis atau ustaz.",
   "wudhu_step_tertib_doa_rec2_translation": "Ya Allah, jadikanlah aku daripada golongan yang banyak bertaubat dan jadikanlah aku daripada golongan yang menyucikan diri.",
   "wudhu_step_tertib_doa_title": "Tertib dan doa selepas wuduk",
-  "wudhu_step_wajah_desc": "Basuh seluruh muka: dari tempat tumbuh rambut di dahi hingga bawah dagu, dan dari telinga ke telinga. Ulang 3 kali (basuhan pertama rukun, kedua dan ketiga sunat).",
+  "wudhu_step_wajah_desc": "Basuh seluruh muka: dari tempat tumbuh rambut di dahi hingga bawah dagu, dan dari telinga ke telinga. Ulang 3 kali (basuhan pertama rukun, kedua dan ketiga sunat). Hadirkan niat di hati bersama basuhan pertama ini — di sinilah niat menjadi rukun (mazhab Syafi'i).",
   "wudhu_step_wajah_title": "Basuh muka",
   "wudhu_steps_label": "Langkah-langkah",
   "wudhu_title": "Panduan Wuduk",
@@ -1631,5 +1631,10 @@
   "insight_chart_type_bar": "Carta bar",
   "insight_chart_type_line": "Carta garis",
   "wudhu_step_telinga_title": "Sapu telinga",
-  "wudhu_step_telinga_desc": "Kemudian sapu kedua-dua telinga dengan jari yang masih basah, bahagian dalam dan luar (sunat)."
+  "wudhu_step_telinga_desc": "Kemudian sapu kedua-dua telinga dengan jari yang masih basah, bahagian dalam dan luar (sunat).",
+  "journal_fasting_question_date": "Adakah anda berpuasa pada {date}?",
+  "journal_tahfidz_question_date": "Adakah anda menghafaz pada {date}?",
+  "journal_ngaji_question_date": "Adakah anda membaca Al-Quran pada {date}?",
+  "journal_dzikir_question_date": "Adakah anda berzikir pada {date}?",
+  "journal_sedekah_question_date": "Adakah anda bersedekah pada {date}?"
 }

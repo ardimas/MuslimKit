@@ -1576,7 +1576,7 @@
   "wudhu_step_kumur_title": "Se rincer la bouche",
   "wudhu_step_lengan_desc": "Lavez d'abord le bras droit du bout des doigts jusqu'au coude inclus, puis le bras gauche. Répétez 3 fois. Les deux images montrent le geste du lavage des bras.",
   "wudhu_step_lengan_title": "Laver les deux bras jusqu'aux coudes",
-  "wudhu_step_niat_desc": "Rendez-vous à l'endroit du Wudhu, faites dans votre cœur l'intention d'accomplir le Wudhu pour Allah, puis dites « Bismillah ». L'intention est un pilier du Wudhu et son siège est le cœur ; il n'est pas obligatoire de la prononcer à voix haute.",
+  "wudhu_step_niat_desc": "Rendez-vous au lieu des ablutions, formulez dans votre cœur l'intention d'accomplir le wudhu pour Allah, puis dites «Bismillah». Formulez l'intention dès le début ; dans l'école chaféite, le pilier est l'intention présente lors du premier lavage du visage, rappelez-la donc à votre esprit en vous lavant le visage. Son siège est le cœur ; la prononcer n'est pas obligatoire.",
   "wudhu_step_niat_rec1_label": "Basmala",
   "wudhu_step_niat_rec1_note": "Dire la basmala au début du Wudhu est recommandé selon la majorité des savants.",
   "wudhu_step_niat_rec1_translation": "Au nom d'Allah.",
@@ -1593,7 +1593,7 @@
   "wudhu_step_tertib_doa_rec2_note": "Cette invocation supplémentaire est rapportée par at-Tirmidhi et souvent récitée après le Wudhu. Pour l'évaluation de cette narration, veuillez vous référer à des spécialistes du hadith ou à un enseignant.",
   "wudhu_step_tertib_doa_rec2_translation": "Ô Allah, fais de moi l'un de ceux qui se repentent souvent, et fais de moi l'un de ceux qui se purifient.",
   "wudhu_step_tertib_doa_title": "Ordre et invocation après le Wudhu",
-  "wudhu_step_wajah_desc": "Lavez tout le visage : de la racine des cheveux sur le front jusqu'en dessous du menton, et d'une oreille à l'autre. Répétez 3 fois (le premier lavage est un pilier, le deuxième et le troisième sont une sunna).",
+  "wudhu_step_wajah_desc": "Lavez tout le visage : de la naissance des cheveux sur le front jusqu'au-dessous du menton, et d'une oreille à l'autre. Répétez 3 fois (le premier lavage est un pilier, le deuxième et le troisième sont une sunna). Ayez l'intention dans le cœur lors du premier lavage — c'est alors qu'elle est un pilier (chaféite).",
   "wudhu_step_wajah_title": "Laver le visage",
   "wudhu_steps_label": "Étapes",
   "wudhu_title": "Guide du Wudhu",
@@ -1631,5 +1631,10 @@
   "insight_chart_type_bar": "Histogramme",
   "insight_chart_type_line": "Courbe",
   "wudhu_step_telinga_title": "Essuyer les oreilles",
-  "wudhu_step_telinga_desc": "Essuyez ensuite les deux oreilles avec les doigts encore mouillés, à l'intérieur et à l'extérieur (sunna)."
+  "wudhu_step_telinga_desc": "Essuyez ensuite les deux oreilles avec les doigts encore mouillés, à l'intérieur et à l'extérieur (sunna).",
+  "journal_fasting_question_date": "Avez-vous jeûné le {date} ?",
+  "journal_tahfidz_question_date": "Avez-vous mémorisé le {date} ?",
+  "journal_ngaji_question_date": "Avez-vous lu le Coran le {date} ?",
+  "journal_dzikir_question_date": "Avez-vous fait du dhikr le {date} ?",
+  "journal_sedekah_question_date": "Avez-vous donné l'aumône le {date} ?"
 }

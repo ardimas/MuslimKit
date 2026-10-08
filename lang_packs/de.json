@@ -1576,7 +1576,7 @@
   "wudhu_step_kumur_title": "Den Mund ausspülen",
   "wudhu_step_lengan_desc": "Wasche zuerst den rechten Arm von den Fingerspitzen bis einschließlich zum Ellbogen, dann den linken Arm. Wiederhole dies 3 Mal. Die beiden Bilder zeigen die Bewegung beim Waschen der Arme.",
   "wudhu_step_lengan_title": "Beide Arme bis zu den Ellbogen waschen",
-  "wudhu_step_niat_desc": "Begib dich zur Waschstelle, fasse in deinem Herzen die Absicht, das Wudhu um Allahs willen zu verrichten, und sprich dann „Bismillah“. Die Absicht ist eine Säule des Wudhu und ihr Ort ist das Herz; sie laut auszusprechen ist nicht erforderlich.",
+  "wudhu_step_niat_desc": "Begib dich zum Ort der Waschung, fasse im Herzen die Absicht, Wudhu um Allahs willen zu verrichten, und sprich dann «Bismillah». Fasse die Absicht von Anfang an; in der schafiitischen Schule ist die Säule die Absicht, die beim ersten Waschen des Gesichts gegenwärtig ist, rufe sie dir also beim Waschen des Gesichts erneut ins Bewusstsein. Ihr Ort ist das Herz; sie auszusprechen ist nicht erforderlich.",
   "wudhu_step_niat_rec1_label": "Basmala",
   "wudhu_step_niat_rec1_note": "Die Basmala zu Beginn des Wudhu zu sprechen ist nach der Mehrheit der Gelehrten empfohlen.",
   "wudhu_step_niat_rec1_translation": "Im Namen Allahs.",
@@ -1593,7 +1593,7 @@
   "wudhu_step_tertib_doa_rec2_note": "Dieses zusätzliche Bittgebet wird von at-Tirmidhi überliefert und nach dem Wudhu häufig gesprochen. Zur Einstufung der Überlieferung wende dich bitte an Hadith-Gelehrte oder einen Lehrer.",
   "wudhu_step_tertib_doa_rec2_translation": "O Allah, mache mich zu denen, die oft bereuen, und mache mich zu denen, die sich reinigen.",
   "wudhu_step_tertib_doa_title": "Reihenfolge und Bittgebet nach dem Wudhu",
-  "wudhu_step_wajah_desc": "Wasche das ganze Gesicht: vom Haaransatz an der Stirn bis unter das Kinn und von Ohr zu Ohr. Wiederhole dies 3 Mal (die erste Waschung ist eine Säule, die zweite und dritte sind Sunna).",
+  "wudhu_step_wajah_desc": "Wasche das ganze Gesicht: vom Haaransatz an der Stirn bis unter das Kinn und von Ohr zu Ohr. Wiederhole es 3-mal (die erste Waschung ist eine Säule, die zweite und dritte sind Sunna). Habe die Absicht beim ersten Waschen im Herzen — dann ist sie eine Säule (schafiitisch).",
   "wudhu_step_wajah_title": "Das Gesicht waschen",
   "wudhu_steps_label": "Schritte",
   "wudhu_title": "Wudhu-Anleitung",
@@ -1631,5 +1631,10 @@
   "insight_chart_type_bar": "Balkendiagramm",
   "insight_chart_type_line": "Liniendiagramm",
   "wudhu_step_telinga_title": "Ohren abwischen",
-  "wudhu_step_telinga_desc": "Wische danach beide Ohren mit den noch feuchten Fingern innen und außen ab (Sunna)."
+  "wudhu_step_telinga_desc": "Wische danach beide Ohren mit den noch feuchten Fingern innen und außen ab (Sunna).",
+  "journal_fasting_question_date": "Hast du am {date} gefastet?",
+  "journal_tahfidz_question_date": "Hast du am {date} auswendig gelernt?",
+  "journal_ngaji_question_date": "Hast du am {date} im Koran gelesen?",
+  "journal_dzikir_question_date": "Hast du am {date} Dhikr gemacht?",
+  "journal_sedekah_question_date": "Hast du am {date} gespendet?"
 }

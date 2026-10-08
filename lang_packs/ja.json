@@ -1576,7 +1576,7 @@
   "wudhu_step_kumur_title": "口をすすぐ",
   "wudhu_step_lengan_desc": "まず右腕を指先から肘まで（肘を含む）洗い、次に左腕を洗います。3回繰り返します。2枚の絵は腕を洗う動作を示しています。",
   "wudhu_step_lengan_title": "両腕を肘まで洗う",
-  "wudhu_step_niat_desc": "ウドゥーを行う場所へ行き、アッラーのためにウドゥーを行うという意図を心の中で定め、「ビスミッラー」と唱えます。ニーヤはウドゥーのファルドであり、その場所は心です。声に出すことは必須ではありません。",
+  "wudhu_step_niat_desc": "ウドゥー（小浄）の場所へ行き、アッラーのためにウドゥーを行うと心の中で意図し、「ビスミッラー」と唱えます。意図は最初から立てます。シャーフィイー学派では、顔を最初に洗うときに伴う意図がファルド（柱）なので、顔を洗うときにもう一度意識してください。意図の場所は心であり、口に出す必要はありません。",
   "wudhu_step_niat_rec1_label": "バスマラ",
   "wudhu_step_niat_rec1_note": "ウドゥーの初めにバスマラを唱えることは、多数の学者によればスンナ（推奨）です。",
   "wudhu_step_niat_rec1_translation": "アッラーの御名において。",
@@ -1593,7 +1593,7 @@
   "wudhu_step_tertib_doa_rec2_note": "この追加のドゥアーはティルミズィーが伝えたもので、ウドゥー後によく唱えられます。伝承の評価については、ハディース学者や教師にご確認ください。",
   "wudhu_step_tertib_doa_rec2_translation": "アッラーよ、私をよく悔い改める者の一人とし、また身を清める者の一人としてください。",
   "wudhu_step_tertib_doa_title": "順序とウドゥー後のドゥアー",
-  "wudhu_step_wajah_desc": "顔全体を洗います。額の髪の生え際からあごの下まで、そして耳から耳までです。3回繰り返します（1回目はファルド、2回目と3回目はスンナ）。",
+  "wudhu_step_wajah_desc": "顔全体を洗います。額の生え際からあごの下まで、そして耳から耳まで。3回繰り返します（1回目はファルド、2回目と3回目はスンナ）。1回目に洗うときに心に意図を持ちます。そのときこそ意図がファルドになります（シャーフィイー学派）。",
   "wudhu_step_wajah_title": "顔を洗う",
   "wudhu_steps_label": "手順",
   "wudhu_title": "ウドゥーガイド",
@@ -1631,5 +1631,10 @@
   "insight_chart_type_bar": "棒グラフ",
   "insight_chart_type_line": "折れ線グラフ",
   "wudhu_step_telinga_title": "耳をぬぐう",
-  "wudhu_step_telinga_desc": "その後、まだ濡れている指で両耳の内側と外側をぬぐいます（スンナ）。"
+  "wudhu_step_telinga_desc": "その後、まだ濡れている指で両耳の内側と外側をぬぐいます（スンナ）。",
+  "journal_fasting_question_date": "{date}は断食しましたか？",
+  "journal_tahfidz_question_date": "{date}は暗記しましたか？",
+  "journal_ngaji_question_date": "{date}はクルアーンを読みましたか？",
+  "journal_dzikir_question_date": "{date}はズィクルをしましたか？",
+  "journal_sedekah_question_date": "{date}は喜捨をしましたか？"
 }

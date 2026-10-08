@@ -1576,7 +1576,7 @@
   "wudhu_step_kumur_title": "De mond spoelen",
   "wudhu_step_lengan_desc": "Was eerst de rechterarm van de vingertoppen tot en met de elleboog, daarna de linkerarm. Herhaal dit 3 keer. De twee afbeeldingen tonen de beweging van het wassen van de armen.",
   "wudhu_step_lengan_title": "Beide armen wassen tot de ellebogen",
-  "wudhu_step_niat_desc": "Ga naar de plek van de Wudhu, maak in je hart de intentie om de Wudhu te verrichten omwille van Allah en zeg dan „Bismillah”. De intentie is een pijler van de Wudhu en haar plaats is het hart; hardop uitspreken is niet vereist.",
+  "wudhu_step_niat_desc": "Ga naar de plek van de wassing, maak in je hart de intentie om wudhu te verrichten omwille van Allah en zeg dan «Bismillah». Maak de intentie vanaf het begin; in de sjafi'itische school is de pijler de intentie die aanwezig is bij de eerste wassing van het gezicht, haal haar dus opnieuw voor de geest wanneer je je gezicht wast. De plaats ervan is het hart; hardop uitspreken is niet verplicht.",
   "wudhu_step_niat_rec1_label": "Basmala",
   "wudhu_step_niat_rec1_note": "De basmala uitspreken aan het begin van de Wudhu wordt volgens de meerderheid van de geleerden aanbevolen.",
   "wudhu_step_niat_rec1_translation": "In de naam van Allah.",
@@ -1593,7 +1593,7 @@
   "wudhu_step_tertib_doa_rec2_note": "Deze aanvullende smeekbede is overgeleverd door at-Tirmidhi en wordt veel gereciteerd na de Wudhu. Voor de beoordeling van de overlevering kun je terecht bij hadith-geleerden of een leraar.",
   "wudhu_step_tertib_doa_rec2_translation": "O Allah, maak mij tot een van degenen die vaak berouw tonen en maak mij tot een van degenen die zich reinigen.",
   "wudhu_step_tertib_doa_title": "Volgorde en smeekbede na de Wudhu",
-  "wudhu_step_wajah_desc": "Was het hele gezicht: van de haargrens op het voorhoofd tot onder de kin, en van oor tot oor. Herhaal dit 3 keer (de eerste wasbeurt is een pijler, de tweede en derde zijn sunna).",
+  "wudhu_step_wajah_desc": "Was het hele gezicht: van de haargrens op het voorhoofd tot onder de kin en van oor tot oor. Herhaal dit 3 keer (de eerste wassing is een pijler, de tweede en derde zijn soenna). Houd de intentie in je hart bij de eerste wassing — dan is zij een pijler (sjafi'itisch).",
   "wudhu_step_wajah_title": "Het gezicht wassen",
   "wudhu_steps_label": "Stappen",
   "wudhu_title": "Wudhu-gids",
@@ -1631,5 +1631,10 @@
   "insight_chart_type_bar": "Staafdiagram",
   "insight_chart_type_line": "Lijndiagram",
   "wudhu_step_telinga_title": "De oren afstrijken",
-  "wudhu_step_telinga_desc": "Strijk daarna beide oren af met de nog natte vingers, aan de binnen- en buitenkant (soenna)."
+  "wudhu_step_telinga_desc": "Strijk daarna beide oren af met de nog natte vingers, aan de binnen- en buitenkant (soenna).",
+  "journal_fasting_question_date": "Heb je op {date} gevast?",
+  "journal_tahfidz_question_date": "Heb je op {date} uit het hoofd geleerd?",
+  "journal_ngaji_question_date": "Heb je op {date} in de Koran gelezen?",
+  "journal_dzikir_question_date": "Heb je op {date} dhikr gedaan?",
+  "journal_sedekah_question_date": "Heb je op {date} liefdadigheid gegeven?"
 }

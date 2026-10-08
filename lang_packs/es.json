@@ -1576,7 +1576,7 @@
   "wudhu_step_kumur_title": "Enjuagar la boca",
   "wudhu_step_lengan_desc": "Lava primero el brazo derecho desde la punta de los dedos hasta el codo incluido, y luego el izquierdo. Repite 3 veces. Las dos imágenes muestran el movimiento de lavar los brazos.",
   "wudhu_step_lengan_title": "Lavar ambos brazos hasta los codos",
-  "wudhu_step_niat_desc": "Acércate al lugar del Wudhu, haz en tu corazón la intención de realizar el Wudhu por Allah y di después «Bismillah». La intención es un pilar del Wudhu y su lugar es el corazón; no es necesario pronunciarla en voz alta.",
+  "wudhu_step_niat_desc": "Ve al lugar de la ablución, haz en tu corazón la intención de realizar el wudhu por Allah y luego di «Bismillah». Haz la intención desde el principio; en la escuela shafi'i el pilar es la intención presente con el primer lavado del rostro, así que tenla de nuevo presente al lavarte la cara. Su lugar es el corazón; no es obligatorio pronunciarla.",
   "wudhu_step_niat_rec1_label": "Basmala",
   "wudhu_step_niat_rec1_note": "Decir la basmala al comenzar el Wudhu es recomendable según la mayoría de los eruditos.",
   "wudhu_step_niat_rec1_translation": "En el nombre de Allah.",
@@ -1593,7 +1593,7 @@
   "wudhu_step_tertib_doa_rec2_note": "Esta súplica adicional es transmitida por at-Tirmidhi y se recita mucho después del Wudhu. Para la valoración de la narración, consulta a eruditos del hadiz o a un maestro.",
   "wudhu_step_tertib_doa_rec2_translation": "Oh Allah, hazme de los que se arrepienten con frecuencia y hazme de los que se purifican.",
   "wudhu_step_tertib_doa_title": "Orden y súplica después del Wudhu",
-  "wudhu_step_wajah_desc": "Lava toda la cara: desde la línea del cabello en la frente hasta debajo de la barbilla, y de oreja a oreja. Repite 3 veces (el primer lavado es un pilar, el segundo y el tercero son sunna).",
+  "wudhu_step_wajah_desc": "Lava todo el rostro: desde la línea del cabello en la frente hasta debajo de la barbilla, y de oreja a oreja. Repite 3 veces (el primer lavado es un pilar, el segundo y el tercero son sunna). Ten la intención en el corazón con el primer lavado: ahí es cuando es un pilar (shafi'i).",
   "wudhu_step_wajah_title": "Lavar la cara",
   "wudhu_steps_label": "Pasos",
   "wudhu_title": "Guía del Wudhu",
@@ -1631,5 +1631,10 @@
   "insight_chart_type_bar": "Gráfico de barras",
   "insight_chart_type_line": "Gráfico de líneas",
   "wudhu_step_telinga_title": "Pasar las manos por las orejas",
-  "wudhu_step_telinga_desc": "Luego pasa los dedos aún húmedos por ambas orejas, por dentro y por fuera (sunna)."
+  "wudhu_step_telinga_desc": "Luego pasa los dedos aún húmedos por ambas orejas, por dentro y por fuera (sunna).",
+  "journal_fasting_question_date": "¿Ayunaste el {date}?",
+  "journal_tahfidz_question_date": "¿Memorizaste el {date}?",
+  "journal_ngaji_question_date": "¿Leíste el Corán el {date}?",
+  "journal_dzikir_question_date": "¿Hiciste dhikr el {date}?",
+  "journal_sedekah_question_date": "¿Diste sadaqa el {date}?"
 }

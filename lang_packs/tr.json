@@ -1576,7 +1576,7 @@
   "wudhu_step_kumur_title": "Ağıza su vermek",
   "wudhu_step_lengan_desc": "Önce sağ kolu parmak uçlarından dirseğe kadar (dirsek dahil) yıkayın, sonra sol kolu. 3 kez tekrarlayın. İki resim kolları yıkama hareketini gösterir.",
   "wudhu_step_lengan_title": "İki kolu dirseklerle birlikte yıkamak",
-  "wudhu_step_niat_desc": "Abdest alacağınız yere gelin, Allah rızası için abdest almaya kalbinizle niyet edin, ardından „Bismillah” deyin. Niyet abdestin farzlarındandır ve yeri kalptir; dille söylemek şart değildir.",
+  "wudhu_step_niat_desc": "Abdest alma yerine gidin, kalbinizde Allah rızası için abdest alma niyeti edin, sonra «Bismillah» deyin. Niyeti baştan yapın; Şâfiî mezhebinde farz olan, yüzün ilk yıkanışına eşlik eden niyettir, bu yüzden yüzünüzü yıkarken niyeti tekrar hatırlayın. Niyetin yeri kalptir; dille söylemek şart değildir.",
   "wudhu_step_niat_rec1_label": "Besmele",
   "wudhu_step_niat_rec1_note": "Abdestin başında besmele çekmek, âlimlerin çoğunluğuna göre müstehaptır.",
   "wudhu_step_niat_rec1_translation": "Allah'ın adıyla.",
@@ -1593,7 +1593,7 @@
   "wudhu_step_tertib_doa_rec2_note": "Bu ilave dua Tirmizî tarafından rivayet edilmiştir ve abdestten sonra sıkça okunur. Rivayetin derecesi için hadis âlimlerine veya bir hocaya başvurun.",
   "wudhu_step_tertib_doa_rec2_translation": "Allah'ım, beni çok tövbe edenlerden ve çok temizlenenlerden eyle.",
   "wudhu_step_tertib_doa_title": "Sıra ve abdest sonrası dua",
-  "wudhu_step_wajah_desc": "Yüzün tamamını yıkayın: alındaki saç çıkış yerinden çene altına kadar ve kulaktan kulağa. 3 kez tekrarlayın (ilk yıkama farz, ikinci ve üçüncü sünnettir).",
+  "wudhu_step_wajah_desc": "Yüzün tamamını yıkayın: alındaki saç çıkış yerinden çenenin altına kadar ve kulaktan kulağa. 3 kez tekrarlayın (ilk yıkama farz, ikinci ve üçüncü sünnettir). Niyeti ilk yıkamayla birlikte kalbinizde bulundurun; niyet işte o zaman farz olur (Şâfiî).",
   "wudhu_step_wajah_title": "Yüzü yıkamak",
   "wudhu_steps_label": "Adımlar",
   "wudhu_title": "Abdest Rehberi",
@@ -1631,5 +1631,10 @@
   "insight_chart_type_bar": "Çubuk grafik",
   "insight_chart_type_line": "Çizgi grafik",
   "wudhu_step_telinga_title": "Kulakları meshetme",
-  "wudhu_step_telinga_desc": "Ardından hâlâ ıslak olan parmaklarla iki kulağı iç ve dış tarafından meshedin (sünnet)."
+  "wudhu_step_telinga_desc": "Ardından hâlâ ıslak olan parmaklarla iki kulağı iç ve dış tarafından meshedin (sünnet).",
+  "journal_fasting_question_date": "{date} günü oruç tuttunuz mu?",
+  "journal_tahfidz_question_date": "{date} günü ezber yaptınız mı?",
+  "journal_ngaji_question_date": "{date} günü Kur'an okudunuz mu?",
+  "journal_dzikir_question_date": "{date} günü zikir yaptınız mı?",
+  "journal_sedekah_question_date": "{date} günü sadaka verdiniz mi?"
 }
