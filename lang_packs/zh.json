@@ -10,6 +10,7 @@
   "account_sign_in_google": "使用 Google 登录",
   "account_sign_out": "退出登录",
   "account_signed_in_as": "已登录：{email}",
+  "account_signed_out_info": "你尚未登录。若想在更换手机或重新安装应用后保留高级权限，请通过主页上的个人资料图标登录。",
   "account_title": "账号",
   "add": "添加",
   "add_bundle": "添加赞词组合",

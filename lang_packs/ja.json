@@ -10,6 +10,7 @@
   "account_sign_in_google": "Googleでログイン",
   "account_sign_out": "ログアウト",
   "account_signed_in_as": "{email} でログイン中",
+  "account_signed_out_info": "ログインしていません。機種変更やアプリの再インストール後もプレミアムを引き継ぐには、ホームのプロフィールアイコンからログインしてください。",
   "account_title": "アカウント",
   "add": "追加",
   "add_bundle": "ジクルセットを追加",

@@ -10,6 +10,7 @@
   "account_sign_in_google": "Se connecter avec Google",
   "account_sign_out": "Se déconnecter",
   "account_signed_in_as": "Connecté en tant que {email}",
+  "account_signed_out_info": "Vous n'êtes pas connecté. Pour conserver votre accès premium en changeant de téléphone ou en réinstallant l'application, connectez-vous depuis l'icône de profil sur l'accueil.",
   "account_title": "Compte",
   "add": "Ajouter",
   "add_bundle": "Ajouter un groupe de dhikr",

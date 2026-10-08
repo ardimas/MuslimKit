@@ -10,6 +10,7 @@
   "account_sign_in_google": "Google로 로그인",
   "account_sign_out": "로그아웃",
   "account_signed_in_as": "{email}(으)로 로그인됨",
+  "account_signed_out_info": "로그인하지 않았습니다. 휴대폰을 바꾸거나 앱을 다시 설치해도 프리미엄 이용 권한을 유지하려면 홈의 프로필 아이콘에서 로그인하세요.",
   "account_title": "계정",
   "add": "추가",
   "add_bundle": "기도문 묶음 추가",

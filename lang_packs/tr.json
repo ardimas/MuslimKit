@@ -10,6 +10,7 @@
   "account_sign_in_google": "Google ile giriş yap",
   "account_sign_out": "Çıkış yap",
   "account_signed_in_as": "{email} olarak giriş yapıldı",
+  "account_signed_out_info": "Giriş yapmadın. Telefon değiştirdiğinde veya uygulamayı yeniden yüklediğinde premium erişimini korumak için Ana sayfadaki profil simgesinden giriş yap.",
   "account_title": "Hesap",
   "add": "Ekle",
   "add_bundle": "Zikir Paketi Ekle",

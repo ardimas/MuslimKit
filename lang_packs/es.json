@@ -10,6 +10,7 @@
   "account_sign_in_google": "Iniciar sesión con Google",
   "account_sign_out": "Cerrar sesión",
   "account_signed_in_as": "Sesión iniciada como {email}",
+  "account_signed_out_info": "No has iniciado sesión. Para conservar tu acceso premium al cambiar de teléfono o reinstalar la app, inicia sesión desde el icono de perfil en Inicio.",
   "account_title": "Cuenta",
   "add": "Añadir",
   "add_bundle": "Añadir paquete de dhikr",
