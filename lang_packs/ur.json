@@ -1186,7 +1186,7 @@
   "premium_plans_title": "پلان منتخب کریں",
   "premium_platinum_already_active": "آپ کا Platinum ابھی فعال ہے۔ میعاد ختم ہونے کے بعد آپ دوبارہ خرید سکتے ہیں۔",
   "premium_platinum_bonus_note": "ابتدائی معاونین کے لیے: پہلی Platinum خریداری میں +1 سال کا بونس شامل ہے (کل 4 سال)۔",
-  "premium_platinum_bonus_window_note": "خصوصی مدت: آپ کی پہلی Platinum خریداری پر +{days} اضافی دن ملیں گے۔ {date} تک کی خریداری پر لاگو۔",
+  "premium_bonus_window_note": "خصوصی مدت: آپ کی پہلی {tier} خریداری پر +{days} اضافی دن ملیں گے۔ {date} تک کی خریداری پر لاگو۔",
   "premium_platinum_cancel_sub_hint": "آپ کی Google Play سبسکرپشن ابھی خودکار طور پر تجدید ہو رہی ہے۔ دوہرے چارج سے بچنے کے لیے اسے Google Play میں منسوخ کریں؛ باقی وقت پھر بھی شمار ہوگا۔",
   "premium_platinum_onetime_note": "ایک بار کی ادائیگی۔ یہ آپ کی جاری سبسکرپشن کو منسوخ نہیں کرتی؛ باقی وقت Platinum کے 3 سال کے اوپر شامل ہو جاتا ہے۔",
   "premium_platinum_warn_body": "Platinum ایک بار کی خریداری ہے اور آپ کی جاری Google Play سبسکرپشن کو منسوخ نہیں کرتی۔ آپ کی سبسکرپشن کا باقی وقت Platinum کے اوپر شامل ہو جاتا ہے۔ دو بار چارج ہونے سے بچنے کے لیے پرانی سبسکرپشن Google Play میں منسوخ کریں: Play Store > پروفائل > ادائیگیاں اور سبسکرپشنز > سبسکرپشنز۔",

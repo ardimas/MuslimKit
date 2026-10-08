@@ -1186,7 +1186,7 @@
   "premium_plans_title": "Pilih pelan",
   "premium_platinum_already_active": "Platinum anda masih aktif. Anda boleh membelinya semula selepas tamat tempoh.",
   "premium_platinum_bonus_note": "Untuk penyokong awal: pembelian Platinum pertama anda termasuk bonus +1 tahun (jumlah 4 tahun).",
-  "premium_platinum_bonus_window_note": "Tempoh istimewa: pembelian Platinum pertama anda mendapat bonus +{days} hari. Sah untuk pembelian sehingga {date}.",
+  "premium_bonus_window_note": "Tempoh istimewa: pembelian {tier} pertama anda mendapat bonus +{days} hari. Sah untuk pembelian sehingga {date}.",
   "premium_platinum_cancel_sub_hint": "Langganan Google Play anda masih diperbaharui secara automatik. Batalkan di Google Play untuk mengelakkan caj berganda; baki masanya tetap dikira.",
   "premium_platinum_onetime_note": "Bayaran sekali sahaja. Langganan semasa anda tidak dibatalkan: baki masa ditambah di atas 3 tahun Platinum.",
   "premium_platinum_warn_body": "Platinum ialah pembelian sekali bayar dan tidak membatalkan langganan Google Play yang sedang berjalan. Baki masa langganan anda tetap ditambah pada Platinum. Untuk mengelakkan dicaj dua kali, batalkan langganan lama di Google Play: Play Store > Profil > Pembayaran & langganan > Langganan.",

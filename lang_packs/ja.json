@@ -1186,7 +1186,7 @@
   "premium_plans_title": "プランを選ぶ",
   "premium_platinum_already_active": "Platinumはまだ有効です。有効期限が切れた後に再度購入できます。",
   "premium_platinum_bonus_note": "初期サポーター向け：最初のPlatinum購入には+1年のボーナスが付きます（合計4年）。",
-  "premium_platinum_bonus_window_note": "期間限定：初めての Platinum 購入で +{days} 日分を追加。{date} までのご購入が対象です。",
+  "premium_bonus_window_note": "期間限定：初めての {tier} 購入で +{days} 日分を追加。{date} までのご購入が対象です。",
   "premium_platinum_cancel_sub_hint": "Google Playのサブスクリプションは自動更新のままです。二重課金を避けるためGoogle Playで解約してください。残り期間はそのまま反映されます。",
   "premium_platinum_onetime_note": "1回払いです。現在のサブスクリプションは解約されず、残りの期間はPlatinumの3年に加算されます。",
   "premium_platinum_warn_body": "Platinumは1回限りの購入で、現在のGoogle Playサブスクリプションを解約するものではありません。サブスクリプションの残り期間はPlatinumに加算されます。二重課金を避けるため、古いサブスクリプションはGoogle Playで解約してください：Playストア > プロフィール > お支払いと定期購入 > 定期購入。",

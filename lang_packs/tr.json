@@ -1186,7 +1186,7 @@
   "premium_plans_title": "Bir plan seçin",
   "premium_platinum_already_active": "Platinum'un hâlâ etkin. Süresi dolduktan sonra tekrar satın alabilirsin.",
   "premium_platinum_bonus_note": "İlk destekçiler için: ilk Platinum satın alımına +1 yıl bonus dahildir (toplam 4 yıl).",
-  "premium_platinum_bonus_window_note": "Özel dönem: İlk Platinum satın alımınıza +{days} gün ek süre verilir. {date} tarihine kadar yapılan alımlar için geçerlidir.",
+  "premium_bonus_window_note": "Özel dönem: İlk {tier} satın alımınıza +{days} gün ek süre verilir. {date} tarihine kadar yapılan alımlar için geçerlidir.",
   "premium_platinum_cancel_sub_hint": "Google Play aboneliğin hâlâ otomatik yenileniyor. Çift ücretlendirmeyi önlemek için Google Play'de iptal et; kalan süresi korunur.",
   "premium_platinum_onetime_note": "Tek seferlik ödeme. Devam eden aboneliğini iptal etmez; kalan süren 3 yıllık Platinum'un üzerine eklenir.",
   "premium_platinum_warn_body": "Platinum tek seferlik bir satın alımdır ve devam eden Google Play aboneliğini iptal etmez. Aboneliğinin kalan süresi yine de Platinum'un üzerine eklenir. İki kez ücretlendirilmemek için eski aboneliği Google Play'de iptal et: Play Store > Profil > Ödemeler ve abonelikler > Abonelikler.",

@@ -1186,7 +1186,7 @@
   "premium_plans_title": "Kies een abonnement",
   "premium_platinum_already_active": "Je Platinum is nog actief. Je kunt het opnieuw kopen zodra het verlopen is.",
   "premium_platinum_bonus_note": "Voor vroege supporters: je eerste Platinum-aankoop bevat een bonus van +1 jaar (4 jaar in totaal).",
-  "premium_platinum_bonus_window_note": "Speciale periode: je eerste Platinum-aankoop krijgt +{days} extra dagen. Geldig voor aankopen tot en met {date}.",
+  "premium_bonus_window_note": "Speciale periode: je eerste {tier}-aankoop krijgt +{days} extra dagen. Geldig voor aankopen tot en met {date}.",
   "premium_platinum_cancel_sub_hint": "Je Google Play-abonnement wordt nog steeds automatisch verlengd. Zeg het op in Google Play om dubbele afschrijvingen te voorkomen; de resterende tijd blijft behouden.",
   "premium_platinum_onetime_note": "Eenmalige betaling. Je lopende abonnement wordt niet opgezegd: je resterende tijd wordt opgeteld bij de 3 jaar Platinum.",
   "premium_platinum_warn_body": "Platinum is een eenmalige aankoop en zegt je lopende Google Play-abonnement niet op. De resterende tijd van je abonnement wordt toch bij Platinum opgeteld. Zeg het oude abonnement op in Google Play om dubbele afschrijvingen te voorkomen: Play Store > Profiel > Betalingen en abonnementen > Abonnementen.",
