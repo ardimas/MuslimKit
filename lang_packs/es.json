@@ -1186,6 +1186,7 @@
   "premium_plans_title": "Elige un plan",
   "premium_platinum_already_active": "Tu Platinum sigue activo. Podrás comprarlo de nuevo cuando venza.",
   "premium_platinum_bonus_note": "Para los primeros seguidores: tu primera compra de Platinum incluye un bonus de +1 año (4 años en total).",
+  "premium_platinum_bonus_window_note": "Periodo especial: tu primera compra de Platinum recibe +{days} días extra. Válido para compras hasta el {date}.",
   "premium_platinum_cancel_sub_hint": "Tu suscripción de Google Play sigue renovándose automáticamente. Cancélala en Google Play para evitar cobros dobles; el tiempo restante se conserva.",
   "premium_platinum_onetime_note": "Pago único. No cancela tu suscripción en curso: el tiempo que te quede se suma a los 3 años de Platinum.",
   "premium_platinum_warn_body": "Platinum es una compra única y no cancela tu suscripción activa de Google Play. El tiempo restante de tu suscripción se suma igualmente a Platinum. Para evitar un doble cobro, cancela la suscripción anterior en Google Play: Play Store > Perfil > Pagos y suscripciones > Suscripciones.",
