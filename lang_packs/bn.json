@@ -1636,5 +1636,17 @@
   "journal_tahfidz_question_date": "{date} তারিখে কি হিফজ করেছিলেন?",
   "journal_ngaji_question_date": "{date} তারিখে কি কুরআন পড়েছিলেন?",
   "journal_dzikir_question_date": "{date} তারিখে কি যিকির করেছিলেন?",
-  "journal_sedekah_question_date": "{date} তারিখে কি সদকা দিয়েছিলেন?"
+  "journal_sedekah_question_date": "{date} তারিখে কি সদকা দিয়েছিলেন?",
+  "quran_menu": "মেনু",
+  "hafalan_test_title": "এলোমেলো পরীক্ষা",
+  "hafalan_test_card_desc": "আপনার নিজের মুখস্থ থেকে এলোমেলো আয়াত — সময়সূচি ছাড়া",
+  "hafalan_test_empty": "আগে কিছু মুখস্থ যোগ করুন (এবং মুখস্থ হিসেবে চিহ্নিত করুন), তারপর এলোমেলো পরীক্ষা আপনাকে যাচাই করতে পারবে।",
+  "hafalan_test_instruction": "এই অংশটি মুখস্থ থেকে পড়ুন, তারপর নিচের বোতাম চাপুন।",
+  "hafalan_test_show_text": "লেখা দেখান",
+  "hafalan_test_hide_text": "লেখা লুকান",
+  "hafalan_test_forgot": "এখনও মুখস্থ নয়",
+  "hafalan_test_remembered": "মুখস্থ আছে",
+  "hafalan_test_score": "মুখস্থ: {ok} · এখনও নয়: {no}",
+  "hafalan_test_skip": "আরেকটি প্রশ্ন",
+  "premium_benefit_noads": "বিজ্ঞাপনমুক্ত"
 }

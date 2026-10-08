@@ -1636,5 +1636,17 @@
   "journal_tahfidz_question_date": "{date}は暗記しましたか？",
   "journal_ngaji_question_date": "{date}はクルアーンを読みましたか？",
   "journal_dzikir_question_date": "{date}はズィクルをしましたか？",
-  "journal_sedekah_question_date": "{date}は喜捨をしましたか？"
+  "journal_sedekah_question_date": "{date}は喜捨をしましたか？",
+  "quran_menu": "メニュー",
+  "hafalan_test_title": "ランダムテスト",
+  "hafalan_test_card_desc": "スケジュールに関係なく、あなたが暗記した範囲からランダムに出題",
+  "hafalan_test_empty": "まず暗記を追加して（暗記済みにして）ください。そうするとランダムテストで出題できます。",
+  "hafalan_test_instruction": "この箇所を暗唱してから、下のボタンを押してください。",
+  "hafalan_test_show_text": "テキストを表示",
+  "hafalan_test_hide_text": "テキストを隠す",
+  "hafalan_test_forgot": "まだ覚えていない",
+  "hafalan_test_remembered": "覚えている",
+  "hafalan_test_score": "暗記済み：{ok} ・ まだ：{no}",
+  "hafalan_test_skip": "別の問題",
+  "premium_benefit_noads": "広告なし"
 }

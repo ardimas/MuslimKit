@@ -1636,5 +1636,17 @@
   "journal_tahfidz_question_date": "{date} günü ezber yaptınız mı?",
   "journal_ngaji_question_date": "{date} günü Kur'an okudunuz mu?",
   "journal_dzikir_question_date": "{date} günü zikir yaptınız mı?",
-  "journal_sedekah_question_date": "{date} günü sadaka verdiniz mi?"
+  "journal_sedekah_question_date": "{date} günü sadaka verdiniz mi?",
+  "quran_menu": "Menü",
+  "hafalan_test_title": "Rastgele Test",
+  "hafalan_test_card_desc": "Kendi ezberinden rastgele ayetler — programdan bağımsız",
+  "hafalan_test_empty": "Önce biraz ezber ekleyin (ve ezberlendi olarak işaretleyin); rastgele test sizi bundan sorabilsin.",
+  "hafalan_test_instruction": "Bu bölümü ezberden okuyun, ardından aşağıdaki düğmeye dokunun.",
+  "hafalan_test_show_text": "Metni göster",
+  "hafalan_test_hide_text": "Metni gizle",
+  "hafalan_test_forgot": "Henüz ezberlemedim",
+  "hafalan_test_remembered": "Ezberledim",
+  "hafalan_test_score": "Ezberlenen: {ok} · Henüz değil: {no}",
+  "hafalan_test_skip": "Başka soru",
+  "premium_benefit_noads": "Reklamsız"
 }

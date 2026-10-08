@@ -1636,5 +1636,17 @@
   "journal_tahfidz_question_date": "Adakah anda menghafaz pada {date}?",
   "journal_ngaji_question_date": "Adakah anda membaca Al-Quran pada {date}?",
   "journal_dzikir_question_date": "Adakah anda berzikir pada {date}?",
-  "journal_sedekah_question_date": "Adakah anda bersedekah pada {date}?"
+  "journal_sedekah_question_date": "Adakah anda bersedekah pada {date}?",
+  "quran_menu": "Menu",
+  "hafalan_test_title": "Ujian Rawak",
+  "hafalan_test_card_desc": "Ayat rawak daripada hafalan anda sendiri — bukan mengikut jadual",
+  "hafalan_test_empty": "Tambah hafalan dahulu (dan tandakan sebagai sudah dihafal), barulah ujian rawak boleh menguji anda.",
+  "hafalan_test_instruction": "Bacakan bahagian ini dari hafalan, kemudian tekan butang di bawah.",
+  "hafalan_test_show_text": "Tunjuk teks",
+  "hafalan_test_hide_text": "Sembunyi teks",
+  "hafalan_test_forgot": "Belum hafal",
+  "hafalan_test_remembered": "Hafal",
+  "hafalan_test_score": "Hafal: {ok} · Belum: {no}",
+  "hafalan_test_skip": "Soalan lain",
+  "premium_benefit_noads": "Tanpa iklan"
 }

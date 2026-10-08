@@ -1636,5 +1636,17 @@
   "journal_tahfidz_question_date": "Вы заучивали {date}?",
   "journal_ngaji_question_date": "Вы читали Коран {date}?",
   "journal_dzikir_question_date": "Вы совершали зикр {date}?",
-  "journal_sedekah_question_date": "Вы подавали милостыню {date}?"
+  "journal_sedekah_question_date": "Вы подавали милостыню {date}?",
+  "quran_menu": "Меню",
+  "hafalan_test_title": "Случайный тест",
+  "hafalan_test_card_desc": "Случайные аяты из вашего заученного — вне расписания",
+  "hafalan_test_empty": "Сначала добавьте заученное (и отметьте как выученное), тогда случайный тест сможет вас проверять.",
+  "hafalan_test_instruction": "Прочитайте этот отрывок наизусть, затем нажмите кнопку ниже.",
+  "hafalan_test_show_text": "Показать текст",
+  "hafalan_test_hide_text": "Скрыть текст",
+  "hafalan_test_forgot": "Ещё не выучил",
+  "hafalan_test_remembered": "Выучил",
+  "hafalan_test_score": "Выучено: {ok} · Ещё нет: {no}",
+  "hafalan_test_skip": "Другой вопрос",
+  "premium_benefit_noads": "Без рекламы"
 }

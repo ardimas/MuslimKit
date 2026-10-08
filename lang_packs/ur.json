@@ -1636,5 +1636,17 @@
   "journal_tahfidz_question_date": "کیا آپ نے {date} کو حفظ کیا؟",
   "journal_ngaji_question_date": "کیا آپ نے {date} کو قرآن پڑھا؟",
   "journal_dzikir_question_date": "کیا آپ نے {date} کو ذکر کیا؟",
-  "journal_sedekah_question_date": "کیا آپ نے {date} کو صدقہ دیا؟"
+  "journal_sedekah_question_date": "کیا آپ نے {date} کو صدقہ دیا؟",
+  "quran_menu": "مینو",
+  "hafalan_test_title": "بے ترتیب امتحان",
+  "hafalan_test_card_desc": "آپ کے اپنے حفظ میں سے بے ترتیب آیات — شیڈول کے بغیر",
+  "hafalan_test_empty": "پہلے کچھ حفظ شامل کریں (اور اسے حفظ شدہ نشان زد کریں)، تب بے ترتیب امتحان آپ سے پوچھ سکے گا۔",
+  "hafalan_test_instruction": "یہ حصہ زبانی پڑھیں، پھر نیچے کا بٹن دبائیں۔",
+  "hafalan_test_show_text": "متن دکھائیں",
+  "hafalan_test_hide_text": "متن چھپائیں",
+  "hafalan_test_forgot": "ابھی یاد نہیں",
+  "hafalan_test_remembered": "یاد ہے",
+  "hafalan_test_score": "یاد: {ok} · ابھی نہیں: {no}",
+  "hafalan_test_skip": "دوسرا سوال",
+  "premium_benefit_noads": "اشتہارات کے بغیر"
 }

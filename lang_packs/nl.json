@@ -1636,5 +1636,17 @@
   "journal_tahfidz_question_date": "Heb je op {date} uit het hoofd geleerd?",
   "journal_ngaji_question_date": "Heb je op {date} in de Koran gelezen?",
   "journal_dzikir_question_date": "Heb je op {date} dhikr gedaan?",
-  "journal_sedekah_question_date": "Heb je op {date} liefdadigheid gegeven?"
+  "journal_sedekah_question_date": "Heb je op {date} liefdadigheid gegeven?",
+  "quran_menu": "Menu",
+  "hafalan_test_title": "Willekeurige test",
+  "hafalan_test_card_desc": "Willekeurige verzen uit je eigen memorisatie – niet op schema",
+  "hafalan_test_empty": "Voeg eerst memorisatie toe (en markeer die als uit het hoofd geleerd), dan kan de willekeurige test je overhoren.",
+  "hafalan_test_instruction": "Reciteer dit gedeelte uit het hoofd en tik daarna op de knop hieronder.",
+  "hafalan_test_show_text": "Tekst tonen",
+  "hafalan_test_hide_text": "Tekst verbergen",
+  "hafalan_test_forgot": "Nog niet uit het hoofd",
+  "hafalan_test_remembered": "Uit het hoofd",
+  "hafalan_test_score": "Gekend: {ok} · Nog niet: {no}",
+  "hafalan_test_skip": "Andere vraag",
+  "premium_benefit_noads": "Geen advertenties"
 }

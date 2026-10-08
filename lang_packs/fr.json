@@ -1636,5 +1636,17 @@
   "journal_tahfidz_question_date": "Avez-vous mémorisé le {date} ?",
   "journal_ngaji_question_date": "Avez-vous lu le Coran le {date} ?",
   "journal_dzikir_question_date": "Avez-vous fait du dhikr le {date} ?",
-  "journal_sedekah_question_date": "Avez-vous donné l'aumône le {date} ?"
+  "journal_sedekah_question_date": "Avez-vous donné l'aumône le {date} ?",
+  "quran_menu": "Menu",
+  "hafalan_test_title": "Test aléatoire",
+  "hafalan_test_card_desc": "Versets aléatoires issus de votre propre mémorisation, sans planning",
+  "hafalan_test_empty": "Ajoutez d'abord de la mémorisation (et marquez-la comme mémorisée) pour que le test aléatoire puisse vous interroger.",
+  "hafalan_test_instruction": "Récitez ce passage de mémoire, puis appuyez sur le bouton ci-dessous.",
+  "hafalan_test_show_text": "Afficher le texte",
+  "hafalan_test_hide_text": "Masquer le texte",
+  "hafalan_test_forgot": "Pas encore mémorisé",
+  "hafalan_test_remembered": "Mémorisé",
+  "hafalan_test_score": "Mémorisé : {ok} · Pas encore : {no}",
+  "hafalan_test_skip": "Autre question",
+  "premium_benefit_noads": "Sans publicité"
 }

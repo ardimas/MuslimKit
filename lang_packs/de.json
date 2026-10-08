@@ -1636,5 +1636,17 @@
   "journal_tahfidz_question_date": "Hast du am {date} auswendig gelernt?",
   "journal_ngaji_question_date": "Hast du am {date} im Koran gelesen?",
   "journal_dzikir_question_date": "Hast du am {date} Dhikr gemacht?",
-  "journal_sedekah_question_date": "Hast du am {date} gespendet?"
+  "journal_sedekah_question_date": "Hast du am {date} gespendet?",
+  "quran_menu": "Menü",
+  "hafalan_test_title": "Zufallstest",
+  "hafalan_test_card_desc": "Zufällige Verse aus deinem eigenen Auswendiglernen – unabhängig vom Zeitplan",
+  "hafalan_test_empty": "Füge zuerst Auswendiggelerntes hinzu (und markiere es als gelernt), dann kann der Zufallstest dich abfragen.",
+  "hafalan_test_instruction": "Sprich diese Passage auswendig und tippe dann auf die Schaltfläche unten.",
+  "hafalan_test_show_text": "Text anzeigen",
+  "hafalan_test_hide_text": "Text ausblenden",
+  "hafalan_test_forgot": "Noch nicht gelernt",
+  "hafalan_test_remembered": "Gelernt",
+  "hafalan_test_score": "Gelernt: {ok} · Noch nicht: {no}",
+  "hafalan_test_skip": "Nächste Frage",
+  "premium_benefit_noads": "Keine Werbung"
 }

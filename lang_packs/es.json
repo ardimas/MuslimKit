@@ -1636,5 +1636,17 @@
   "journal_tahfidz_question_date": "¿Memorizaste el {date}?",
   "journal_ngaji_question_date": "¿Leíste el Corán el {date}?",
   "journal_dzikir_question_date": "¿Hiciste dhikr el {date}?",
-  "journal_sedekah_question_date": "¿Diste sadaqa el {date}?"
+  "journal_sedekah_question_date": "¿Diste sadaqa el {date}?",
+  "quran_menu": "Menú",
+  "hafalan_test_title": "Prueba aleatoria",
+  "hafalan_test_card_desc": "Versículos aleatorios de tu propia memorización, sin horario",
+  "hafalan_test_empty": "Primero añade alguna memorización (y márcala como memorizada) para que la prueba aleatoria pueda evaluarte.",
+  "hafalan_test_instruction": "Recita este pasaje de memoria y luego toca el botón de abajo.",
+  "hafalan_test_show_text": "Mostrar texto",
+  "hafalan_test_hide_text": "Ocultar texto",
+  "hafalan_test_forgot": "Aún no lo sé",
+  "hafalan_test_remembered": "Lo sé de memoria",
+  "hafalan_test_score": "Memorizado: {ok} · Aún no: {no}",
+  "hafalan_test_skip": "Otra pregunta",
+  "premium_benefit_noads": "Sin anuncios"
 }

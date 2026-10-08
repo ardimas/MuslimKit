@@ -1636,5 +1636,17 @@
   "journal_tahfidz_question_date": "{date}에 암송했나요?",
   "journal_ngaji_question_date": "{date}에 꾸란을 읽었나요?",
   "journal_dzikir_question_date": "{date}에 지크르를 했나요?",
-  "journal_sedekah_question_date": "{date}에 사다까를 했나요?"
+  "journal_sedekah_question_date": "{date}에 사다까를 했나요?",
+  "quran_menu": "메뉴",
+  "hafalan_test_title": "무작위 테스트",
+  "hafalan_test_card_desc": "일정과 상관없이 내가 암송한 범위에서 무작위로 출제",
+  "hafalan_test_empty": "먼저 암송 항목을 추가하고(암송 완료로 표시) 나면 무작위 테스트가 출제할 수 있어요.",
+  "hafalan_test_instruction": "이 구절을 외워서 읽은 다음 아래 버튼을 누르세요.",
+  "hafalan_test_show_text": "본문 보기",
+  "hafalan_test_hide_text": "본문 숨기기",
+  "hafalan_test_forgot": "아직 못 외움",
+  "hafalan_test_remembered": "외움",
+  "hafalan_test_score": "외움: {ok} · 아직: {no}",
+  "hafalan_test_skip": "다른 문제",
+  "premium_benefit_noads": "광고 없음"
 }
