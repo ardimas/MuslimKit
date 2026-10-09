@@ -1698,6 +1698,8 @@
   "journal_tahfidz_question_date": "{date}에 암송했나요?",
   "journal_ngaji_question_date": "{date}에 꾸란을 읽었나요?",
   "journal_dzikir_question_date": "{date}에 지크르를 했나요?",
+  "journal_dzikir_count": "타스비흐에서 {count}회",
+  "journal_dzikir_auto_hint": "타스비흐를 사용하면 자동으로 기록됩니다",
   "journal_sedekah_question_date": "{date}에 사다까를 했나요?",
   "quran_menu": "메뉴",
   "hafalan_test_title": "무작위 테스트",

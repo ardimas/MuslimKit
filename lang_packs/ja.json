@@ -1698,6 +1698,8 @@
   "journal_tahfidz_question_date": "{date}は暗記しましたか？",
   "journal_ngaji_question_date": "{date}はクルアーンを読みましたか？",
   "journal_dzikir_question_date": "{date}はズィクルをしましたか？",
+  "journal_dzikir_count": "タスビーで{count}回",
+  "journal_dzikir_auto_hint": "タスビーを使うと自動で記録されます",
   "journal_sedekah_question_date": "{date}は喜捨をしましたか？",
   "quran_menu": "メニュー",
   "hafalan_test_title": "ランダムテスト",

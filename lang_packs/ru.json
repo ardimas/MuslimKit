@@ -1698,6 +1698,8 @@
   "journal_tahfidz_question_date": "Вы заучивали {date}?",
   "journal_ngaji_question_date": "Вы читали Коран {date}?",
   "journal_dzikir_question_date": "Вы совершали зикр {date}?",
+  "journal_dzikir_count": "{count} в Тасбихе",
+  "journal_dzikir_auto_hint": "Записывается автоматически при использовании Тасбиха",
   "journal_sedekah_question_date": "Вы подавали милостыню {date}?",
   "quran_menu": "Меню",
   "hafalan_test_title": "Случайный тест",

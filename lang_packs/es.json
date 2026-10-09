@@ -1698,6 +1698,8 @@
   "journal_tahfidz_question_date": "¿Memorizaste el {date}?",
   "journal_ngaji_question_date": "¿Leíste el Corán el {date}?",
   "journal_dzikir_question_date": "¿Hiciste dhikr el {date}?",
+  "journal_dzikir_count": "{count} contados en Tasbih",
+  "journal_dzikir_auto_hint": "Se registra automáticamente al usar Tasbih",
   "journal_sedekah_question_date": "¿Diste sadaqa el {date}?",
   "quran_menu": "Menú",
   "hafalan_test_title": "Prueba aleatoria",

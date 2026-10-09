@@ -1698,6 +1698,8 @@
   "journal_tahfidz_question_date": "کیا آپ نے {date} کو حفظ کیا؟",
   "journal_ngaji_question_date": "کیا آپ نے {date} کو قرآن پڑھا؟",
   "journal_dzikir_question_date": "کیا آپ نے {date} کو ذکر کیا؟",
+  "journal_dzikir_count": "تسبیح میں {count} شمار",
+  "journal_dzikir_auto_hint": "تسبیح استعمال کرنے پر خود بخود درج ہو جاتا ہے",
   "journal_sedekah_question_date": "کیا آپ نے {date} کو صدقہ دیا؟",
   "quran_menu": "مینو",
   "hafalan_test_title": "بے ترتیب امتحان",

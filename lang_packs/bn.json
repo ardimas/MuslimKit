@@ -1698,6 +1698,8 @@
   "journal_tahfidz_question_date": "{date} তারিখে কি হিফজ করেছিলেন?",
   "journal_ngaji_question_date": "{date} তারিখে কি কুরআন পড়েছিলেন?",
   "journal_dzikir_question_date": "{date} তারিখে কি যিকির করেছিলেন?",
+  "journal_dzikir_count": "তাসবিহে {count}টি গণনা",
+  "journal_dzikir_auto_hint": "তাসবিহ ব্যবহার করলে স্বয়ংক্রিয়ভাবে রেকর্ড হয়",
   "journal_sedekah_question_date": "{date} তারিখে কি সদকা দিয়েছিলেন?",
   "quran_menu": "মেনু",
   "hafalan_test_title": "এলোমেলো পরীক্ষা",

@@ -1698,6 +1698,8 @@
   "journal_tahfidz_question_date": "{date}背诵了吗？",
   "journal_ngaji_question_date": "{date}读《古兰经》了吗？",
   "journal_dzikir_question_date": "{date}做了赞念吗？",
+  "journal_dzikir_count": "在赞念中计数 {count}",
+  "journal_dzikir_auto_hint": "使用赞念时自动记录",
   "journal_sedekah_question_date": "{date}施舍了吗？",
   "quran_menu": "菜单",
   "hafalan_test_title": "随机测试",

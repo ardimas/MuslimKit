@@ -1698,6 +1698,8 @@
   "journal_tahfidz_question_date": "{date} günü ezber yaptınız mı?",
   "journal_ngaji_question_date": "{date} günü Kur'an okudunuz mu?",
   "journal_dzikir_question_date": "{date} günü zikir yaptınız mı?",
+  "journal_dzikir_count": "Tesbih'te {count} sayıldı",
+  "journal_dzikir_auto_hint": "Tesbih kullandığında otomatik kaydedilir",
   "journal_sedekah_question_date": "{date} günü sadaka verdiniz mi?",
   "quran_menu": "Menü",
   "hafalan_test_title": "Rastgele Test",

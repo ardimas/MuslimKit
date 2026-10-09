@@ -1698,6 +1698,8 @@
   "journal_tahfidz_question_date": "Heb je op {date} uit het hoofd geleerd?",
   "journal_ngaji_question_date": "Heb je op {date} in de Koran gelezen?",
   "journal_dzikir_question_date": "Heb je op {date} dhikr gedaan?",
+  "journal_dzikir_count": "{count} geteld in Tasbih",
+  "journal_dzikir_auto_hint": "Wordt automatisch vastgelegd als je Tasbih gebruikt",
   "journal_sedekah_question_date": "Heb je op {date} liefdadigheid gegeven?",
   "quran_menu": "Menu",
   "hafalan_test_title": "Willekeurige test",

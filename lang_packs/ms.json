@@ -1698,6 +1698,8 @@
   "journal_tahfidz_question_date": "Adakah anda menghafaz pada {date}?",
   "journal_ngaji_question_date": "Adakah anda membaca Al-Quran pada {date}?",
   "journal_dzikir_question_date": "Adakah anda berzikir pada {date}?",
+  "journal_dzikir_count": "{count} dikira dalam Tasbih",
+  "journal_dzikir_auto_hint": "Direkod secara automatik apabila anda menggunakan Tasbih",
   "journal_sedekah_question_date": "Adakah anda bersedekah pada {date}?",
   "quran_menu": "Menu",
   "hafalan_test_title": "Ujian Rawak",
