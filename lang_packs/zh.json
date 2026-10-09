@@ -1236,6 +1236,7 @@
   "premium_status_trial": "免费试用至 {date}",
   "premium_store_unavailable": "目前无法连接 Google Play。请稍后再试。",
   "premium_tier_choose": "选择 {tier}",
+  "premium_tier_upgrade": "升级到 {tier}",
   "premium_tier_current": "当前方案",
   "premium_tier_gold": "Gold",
   "premium_tier_platinum": "Platinum",

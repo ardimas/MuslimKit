@@ -1236,6 +1236,7 @@
   "premium_status_trial": "{date}まで無料トライアル",
   "premium_store_unavailable": "現在Google Playに接続できません。しばらくしてからもう一度お試しください。",
   "premium_tier_choose": "{tier}を選ぶ",
+  "premium_tier_upgrade": "{tier}にアップグレード",
   "premium_tier_current": "現在のプラン",
   "premium_tier_gold": "Gold",
   "premium_tier_platinum": "Platinum",

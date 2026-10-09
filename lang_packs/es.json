@@ -1236,6 +1236,7 @@
   "premium_status_trial": "Prueba gratuita hasta el {date}",
   "premium_store_unavailable": "Google Play no está disponible en este momento. Inténtalo de nuevo más tarde.",
   "premium_tier_choose": "Elegir {tier}",
+  "premium_tier_upgrade": "Mejorar a {tier}",
   "premium_tier_current": "Plan actual",
   "premium_tier_gold": "Gold",
   "premium_tier_platinum": "Platinum",

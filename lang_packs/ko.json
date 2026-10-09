@@ -1236,6 +1236,7 @@
   "premium_status_trial": "{date}까지 무료 체험",
   "premium_store_unavailable": "지금은 Google Play에 연결할 수 없습니다. 나중에 다시 시도해 주세요.",
   "premium_tier_choose": "{tier} 선택",
+  "premium_tier_upgrade": "{tier}(으)로 업그레이드",
   "premium_tier_current": "현재 플랜",
   "premium_tier_gold": "Gold",
   "premium_tier_platinum": "Platinum",

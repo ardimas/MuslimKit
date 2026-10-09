@@ -1236,6 +1236,7 @@
   "premium_status_trial": "{date} পর্যন্ত বিনামূল্যে ট্রায়াল",
   "premium_store_unavailable": "এখন Google Play-তে সংযোগ করা যাচ্ছে না। অনুগ্রহ করে পরে আবার চেষ্টা করুন।",
   "premium_tier_choose": "{tier} বেছে নিন",
+  "premium_tier_upgrade": "{tier} এ আপগ্রেড করুন",
   "premium_tier_current": "বর্তমান প্ল্যান",
   "premium_tier_gold": "Gold",
   "premium_tier_platinum": "Platinum",

@@ -1236,6 +1236,7 @@
   "premium_status_trial": "Gratis proefperiode tot {date}",
   "premium_store_unavailable": "Google Play is op dit moment niet bereikbaar. Probeer het later opnieuw.",
   "premium_tier_choose": "Kies {tier}",
+  "premium_tier_upgrade": "Upgraden naar {tier}",
   "premium_tier_current": "Huidig abonnement",
   "premium_tier_gold": "Gold",
   "premium_tier_platinum": "Platinum",

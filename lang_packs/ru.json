@@ -1236,6 +1236,7 @@
   "premium_status_trial": "Бесплатный пробный период до {date}",
   "premium_store_unavailable": "Google Play сейчас недоступен. Пожалуйста, попробуйте позже.",
   "premium_tier_choose": "Выбрать {tier}",
+  "premium_tier_upgrade": "Перейти на {tier}",
   "premium_tier_current": "Текущий тариф",
   "premium_tier_gold": "Gold",
   "premium_tier_platinum": "Platinum",

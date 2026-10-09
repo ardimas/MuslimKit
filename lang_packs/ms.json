@@ -1236,6 +1236,7 @@
   "premium_status_trial": "Percubaan percuma hingga {date}",
   "premium_store_unavailable": "Google Play tidak dapat dicapai sekarang. Sila cuba lagi nanti.",
   "premium_tier_choose": "Pilih {tier}",
+  "premium_tier_upgrade": "Naik taraf ke {tier}",
   "premium_tier_current": "Pelan semasa",
   "premium_tier_gold": "Gold",
   "premium_tier_platinum": "Platinum",
