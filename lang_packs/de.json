@@ -1292,6 +1292,7 @@
   "privacy_settings_desc": "Ihre Werbe-Einwilligungsoptionen ändern (EWR/UK/CH)",
   "privacy_title": "🔒 100% Datenschutz garantiert",
   "profile_days_left": "Noch {days} Tage",
+  "profile_day_left": "Noch {days} Tag",
   "profile_guest_name": "Gast",
   "profile_member_since": "Mitglied seit {date}",
   "profile_next_billing": "Nächste Abrechnung",

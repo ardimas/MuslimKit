@@ -1292,6 +1292,7 @@
   "privacy_settings_desc": "광고 동의 설정을 변경하세요 (EEA/UK/CH)",
   "privacy_title": "🔒 100% 개인정보 보호",
   "profile_days_left": "{days}일 남음",
+  "profile_day_left": "{days}일 남음",
   "profile_guest_name": "게스트",
   "profile_member_since": "{date}부터 회원",
   "profile_next_billing": "다음 결제일",

@@ -1292,6 +1292,7 @@
   "privacy_settings_desc": "広告の同意設定を変更（EEA/UK/CH）",
   "privacy_title": "🔒 100% プライバシー保護",
   "profile_days_left": "残り{days}日",
+  "profile_day_left": "残り{days}日",
   "profile_guest_name": "ゲスト",
   "profile_member_since": "{date}から利用中",
   "profile_next_billing": "次回の請求",

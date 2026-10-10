@@ -1292,6 +1292,7 @@
   "privacy_settings_desc": "更改您的广告同意选项（欧洲经济区/英国/瑞士）",
   "privacy_title": "🔒 100% 隐私保障",
   "profile_days_left": "还剩 {days} 天",
+  "profile_day_left": "还剩 {days} 天",
   "profile_guest_name": "访客",
   "profile_member_since": "自 {date} 起成为会员",
   "profile_next_billing": "下次扣费",

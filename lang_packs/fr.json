@@ -1292,6 +1292,7 @@
   "privacy_settings_desc": "Modifier vos choix de consentement publicitaire (EEE/UK/CH)",
   "privacy_title": "🔒 100% Confidentialité garantie",
   "profile_days_left": "{days} jours restants",
+  "profile_day_left": "{days} jour restant",
   "profile_guest_name": "Invité",
   "profile_member_since": "Membre depuis le {date}",
   "profile_next_billing": "Prochain prélèvement",

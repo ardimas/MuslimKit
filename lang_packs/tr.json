@@ -1292,6 +1292,7 @@
   "privacy_settings_desc": "Reklam onay tercihlerinizi değiştirin (AEA/UK/CH)",
   "privacy_title": "🔒 %100 Gizlilik Garantisi",
   "profile_days_left": "{days} gün kaldı",
+  "profile_day_left": "{days} gün kaldı",
   "profile_guest_name": "Misafir",
   "profile_member_since": "{date} tarihinden beri üye",
   "profile_next_billing": "Sonraki ödeme",

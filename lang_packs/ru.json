@@ -1292,6 +1292,7 @@
   "privacy_settings_desc": "Изменить настройки согласия на рекламу (ЕЭЗ/UK/CH)",
   "privacy_title": "🔒 100% Конфиденциальность",
   "profile_days_left": "Осталось дней: {days}",
+  "profile_day_left": "Остался {days} день",
   "profile_guest_name": "Гость",
   "profile_member_since": "С нами с {date}",
   "profile_next_billing": "Следующий платёж",

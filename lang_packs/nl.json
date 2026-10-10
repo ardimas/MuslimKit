@@ -1292,6 +1292,7 @@
   "privacy_settings_desc": "Wijzig uw advertentie-toestemmingskeuzes (EER/UK/CH)",
   "privacy_title": "🔒 100% Privacy gegarandeerd",
   "profile_days_left": "Nog {days} dagen",
+  "profile_day_left": "Nog {days} dag",
   "profile_guest_name": "Gast",
   "profile_member_since": "Lid sinds {date}",
   "profile_next_billing": "Volgende betaling",

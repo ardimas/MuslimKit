@@ -1292,6 +1292,7 @@
   "privacy_settings_desc": "আপনার বিজ্ঞাপন সম্মতি পছন্দ পরিবর্তন করুন (EEA/UK/CH)",
   "privacy_title": "🔒 ১০০% গোপনীয়তা নিশ্চিত",
   "profile_days_left": "আর {days} দিন বাকি",
+  "profile_day_left": "আর {days} দিন বাকি",
   "profile_guest_name": "অতিথি",
   "profile_member_since": "সদস্য হয়েছেন {date} থেকে",
   "profile_next_billing": "পরবর্তী বিলিং",
