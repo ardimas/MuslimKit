@@ -1770,5 +1770,7 @@
   "mushaf_load_failed": "মুসহাফের ডেটা লোড হয়নি। বন্ধ করে আবার খুলুন।",
   "mushaf_credit": "Qur'an text and font: King Fahd Glorious Quran Printing Complex. Page layout and text data: Quranic Universal Library (QUL), Tarteel.",
   "mushaf_pick_pin_title": "Mark last read verse",
-  "mushaf_pick_bookmark_title": "Choose verses to bookmark"
+  "mushaf_pick_bookmark_title": "Choose verses to bookmark",
+  "account_sign_out_confirm_title": "Sign out?",
+  "account_sign_out_confirm_body": "You'll be signed out of your Google account. Data on this device stays saved, and you can sign in again anytime."
 }
