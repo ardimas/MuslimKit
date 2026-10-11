@@ -1759,5 +1759,7 @@
   "hafalan_test_remembered": "Lo sé de memoria",
   "hafalan_test_score": "Memorizado: {ok} · Aún no: {no}",
   "hafalan_test_skip": "Otra pregunta",
-  "premium_benefit_noads": "Sin anuncios"
+  "premium_benefit_noads": "Sin anuncios",
+  "signin_consent": "Al iniciar sesión, aceptas nuestra {privacy}.",
+  "signin_consent_link": "Política de privacidad"
 }

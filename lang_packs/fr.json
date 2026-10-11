@@ -1759,5 +1759,7 @@
   "hafalan_test_remembered": "Mémorisé",
   "hafalan_test_score": "Mémorisé : {ok} · Pas encore : {no}",
   "hafalan_test_skip": "Autre question",
-  "premium_benefit_noads": "Sans publicité"
+  "premium_benefit_noads": "Sans publicité",
+  "signin_consent": "En vous connectant, vous acceptez notre {privacy}.",
+  "signin_consent_link": "Politique de confidentialité"
 }

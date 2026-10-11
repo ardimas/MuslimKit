@@ -1759,5 +1759,7 @@
   "hafalan_test_remembered": "Gelernt",
   "hafalan_test_score": "Gelernt: {ok} · Noch nicht: {no}",
   "hafalan_test_skip": "Nächste Frage",
-  "premium_benefit_noads": "Keine Werbung"
+  "premium_benefit_noads": "Keine Werbung",
+  "signin_consent": "Mit der Anmeldung stimmst du unserer {privacy} zu.",
+  "signin_consent_link": "Datenschutzerklärung"
 }

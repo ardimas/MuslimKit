@@ -1759,5 +1759,7 @@
   "hafalan_test_remembered": "Uit het hoofd",
   "hafalan_test_score": "Gekend: {ok} · Nog niet: {no}",
   "hafalan_test_skip": "Andere vraag",
-  "premium_benefit_noads": "Geen advertenties"
+  "premium_benefit_noads": "Geen advertenties",
+  "signin_consent": "Door in te loggen ga je akkoord met ons {privacy}.",
+  "signin_consent_link": "privacybeleid"
 }

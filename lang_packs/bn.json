@@ -1759,5 +1759,7 @@
   "hafalan_test_remembered": "মুখস্থ আছে",
   "hafalan_test_score": "মুখস্থ: {ok} · এখনও নয়: {no}",
   "hafalan_test_skip": "আরেকটি প্রশ্ন",
-  "premium_benefit_noads": "বিজ্ঞাপনমুক্ত"
+  "premium_benefit_noads": "বিজ্ঞাপনমুক্ত",
+  "signin_consent": "সাইন ইন করে আপনি আমাদের {privacy} মেনে নিচ্ছেন।",
+  "signin_consent_link": "গোপনীয়তা নীতি"
 }

@@ -1759,5 +1759,7 @@
   "hafalan_test_remembered": "Ezberledim",
   "hafalan_test_score": "Ezberlenen: {ok} · Henüz değil: {no}",
   "hafalan_test_skip": "Başka soru",
-  "premium_benefit_noads": "Reklamsız"
+  "premium_benefit_noads": "Reklamsız",
+  "signin_consent": "Giriş yaparak {privacy} metnimizi kabul etmiş olursun.",
+  "signin_consent_link": "Gizlilik Politikası"
 }

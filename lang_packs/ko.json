@@ -1759,5 +1759,7 @@
   "hafalan_test_remembered": "외움",
   "hafalan_test_score": "외움: {ok} · 아직: {no}",
   "hafalan_test_skip": "다른 문제",
-  "premium_benefit_noads": "광고 없음"
+  "premium_benefit_noads": "광고 없음",
+  "signin_consent": "로그인하면 {privacy}에 동의하는 것으로 간주됩니다.",
+  "signin_consent_link": "개인정보 처리방침"
 }

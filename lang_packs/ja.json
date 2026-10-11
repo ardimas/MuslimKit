@@ -1759,5 +1759,7 @@
   "hafalan_test_remembered": "覚えている",
   "hafalan_test_score": "暗記済み：{ok} ・ まだ：{no}",
   "hafalan_test_skip": "別の問題",
-  "premium_benefit_noads": "広告なし"
+  "premium_benefit_noads": "広告なし",
+  "signin_consent": "ログインすることで、{privacy}に同意したものとみなされます。",
+  "signin_consent_link": "プライバシーポリシー"
 }

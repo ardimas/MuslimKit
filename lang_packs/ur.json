@@ -1759,5 +1759,7 @@
   "hafalan_test_remembered": "یاد ہے",
   "hafalan_test_score": "یاد: {ok} · ابھی نہیں: {no}",
   "hafalan_test_skip": "دوسرا سوال",
-  "premium_benefit_noads": "اشتہارات کے بغیر"
+  "premium_benefit_noads": "اشتہارات کے بغیر",
+  "signin_consent": "سائن اِن کر کے آپ ہماری {privacy} سے اتفاق کرتے ہیں۔",
+  "signin_consent_link": "پرائیویسی پالیسی"
 }

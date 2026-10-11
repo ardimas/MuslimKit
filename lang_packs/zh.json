@@ -1759,5 +1759,7 @@
   "hafalan_test_remembered": "已背熟",
   "hafalan_test_score": "已背：{ok} · 未背：{no}",
   "hafalan_test_skip": "换一题",
-  "premium_benefit_noads": "无广告"
+  "premium_benefit_noads": "无广告",
+  "signin_consent": "登录即表示你同意我们的{privacy}。",
+  "signin_consent_link": "隐私政策"
 }

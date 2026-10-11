@@ -1759,5 +1759,7 @@
   "hafalan_test_remembered": "Выучил",
   "hafalan_test_score": "Выучено: {ok} · Ещё нет: {no}",
   "hafalan_test_skip": "Другой вопрос",
-  "premium_benefit_noads": "Без рекламы"
+  "premium_benefit_noads": "Без рекламы",
+  "signin_consent": "Входя в аккаунт, вы соглашаетесь с нашей {privacy}.",
+  "signin_consent_link": "Политикой конфиденциальности"
 }
