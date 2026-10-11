@@ -1761,5 +1761,12 @@
   "hafalan_test_skip": "Другой вопрос",
   "premium_benefit_noads": "Без рекламы",
   "signin_consent": "Входя в аккаунт, вы соглашаетесь с нашей {privacy}.",
-  "signin_consent_link": "Политикой конфиденциальности"
+  "signin_consent_link": "Политикой конфиденциальности",
+  "mushaf_page_label": "Страница {n}",
+  "mushaf_juz_label": "Джуз {n}",
+  "mushaf_next_page": "Далее",
+  "mushaf_prev_page": "Назад",
+  "mushaf_bookmark_tooltip": "Добавить страницу в закладки",
+  "mushaf_load_failed": "Не удалось загрузить данные Мусхафа. Закройте и откройте снова.",
+  "mushaf_credit": "Qur'an text and font: King Fahd Glorious Quran Printing Complex. Page layout and text data: Quranic Universal Library (QUL), Tarteel."
 }

@@ -1761,5 +1761,12 @@
   "hafalan_test_skip": "Otra pregunta",
   "premium_benefit_noads": "Sin anuncios",
   "signin_consent": "Al iniciar sesión, aceptas nuestra {privacy}.",
-  "signin_consent_link": "Política de privacidad"
+  "signin_consent_link": "Política de privacidad",
+  "mushaf_page_label": "Página {n}",
+  "mushaf_juz_label": "Juz {n}",
+  "mushaf_next_page": "Siguiente",
+  "mushaf_prev_page": "Anterior",
+  "mushaf_bookmark_tooltip": "Marcar esta página",
+  "mushaf_load_failed": "No se pudieron cargar los datos del Mushaf. Cierra y vuelve a abrir.",
+  "mushaf_credit": "Qur'an text and font: King Fahd Glorious Quran Printing Complex. Page layout and text data: Quranic Universal Library (QUL), Tarteel."
 }

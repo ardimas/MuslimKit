@@ -1761,5 +1761,12 @@
   "hafalan_test_skip": "Soalan lain",
   "premium_benefit_noads": "Tanpa iklan",
   "signin_consent": "Dengan log masuk, anda bersetuju dengan {privacy} kami.",
-  "signin_consent_link": "Dasar Privasi"
+  "signin_consent_link": "Dasar Privasi",
+  "mushaf_page_label": "Halaman {n}",
+  "mushaf_juz_label": "Juzuk {n}",
+  "mushaf_next_page": "Seterusnya",
+  "mushaf_prev_page": "Sebelumnya",
+  "mushaf_bookmark_tooltip": "Tanda halaman ini",
+  "mushaf_load_failed": "Data Mushaf gagal dimuatkan. Sila tutup dan buka semula.",
+  "mushaf_credit": "Qur'an text and font: King Fahd Glorious Quran Printing Complex. Page layout and text data: Quranic Universal Library (QUL), Tarteel."
 }

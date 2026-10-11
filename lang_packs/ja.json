@@ -1761,5 +1761,12 @@
   "hafalan_test_skip": "別の問題",
   "premium_benefit_noads": "広告なし",
   "signin_consent": "ログインすることで、{privacy}に同意したものとみなされます。",
-  "signin_consent_link": "プライバシーポリシー"
+  "signin_consent_link": "プライバシーポリシー",
+  "mushaf_page_label": "{n}ページ",
+  "mushaf_juz_label": "ジュズ {n}",
+  "mushaf_next_page": "次へ",
+  "mushaf_prev_page": "前へ",
+  "mushaf_bookmark_tooltip": "このページをブックマーク",
+  "mushaf_load_failed": "ムスハフのデータを読み込めませんでした。閉じてもう一度開いてください。",
+  "mushaf_credit": "Qur'an text and font: King Fahd Glorious Quran Printing Complex. Page layout and text data: Quranic Universal Library (QUL), Tarteel."
 }

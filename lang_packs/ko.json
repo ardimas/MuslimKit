@@ -1761,5 +1761,12 @@
   "hafalan_test_skip": "다른 문제",
   "premium_benefit_noads": "광고 없음",
   "signin_consent": "로그인하면 {privacy}에 동의하는 것으로 간주됩니다.",
-  "signin_consent_link": "개인정보 처리방침"
+  "signin_consent_link": "개인정보 처리방침",
+  "mushaf_page_label": "{n}쪽",
+  "mushaf_juz_label": "주즈 {n}",
+  "mushaf_next_page": "다음",
+  "mushaf_prev_page": "이전",
+  "mushaf_bookmark_tooltip": "이 페이지 북마크",
+  "mushaf_load_failed": "무스하프 데이터를 불러오지 못했습니다. 닫고 다시 열어 주세요.",
+  "mushaf_credit": "Qur'an text and font: King Fahd Glorious Quran Printing Complex. Page layout and text data: Quranic Universal Library (QUL), Tarteel."
 }

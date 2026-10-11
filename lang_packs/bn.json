@@ -1761,5 +1761,12 @@
   "hafalan_test_skip": "আরেকটি প্রশ্ন",
   "premium_benefit_noads": "বিজ্ঞাপনমুক্ত",
   "signin_consent": "সাইন ইন করে আপনি আমাদের {privacy} মেনে নিচ্ছেন।",
-  "signin_consent_link": "গোপনীয়তা নীতি"
+  "signin_consent_link": "গোপনীয়তা নীতি",
+  "mushaf_page_label": "পৃষ্ঠা {n}",
+  "mushaf_juz_label": "পারা {n}",
+  "mushaf_next_page": "পরবর্তী",
+  "mushaf_prev_page": "আগের",
+  "mushaf_bookmark_tooltip": "এই পৃষ্ঠা বুকমার্ক করুন",
+  "mushaf_load_failed": "মুসহাফের ডেটা লোড হয়নি। বন্ধ করে আবার খুলুন।",
+  "mushaf_credit": "Qur'an text and font: King Fahd Glorious Quran Printing Complex. Page layout and text data: Quranic Universal Library (QUL), Tarteel."
 }

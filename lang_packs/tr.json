@@ -1761,5 +1761,12 @@
   "hafalan_test_skip": "Başka soru",
   "premium_benefit_noads": "Reklamsız",
   "signin_consent": "Giriş yaparak {privacy} metnimizi kabul etmiş olursun.",
-  "signin_consent_link": "Gizlilik Politikası"
+  "signin_consent_link": "Gizlilik Politikası",
+  "mushaf_page_label": "Sayfa {n}",
+  "mushaf_juz_label": "Cüz {n}",
+  "mushaf_next_page": "Sonraki",
+  "mushaf_prev_page": "Önceki",
+  "mushaf_bookmark_tooltip": "Bu sayfayı işaretle",
+  "mushaf_load_failed": "Mushaf verileri yüklenemedi. Lütfen kapatıp yeniden açın.",
+  "mushaf_credit": "Qur'an text and font: King Fahd Glorious Quran Printing Complex. Page layout and text data: Quranic Universal Library (QUL), Tarteel."
 }

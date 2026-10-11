@@ -1761,5 +1761,12 @@
   "hafalan_test_skip": "دوسرا سوال",
   "premium_benefit_noads": "اشتہارات کے بغیر",
   "signin_consent": "سائن اِن کر کے آپ ہماری {privacy} سے اتفاق کرتے ہیں۔",
-  "signin_consent_link": "پرائیویسی پالیسی"
+  "signin_consent_link": "پرائیویسی پالیسی",
+  "mushaf_page_label": "صفحہ {n}",
+  "mushaf_juz_label": "پارہ {n}",
+  "mushaf_next_page": "اگلا",
+  "mushaf_prev_page": "پچھلا",
+  "mushaf_bookmark_tooltip": "اس صفحے پر بُک مارک لگائیں",
+  "mushaf_load_failed": "مصحف کا ڈیٹا لوڈ نہیں ہو سکا۔ بند کر کے دوبارہ کھولیں۔",
+  "mushaf_credit": "Qur'an text and font: King Fahd Glorious Quran Printing Complex. Page layout and text data: Quranic Universal Library (QUL), Tarteel."
 }

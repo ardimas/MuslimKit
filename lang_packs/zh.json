@@ -1761,5 +1761,12 @@
   "hafalan_test_skip": "换一题",
   "premium_benefit_noads": "无广告",
   "signin_consent": "登录即表示你同意我们的{privacy}。",
-  "signin_consent_link": "隐私政策"
+  "signin_consent_link": "隐私政策",
+  "mushaf_page_label": "第{n}页",
+  "mushaf_juz_label": "Juz {n}",
+  "mushaf_next_page": "下一页",
+  "mushaf_prev_page": "上一页",
+  "mushaf_bookmark_tooltip": "收藏此页",
+  "mushaf_load_failed": "无法加载古兰经页面数据。请关闭后重新打开。",
+  "mushaf_credit": "Qur'an text and font: King Fahd Glorious Quran Printing Complex. Page layout and text data: Quranic Universal Library (QUL), Tarteel."
 }
