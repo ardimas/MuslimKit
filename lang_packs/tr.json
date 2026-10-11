@@ -1768,5 +1768,7 @@
   "mushaf_prev_page": "Önceki",
   "mushaf_bookmark_tooltip": "Bu sayfayı işaretle",
   "mushaf_load_failed": "Mushaf verileri yüklenemedi. Lütfen kapatıp yeniden açın.",
-  "mushaf_credit": "Qur'an text and font: King Fahd Glorious Quran Printing Complex. Page layout and text data: Quranic Universal Library (QUL), Tarteel."
+  "mushaf_credit": "Qur'an text and font: King Fahd Glorious Quran Printing Complex. Page layout and text data: Quranic Universal Library (QUL), Tarteel.",
+  "mushaf_pick_pin_title": "Mark last read verse",
+  "mushaf_pick_bookmark_title": "Choose verses to bookmark"
 }

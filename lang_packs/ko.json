@@ -1768,5 +1768,7 @@
   "mushaf_prev_page": "이전",
   "mushaf_bookmark_tooltip": "이 페이지 북마크",
   "mushaf_load_failed": "무스하프 데이터를 불러오지 못했습니다. 닫고 다시 열어 주세요.",
-  "mushaf_credit": "Qur'an text and font: King Fahd Glorious Quran Printing Complex. Page layout and text data: Quranic Universal Library (QUL), Tarteel."
+  "mushaf_credit": "Qur'an text and font: King Fahd Glorious Quran Printing Complex. Page layout and text data: Quranic Universal Library (QUL), Tarteel.",
+  "mushaf_pick_pin_title": "Mark last read verse",
+  "mushaf_pick_bookmark_title": "Choose verses to bookmark"
 }
