@@ -2,6 +2,8 @@
 
 **All-in-One Islamic Companion App — 100% On-Device, 100% Offline**
 
+📲 **[Unduh di Google Play / Get it on Google Play](https://play.google.com/store/apps/details?id=org.muslimkit.app)** · 🌐 [muslimkit.org](https://muslimkit.org)
+
 🇮🇩 [Bahasa Indonesia](#bahasa-indonesia) | 🇬🇧 [English](#english)
 
 ---
