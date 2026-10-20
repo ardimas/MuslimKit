@@ -1777,5 +1777,10 @@
   "settings_feedback_desc": "Neyin yardımcı olduğunu, neyin kafa karıştırdığını bize söyleyin",
   "feedback_email_subject": "MuslimKit geri bildirimi",
   "feedback_email_body": "Geri bildiriminizi aşağıya yazın. Lütfen kişisel veri eklemeyin.",
-  "feedback_no_mail_app": "E-posta uygulaması bulunamadı. Lütfen support@muslimkit.org adresine yazın"
+  "feedback_no_mail_app": "E-posta uygulaması bulunamadı. Lütfen support@muslimkit.org adresine yazın",
+  "home_next_prayer": "Sonraki namaz",
+  "home_prayers_today": "Bugünkü namazlar",
+  "home_countdown": "{h} sa {m} dk sonra",
+  "home_countdown_min": "{m} dk sonra",
+  "home_enable_location": "Namaz vakitleri için konumu açın"
 }

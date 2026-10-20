@@ -1777,5 +1777,10 @@
   "settings_feedback_desc": "Vertel ons wat helpt en wat verwarrend is",
   "feedback_email_subject": "MuslimKit-feedback",
   "feedback_email_body": "Schrijf je feedback hieronder. Vermeld geen persoonlijke gegevens.",
-  "feedback_no_mail_app": "Geen e-mailapp gevonden. Stuur een mail naar support@muslimkit.org"
+  "feedback_no_mail_app": "Geen e-mailapp gevonden. Stuur een mail naar support@muslimkit.org",
+  "home_next_prayer": "Volgend gebed",
+  "home_prayers_today": "Gebeden van vandaag",
+  "home_countdown": "over {h} u {m} min",
+  "home_countdown_min": "over {m} min",
+  "home_enable_location": "Zet locatie aan voor gebedstijden"
 }

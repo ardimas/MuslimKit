@@ -1777,5 +1777,10 @@
   "settings_feedback_desc": "Dites-nous ce qui vous aide et ce qui vous embrouille",
   "feedback_email_subject": "Avis sur MuslimKit",
   "feedback_email_body": "Écrivez votre avis ci-dessous. Merci de ne pas inclure de données personnelles.",
-  "feedback_no_mail_app": "Aucune application de messagerie trouvée. Écrivez à support@muslimkit.org"
+  "feedback_no_mail_app": "Aucune application de messagerie trouvée. Écrivez à support@muslimkit.org",
+  "home_next_prayer": "Prochaine prière",
+  "home_prayers_today": "Prières du jour",
+  "home_countdown": "dans {h} h {m} min",
+  "home_countdown_min": "dans {m} min",
+  "home_enable_location": "Activez la localisation pour les horaires de prière"
 }

@@ -1777,5 +1777,10 @@
   "settings_feedback_desc": "Beritahu kami apa yang membantu dan apa yang mengelirukan",
   "feedback_email_subject": "Maklum balas MuslimKit",
   "feedback_email_body": "Tulis maklum balas anda di bawah. Sila jangan sertakan data peribadi.",
-  "feedback_no_mail_app": "Aplikasi e-mel tidak ditemui. Sila hantar ke support@muslimkit.org"
+  "feedback_no_mail_app": "Aplikasi e-mel tidak ditemui. Sila hantar ke support@muslimkit.org",
+  "home_next_prayer": "Solat seterusnya",
+  "home_prayers_today": "Solat hari ini",
+  "home_countdown": "dalam {h} jam {m} minit",
+  "home_countdown_min": "dalam {m} minit",
+  "home_enable_location": "Hidupkan lokasi untuk waktu solat"
 }

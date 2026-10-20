@@ -1777,5 +1777,10 @@
   "settings_feedback_desc": "告诉我们哪些有帮助、哪些让你困惑",
   "feedback_email_subject": "MuslimKit 反馈",
   "feedback_email_body": "请在下方写下你的反馈。请勿包含个人信息。",
-  "feedback_no_mail_app": "未找到电子邮件应用。请发送至 support@muslimkit.org"
+  "feedback_no_mail_app": "未找到电子邮件应用。请发送至 support@muslimkit.org",
+  "home_next_prayer": "下一次礼拜",
+  "home_prayers_today": "今日礼拜",
+  "home_countdown": "{h}小时{m}分钟后",
+  "home_countdown_min": "{m}分钟后",
+  "home_enable_location": "开启定位以获取礼拜时间"
 }

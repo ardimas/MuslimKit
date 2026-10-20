@@ -1777,5 +1777,10 @@
   "settings_feedback_desc": "役立つ点や分かりにくい点を教えてください",
   "feedback_email_subject": "MuslimKit へのフィードバック",
   "feedback_email_body": "ご意見を以下にお書きください。個人情報は含めないでください。",
-  "feedback_no_mail_app": "メールアプリが見つかりません。support@muslimkit.org までご連絡ください"
+  "feedback_no_mail_app": "メールアプリが見つかりません。support@muslimkit.org までご連絡ください",
+  "home_next_prayer": "次の礼拝",
+  "home_prayers_today": "今日の礼拝",
+  "home_countdown": "あと{h}時間{m}分",
+  "home_countdown_min": "あと{m}分",
+  "home_enable_location": "礼拝時刻のため位置情報をオンにしてください"
 }

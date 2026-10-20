@@ -1777,5 +1777,10 @@
   "settings_feedback_desc": "কোনটি সহায়ক আর কোনটি বিভ্রান্তিকর, আমাদের জানান",
   "feedback_email_subject": "MuslimKit মতামত",
   "feedback_email_body": "আপনার মতামত নিচে লিখুন। অনুগ্রহ করে ব্যক্তিগত তথ্য দেবেন না।",
-  "feedback_no_mail_app": "কোনো ইমেইল অ্যাপ পাওয়া যায়নি। অনুগ্রহ করে support@muslimkit.org-এ লিখুন"
+  "feedback_no_mail_app": "কোনো ইমেইল অ্যাপ পাওয়া যায়নি। অনুগ্রহ করে support@muslimkit.org-এ লিখুন",
+  "home_next_prayer": "পরবর্তী নামাজ",
+  "home_prayers_today": "আজকের নামাজ",
+  "home_countdown": "{h} ঘণ্টা {m} মিনিট পরে",
+  "home_countdown_min": "{m} মিনিট পরে",
+  "home_enable_location": "নামাজের সময়ের জন্য লোকেশন চালু করুন"
 }

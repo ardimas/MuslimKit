@@ -1777,5 +1777,10 @@
   "settings_feedback_desc": "Расскажите, что помогает, а что непонятно",
   "feedback_email_subject": "Отзыв о MuslimKit",
   "feedback_email_body": "Напишите свой отзыв ниже. Пожалуйста, не указывайте личные данные.",
-  "feedback_no_mail_app": "Почтовое приложение не найдено. Напишите на support@muslimkit.org"
+  "feedback_no_mail_app": "Почтовое приложение не найдено. Напишите на support@muslimkit.org",
+  "home_next_prayer": "Следующий намаз",
+  "home_prayers_today": "Намазы сегодня",
+  "home_countdown": "через {h} ч {m} мин",
+  "home_countdown_min": "через {m} мин",
+  "home_enable_location": "Включите геолокацию для времени намаза"
 }

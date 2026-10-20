@@ -1777,5 +1777,10 @@
   "settings_feedback_desc": "ہمیں بتائیں کیا مددگار ہے اور کیا الجھن پیدا کرتا ہے",
   "feedback_email_subject": "MuslimKit کے بارے میں رائے",
   "feedback_email_body": "اپنی رائے نیچے لکھیں۔ براہِ کرم ذاتی معلومات شامل نہ کریں۔",
-  "feedback_no_mail_app": "ای میل ایپ نہیں ملی۔ براہِ کرم support@muslimkit.org پر لکھیں"
+  "feedback_no_mail_app": "ای میل ایپ نہیں ملی۔ براہِ کرم support@muslimkit.org پر لکھیں",
+  "home_next_prayer": "اگلی نماز",
+  "home_prayers_today": "آج کی نمازیں",
+  "home_countdown": "{h} گھنٹے {m} منٹ بعد",
+  "home_countdown_min": "{m} منٹ بعد",
+  "home_enable_location": "نماز کے اوقات کے لیے لوکیشن آن کریں"
 }

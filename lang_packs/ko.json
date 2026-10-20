@@ -1777,5 +1777,10 @@
   "settings_feedback_desc": "도움이 되는 점과 헷갈리는 점을 알려 주세요",
   "feedback_email_subject": "MuslimKit 의견",
   "feedback_email_body": "아래에 의견을 적어 주세요. 개인정보는 포함하지 마세요.",
-  "feedback_no_mail_app": "이메일 앱을 찾을 수 없습니다. support@muslimkit.org 로 보내 주세요"
+  "feedback_no_mail_app": "이메일 앱을 찾을 수 없습니다. support@muslimkit.org 로 보내 주세요",
+  "home_next_prayer": "다음 예배",
+  "home_prayers_today": "오늘의 예배",
+  "home_countdown": "{h}시간 {m}분 후",
+  "home_countdown_min": "{m}분 후",
+  "home_enable_location": "예배 시간을 위해 위치를 켜 주세요"
 }
