@@ -1772,5 +1772,10 @@
   "mushaf_pick_pin_title": "Mark last read verse",
   "mushaf_pick_bookmark_title": "Choose verses to bookmark",
   "account_sign_out_confirm_title": "Sign out?",
-  "account_sign_out_confirm_body": "You'll be signed out of your Google account. Data on this device stays saved, and you can sign in again anytime."
+  "account_sign_out_confirm_body": "You'll be signed out of your Google account. Data on this device stays saved, and you can sign in again anytime.",
+  "settings_feedback_title": "Отправить отзыв",
+  "settings_feedback_desc": "Расскажите, что помогает, а что непонятно",
+  "feedback_email_subject": "Отзыв о MuslimKit",
+  "feedback_email_body": "Напишите свой отзыв ниже. Пожалуйста, не указывайте личные данные.",
+  "feedback_no_mail_app": "Почтовое приложение не найдено. Напишите на support@muslimkit.org"
 }

@@ -1772,5 +1772,10 @@
   "mushaf_pick_pin_title": "Mark last read verse",
   "mushaf_pick_bookmark_title": "Choose verses to bookmark",
   "account_sign_out_confirm_title": "Sign out?",
-  "account_sign_out_confirm_body": "You'll be signed out of your Google account. Data on this device stays saved, and you can sign in again anytime."
+  "account_sign_out_confirm_body": "You'll be signed out of your Google account. Data on this device stays saved, and you can sign in again anytime.",
+  "settings_feedback_title": "Geri Bildirim Gönder",
+  "settings_feedback_desc": "Neyin yardımcı olduğunu, neyin kafa karıştırdığını bize söyleyin",
+  "feedback_email_subject": "MuslimKit geri bildirimi",
+  "feedback_email_body": "Geri bildiriminizi aşağıya yazın. Lütfen kişisel veri eklemeyin.",
+  "feedback_no_mail_app": "E-posta uygulaması bulunamadı. Lütfen support@muslimkit.org adresine yazın"
 }

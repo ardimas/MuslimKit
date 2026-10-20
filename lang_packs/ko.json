@@ -1772,5 +1772,10 @@
   "mushaf_pick_pin_title": "Mark last read verse",
   "mushaf_pick_bookmark_title": "Choose verses to bookmark",
   "account_sign_out_confirm_title": "Sign out?",
-  "account_sign_out_confirm_body": "You'll be signed out of your Google account. Data on this device stays saved, and you can sign in again anytime."
+  "account_sign_out_confirm_body": "You'll be signed out of your Google account. Data on this device stays saved, and you can sign in again anytime.",
+  "settings_feedback_title": "의견 보내기",
+  "settings_feedback_desc": "도움이 되는 점과 헷갈리는 점을 알려 주세요",
+  "feedback_email_subject": "MuslimKit 의견",
+  "feedback_email_body": "아래에 의견을 적어 주세요. 개인정보는 포함하지 마세요.",
+  "feedback_no_mail_app": "이메일 앱을 찾을 수 없습니다. support@muslimkit.org 로 보내 주세요"
 }
