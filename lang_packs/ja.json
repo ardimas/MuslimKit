@@ -12,6 +12,7 @@
   "account_signed_in_as": "{email} でログイン中",
   "account_signed_out_info": "ログインしていません。機種変更やアプリの再インストール後もプレミアムを引き継ぐには、ホームのプロフィールアイコンからログインしてください。",
   "account_title": "アカウント",
+  "settings_data_title": "データ",
   "add": "追加",
   "add_bundle": "ジクルセットを追加",
   "add_reminder": "リマインダーを追加",

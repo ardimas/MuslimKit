@@ -12,6 +12,7 @@
   "account_signed_in_as": "已登录：{email}",
   "account_signed_out_info": "你尚未登录。若想在更换手机或重新安装应用后保留高级权限，请通过主页上的个人资料图标登录。",
   "account_title": "账号",
+  "settings_data_title": "数据",
   "add": "添加",
   "add_bundle": "添加赞词组合",
   "add_reminder": "添加提醒",
