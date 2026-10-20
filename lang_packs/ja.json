@@ -1368,7 +1368,7 @@
   "quran_fuzzy_suggestion": "もしかして：\"{name}\"のことですか？",
   "quran_juz": "ジュズ",
   "quran_juz_starts_at": "開始位置",
-  "quran_juz_surah_count": "{count}章のスーラを含む — タップして表示",
+  "quran_juz_surah_count": "{count}章のスーラを含む",
   "quran_last_read_label": "最後に読んだ場所",
   "quran_mark_last_read_tooltip": "最後に読んだ場所としてマーク",
   "quran_marked_last_read": "{surah}章{n}節を最後に読んだ場所としてマークしました",

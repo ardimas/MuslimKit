@@ -1368,7 +1368,7 @@
   "quran_fuzzy_suggestion": "혹시 \"{name}\"을(를) 찾으셨나요?",
   "quran_juz": "주즈",
   "quran_juz_starts_at": "시작 위치",
-  "quran_juz_surah_count": "{count}개 수라 포함 — 탭하여 보기",
+  "quran_juz_surah_count": "{count}개 수라 포함",
   "quran_last_read_label": "마지막으로 읽은 곳",
   "quran_mark_last_read_tooltip": "마지막으로 읽은 위치로 표시",
   "quran_marked_last_read": "{surah}장 {n}절이 마지막으로 읽은 곳으로 표시됨",

@@ -1368,7 +1368,7 @@
   "quran_fuzzy_suggestion": "আপনি কি বোঝাতে চেয়েছেন: \"{name}\"?",
   "quran_juz": "জুয",
   "quran_juz_starts_at": "শুরু হয়",
-  "quran_juz_surah_count": "{count}টি সূরা রয়েছে — দেখতে ট্যাপ করুন",
+  "quran_juz_surah_count": "{count}টি সূরা রয়েছে",
   "quran_last_read_label": "সর্বশেষ পঠিত",
   "quran_mark_last_read_tooltip": "সর্বশেষ পঠিত হিসাবে চিহ্নিত করুন",
   "quran_marked_last_read": "সূরা {surah} আয়াত {n} সর্বশেষ পঠিত হিসাবে চিহ্নিত হয়েছে",

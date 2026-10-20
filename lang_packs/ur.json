@@ -1368,7 +1368,7 @@
   "quran_fuzzy_suggestion": "کیا آپ کی مراد یہ ہے: \"{name}\"؟",
   "quran_juz": "پارہ",
   "quran_juz_starts_at": "شروع ہوتا ہے",
-  "quran_juz_surah_count": "اس میں {count} سورتیں ہیں — دیکھنے کے لیے تھپتھپائیں",
+  "quran_juz_surah_count": "اس میں {count} سورتیں ہیں",
   "quran_last_read_label": "آخری پڑھا گیا",
   "quran_mark_last_read_tooltip": "آخری پڑھے گئے کے طور پر نشان زد کریں",
   "quran_marked_last_read": "سورۃ {surah} آیت {n} کو آخری پڑھے گئے کے طور پر نشان زد کیا گیا",

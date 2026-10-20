@@ -1368,7 +1368,7 @@
   "quran_fuzzy_suggestion": "Meinten Sie: „{name}\"?",
   "quran_juz": "Juz",
   "quran_juz_starts_at": "Beginnt bei",
-  "quran_juz_surah_count": "Enthält {count} Suren — antippen zum Anzeigen",
+  "quran_juz_surah_count": "Enthält {count} Suren",
   "quran_last_read_label": "Zuletzt gelesen",
   "quran_mark_last_read_tooltip": "Als zuletzt gelesen markieren",
   "quran_marked_last_read": "Sure {surah} Vers {n} als zuletzt gelesen markiert",

@@ -1368,7 +1368,7 @@
   "quran_fuzzy_suggestion": "Bedoelde u: \"{name}\"?",
   "quran_juz": "Juz",
   "quran_juz_starts_at": "Begint bij",
-  "quran_juz_surah_count": "Bevat {count} soera's — tik om te bekijken",
+  "quran_juz_surah_count": "Bevat {count} soera's",
   "quran_last_read_label": "Laatst gelezen",
   "quran_mark_last_read_tooltip": "Markeren als laatst gelezen",
   "quran_marked_last_read": "Surah {surah} Vers {n} gemarkeerd als laatst gelezen",

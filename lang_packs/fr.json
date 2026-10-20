@@ -1368,7 +1368,7 @@
   "quran_fuzzy_suggestion": "Vouliez-vous dire : \"{name}\" ?",
   "quran_juz": "Juz",
   "quran_juz_starts_at": "Commence à",
-  "quran_juz_surah_count": "Contient {count} sourates — appuyez pour voir",
+  "quran_juz_surah_count": "Contient {count} sourates",
   "quran_last_read_label": "Dernière lecture",
   "quran_mark_last_read_tooltip": "Marquer comme dernière lecture",
   "quran_marked_last_read": "Sourate {surah} Verset {n} marqué comme dernière lecture",

@@ -1368,7 +1368,7 @@
   "quran_fuzzy_suggestion": "Может, вы имели в виду: «{name}»?",
   "quran_juz": "Джуз",
   "quran_juz_starts_at": "Начинается с",
-  "quran_juz_surah_count": "Содержит {count} сур — нажмите, чтобы увидеть",
+  "quran_juz_surah_count": "Содержит {count} сур",
   "quran_last_read_label": "Последнее чтение",
   "quran_mark_last_read_tooltip": "Отметить как последнее чтение",
   "quran_marked_last_read": "Сура {surah} Аят {n} отмечен как последнее чтение",

@@ -1368,7 +1368,7 @@
   "quran_fuzzy_suggestion": "Adakah maksud anda: \"{name}\"?",
   "quran_juz": "Juzuk",
   "quran_juz_starts_at": "Bermula dari",
-  "quran_juz_surah_count": "Mengandungi {count} surah — ketik untuk lihat",
+  "quran_juz_surah_count": "Mengandungi {count} surah",
   "quran_last_read_label": "Terakhir Dibaca",
   "quran_mark_last_read_tooltip": "Tandakan sebagai Terakhir Dibaca",
   "quran_marked_last_read": "Surah {surah} Ayat {n} ditandakan sebagai Terakhir Dibaca",

@@ -1368,7 +1368,7 @@
   "quran_fuzzy_suggestion": "Şunu mu demek istediniz: \"{name}\"?",
   "quran_juz": "Cüz",
   "quran_juz_starts_at": "Başlangıç",
-  "quran_juz_surah_count": "{count} sure içerir — görmek için dokunun",
+  "quran_juz_surah_count": "{count} sure içerir",
   "quran_last_read_label": "Son Okunan",
   "quran_mark_last_read_tooltip": "Son Okunan Olarak İşaretle",
   "quran_marked_last_read": "{surah} Suresi {n}. Ayet son okunan olarak işaretlendi",

@@ -1368,7 +1368,7 @@
   "quran_fuzzy_suggestion": "您是否想搜索：\"{name}\"？",
   "quran_juz": "朱兹",
   "quran_juz_starts_at": "起始于",
-  "quran_juz_surah_count": "包含 {count} 章经文 — 点击查看",
+  "quran_juz_surah_count": "包含 {count} 章经文",
   "quran_last_read_label": "最后阅读",
   "quran_mark_last_read_tooltip": "标记为最后阅读",
   "quran_marked_last_read": "{surah}章第{n}节已标记为最后阅读",
