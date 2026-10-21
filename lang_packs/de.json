@@ -66,6 +66,7 @@
   "silsilah_prophet": "Prophet",
   "silsilah_src_secondary": "Sekundärquelle",
   "silsilah_load_error": "Der Stammbaum konnte nicht geladen werden.",
+  "silsilah_link_chip": "{kind} · Grundlage: {tier}",
   "theme_mode_note": "Der Dunkelmodus gilt in der ganzen App. „System folgen“ übernimmt die Einstellung des Telefons.",
   "add": "Hinzufügen",
   "add_bundle": "Dhikr-Paket hinzufügen",

@@ -66,6 +66,7 @@
   "silsilah_prophet": "Profeta",
   "silsilah_src_secondary": "Fuente secundaria",
   "silsilah_load_error": "No se pudo cargar el linaje.",
+  "silsilah_link_chip": "{kind} · base: {tier}",
   "theme_mode_note": "El modo oscuro se aplica a toda la app. «Seguir el sistema» usa el ajuste del teléfono.",
   "add": "Añadir",
   "add_bundle": "Añadir paquete de dhikr",

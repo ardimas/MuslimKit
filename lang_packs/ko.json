@@ -66,6 +66,7 @@
   "silsilah_prophet": "예언자",
   "silsilah_src_secondary": "2차 자료",
   "silsilah_load_error": "계보를 불러올 수 없습니다.",
+  "silsilah_link_chip": "{kind} · 근거: {tier}",
   "theme_mode_note": "다크 모드는 앱 전체에 적용됩니다. \"시스템 설정 따르기\"는 휴대폰 설정을 따릅니다.",
   "add": "추가",
   "add_bundle": "기도문 묶음 추가",

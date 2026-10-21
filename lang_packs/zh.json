@@ -66,6 +66,7 @@
   "silsilah_prophet": "先知",
   "silsilah_src_secondary": "二手资料",
   "silsilah_load_error": "无法加载世系。",
+  "silsilah_link_chip": "{kind} · 依据：{tier}",
   "theme_mode_note": "深色模式适用于整个应用。“跟随系统”将使用手机的设置。",
   "add": "添加",
   "add_bundle": "添加赞词组合",

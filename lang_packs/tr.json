@@ -66,6 +66,7 @@
   "silsilah_prophet": "Peygamber",
   "silsilah_src_secondary": "İkincil kaynak",
   "silsilah_load_error": "Soyağacı yüklenemedi.",
+  "silsilah_link_chip": "{kind} · dayanak: {tier}",
   "theme_mode_note": "Karanlık mod uygulamanın tamamında geçerlidir. \"Sistemi izle\" telefonun ayarını kullanır.",
   "add": "Ekle",
   "add_bundle": "Zikir Paketi Ekle",

@@ -66,6 +66,7 @@
   "silsilah_prophet": "Prophète",
   "silsilah_src_secondary": "Source secondaire",
   "silsilah_load_error": "Impossible de charger la généalogie.",
+  "silsilah_link_chip": "{kind} · source : {tier}",
   "theme_mode_note": "Le mode sombre s'applique à toute l'application. « Suivre le système » reprend le réglage du téléphone.",
   "add": "Ajouter",
   "add_bundle": "Ajouter un groupe de dhikr",
