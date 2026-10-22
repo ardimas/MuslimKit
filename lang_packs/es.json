@@ -104,6 +104,7 @@
   "hafalan_test_scope_pick": "Elegir parte…",
   "hafalan_test_focus_info": "Enfoque en {scope}: se pueden evaluar {ayahs} de tus aleyas memorizadas.",
   "hafalan_test_focus_empty": "Aún no hay nada registrado en {scope}. Elige otra parte o evalúa todo lo que memoricé.",
+  "hafalan_test_focus_record": "Aún no hay nada registrado en {scope}. Si ya lo memorizaste, regístralo primero para poder evaluarlo.",
   "hafalan_test_start_title": "¿De dónde quieres la prueba?",
   "hafalan_test_start_desc": "Las preguntas salen al azar del Tahfidz que registraste o de una parte que elijas.",
   "hafalan_test_start_focus_desc": "Elige un juz, sura o rango de lo que has memorizado, p. ej. un juz que dominas menos.",

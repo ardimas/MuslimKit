@@ -104,6 +104,7 @@
   "hafalan_test_scope_pick": "Teil wählen …",
   "hafalan_test_focus_info": "Fokus auf {scope}: {ayahs} deiner gelernten Verse können abgefragt werden.",
   "hafalan_test_focus_empty": "In {scope} ist noch nichts erfasst. Wähle einen anderen Teil oder teste alles, was ich kann.",
+  "hafalan_test_focus_record": "In {scope} ist noch nichts erfasst. Wenn du es schon auswendig kannst, erfasse es zuerst, damit es abgefragt werden kann.",
   "hafalan_test_start_title": "Woher soll der Test kommen?",
   "hafalan_test_start_desc": "Die Fragen werden zufällig aus deinem erfassten Tahfidz oder aus einem selbst gewählten Teil gezogen.",
   "hafalan_test_start_focus_desc": "Wähle ein Juz, eine Sure oder einen Bereich aus deinem Gelernten, z. B. ein Juz, den du weniger sicher kannst.",

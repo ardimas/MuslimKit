@@ -104,6 +104,7 @@
   "hafalan_test_scope_pick": "Choisir une partie…",
   "hafalan_test_focus_info": "Ciblage sur {scope} : {ayahs} de vos versets mémorisés peuvent être testés.",
   "hafalan_test_focus_empty": "Rien d'enregistré dans {scope} pour l'instant. Choisissez une autre partie ou testez tout ce que j'ai mémorisé.",
+  "hafalan_test_focus_record": "Rien d'enregistré dans {scope} pour l'instant. Si vous l'avez déjà mémorisé, enregistrez-le d'abord pour pouvoir le tester.",
   "hafalan_test_start_title": "D'où doit venir le test ?",
   "hafalan_test_start_desc": "Les questions sont tirées au hasard du Tahfidz enregistré, ou d'une partie que vous choisissez.",
   "hafalan_test_start_focus_desc": "Choisissez un juz, une sourate ou une plage parmi ce que vous avez mémorisé, par ex. un juz moins maîtrisé.",
