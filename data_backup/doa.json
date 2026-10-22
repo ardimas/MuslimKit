@@ -33,6 +33,48 @@
       "count": 13
     }
   ],
+  "topics": [
+    {
+      "slug": "morning-evening",
+      "name_id": "Dzikir Pagi & Petang",
+      "name_en": "Morning & Evening Dhikr"
+    },
+    {
+      "slug": "salah-mosque",
+      "name_id": "Shalat & Masjid",
+      "name_en": "Prayer & Mosque"
+    },
+    {
+      "slug": "daily-life",
+      "name_id": "Aktivitas Harian",
+      "name_en": "Daily Life"
+    },
+    {
+      "slug": "food-drink",
+      "name_id": "Makan & Minum",
+      "name_en": "Food & Drink"
+    },
+    {
+      "slug": "travel",
+      "name_id": "Perjalanan",
+      "name_en": "Travel"
+    },
+    {
+      "slug": "nature-weather",
+      "name_id": "Alam & Cuaca",
+      "name_en": "Nature & Weather"
+    },
+    {
+      "slug": "hardship-protection",
+      "name_id": "Kesulitan & Perlindungan",
+      "name_en": "Hardship & Protection"
+    },
+    {
+      "slug": "forgiveness-supplication",
+      "name_id": "Ampunan & Permohonan",
+      "name_en": "Forgiveness & Supplication"
+    }
+  ],
   "doa": [
     {
       "id": "morning-dhikr-002",
@@ -52,7 +94,10 @@
       "grade_verified": true,
       "graded_by": "Al-Albani (Sahih Abu Dawud); an-Nawawi",
       "grade_source_url": "https://sunnah.com/abudawud:5082",
-      "graded_by_key": "gb01"
+      "graded_by_key": "gb01",
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "morning-dhikr-003",
@@ -72,7 +117,10 @@
       "grade_verified": true,
       "graded_by": "Al-Albani (Sahih Abu Dawud); an-Nawawi",
       "grade_source_url": "https://sunnah.com/abudawud:5082",
-      "graded_by_key": "gb01"
+      "graded_by_key": "gb01",
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "morning-dhikr-004",
@@ -92,7 +140,10 @@
       "grade_verified": true,
       "graded_by": "Al-Albani (Sahih Abu Dawud); an-Nawawi",
       "grade_source_url": "https://sunnah.com/abudawud:5082",
-      "graded_by_key": "gb01"
+      "graded_by_key": "gb01",
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "morning-dhikr-005",
@@ -109,7 +160,10 @@
       "source": "HR. Muslim No. 2723 (75), Abu Dawud No. 5071, dan at-Tirmidzi 3390, shahih dari Abdullah Ibnu Mas'ud",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "morning-dhikr-006",
@@ -126,7 +180,10 @@
       "source": "HR. al-Bukhari dalam al-Abadul Mufrad No. 1199, lafadz ini adalah lafadz al-Bukhari, at-Tirmidzi No. 3391, Abu Dawud No. 5068, Ahmad 11/354, Ibnu Majah No. 3868",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "morning-dhikr-007",
@@ -143,7 +200,10 @@
       "source": "HR. al-Bukhari No. 6306, 6323, Ahmad IV/122-125, an-Nasa'i VIII/279-280",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "morning-dhikr-008",
@@ -160,7 +220,10 @@
       "source": "HR. al-Bukhari dalam Shahiib al-Adabil Mufrad No. 701, Abu Dawud No. 5090, Ahmad V/42, hasan",
       "source_type": "hadith",
       "grade": "Hasan",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "morning-dhikr-009",
@@ -177,7 +240,10 @@
       "source": "HR. al-Bukhari dalam al-Abadul Mufrad No. 1200, Abu Dawud No. 5074, an-Nasa'i VII/282, Ibnu Majah No. 3871, al-Hakim 1/517-518, dan lainnya dari Ibnu Umar radhiyallahu 'anhumaa",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "morning-dhikr-010",
@@ -194,7 +260,10 @@
       "source": "HR. al-Bukhari dalam al-Abadul Mufrad No. 1202, at-Tirmidzi No. 3392 dan Abu Dawud No. 5067",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "morning-dhikr-011",
@@ -214,7 +283,10 @@
       "grade_verified": true,
       "graded_by": "Al-Albani (Sahih Abu Dawud); Ibnu Qayyim",
       "grade_source_url": "https://sunnah.com/abudawud:5088",
-      "graded_by_key": "gb02"
+      "graded_by_key": "gb02",
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "morning-dhikr-012",
@@ -234,7 +306,10 @@
       "grade_verified": true,
       "graded_by": "Al-Albani; Islamweb fatwa (sahih li ghairihi)",
       "grade_source_url": "https://dorar.net/hadith/sharh/28330",
-      "graded_by_key": "gb03"
+      "graded_by_key": "gb03",
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "morning-dhikr-013",
@@ -251,7 +326,10 @@
       "source": "HR. an-Nasa'i dalam 'Amalul Yaum wal Lailah No. 575, dan al-Hakim 1/545, lihat Shahiih at-Targhiib wat Tarhiib 1/417 No. 661, Ash-shahiihah No. 227, hasan",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "morning-dhikr-014",
@@ -268,7 +346,10 @@
       "source": "HR. Ahmad III/406, 407, ad-Darimi II/292 dan Ibnus Sunni dalam Amalul Yaum wal Lailah No. 34, Misykaatul Mashaabiih No. 2415, Shahiihal-Jaami'ish Shaghiir No. 4674, shahih",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "morning-dhikr-015",
@@ -285,7 +366,10 @@
       "source": "HR al-Bukhari No. 3293 dan 6403, Muslim IV/2071 No. 2691 (28), at-Tirmidzi No. 3468, Ibnu Majah No. 3798",
       "source_type": "hadith",
       "grade": "Shahih (Muttafaq 'alaih)",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "morning-dhikr-016",
@@ -302,7 +386,10 @@
       "source": "HR. Muslim No. 2726. Syarah Muslim XVII/44. Dari Juwairiyah binti al-Harits radhiyallahu 'anhuma",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "morning-dhikr-017",
@@ -319,7 +406,10 @@
       "source": "HR. Ibnu Majah No. 925, Shahiih Ibni Majah 1/152 No. 753 Ibnus Sunni dalam 'Amalul Yaum wal Lailah No. 54, 110, dan Ahmad VI/294, 305, 318, 322. Dari Ummu Salamah, shahih",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "morning-dhikr-018",
@@ -336,7 +426,10 @@
       "source": "HR. Muslim No. 2691 dan No. 2692, dari Abu Hurairah radhiyallahu 'anhu Syarah Muslim XVII/17-18, Shahiih at-Targhiib wat Tarhiib 1/413 No. 653",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "morning-dhikr-019",
@@ -353,7 +446,10 @@
       "source": "HR. al-Bukhari/Fat-hul Baari XI/101 dan Muslim No. 2702",
       "source_type": "hadith",
       "grade": "Shahih (Muttafaq 'alaih)",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "evening-dhikr-002",
@@ -373,7 +469,10 @@
       "grade_verified": true,
       "graded_by": "Al-Albani (Sahih Abu Dawud); an-Nawawi",
       "grade_source_url": "https://sunnah.com/abudawud:5082",
-      "graded_by_key": "gb01"
+      "graded_by_key": "gb01",
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "evening-dhikr-003",
@@ -393,7 +492,10 @@
       "grade_verified": true,
       "graded_by": "Al-Albani (Sahih Abu Dawud); an-Nawawi",
       "grade_source_url": "https://sunnah.com/abudawud:5082",
-      "graded_by_key": "gb01"
+      "graded_by_key": "gb01",
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "evening-dhikr-004",
@@ -413,7 +515,10 @@
       "grade_verified": true,
       "graded_by": "Al-Albani (Sahih Abu Dawud); an-Nawawi",
       "grade_source_url": "https://sunnah.com/abudawud:5082",
-      "graded_by_key": "gb01"
+      "graded_by_key": "gb01",
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "evening-dhikr-005",
@@ -430,7 +535,10 @@
       "source": "HR. Muslim No. 2723 (75), Abu Dawud No. 5071, dan at-Tirmidzi 3390, shahih dari Abdullah Ibnu Mas'ud",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "evening-dhikr-006",
@@ -447,7 +555,10 @@
       "source": "HR. al-Bukhari dalam al-Abadul Mufrad No. 1199, lafadz ini adalah lafadz al-Bukhari at-Tirmidzi No. 3391, Abu Dawud No. 5068, Ahmad 11/354, Ibnu Majah No. 3868",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "evening-dhikr-007",
@@ -464,7 +575,10 @@
       "source": "HR. al-Bukhari No. 6306, 6323, Ahmad IV/122-125, an-Nasa'i VIII/279-280",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "evening-dhikr-008",
@@ -481,7 +595,10 @@
       "source": "HR. al-Bukhari dalam Shahiib al-Adabil Mufrad No. 701, Abu Dawud No. 5090, Ahmad V/42, hasan",
       "source_type": "hadith",
       "grade": "Hasan",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "evening-dhikr-009",
@@ -498,7 +615,10 @@
       "source": "HR. al-Bukhari dalam al-Abadul Mufrad No. 1200, Abu Dawud No. 5074, an-Nasa'i VII/282, Ibnu Majah No. 3871, al-Hakim 1/517-518, dan lainnya dari Ibnu Umar radhiyallahu 'anhumaa",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "evening-dhikr-010",
@@ -515,7 +635,10 @@
       "source": "HR. al-Bukhari dalam al-Abadul Mufrad No. 1202, at-Tirmidzi No. 3392 dan Abu Dawud No. 5067",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "evening-dhikr-011",
@@ -535,7 +658,10 @@
       "grade_verified": true,
       "graded_by": "Al-Albani (Sahih Abu Dawud); Ibnu Qayyim",
       "grade_source_url": "https://sunnah.com/abudawud:5088",
-      "graded_by_key": "gb02"
+      "graded_by_key": "gb02",
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "evening-dhikr-012",
@@ -555,7 +681,10 @@
       "grade_verified": true,
       "graded_by": "Al-Albani; Islamweb fatwa (sahih li ghairihi)",
       "grade_source_url": "https://dorar.net/hadith/sharh/28330",
-      "graded_by_key": "gb03"
+      "graded_by_key": "gb03",
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "evening-dhikr-013",
@@ -572,7 +701,10 @@
       "source": "HR. an-Nasa'i dalam 'Amalul Yaum wal Lailah No. 575, dan al-Hakim 1/545, lihat Shahiih at-Targhiib wat Tarhiib 1/417 No. 661, Ash-shahiihah No. 227, hasan",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "evening-dhikr-014",
@@ -589,7 +721,10 @@
       "source": "HR. Ahmad III/406, 407, ad-Darimi II/292 dan Ibnus Sunni dalam Amalul Yaum wal Lailah No. 34, Misykaatul Mashaabiih No. 2415, Shahiihal-Jaami'ish Shaghiir No. 4674, shahih",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "evening-dhikr-015",
@@ -606,7 +741,10 @@
       "source": "HR al-Bukhari No. 3293 dan 6403, Muslim IV/2071 No. 2691 (28), at-Tirmidzi No. 3468, Ibnu Majah No. 3798",
       "source_type": "hadith",
       "grade": "Shahih (Muttafaq 'alaih)",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "evening-dhikr-016",
@@ -623,7 +761,10 @@
       "source": "HR. Muslim No. 2726. Syarah Muslim XVII/44. Dari Juwairiyah binti al-Harits radhiyallahu 'anhuma",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "evening-dhikr-017",
@@ -640,7 +781,10 @@
       "source": "HR. Muslim No. 2691 dan No. 2692, dari Abu Hurairah radhiyallahu 'anhu Syarah Muslim XVII/17-18, Shahiih at-Targhiib wat Tarhiib 1/413 No. 653",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "evening-dhikr-018",
@@ -657,7 +801,10 @@
       "source": "HR. al-Bukhari/Fat-hul Baari XI/101 dan Muslim No. 2702",
       "source_type": "hadith",
       "grade": "Shahih (Muttafaq 'alaih)",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "evening-dhikr-019",
@@ -674,7 +821,10 @@
       "source": "HR. Ahmad 11/290, an-Nasa'i dalam 'Amalul Yaum wal Lailah No. 596, Shahiih at-Targhiib wat Tarhiib 1/412 No. 652, Shahiih al-Jaami 'ish Shaghiir No. 6427",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "morning-evening"
+      ]
     },
     {
       "id": "daily-dua-001",
@@ -691,7 +841,10 @@
       "source": "HR. al-Bukhari",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "daily-life"
+      ]
     },
     {
       "id": "daily-dua-002",
@@ -708,7 +861,10 @@
       "source": "HR. Bukhari: 6327",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "daily-life"
+      ]
     },
     {
       "id": "daily-dua-003",
@@ -725,7 +881,10 @@
       "source": "HR. al-Bukhari dan Muslim",
       "source_type": "hadith",
       "grade": "Shahih (Muttafaq 'alaih)",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "daily-life"
+      ]
     },
     {
       "id": "daily-dua-004",
@@ -745,7 +904,10 @@
       "grade_verified": true,
       "graded_by": "Al-Albani (Sahih at-Tirmidzi)",
       "grade_source_url": "https://sunnah.com/tirmidhi:7",
-      "graded_by_key": "gb04"
+      "graded_by_key": "gb04",
+      "topics": [
+        "daily-life"
+      ]
     },
     {
       "id": "daily-dua-005",
@@ -762,7 +924,10 @@
       "source": "HR. al-Bukari No. 5376 dan Muslim No. 2022",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "food-drink"
+      ]
     },
     {
       "id": "daily-dua-006",
@@ -782,7 +947,10 @@
       "grade_verified": true,
       "graded_by": "at-Tirmidzi (hasan sahih); Al-Albani (Irwa' al-Ghalil, Silsilah Sahihah)",
       "grade_source_url": "https://www.alukah.net/sharia/0/108558/",
-      "graded_by_key": "gb05"
+      "graded_by_key": "gb05",
+      "topics": [
+        "food-drink"
+      ]
     },
     {
       "id": "daily-dua-007",
@@ -799,7 +967,10 @@
       "source": "Shahih at-Tirmidzi",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "food-drink"
+      ]
     },
     {
       "id": "daily-dua-008",
@@ -816,7 +987,10 @@
       "source": "HR. Muslim",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "salah-mosque"
+      ]
     },
     {
       "id": "daily-dua-009",
@@ -833,7 +1007,10 @@
       "source": "HR. Muslim No. 713",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "salah-mosque"
+      ]
     },
     {
       "id": "daily-dua-011",
@@ -850,7 +1027,10 @@
       "source": "HR. Muslim, at-Tirmidzi dan an-Nasa'i",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "salah-mosque"
+      ]
     },
     {
       "id": "daily-dua-012",
@@ -867,7 +1047,10 @@
       "source": "HR. Abu Daud, As-Sunan Al-Kubra Lil Baihaqi, Juz 4, Hal. 239, al-Hakim dalam Mustadrak 'alas Shahihain No. 1484",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "food-drink"
+      ]
     },
     {
       "id": "daily-dua-015",
@@ -887,7 +1070,11 @@
       "grade_verified": true,
       "graded_by": "Al-Albani (Sahih al-Jami, Sahih at-Targhib)",
       "grade_source_url": "https://alsunna.net/hadith/126",
-      "graded_by_key": "gb06"
+      "graded_by_key": "gb06",
+      "topics": [
+        "daily-life",
+        "travel"
+      ]
     },
     {
       "id": "daily-dua-016",
@@ -906,7 +1093,10 @@
       "grade": "Shahih",
       "grade_verified": true,
       "graded_by": "Syu'aib al-Arna'uth; Al-Albani (Sahih Abu Dawud)",
-      "graded_by_key": "gb07"
+      "graded_by_key": "gb07",
+      "topics": [
+        "hardship-protection"
+      ]
     },
     {
       "id": "daily-dua-017",
@@ -923,7 +1113,10 @@
       "source": "HR. Muslim",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "travel"
+      ]
     },
     {
       "id": "daily-dua-018",
@@ -942,7 +1135,10 @@
       "grade": "Shahih",
       "grade_verified": true,
       "graded_by": "Al-Albani (Sahih al-Jami)",
-      "graded_by_key": "gb08"
+      "graded_by_key": "gb08",
+      "topics": [
+        "travel"
+      ]
     },
     {
       "id": "daily-dua-019",
@@ -961,7 +1157,10 @@
       "grade": "Shahih",
       "grade_verified": true,
       "graded_by": "Al-Albani",
-      "graded_by_key": "gb09"
+      "graded_by_key": "gb09",
+      "topics": [
+        "travel"
+      ]
     },
     {
       "id": "daily-dua-020",
@@ -980,7 +1179,10 @@
       "grade": "Shahih",
       "grade_verified": true,
       "graded_by": "Al-Albani; at-Tirmidzi (hasan)",
-      "graded_by_key": "gb10"
+      "graded_by_key": "gb10",
+      "topics": [
+        "daily-life"
+      ]
     },
     {
       "id": "daily-dua-021",
@@ -999,7 +1201,10 @@
       "grade": "Hasan",
       "grade_verified": true,
       "graded_by": "Al-Albani",
-      "graded_by_key": "gb09"
+      "graded_by_key": "gb09",
+      "topics": [
+        "daily-life"
+      ]
     },
     {
       "id": "daily-dua-022",
@@ -1018,7 +1223,10 @@
       "grade": "Shahih",
       "grade_verified": true,
       "graded_by": "Shahih Muslim",
-      "graded_by_key": "gb11"
+      "graded_by_key": "gb11",
+      "topics": [
+        "travel"
+      ]
     },
     {
       "id": "daily-dua-023",
@@ -1035,7 +1243,10 @@
       "source": "HR. al-Bukhari No. 1032",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "nature-weather"
+      ]
     },
     {
       "id": "daily-dua-024",
@@ -1052,7 +1263,10 @@
       "source": "HR. al-Bukhari No. 1014",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "nature-weather"
+      ]
     },
     {
       "id": "daily-dua-025",
@@ -1069,7 +1283,10 @@
       "source": "HR. al-Bukhari No. 846 dan Muslim No. 71",
       "source_type": "hadith",
       "grade": "Shahih (Muttafaq 'alaih)",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "nature-weather"
+      ]
     },
     {
       "id": "daily-dua-027",
@@ -1086,7 +1303,10 @@
       "source": "HR. al-Bukhari No. 6306, 6323, Ahmad IV/122-125, an-Nasa'i VIII/279-280",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "forgiveness-supplication"
+      ]
     },
     {
       "id": "daily-dua-028",
@@ -1105,7 +1325,10 @@
       "grade": "Shahih",
       "grade_verified": true,
       "graded_by": "Al-Albani (Silsilah Sahihah, 'ala syarat Muslim)",
-      "graded_by_key": "gb12"
+      "graded_by_key": "gb12",
+      "topics": [
+        "forgiveness-supplication"
+      ]
     },
     {
       "id": "daily-dua-029",
@@ -1122,7 +1345,10 @@
       "source": "HR. Muslim",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "hardship-protection"
+      ]
     },
     {
       "id": "daily-dua-030",
@@ -1141,7 +1367,10 @@
       "grade": "Hasan",
       "grade_verified": true,
       "graded_by": "Al-Albani",
-      "graded_by_key": "gb09"
+      "graded_by_key": "gb09",
+      "topics": [
+        "hardship-protection"
+      ]
     },
     {
       "id": "daily-dua-031",
@@ -1160,7 +1389,10 @@
       "grade": "Shahih",
       "grade_verified": true,
       "graded_by": "Shahih al-Bukhari",
-      "graded_by_key": "gb13"
+      "graded_by_key": "gb13",
+      "topics": [
+        "hardship-protection"
+      ]
     },
     {
       "id": "daily-dua-032",
@@ -1177,7 +1409,10 @@
       "source": "HR. al-Bukhari",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "daily-life"
+      ]
     },
     {
       "id": "daily-dua-033",
@@ -1194,7 +1429,10 @@
       "source": "HR. al-Bukhari",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "daily-life"
+      ]
     },
     {
       "id": "daily-dua-034",
@@ -1211,7 +1449,10 @@
       "source": "HR. al-Bukhari",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "daily-life"
+      ]
     },
     {
       "id": "daily-dua-035",
@@ -1228,7 +1469,10 @@
       "source": "HR. Ahmad, dishahihkan al-Albani dalam al-Irwa', 1/115",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "forgiveness-supplication"
+      ]
     },
     {
       "id": "daily-dua-036",
@@ -1245,7 +1489,10 @@
       "source": "QS. Al-Mu'minun: 97-98",
       "source_type": "quran",
       "grade": "Ayat Al-Qur'an",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "hardship-protection"
+      ]
     },
     {
       "id": "daily-dua-037",
@@ -1264,7 +1511,10 @@
       "grade": "Shahih",
       "grade_verified": true,
       "graded_by": "Shahih al-Bukhari",
-      "graded_by_key": "gb13"
+      "graded_by_key": "gb13",
+      "topics": [
+        "salah-mosque"
+      ]
     },
     {
       "id": "daily-dua-038",
@@ -1281,7 +1531,10 @@
       "source": "QS. Ibrahim: 41",
       "source_type": "quran",
       "grade": "Ayat Al-Qur'an",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "forgiveness-supplication"
+      ]
     },
     {
       "id": "selected-dua-001",
@@ -1298,7 +1551,10 @@
       "source": "QS. Al-Baqarah: 201, al-Bukhari: 6389, HR. Muslim: 2690",
       "source_type": "quran",
       "grade": "Ayat Al-Qur'an",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "forgiveness-supplication"
+      ]
     },
     {
       "id": "selected-dua-002",
@@ -1317,7 +1573,10 @@
       "grade": "Shahih",
       "grade_verified": true,
       "graded_by": "Al-Albani (Sahih al-Jami)",
-      "graded_by_key": "gb08"
+      "graded_by_key": "gb08",
+      "topics": [
+        "forgiveness-supplication"
+      ]
     },
     {
       "id": "selected-dua-003",
@@ -1334,7 +1593,10 @@
       "source": "HR. Muslim No. 2654",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "forgiveness-supplication"
+      ]
     },
     {
       "id": "selected-dua-004",
@@ -1351,7 +1613,10 @@
       "source": "QS. Ali Imran: 8",
       "source_type": "quran",
       "grade": "Ayat Al-Qur'an",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "forgiveness-supplication"
+      ]
     },
     {
       "id": "selected-dua-005",
@@ -1368,7 +1633,10 @@
       "source": "HR. Muslim No. 2739",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "hardship-protection"
+      ]
     },
     {
       "id": "selected-dua-006",
@@ -1385,7 +1653,10 @@
       "source": "HR. al-Bukhari: 6616, Muslim: 2707",
       "source_type": "hadith",
       "grade": "Shahih (Muttafaq 'alaih)",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "hardship-protection"
+      ]
     },
     {
       "id": "selected-dua-007",
@@ -1404,7 +1675,10 @@
       "grade": "Shahih",
       "grade_verified": true,
       "graded_by": "Shahih al-Bukhari",
-      "graded_by_key": "gb13"
+      "graded_by_key": "gb13",
+      "topics": [
+        "hardship-protection"
+      ]
     },
     {
       "id": "selected-dua-008",
@@ -1423,7 +1697,10 @@
       "grade": "Shahih",
       "grade_verified": true,
       "graded_by": "Al-Albani (Sahih al-Jami, Silsilah Sahihah) -- independen dari penilaian al-Hakim sendiri",
-      "graded_by_key": "gb14"
+      "graded_by_key": "gb14",
+      "topics": [
+        "forgiveness-supplication"
+      ]
     },
     {
       "id": "dhikr-after-salah-001",
@@ -1440,7 +1717,10 @@
       "source": "HR. Muslim No. 591",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "salah-mosque"
+      ]
     },
     {
       "id": "dhikr-after-salah-002",
@@ -1457,7 +1737,10 @@
       "source": "HR. Muslim No. 591",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "salah-mosque"
+      ]
     },
     {
       "id": "dhikr-after-salah-003",
@@ -1474,7 +1757,10 @@
       "source": "HR. Bukhari No. 844 dan Muslim No. 593",
       "source_type": "hadith",
       "grade": "Shahih (Muttafaq 'alaih)",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "salah-mosque"
+      ]
     },
     {
       "id": "dhikr-after-salah-004",
@@ -1491,7 +1777,10 @@
       "source": "HR. Muslim No. 594",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "salah-mosque"
+      ]
     },
     {
       "id": "dhikr-after-salah-005",
@@ -1510,7 +1799,10 @@
       "grade": "Shahih",
       "grade_verified": true,
       "graded_by": "Shahih Muslim",
-      "graded_by_key": "gb11"
+      "graded_by_key": "gb11",
+      "topics": [
+        "salah-mosque"
+      ]
     },
     {
       "id": "dhikr-after-salah-006",
@@ -1529,7 +1821,10 @@
       "grade": "Shahih",
       "grade_verified": true,
       "graded_by": "Shahih Muslim",
-      "graded_by_key": "gb11"
+      "graded_by_key": "gb11",
+      "topics": [
+        "salah-mosque"
+      ]
     },
     {
       "id": "dhikr-after-salah-007",
@@ -1548,7 +1843,10 @@
       "grade": "Shahih",
       "grade_verified": true,
       "graded_by": "Shahih Muslim",
-      "graded_by_key": "gb11"
+      "graded_by_key": "gb11",
+      "topics": [
+        "salah-mosque"
+      ]
     },
     {
       "id": "dhikr-after-salah-008",
@@ -1565,7 +1863,10 @@
       "source": "Syarh Shahih Muslim, 5: 84",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "salah-mosque"
+      ]
     },
     {
       "id": "dhikr-after-salah-009",
@@ -1585,7 +1886,10 @@
       "grade_verified": true,
       "graded_by": "Al-Albani (As-Silsilah Ash-Shahihah No. 972) -- hanya redaksi inti ini, bukan versi panjang dengan tambahan riwayat lain yang lebih lemah",
       "grade_source_url": "https://www.islamweb.net/ar/fatwa/276580/",
-      "graded_by_key": "gb15"
+      "graded_by_key": "gb15",
+      "topics": [
+        "salah-mosque"
+      ]
     },
     {
       "id": "dhikr-after-salah-010",
@@ -1602,7 +1906,10 @@
       "source": "HR. Abu Dawud No. 1523 dan an-Nasa'i No. 1337. Al Hafizh Abu Thohir mengatakan bahwa sanad hadits ini hasan",
       "source_type": "hadith",
       "grade": "Hasan",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "salah-mosque"
+      ]
     },
     {
       "id": "dhikr-after-salah-011",
@@ -1619,7 +1926,10 @@
       "source": "HR. Abu Dawud No. 1523 dan an-Nasa'i No. 1337. Al Hafizh Abu Thohir mengatakan bahwa sanad hadits ini hasan",
       "source_type": "hadith",
       "grade": "Hasan",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "salah-mosque"
+      ]
     },
     {
       "id": "dhikr-after-salah-012",
@@ -1636,7 +1946,10 @@
       "source": "HR. Abu Dawud No. 1523 dan an-Nasa'i No. 1337. Al Hafizh Abu Thohir mengatakan bahwa sanad hadits ini hasan",
       "source_type": "hadith",
       "grade": "Hasan",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "salah-mosque"
+      ]
     },
     {
       "id": "dhikr-after-salah-013",
@@ -1653,7 +1966,10 @@
       "source": "HR. Ibnu Majah No. 925 dan Ahmad 6: 305, 322. Al-Hafizh Abu Thohir mengatakan bahwa hadits ini shahih",
       "source_type": "hadith",
       "grade": "Shahih",
-      "grade_verified": true
+      "grade_verified": true,
+      "topics": [
+        "salah-mosque"
+      ]
     }
   ]
 }
