@@ -105,6 +105,7 @@
   "hafalan_test_focus_info": "{scope}に絞り込み：暗記した{ayahs}節をテストできます。",
   "hafalan_test_focus_empty": "{scope}には記録がまだありません。別の範囲を選ぶか、暗記したすべてをテストしてください。",
   "hafalan_test_focus_record": "{scope}には記録がまだありません。すでに暗記しているなら、先に記録するとテストできます。",
+  "hafalan_quick_add": "クイック記録",
   "hafalan_test_start_title": "どこから出題しますか？",
   "hafalan_test_start_desc": "出題は、記録したタハフィーズ、または自分で選んだ範囲からランダムに行います。",
   "hafalan_test_start_focus_desc": "暗記した中からジュズ・スーラ・範囲を選びます。例：まだ滑らかでないジュズ。",

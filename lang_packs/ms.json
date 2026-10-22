@@ -105,6 +105,7 @@
   "hafalan_test_focus_info": "Fokus pada {scope}: {ayahs} ayat hafazan anda boleh diuji.",
   "hafalan_test_focus_empty": "Belum ada hafazan direkod dalam {scope}. Pilih bahagian lain atau uji semua hafazan saya.",
   "hafalan_test_focus_record": "Belum ada hafazan direkod dalam {scope}. Jika anda sudah hafaz, rekod dahulu supaya boleh diuji.",
+  "hafalan_quick_add": "Rekod pantas",
   "hafalan_test_start_title": "Nak uji dari mana?",
   "hafalan_test_start_desc": "Soalan diambil secara rawak daripada tahfiz yang anda rekod, atau daripada bahagian yang anda pilih sendiri.",
   "hafalan_test_start_focus_desc": "Pilih juzuk, surah atau julat dalam hafazan anda, cth. juzuk yang kurang lancar.",

@@ -105,6 +105,7 @@
   "hafalan_test_focus_info": "{scope}에 집중: 외운 {ayahs}절을 테스트할 수 있습니다.",
   "hafalan_test_focus_empty": "{scope}에는 아직 기록이 없습니다. 다른 범위를 고르거나 외운 전체를 테스트하세요.",
   "hafalan_test_focus_record": "{scope}에는 아직 기록이 없습니다. 이미 외웠다면 먼저 기록해야 테스트할 수 있습니다.",
+  "hafalan_quick_add": "빠른 기록",
   "hafalan_test_start_title": "어디에서 출제할까요?",
   "hafalan_test_start_desc": "문제는 기록한 타흐피즈 또는 직접 고른 범위에서 무작위로 나옵니다.",
   "hafalan_test_start_focus_desc": "외운 것 중에서 주즈, 수라 또는 범위를 고르세요. 예: 아직 유창하지 않은 주즈.",

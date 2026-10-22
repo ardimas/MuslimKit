@@ -105,6 +105,7 @@
   "hafalan_test_focus_info": "专注于{scope}：可测试你已背的 {ayahs} 节。",
   "hafalan_test_focus_empty": "{scope}内还没有记录。请选择其他范围，或测试我背过的全部。",
   "hafalan_test_focus_record": "{scope}内还没有记录。如果你已经背过，请先记录，这样才能测试。",
+  "hafalan_quick_add": "快速记录",
   "hafalan_test_start_title": "从哪里出题？",
   "hafalan_test_start_desc": "题目从你已记录的塔哈菲兹中随机抽取，或从你自己选择的范围中抽取。",
   "hafalan_test_start_focus_desc": "从你背过的内容中选择卷、苏拉或范围，例如还不够熟练的某一卷。",

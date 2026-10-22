@@ -105,6 +105,7 @@
   "hafalan_test_focus_info": "{scope} odağı: ezberlediğiniz {ayahs} ayet sorulabilir.",
   "hafalan_test_focus_empty": "{scope} içinde henüz kayıtlı ezber yok. Başka bir bölüm seçin veya tüm ezberimi sorun.",
   "hafalan_test_focus_record": "{scope} içinde henüz kayıtlı ezber yok. Ezberlediyseniz önce kaydedin ki sorulabilsin.",
+  "hafalan_quick_add": "Hızlı kaydet",
   "hafalan_test_start_title": "Test nereden gelsin?",
   "hafalan_test_start_desc": "Sorular, kaydettiğiniz tahfizden veya kendi seçtiğiniz bir bölümden rastgele alınır.",
   "hafalan_test_start_focus_desc": "Ezberinizden bir cüz, sure veya aralık seçin; örn. daha az akıcı olduğunuz bir cüz.",
