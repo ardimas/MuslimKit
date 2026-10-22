@@ -102,7 +102,7 @@
   "hafalan_test_focus_hint": "Las preguntas salen solo de lo que has registrado dentro de esta parte, p. ej. un juz que dominas menos.",
   "hafalan_test_scope_all": "Todo lo que memoricé",
   "hafalan_test_scope_pick": "Elegir parte…",
-  "hafalan_test_focus_info": "Enfoque en {scope}: se pueden evaluar {ayahs} de tus aleyas memorizadas.",
+  "hafalan_test_focus_info": "Enfoque en {scope}: se pueden evaluar {ayahs} de tus versículos memorizadas.",
   "hafalan_test_focus_empty": "Aún no hay nada registrado en {scope}. Elige otra parte o evalúa todo lo que memoricé.",
   "hafalan_test_focus_record": "Aún no hay nada registrado en {scope}. Si ya lo memorizaste, regístralo primero para poder evaluarlo.",
   "hafalan_test_start_title": "¿De dónde quieres la prueba?",
