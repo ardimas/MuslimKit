@@ -972,7 +972,7 @@
           "title_en": "4th Takbir",
           "desc_id": "Takbir keempat, dilanjutkan doa penutup singkat, lalu salam ke kanan (sebagian ulama juga ke kiri).",
           "desc_en": "Fourth takbir, followed by a brief closing supplication, then salam to the right (some scholars also salam to the left).",
-          "illustration": "noleh_kanan",
+          "illustration": null,
           "recitations": [
             "jenazah_takbir4_male",
             "jenazah_takbir4_female",
@@ -1016,11 +1016,11 @@
           ]
         },
         {
-          "id": "rakaat_1",
-          "title_id": "Rakaat pertama",
-          "title_en": "First rak'ah",
-          "desc_id": "Sedekap, baca doa iftitah, ta'awudz, Al-Fatihah, dan surat pendek. Lanjutkan ruku, i'tidal, dan dua sujud seperti biasa.",
-          "desc_en": "Fold your hands, recite the opening dua, ta'awudz, Al-Fatihah and a short surah. Then ruku', i'tidal and two sujud as usual.",
+          "id": "rakaat_1_sedekap",
+          "title_id": "Rakaat 1: berdiri dan membaca",
+          "title_en": "Rak'ah 1: standing and reciting",
+          "desc_id": "Sedekap, baca doa iftitah, ta'awudz, Al-Fatihah, lalu surat pendek.",
+          "desc_en": "Fold your hands, recite the opening dua, ta'awudz, Al-Fatihah, then a short surah.",
           "illustration": "sedekap",
           "recitations": [
             "iftitah_wajjahtu",
@@ -1028,27 +1028,113 @@
             "iftitah_subhanaka",
             "taawudz",
             "fatihah",
-            "amin",
-            "ruku_tasbih",
-            "itidal_sami",
-            "itidal_rabbana",
-            "sujud_tasbih",
-            "duduk_short"
+            "amin"
           ]
         },
         {
-          "id": "rakaat_2",
-          "title_id": "Rakaat kedua",
-          "title_en": "Second rak'ah",
-          "desc_id": "Berdiri untuk rakaat kedua: Al-Fatihah dan surat pendek, lalu ruku, i'tidal, dan dua sujud.",
-          "desc_en": "Stand for the second rak'ah: Al-Fatihah and a short surah, then ruku', i'tidal and two sujud.",
+          "id": "rakaat_1_ruku",
+          "title_id": "Rakaat 1: ruku'",
+          "title_en": "Rak'ah 1: ruku'",
+          "desc_id": "Ruku' dengan punggung rata, lalu baca tasbih ruku'.",
+          "desc_en": "Bow with a flat back and recite the ruku' remembrance.",
+          "illustration": "ruku",
+          "recitations": [
+            "ruku_tasbih"
+          ]
+        },
+        {
+          "id": "rakaat_1_itidal",
+          "title_id": "Rakaat 1: i'tidal",
+          "title_en": "Rak'ah 1: i'tidal",
+          "desc_id": "Bangkit dari ruku' hingga berdiri tegak, baca \"Sami'allahu liman hamidah\" lalu \"Rabbana lakal hamd\".",
+          "desc_en": "Rise from ruku' to stand upright, reciting \"Sami'allahu liman hamidah\" then \"Rabbana lakal hamd\".",
+          "illustration": "itidal",
+          "recitations": [
+            "itidal_sami",
+            "itidal_rabbana"
+          ]
+        },
+        {
+          "id": "rakaat_1_sujud",
+          "title_id": "Rakaat 1: sujud",
+          "title_en": "Rak'ah 1: sujud",
+          "desc_id": "Sujud pertama, baca tasbih sujud.",
+          "desc_en": "First prostration, reciting the prostration remembrance.",
           "illustration": "sujud",
           "recitations": [
+            "sujud_tasbih"
+          ]
+        },
+        {
+          "id": "rakaat_1_duduk",
+          "title_id": "Rakaat 1: duduk di antara dua sujud",
+          "title_en": "Rak'ah 1: sitting between the two prostrations",
+          "desc_id": "Duduk sejenak di antara dua sujud, baca doa duduk, lalu sujud kedua dengan bacaan yang sama. Setelah itu bangkit berdiri untuk rakaat kedua.",
+          "desc_en": "Sit briefly between the two prostrations, recite the sitting dua, then make the second prostration with the same recitation. Then stand up for the second rak'ah.",
+          "illustration": "duduk",
+          "recitations": [
+            "duduk_short",
+            "duduk_full",
+            "sujud_tasbih"
+          ]
+        },
+        {
+          "id": "rakaat_2_sedekap",
+          "title_id": "Rakaat 2: berdiri dan membaca",
+          "title_en": "Rak'ah 2: standing and reciting",
+          "desc_id": "Berdiri untuk rakaat kedua, sedekap, baca Al-Fatihah lalu surat pendek (tanpa doa iftitah).",
+          "desc_en": "Stand for the second rak'ah, fold your hands, recite Al-Fatihah then a short surah (no opening dua).",
+          "illustration": "sedekap",
+          "recitations": [
             "fatihah",
-            "ruku_tasbih",
+            "amin"
+          ]
+        },
+        {
+          "id": "rakaat_2_ruku",
+          "title_id": "Rakaat 2: ruku'",
+          "title_en": "Rak'ah 2: ruku'",
+          "desc_id": "Ruku' dengan punggung rata, lalu baca tasbih ruku'.",
+          "desc_en": "Bow with a flat back and recite the ruku' remembrance.",
+          "illustration": "ruku",
+          "recitations": [
+            "ruku_tasbih"
+          ]
+        },
+        {
+          "id": "rakaat_2_itidal",
+          "title_id": "Rakaat 2: i'tidal",
+          "title_en": "Rak'ah 2: i'tidal",
+          "desc_id": "Bangkit dari ruku' hingga berdiri tegak, baca \"Sami'allahu liman hamidah\" lalu \"Rabbana lakal hamd\".",
+          "desc_en": "Rise from ruku' to stand upright, reciting \"Sami'allahu liman hamidah\" then \"Rabbana lakal hamd\".",
+          "illustration": "itidal",
+          "recitations": [
             "itidal_sami",
-            "sujud_tasbih",
-            "duduk_short"
+            "itidal_rabbana"
+          ]
+        },
+        {
+          "id": "rakaat_2_sujud",
+          "title_id": "Rakaat 2: sujud",
+          "title_en": "Rak'ah 2: sujud",
+          "desc_id": "Sujud pertama, baca tasbih sujud.",
+          "desc_en": "First prostration, reciting the prostration remembrance.",
+          "illustration": "sujud",
+          "recitations": [
+            "sujud_tasbih"
+          ]
+        },
+        {
+          "id": "rakaat_2_duduk",
+          "title_id": "Rakaat 2: duduk di antara dua sujud",
+          "title_en": "Rak'ah 2: sitting between the two prostrations",
+          "desc_id": "Duduk sejenak di antara dua sujud, baca doa duduk, lalu sujud kedua dengan bacaan yang sama.",
+          "desc_en": "Sit briefly between the two prostrations, recite the sitting dua, then make the second prostration with the same recitation.",
+          "illustration": "duduk",
+          "recitations": [
+            "duduk_short",
+            "duduk_full",
+            "sujud_tasbih"
           ]
         },
         {
@@ -1125,7 +1211,7 @@
           "title_en": "The first prayer",
           "desc_id": "Kerjakan shalat pertama (Dzuhur atau Maghrib) lengkap seperti biasa, atau 2 rakaat bila diqashar (Dzuhur).",
           "desc_en": "Pray the first prayer (Dhuhr or Maghrib) in full as usual, or as 2 rak'ahs if shortened (Dhuhr).",
-          "illustration": "takbir",
+          "illustration": null,
           "recitations": [
             "takbir"
           ]
@@ -1136,7 +1222,7 @@
           "title_en": "Pray the second right away",
           "desc_id": "Setelah salam, segera berdiri mengerjakan shalat kedua (Ashar atau Isya) tanpa jeda yang lama dan tanpa kegiatan lain di antaranya.",
           "desc_en": "After the salam, stand up at once for the second prayer (Asr or Isha), without a long gap or other activity in between.",
-          "illustration": "sedekap",
+          "illustration": null,
           "recitations": [
             "salam"
           ]
@@ -1235,7 +1321,7 @@
           "title_en": "If able: stand",
           "desc_id": "Shalat berdiri seperti biasa. Boleh bersandar pada dinding atau tongkat bila perlu.",
           "desc_en": "Pray standing as usual. You may lean on a wall or a stick if needed.",
-          "illustration": "sedekap",
+          "illustration": null,
           "recitations": [
             "takbir",
             "fatihah"
@@ -1247,7 +1333,7 @@
           "title_en": "If unable to stand: sit",
           "desc_id": "Shalat sambil duduk (boleh di kursi). Ruku dengan membungkukkan badan sedikit, sujud dengan membungkuk lebih rendah dari ruku. Sujud ke lantai bila mampu; bila tidak, cukup membungkuk.",
           "desc_en": "Pray sitting (a chair is fine). For ruku' bend slightly; for sujud bend lower than for ruku'. Prostrate to the floor if able; if not, bending is enough.",
-          "illustration": "duduk",
+          "illustration": null,
           "recitations": [
             "ruku_tasbih",
             "sujud_tasbih"
@@ -1277,7 +1363,7 @@
           "title_en": "Salam",
           "desc_id": "Akhiri dengan salam seperti biasa.",
           "desc_en": "Finish with salam as usual.",
-          "illustration": "noleh_kanan",
+          "illustration": null,
           "recitations": [
             "salam"
           ]
