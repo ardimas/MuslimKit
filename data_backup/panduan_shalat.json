@@ -972,10 +972,399 @@
           "title_en": "4th Takbir",
           "desc_id": "Takbir keempat, dilanjutkan doa penutup singkat, lalu salam ke kanan (sebagian ulama juga ke kiri).",
           "desc_en": "Fourth takbir, followed by a brief closing supplication, then salam to the right (some scholars also salam to the left).",
-          "illustration": "noleh_kanan",
+          "illustration": null,
           "recitations": [
             "jenazah_takbir4_male",
             "jenazah_takbir4_female",
+            "salam"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "qashar",
+      "category": "special",
+      "name_id": "Shalat Qashar (Musafir)",
+      "name_en": "Shortened Prayer (Qasr) for Travelers",
+      "rakaat_info_id": "Dzuhur, Ashar, dan Isya: 4 rakaat menjadi 2 rakaat. Subuh (2) dan Maghrib (3) tetap.",
+      "rakaat_info_en": "Dhuhr, Asr and Isha: 4 rak'ahs become 2. Fajr (2) and Maghrib (3) stay the same.",
+      "intro_id": "Keringanan dari Allah bagi musafir: shalat fardhu empat rakaat diringkas menjadi dua rakaat. Rasulullah ﷺ menyebutnya sedekah dari Allah yang sebaiknya diterima (HR. Muslim No. 686). Dasarnya juga firman Allah dalam QS. An-Nisa: 101.",
+      "intro_en": "A concession from Allah for travelers: the four-rak'ah obligatory prayers are shortened to two. The Messenger of Allah ﷺ called it a charity from Allah that we should accept (Muslim No. 686). Its basis is also Allah's words in An-Nisa: 101.",
+      "notes_id": "Batasan yang disebut ulama (ada perbedaan pendapat):\n• Jarak: jumhur (Syafi'i, Maliki, Hanbali) sekitar 80-90 km; Hanafi sekitar 77 km. Sebagian ulama tidak menetapkan jarak tertentu, melainkan menyerahkannya pada kebiasaan setempat tentang apa yang disebut bepergian (safar).\n• Mulai boleh qashar setelah keluar dari batas kampung atau kota tempat tinggal.\n• Lama menetap: Nabi ﷺ pernah tinggal 19 hari dan tetap mengqashar (HR. Al-Bukhari No. 1080). Syafi'i, Maliki, dan Hanbali: sekitar 4 hari (tidak dihitung hari tiba dan hari berangkat); Hanafi: 15 hari. Setelah itu dianggap mukim dan shalat dikerjakan penuh.\n• Hukum: jumhur menganggap qashar keringanan (rukhsah) dan dianjurkan diambil; Hanafi menganggapnya wajib.\n• Bermakmum di belakang imam yang mukim (4 rakaat): menurut jumhur ulama, musafir ikut imam menyelesaikan 4 rakaat.\n• Qashar boleh digabung dengan jamak (lihat panduan Jamak).\n• Shalat sunnah rawatib tidak ditekankan saat safar; sunnah Subuh dan Witir tetap dijaga.",
+      "notes_en": "Limits mentioned by scholars (they differ):\n• Distance: the majority (Shafi'i, Maliki, Hanbali) say about 80-90 km; Hanafi about 77 km. Some scholars set no fixed distance and leave it to local custom about what counts as travel (safar).\n• Qasr may begin once you leave the boundary of your town or city.\n• Length of stay: the Prophet ﷺ once stayed 19 days and kept shortening (Al-Bukhari No. 1080). Shafi'i, Maliki and Hanbali: about 4 days (not counting the days of arrival and departure); Hanafi: 15 days. After that you are considered resident and pray in full.\n• Ruling: the majority treat qasr as a concession (rukhsah) that is encouraged; Hanafi treat it as obligatory.\n• Following a resident imam (4 rak'ahs): according to the majority, the traveler follows the imam and completes 4 rak'ahs.\n• Qasr can be combined with jam' (see the Jam' guide).\n• The sunnah rawatib prayers are not stressed while traveling; the Fajr sunnah and Witr are still kept.",
+      "recommended_reading_id": "Al-Fatihah dan surat pendek pada rakaat pertama dan kedua, seperti shalat Subuh.",
+      "recommended_reading_en": "Al-Fatihah and a short surah in both the first and second rak'ah, as in Fajr.",
+      "steps": [
+        {
+          "id": "niat",
+          "title_id": "Niat",
+          "title_en": "Intention",
+          "desc_id": "Berniat dalam hati untuk shalat fardhu yang diqashar (mis. Dzuhur 2 rakaat). Niat tempatnya di hati; melafalkannya tidak disyaratkan.",
+          "desc_en": "Intend in your heart to pray the obligatory prayer shortened (e.g. Dhuhr as 2 rak'ahs). The intention is in the heart; saying it aloud is not required.",
+          "illustration": null,
+          "recitations": []
+        },
+        {
+          "id": "takbiratul_ihram",
+          "title_id": "Takbiratul ihram",
+          "title_en": "Opening takbir",
+          "desc_id": "Angkat tangan dan ucapkan takbir.",
+          "desc_en": "Raise your hands and say the takbir.",
+          "illustration": "takbir",
+          "recitations": [
+            "takbir"
+          ]
+        },
+        {
+          "id": "rakaat_1_sedekap",
+          "title_id": "Rakaat 1: berdiri dan membaca",
+          "title_en": "Rak'ah 1: standing and reciting",
+          "desc_id": "Sedekap, baca doa iftitah, ta'awudz, Al-Fatihah, lalu surat pendek.",
+          "desc_en": "Fold your hands, recite the opening dua, ta'awudz, Al-Fatihah, then a short surah.",
+          "illustration": "sedekap",
+          "recitations": [
+            "iftitah_wajjahtu",
+            "iftitah_baidz",
+            "iftitah_subhanaka",
+            "taawudz",
+            "fatihah",
+            "amin"
+          ]
+        },
+        {
+          "id": "rakaat_1_ruku",
+          "title_id": "Rakaat 1: ruku'",
+          "title_en": "Rak'ah 1: ruku'",
+          "desc_id": "Ruku' dengan punggung rata, lalu baca tasbih ruku'.",
+          "desc_en": "Bow with a flat back and recite the ruku' remembrance.",
+          "illustration": "ruku",
+          "recitations": [
+            "ruku_tasbih"
+          ]
+        },
+        {
+          "id": "rakaat_1_itidal",
+          "title_id": "Rakaat 1: i'tidal",
+          "title_en": "Rak'ah 1: i'tidal",
+          "desc_id": "Bangkit dari ruku' hingga berdiri tegak, baca \"Sami'allahu liman hamidah\" lalu \"Rabbana lakal hamd\".",
+          "desc_en": "Rise from ruku' to stand upright, reciting \"Sami'allahu liman hamidah\" then \"Rabbana lakal hamd\".",
+          "illustration": "itidal",
+          "recitations": [
+            "itidal_sami",
+            "itidal_rabbana"
+          ]
+        },
+        {
+          "id": "rakaat_1_sujud",
+          "title_id": "Rakaat 1: sujud",
+          "title_en": "Rak'ah 1: sujud",
+          "desc_id": "Sujud pertama, baca tasbih sujud.",
+          "desc_en": "First prostration, reciting the prostration remembrance.",
+          "illustration": "sujud",
+          "recitations": [
+            "sujud_tasbih"
+          ]
+        },
+        {
+          "id": "rakaat_1_duduk",
+          "title_id": "Rakaat 1: duduk di antara dua sujud",
+          "title_en": "Rak'ah 1: sitting between the two prostrations",
+          "desc_id": "Duduk sejenak di antara dua sujud, baca doa duduk, lalu sujud kedua dengan bacaan yang sama. Setelah itu bangkit berdiri untuk rakaat kedua.",
+          "desc_en": "Sit briefly between the two prostrations, recite the sitting dua, then make the second prostration with the same recitation. Then stand up for the second rak'ah.",
+          "illustration": "duduk",
+          "recitations": [
+            "duduk_short",
+            "duduk_full",
+            "sujud_tasbih"
+          ]
+        },
+        {
+          "id": "rakaat_2_sedekap",
+          "title_id": "Rakaat 2: berdiri dan membaca",
+          "title_en": "Rak'ah 2: standing and reciting",
+          "desc_id": "Berdiri untuk rakaat kedua, sedekap, baca Al-Fatihah lalu surat pendek (tanpa doa iftitah).",
+          "desc_en": "Stand for the second rak'ah, fold your hands, recite Al-Fatihah then a short surah (no opening dua).",
+          "illustration": "sedekap",
+          "recitations": [
+            "fatihah",
+            "amin"
+          ]
+        },
+        {
+          "id": "rakaat_2_ruku",
+          "title_id": "Rakaat 2: ruku'",
+          "title_en": "Rak'ah 2: ruku'",
+          "desc_id": "Ruku' dengan punggung rata, lalu baca tasbih ruku'.",
+          "desc_en": "Bow with a flat back and recite the ruku' remembrance.",
+          "illustration": "ruku",
+          "recitations": [
+            "ruku_tasbih"
+          ]
+        },
+        {
+          "id": "rakaat_2_itidal",
+          "title_id": "Rakaat 2: i'tidal",
+          "title_en": "Rak'ah 2: i'tidal",
+          "desc_id": "Bangkit dari ruku' hingga berdiri tegak, baca \"Sami'allahu liman hamidah\" lalu \"Rabbana lakal hamd\".",
+          "desc_en": "Rise from ruku' to stand upright, reciting \"Sami'allahu liman hamidah\" then \"Rabbana lakal hamd\".",
+          "illustration": "itidal",
+          "recitations": [
+            "itidal_sami",
+            "itidal_rabbana"
+          ]
+        },
+        {
+          "id": "rakaat_2_sujud",
+          "title_id": "Rakaat 2: sujud",
+          "title_en": "Rak'ah 2: sujud",
+          "desc_id": "Sujud pertama, baca tasbih sujud.",
+          "desc_en": "First prostration, reciting the prostration remembrance.",
+          "illustration": "sujud",
+          "recitations": [
+            "sujud_tasbih"
+          ]
+        },
+        {
+          "id": "rakaat_2_duduk",
+          "title_id": "Rakaat 2: duduk di antara dua sujud",
+          "title_en": "Rak'ah 2: sitting between the two prostrations",
+          "desc_id": "Duduk sejenak di antara dua sujud, baca doa duduk, lalu sujud kedua dengan bacaan yang sama.",
+          "desc_en": "Sit briefly between the two prostrations, recite the sitting dua, then make the second prostration with the same recitation.",
+          "illustration": "duduk",
+          "recitations": [
+            "duduk_short",
+            "duduk_full",
+            "sujud_tasbih"
+          ]
+        },
+        {
+          "id": "tasyahud_akhir",
+          "title_id": "Tasyahud akhir",
+          "title_en": "Final tashahhud",
+          "desc_id": "Duduk tasyahud akhir. Rakaat ketiga dan keempat tidak ada.",
+          "desc_en": "Sit for the final tashahhud. There is no third or fourth rak'ah.",
+          "illustration": "tasyahud_akhir",
+          "recitations": [
+            "tasyahud",
+            "shalawat_ibrahimiyah",
+            "doa_empat_hal",
+            "doa_zhalamtu"
+          ]
+        },
+        {
+          "id": "salam",
+          "title_id": "Salam",
+          "title_en": "Salam",
+          "desc_id": "Salam ke kanan, lalu ke kiri. Shalat selesai.",
+          "desc_en": "Give salam to the right, then to the left. The prayer is complete.",
+          "illustration": "noleh_kanan",
+          "recitations": [
+            "salam"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "jamak",
+      "category": "special",
+      "name_id": "Shalat Jamak (Menggabung Dua Shalat)",
+      "name_en": "Combining Two Prayers (Jam')",
+      "rakaat_info_id": "Dzuhur dengan Ashar, atau Maghrib dengan Isya, dikerjakan berurutan dalam satu waktu. Jumlah rakaat tidak berubah kecuali digabung dengan qashar.",
+      "rakaat_info_en": "Dhuhr with Asr, or Maghrib with Isha, prayed one after the other in a single time. The number of rak'ahs does not change unless combined with qasr.",
+      "intro_id": "Keringanan untuk menggabungkan dua shalat dalam satu waktu ketika ada udzur, terutama dalam perjalanan. Jamak taqdim: dikerjakan di waktu shalat yang pertama. Jamak ta'khir: dikerjakan di waktu shalat yang kedua.",
+      "intro_en": "A concession to combine two prayers into one time when there is an excuse, especially while traveling. Jam' taqdim: prayed in the time of the first prayer. Jam' ta'khir: prayed in the time of the second prayer.",
+      "notes_id": "Dalil dan perbedaan pendapat ulama:\n• Dalam perjalanan: Anas menceritakan, bila Nabi ﷺ berangkat sebelum matahari tergelincir, beliau menunda Dzuhur ke waktu Ashar lalu menjamak keduanya; bila berangkat sesudah tergelincir, beliau shalat Dzuhur dulu lalu berangkat (HR. Al-Bukhari No. 1111). Mu'adz menceritakan Nabi ﷺ menjamak Dzuhur-Ashar dan Maghrib-Isya pada perang Tabuk (HR. Muslim No. 706).\n• Syafi'i, Maliki, dan Hanbali membolehkan jamak bagi musafir. Hanafi hanya membolehkannya di Arafah (Dzuhur-Ashar) dan Muzdalifah (Maghrib-Isya) saat haji.\n• Di luar safar: Ibnu Abbas menceritakan Nabi ﷺ menjamak di Madinah tanpa ada rasa takut atau perjalanan, \"agar tidak menyulitkan umatnya\" (HR. Muslim No. 705). Ulama berbeda: sebagian membolehkan karena hujan atau sakit berat, sebagian membolehkan pada kesulitan besar asal tidak dijadikan kebiasaan, dan Hanafi tidak membolehkannya.\n• Hanya Dzuhur-Ashar dan Maghrib-Isya yang boleh dijamak. Subuh tidak digabung, dan Ashar tidak digabung dengan Maghrib.\n• Jamak bukan alasan untuk menunda atau meremehkan shalat.\n• Jamak dan qashar bisa dilakukan bersamaan saat safar (jamak qashar).",
+      "notes_en": "Evidence and differences among scholars:\n• While traveling: Anas reported that when the Prophet ﷺ set out before the sun passed its zenith, he delayed Dhuhr to the time of Asr and combined them; if he set out after the zenith, he prayed Dhuhr first and then departed (Al-Bukhari No. 1111). Mu'adh reported that the Prophet ﷺ combined Dhuhr-Asr and Maghrib-Isha on the Tabuk expedition (Muslim No. 706).\n• Shafi'i, Maliki and Hanbali allow jam' for travelers. Hanafi allows it only at Arafah (Dhuhr-Asr) and Muzdalifah (Maghrib-Isha) during Hajj.\n• Outside travel: Ibn Abbas reported that the Prophet ﷺ combined in Madinah with no fear or journey, \"so that his Ummah would not be put in hardship\" (Muslim No. 705). Scholars differ: some allow it for rain or serious illness, some allow it in cases of great difficulty provided it does not become a habit, and Hanafi do not allow it.\n• Only Dhuhr-Asr and Maghrib-Isha may be combined. Fajr is not combined, and Asr is not combined with Maghrib.\n• Jam' is no excuse for delaying or taking prayer lightly.\n• Jam' and qasr can be done together while traveling (jam' qasr).",
+      "recommended_reading_id": "Sama seperti shalat biasa: Al-Fatihah dan surat pendek sesuai jumlah rakaat tiap shalat.",
+      "recommended_reading_en": "Same as usual: Al-Fatihah and a short surah according to each prayer's rak'ahs.",
+      "steps": [
+        {
+          "id": "udzur",
+          "title_id": "Pastikan ada udzur",
+          "title_en": "Make sure there is an excuse",
+          "desc_id": "Jamak dilakukan saat ada udzur yang diakui ulama, terutama safar. Bila ragu, lebih hati-hati mengerjakan tiap shalat pada waktunya.",
+          "desc_en": "Combine only when there is an excuse recognised by scholars, above all travel. When in doubt, it is safer to pray each prayer at its own time.",
+          "illustration": null,
+          "recitations": []
+        },
+        {
+          "id": "pilih_cara",
+          "title_id": "Pilih taqdim atau ta'khir",
+          "title_en": "Choose taqdim or ta'khir",
+          "desc_id": "Taqdim: kerjakan dua shalat di waktu yang pertama (Dzuhur+Ashar di waktu Dzuhur, Maghrib+Isya di waktu Maghrib). Ta'khir: kerjakan dua shalat di waktu yang kedua (di waktu Ashar atau di waktu Isya). Pilih yang lebih mudah.",
+          "desc_en": "Taqdim: pray both in the time of the first (Dhuhr+Asr at Dhuhr time, Maghrib+Isha at Maghrib time). Ta'khir: pray both in the time of the second (at Asr time or Isha time). Choose whichever is easier.",
+          "illustration": null,
+          "recitations": []
+        },
+        {
+          "id": "niat",
+          "title_id": "Niat jamak",
+          "title_en": "Intention to combine",
+          "desc_id": "Taqdim: berniat menjamak pada shalat yang pertama. Ta'khir: berniat menunda shalat pertama ke waktu kedua selagi waktu pertama masih ada.",
+          "desc_en": "Taqdim: intend to combine at the first prayer. Ta'khir: intend to delay the first prayer to the second time while the first time is still running.",
+          "illustration": null,
+          "recitations": []
+        },
+        {
+          "id": "shalat_pertama",
+          "title_id": "Shalat yang pertama",
+          "title_en": "The first prayer",
+          "desc_id": "Kerjakan shalat pertama (Dzuhur atau Maghrib) lengkap seperti biasa, atau 2 rakaat bila diqashar (Dzuhur).",
+          "desc_en": "Pray the first prayer (Dhuhr or Maghrib) in full as usual, or as 2 rak'ahs if shortened (Dhuhr).",
+          "illustration": null,
+          "recitations": [
+            "takbir"
+          ]
+        },
+        {
+          "id": "shalat_kedua",
+          "title_id": "Langsung shalat yang kedua",
+          "title_en": "Pray the second right away",
+          "desc_id": "Setelah salam, segera berdiri mengerjakan shalat kedua (Ashar atau Isya) tanpa jeda yang lama dan tanpa kegiatan lain di antaranya.",
+          "desc_en": "After the salam, stand up at once for the second prayer (Asr or Isha), without a long gap or other activity in between.",
+          "illustration": null,
+          "recitations": [
+            "salam"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "qadha",
+      "category": "special",
+      "name_id": "Shalat Qadha (Mengganti Shalat yang Terlewat)",
+      "name_en": "Make-up Prayer (Qadha)",
+      "rakaat_info_id": "Jumlah rakaat sama dengan shalat yang terlewat (Subuh 2, Dzuhur 4, Ashar 4, Maghrib 3, Isya 4).",
+      "rakaat_info_en": "The same rak'ahs as the missed prayer (Fajr 2, Dhuhr 4, Asr 4, Maghrib 3, Isha 4).",
+      "intro_id": "Mengerjakan shalat fardhu yang terlewat dari waktunya. Nabi ﷺ bersabda: \"Barang siapa lupa suatu shalat, hendaklah ia shalat ketika ingat. Tidak ada tebusannya selain itu.\" (HR. Al-Bukhari No. 597). Dalam riwayat Muslim No. 684, hal yang sama berlaku bagi yang tertidur, dengan merujuk firman Allah: \"Dirikanlah shalat untuk mengingat-Ku\" (QS. Thaha: 14).",
+      "intro_en": "Praying an obligatory prayer after its time has passed. The Prophet ﷺ said: \"Whoever forgets a prayer should pray it when he remembers it. There is no expiation except that.\" (Al-Bukhari No. 597). In Muslim No. 684 the same applies to someone who slept through it, with reference to Allah's words: \"Establish prayer for My remembrance\" (Ta-Ha: 14).",
+      "notes_id": "Hal-hal yang perlu diperhatikan:\n• Tertinggal karena tidur atau lupa: tidak berdosa, kerjakan segera begitu bangun atau ingat.\n• Sengaja meninggalkan: jumhur ulama (empat mazhab) berpendapat tetap wajib diqadha disertai taubat yang sungguh-sungguh. Sebagian ulama (di antaranya Ibnu Hazm) berpendapat shalat yang sengaja ditinggalkan tidak bisa diganti, sehingga yang dilakukan adalah taubat dan memperbanyak amal saleh. Yang aman dan paling hati-hati adalah bertaubat dan segera mengqadha.\n• Urutan: bila yang terlewat banyak, kerjakan berurutan dari yang paling awal. Sebagian ulama mewajibkan tertib, sebagian menyunnahkannya.\n• Wanita yang haid atau nifas tidak mengqadha shalat yang terlewat selama haid atau nifas (disepakati ulama).\n• Cara mencicil: tidak ada ketentuan khusus. Banyak ulama menganjurkan segera, misalnya mengqadha satu atau beberapa shalat setiap hari sampai lunas.",
+      "notes_en": "Things to keep in mind:\n• Missed through sleep or forgetfulness: no sin; pray it as soon as you wake or remember.\n• Missed on purpose: the majority of scholars (the four schools) say it must still be made up together with sincere repentance. Some scholars (among them Ibn Hazm) say a deliberately abandoned prayer cannot be replaced, so one should repent and increase good deeds. The safest and most careful course is to repent and make it up promptly.\n• Order: if many are missed, pray them in order starting with the earliest. Some scholars make this order obligatory, others recommended.\n• A woman in haid or nifas does not make up the prayers missed during haid or nifas (agreed by scholars).\n• Catching up in installments: there is no fixed rule. Many scholars encourage doing it promptly, for example making up one or more prayers each day until done.",
+      "recommended_reading_id": "Sama seperti shalat aslinya.",
+      "recommended_reading_en": "The same as the original prayer.",
+      "steps": [
+        {
+          "id": "segera",
+          "title_id": "Segera begitu ingat",
+          "title_en": "Pray as soon as you remember",
+          "desc_id": "Begitu bangun atau teringat, segera kerjakan. Tidak perlu menunggu waktu shalat berikutnya.",
+          "desc_en": "As soon as you wake or remember, pray at once. There is no need to wait for the next prayer time.",
+          "illustration": null,
+          "recitations": []
+        },
+        {
+          "id": "wudhu_niat",
+          "title_id": "Wudhu dan niat",
+          "title_en": "Wudu and intention",
+          "desc_id": "Berwudhu, lalu berniat dalam hati mengerjakan shalat yang terlewat itu (mis. Subuh yang terlewat). Menyebut \"qadha\" dalam niat boleh, tetapi niat tempatnya di hati.",
+          "desc_en": "Make wudu, then intend in your heart to pray that missed prayer (e.g. the missed Fajr). Saying \"qadha\" in the intention is fine, but the intention is in the heart.",
+          "illustration": null,
+          "recitations": []
+        },
+        {
+          "id": "takbiratul_ihram",
+          "title_id": "Takbiratul ihram",
+          "title_en": "Opening takbir",
+          "desc_id": "Angkat tangan dan ucapkan takbir.",
+          "desc_en": "Raise your hands and say the takbir.",
+          "illustration": "takbir",
+          "recitations": [
+            "takbir"
+          ]
+        },
+        {
+          "id": "kerjakan",
+          "title_id": "Kerjakan seperti shalat aslinya",
+          "title_en": "Pray it like the original",
+          "desc_id": "Kerjakan dengan jumlah rakaat dan tata cara yang sama dengan shalat yang terlewat (lihat panduan Shalat Fardhu untuk bacaannya).",
+          "desc_en": "Pray with the same rak'ahs and method as the missed prayer (see the Obligatory Prayer guide for the recitations).",
+          "illustration": "sedekap",
+          "recitations": [
+            "iftitah_wajjahtu",
+            "iftitah_baidz",
+            "iftitah_subhanaka",
+            "taawudz",
+            "fatihah",
+            "amin"
+          ]
+        },
+        {
+          "id": "salam",
+          "title_id": "Salam",
+          "title_en": "Salam",
+          "desc_id": "Salam ke kanan, lalu ke kiri. Bila ada beberapa shalat yang terlewat, lanjutkan yang berikutnya secara berurutan.",
+          "desc_en": "Give salam to the right, then to the left. If several prayers were missed, continue with the next in order.",
+          "illustration": "noleh_kanan",
+          "recitations": [
+            "salam"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "shalat_sakit",
+      "category": "special",
+      "name_id": "Shalat Saat Sakit (Duduk atau Berbaring)",
+      "name_en": "Prayer While Ill (Sitting or Lying)",
+      "rakaat_info_id": "Jumlah rakaat tetap. Gerakan disesuaikan dengan kemampuan.",
+      "rakaat_info_en": "The number of rak'ahs stays the same. Movements follow what you are able to do.",
+      "intro_id": "Orang sakit tetap wajib shalat selama akalnya masih ada. Imran bin Hushain pernah menderita wasir lalu bertanya kepada Nabi ﷺ tentang shalat. Beliau menjawab: \"Shalatlah sambil berdiri; jika tidak mampu, sambil duduk; jika tidak mampu, sambil berbaring miring.\" (HR. Al-Bukhari No. 1117).",
+      "intro_en": "A sick person must still pray as long as the mind is present. Imran bin Husain had piles and asked the Prophet ﷺ about prayer. He said: \"Pray standing; if you cannot, sitting; if you cannot, lying on your side.\" (Al-Bukhari No. 1117).",
+      "notes_id": "Catatan:\n• Ukurannya kemampuan, bukan semata-mata rasa sakit ringan. Bila berdiri membuat sakit bertambah parah atau memperlambat kesembuhan, boleh duduk.\n• Bersuci tetap diwajibkan. Bila tidak mampu berwudhu, bertayamum; bila tidak mampu keduanya, shalat sebagaimana keadaannya.\n• Jika tidak mampu isyarat dengan kepala, ulama menyebut: shalat dengan niat dan gerakan dalam hati selama akal masih ada. Sebagian ulama (Hanafi) menggugurkannya bila berlangsung lebih dari sehari semalam. Sebaiknya konsultasikan kepada ustadz.\n• Bila sangat sulit mengerjakan lima waktu sendiri-sendiri, lihat panduan Jamak untuk perbedaan pendapat ulama tentang jamak karena sakit.",
+      "notes_en": "Notes:\n• The standard is ability, not just mild discomfort. If standing makes the illness much worse or delays recovery, sitting is allowed.\n• Purification is still required. If you cannot make wudu, do tayammum; if you cannot do either, pray as you are.\n• If you cannot even gesture with the head, scholars say to pray with intention and movements in the heart as long as the mind is present. Some scholars (Hanafi) say it lapses if it lasts more than a day and a night. It is best to consult a teacher.\n• If it is very hard to pray the five prayers separately, see the Jam' guide for the scholars' differences on combining because of illness.",
+      "recommended_reading_id": "Sama seperti shalat biasa: Al-Fatihah dan surat pendek.",
+      "recommended_reading_en": "Same as usual: Al-Fatihah and a short surah.",
+      "steps": [
+        {
+          "id": "berdiri",
+          "title_id": "Jika mampu: berdiri",
+          "title_en": "If able: stand",
+          "desc_id": "Shalat berdiri seperti biasa. Boleh bersandar pada dinding atau tongkat bila perlu.",
+          "desc_en": "Pray standing as usual. You may lean on a wall or a stick if needed.",
+          "illustration": null,
+          "recitations": [
+            "takbir",
+            "fatihah"
+          ]
+        },
+        {
+          "id": "duduk",
+          "title_id": "Jika tidak mampu berdiri: duduk",
+          "title_en": "If unable to stand: sit",
+          "desc_id": "Shalat sambil duduk (boleh di kursi). Ruku dengan membungkukkan badan sedikit, sujud dengan membungkuk lebih rendah dari ruku. Sujud ke lantai bila mampu; bila tidak, cukup membungkuk.",
+          "desc_en": "Pray sitting (a chair is fine). For ruku' bend slightly; for sujud bend lower than for ruku'. Prostrate to the floor if able; if not, bending is enough.",
+          "illustration": null,
+          "recitations": [
+            "ruku_tasbih",
+            "sujud_tasbih"
+          ]
+        },
+        {
+          "id": "berbaring",
+          "title_id": "Jika tidak mampu duduk: berbaring",
+          "title_en": "If unable to sit: lie down",
+          "desc_id": "Berbaring miring ke kanan menghadap kiblat. Bila sulit, boleh terlentang dengan kaki ke arah kiblat. Ruku dan sujud dengan isyarat kepala, sujud lebih rendah dari ruku.",
+          "desc_en": "Lie on your right side facing the qibla. If hard, you may lie on your back with your feet toward the qibla. Indicate ruku' and sujud with the head, sujud lower than ruku'.",
+          "illustration": null,
+          "recitations": []
+        },
+        {
+          "id": "isyarat",
+          "title_id": "Jika tidak mampu bergerak: isyarat",
+          "title_en": "If unable to move: gesture",
+          "desc_id": "Gunakan isyarat kepala; bila tidak mampu, dengan kedipan mata. Tetap berniat dan membaca bacaan shalat dalam hati.",
+          "desc_en": "Use head gestures; if you cannot, blink the eyes. Keep the intention and recite the prayer in your heart.",
+          "illustration": null,
+          "recitations": []
+        },
+        {
+          "id": "salam",
+          "title_id": "Salam",
+          "title_en": "Salam",
+          "desc_id": "Akhiri dengan salam seperti biasa.",
+          "desc_en": "Finish with salam as usual.",
+          "illustration": null,
+          "recitations": [
             "salam"
           ]
         }
