@@ -2395,5 +2395,21 @@
   "silsilah_gap_gap_years_images_point0": "对早期先知，没有可以负责任地给出的绝对年代。",
   "silsilah_gap_gap_years_images_point1": "不描绘先知的形象。",
   "silsilah_p25_title": "古兰经中点名提到的25位先知",
-  "silsilah_p25_note": "按字母顺序，而非时间顺序。此列表中没有关系线。"
+  "silsilah_p25_note": "按字母顺序，而非时间顺序。此列表中没有关系线。",
+  "premium_dlg_cta": "查看套餐",
+  "premium_dlg_mushaf_listen": "在阅读模式中收听经文仅限 Premium 使用。阅读古兰经和标记上次阅读位置仍然免费。",
+  "premium_dlg_uji": "免费的背诵测试每天可用一次，今天的次数已用完。请明天再试，或使用 Premium 无限次测试。",
+  "premium_dlg_dark": "深色主题仅限 Premium 使用。订阅之前，应用将使用浅色主题。",
+  "premium_dlg_dark_system": "你的手机正在使用深色模式，但深色主题仅限 Premium 使用。订阅之前，应用将继续使用浅色主题。",
+  "premium_dlg_bookmark": "免费版最多可保存 5 个经文书签，你已达到上限。请删除不再需要的书签，或使用 Premium 保存无限书签。",
+  "premium_dlg_rakaat_limit": "你已用完拜数计数器的 {max} 次免费会话（从开始到结束）。使用 Premium 可无限次会话。其他功能不受影响。",
+  "premium_dlg_rakaat_disclaimer_title": "免费会话上限",
+  "premium_dlg_rakaat_disclaimer": "免费版拜数计数器总共限 {max} 次会话（从开始到结束）。点击“结束”时才计为一次会话。剩余免费会话：{n} 次。Premium 可解锁无限会话。",
+  "premium_dlg_rakaat_start": "知道了，开始",
+  "premium_rakaat_left": "剩余免费会话：{n} / {max} 次",
+  "premium_benefit_mushaf_listen": "直接在阅读模式中收听经文",
+  "premium_benefit_uji": "背诵测试不限次数（免费：每天一次）",
+  "premium_benefit_dark": "深色主题，包括跟随手机设置",
+  "premium_benefit_bookmarks": "经文书签不限数量（免费：5 个）",
+  "premium_benefit_rakaat": "拜数计数器会话不限次数（免费：5 次）"
 }

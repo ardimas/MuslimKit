@@ -2395,5 +2395,21 @@
   "silsilah_gap_gap_years_images_point0": "Für die frühen Propheten lassen sich keine absoluten Daten verantwortbar angeben.",
   "silsilah_gap_gap_years_images_point1": "Die Propheten werden nicht abgebildet.",
   "silsilah_p25_title": "Die 25 im Koran namentlich genannten Propheten",
-  "silsilah_p25_note": "Alphabetisch, nicht chronologisch. Diese Liste enthält keine Verwandtschaftslinien."
+  "silsilah_p25_note": "Alphabetisch, nicht chronologisch. Diese Liste enthält keine Verwandtschaftslinien.",
+  "premium_dlg_cta": "Tarife ansehen",
+  "premium_dlg_mushaf_listen": "Das Anhören eines Verses im Lesemodus ist nur mit Premium verfügbar. Den Koran zu lesen und die zuletzt gelesene Stelle zu markieren bleibt kostenlos.",
+  "premium_dlg_uji": "Der kostenlose Auswendig-Test ist einmal pro Tag verfügbar, und der heutige ist bereits genutzt. Versuche es morgen wieder oder nutze Premium für unbegrenzte Auswendig-Tests.",
+  "premium_dlg_dark": "Das dunkle Design ist nur mit Premium verfügbar. Bis du ein Abo abschließt, nutzt die App das helle Design.",
+  "premium_dlg_dark_system": "Dein Handy nutzt den Dunkelmodus, aber das dunkle Design ist nur mit Premium verfügbar. Bis du ein Abo abschließt, nutzt die App weiterhin das helle Design.",
+  "premium_dlg_bookmark": "Die kostenlose Version speichert bis zu 5 Vers-Lesezeichen, und du hast diese Grenze erreicht. Lösche ein Lesezeichen, das du nicht mehr brauchst, oder nutze Premium für unbegrenzte Lesezeichen.",
+  "premium_dlg_rakaat_limit": "Du hast alle {max} kostenlosen Sitzungen des Rakaat Counters (von Start bis Ende) genutzt. Nutze Premium für unbegrenzte Sitzungen. Andere Funktionen sind nicht betroffen.",
+  "premium_dlg_rakaat_disclaimer_title": "Limit für kostenlose Sitzungen",
+  "premium_dlg_rakaat_disclaimer": "Der kostenlose Rakaat Counter ist insgesamt auf {max} Sitzungen (von Start bis Ende) begrenzt. Eine Sitzung zählt, wenn du auf Beenden tippst. Verbleibende kostenlose Sitzungen: {n}. Premium schaltet unbegrenzte Sitzungen frei.",
+  "premium_dlg_rakaat_start": "Verstanden, starten",
+  "premium_rakaat_left": "Verbleibende kostenlose Sitzungen: {n} von {max}",
+  "premium_benefit_mushaf_listen": "Verse direkt im Lesemodus anhören",
+  "premium_benefit_uji": "Unbegrenzte Auswendig-Tests (kostenlos: einmal pro Tag)",
+  "premium_benefit_dark": "Dunkles Design, auch passend zur Handy-Einstellung",
+  "premium_benefit_bookmarks": "Unbegrenzte Vers-Lesezeichen (kostenlos: 5 Lesezeichen)",
+  "premium_benefit_rakaat": "Unbegrenzte Sitzungen im Rakaat Counter (kostenlos: 5 Sitzungen)"
 }
