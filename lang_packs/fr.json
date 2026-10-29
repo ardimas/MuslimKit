@@ -2398,5 +2398,21 @@
   "silsilah_gap_gap_years_images_point0": "Aucune date absolue ne peut être donnée de façon responsable pour les premiers prophètes.",
   "silsilah_gap_gap_years_images_point1": "Les prophètes ne sont pas représentés.",
   "silsilah_p25_title": "Les 25 prophètes nommés dans le Coran",
-  "silsilah_p25_note": "Ordre alphabétique, non chronologique. Cette liste ne comporte aucune ligne de parenté."
+  "silsilah_p25_note": "Ordre alphabétique, non chronologique. Cette liste ne comporte aucune ligne de parenté.",
+  "premium_dlg_cta": "Voir les offres",
+  "premium_dlg_mushaf_listen": "Écouter un verset depuis le Mode lecture est réservé à Premium. Lire le Coran et marquer le dernier verset lu restent gratuits.",
+  "premium_dlg_uji": "Le Test de mémorisation gratuit est disponible une fois par jour, et celui d'aujourd'hui est déjà utilisé. Réessayez demain ou passez à Premium pour des tests illimités.",
+  "premium_dlg_dark": "Le thème sombre est réservé à Premium. Tant que vous n'êtes pas abonné, l'application utilise le thème clair.",
+  "premium_dlg_dark_system": "Votre téléphone est en mode sombre, mais le thème sombre est réservé à Premium. Tant que vous n'êtes pas abonné, l'application garde le thème clair.",
+  "premium_dlg_bookmark": "La version gratuite permet d'enregistrer jusqu'à 5 signets de versets, et vous avez atteint cette limite. Supprimez un signet inutile ou passez à Premium pour des signets illimités.",
+  "premium_dlg_rakaat_limit": "Vous avez utilisé les {max} sessions gratuites du compteur de rak'ah (du début à la fin). Passez à Premium pour des sessions illimitées. Les autres fonctions ne sont pas affectées.",
+  "premium_dlg_rakaat_disclaimer_title": "Limite de sessions gratuites",
+  "premium_dlg_rakaat_disclaimer": "Le compteur de rak'ah gratuit est limité à {max} sessions (du début à la fin) au total. Une session est comptée quand vous touchez Terminer. Sessions gratuites restantes : {n}. Premium débloque les sessions illimitées.",
+  "premium_dlg_rakaat_start": "Compris, commencer",
+  "premium_rakaat_left": "Sessions gratuites restantes : {n} sur {max}",
+  "premium_benefit_mushaf_listen": "Écoutez les versets directement depuis le Mode lecture",
+  "premium_benefit_uji": "Tests de mémorisation illimités (gratuit : un par jour)",
+  "premium_benefit_dark": "Thème sombre, y compris celui qui suit le réglage du téléphone",
+  "premium_benefit_bookmarks": "Signets de versets illimités (gratuit : 5 signets)",
+  "premium_benefit_rakaat": "Sessions illimitées du compteur de rak'ah (gratuit : 5 sessions)"
 }

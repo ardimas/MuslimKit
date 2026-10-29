@@ -2398,5 +2398,21 @@
   "silsilah_gap_gap_years_images_point0": "İlk peygamberler için sorumlulukla verilebilecek mutlak tarih yoktur.",
   "silsilah_gap_gap_years_images_point1": "Peygamberler resmedilmez.",
   "silsilah_p25_title": "Kur'an'da adı geçen 25 peygamber",
-  "silsilah_p25_note": "Alfabetik sıradadır, kronolojik değil. Bu listede akrabalık çizgisi yoktur."
+  "silsilah_p25_note": "Alfabetik sıradadır, kronolojik değil. Bu listede akrabalık çizgisi yoktur.",
+  "premium_dlg_cta": "Paketleri gör",
+  "premium_dlg_mushaf_listen": "Okuma modundan ayet dinleme yalnızca Premium ile kullanılabilir. Kur'an okumak ve son okunan yeri işaretlemek ücretsiz kalır.",
+  "premium_dlg_uji": "Ücretsiz Ezber Testi günde bir kez kullanılabilir ve bugünkü hakkın kullanıldı. Yarın tekrar dene veya sınırsız Ezber Testi için Premium'u kullan.",
+  "premium_dlg_dark": "Koyu tema yalnızca Premium ile kullanılabilir. Abone olana kadar uygulama açık temayı kullanır.",
+  "premium_dlg_dark_system": "Telefonun koyu mod kullanıyor, ancak koyu tema yalnızca Premium ile kullanılabilir. Abone olana kadar uygulama açık temayı kullanmaya devam eder.",
+  "premium_dlg_bookmark": "Ücretsiz sürüm en fazla 5 ayet yer imi kaydeder ve bu sınıra ulaştın. Artık kullanmadığın bir yer imini sil veya sınırsız yer imi için Premium'u kullan.",
+  "premium_dlg_rakaat_limit": "Rekat Sayacı'nın {max} ücretsiz oturumunun hepsini kullandın (başlangıçtan bitişe). Sınırsız oturum için Premium'u kullan. Diğer özellikler etkilenmez.",
+  "premium_dlg_rakaat_disclaimer_title": "Ücretsiz oturum sınırı",
+  "premium_dlg_rakaat_disclaimer": "Ücretsiz Rekat Sayacı toplamda {max} oturumla (başlangıçtan bitişe) sınırlıdır. Bir oturum, Bitir'e dokunduğunda sayılır. Kalan ücretsiz oturum: {n}. Premium sınırsız oturumun kilidini açar.",
+  "premium_dlg_rakaat_start": "Anladım, başla",
+  "premium_rakaat_left": "Kalan ücretsiz oturum: {n} / {max}",
+  "premium_benefit_mushaf_listen": "Ayetleri doğrudan Okuma modundan dinle",
+  "premium_benefit_uji": "Sınırsız Ezber Testi (ücretsiz: günde bir)",
+  "premium_benefit_dark": "Koyu tema, telefon ayarını izleyen seçenek dahil",
+  "premium_benefit_bookmarks": "Sınırsız ayet yer imi (ücretsiz: 5 yer imi)",
+  "premium_benefit_rakaat": "Sınırsız Rekat Sayacı oturumu (ücretsiz: 5 oturum)"
 }

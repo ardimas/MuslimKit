@@ -2398,5 +2398,21 @@
   "silsilah_gap_gap_years_images_point0": "No hay fechas absolutas que puedan darse con responsabilidad para los primeros profetas.",
   "silsilah_gap_gap_years_images_point1": "No se representa a los profetas.",
   "silsilah_p25_title": "Los 25 profetas nombrados en el Corán",
-  "silsilah_p25_note": "Orden alfabético, no cronológico. Esta lista no tiene líneas de parentesco."
+  "silsilah_p25_note": "Orden alfabético, no cronológico. Esta lista no tiene líneas de parentesco.",
+  "premium_dlg_cta": "Ver planes",
+  "premium_dlg_mushaf_listen": "Escuchar un versículo desde el Modo lectura solo está disponible con Premium. Leer el Corán y marcar el último versículo leído siguen siendo gratis.",
+  "premium_dlg_uji": "La Prueba de memorización gratuita está disponible una vez al día, y la de hoy ya se usó. Inténtalo de nuevo mañana o usa Premium para pruebas ilimitadas.",
+  "premium_dlg_dark": "El tema oscuro solo está disponible con Premium. Mientras no te suscribas, la app usa el tema claro.",
+  "premium_dlg_dark_system": "Tu teléfono usa el modo oscuro, pero el tema oscuro solo está disponible con Premium. Mientras no te suscribas, la app sigue usando el tema claro.",
+  "premium_dlg_bookmark": "La versión gratuita permite guardar hasta 5 marcadores de versículos, y ya alcanzaste ese límite. Elimina un marcador que ya no uses o usa Premium para marcadores ilimitados.",
+  "premium_dlg_rakaat_limit": "Ya usaste las {max} sesiones gratuitas del contador de rakaat (de inicio a fin). Usa Premium para sesiones ilimitadas. Las demás funciones no se ven afectadas.",
+  "premium_dlg_rakaat_disclaimer_title": "Límite de sesiones gratuitas",
+  "premium_dlg_rakaat_disclaimer": "El contador de rakaat gratuito está limitado a {max} sesiones (de inicio a fin) en total. Una sesión cuenta cuando pulsas Terminar. Sesiones gratuitas restantes: {n}. Premium desbloquea sesiones ilimitadas.",
+  "premium_dlg_rakaat_start": "Entendido, empezar",
+  "premium_rakaat_left": "Sesiones gratuitas restantes: {n} de {max}",
+  "premium_benefit_mushaf_listen": "Escucha versículos directamente desde el Modo lectura",
+  "premium_benefit_uji": "Pruebas de memorización ilimitadas (gratis: una al día)",
+  "premium_benefit_dark": "Tema oscuro, incluido el que sigue el ajuste del teléfono",
+  "premium_benefit_bookmarks": "Marcadores de versículos ilimitados (gratis: 5 marcadores)",
+  "premium_benefit_rakaat": "Sesiones ilimitadas del contador de rakaat (gratis: 5 sesiones)"
 }

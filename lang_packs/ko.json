@@ -2398,5 +2398,21 @@
   "silsilah_gap_gap_years_images_point0": "초기 예언자들에 대해 책임 있게 제시할 수 있는 절대 연대는 없습니다.",
   "silsilah_gap_gap_years_images_point1": "예언자들의 모습은 그리지 않습니다.",
   "silsilah_p25_title": "꾸란에 이름이 나오는 25명의 예언자",
-  "silsilah_p25_note": "알파벳순이며 시대순이 아닙니다. 이 목록에는 관계선이 없습니다."
+  "silsilah_p25_note": "알파벳순이며 시대순이 아닙니다. 이 목록에는 관계선이 없습니다.",
+  "premium_dlg_cta": "요금제 보기",
+  "premium_dlg_mushaf_listen": "읽기 모드에서 구절 듣기는 Premium 전용입니다. 꾸란 읽기와 마지막 읽은 위치 표시는 계속 무료입니다.",
+  "premium_dlg_uji": "무료 암송 테스트는 하루 1회이며 오늘 분은 이미 사용했습니다. 내일 다시 시도하거나 Premium으로 무제한 이용하세요.",
+  "premium_dlg_dark": "다크 테마는 Premium 전용입니다. 구독하기 전까지는 라이트 테마로 표시됩니다.",
+  "premium_dlg_dark_system": "휴대폰이 다크 모드이지만 다크 테마는 Premium 전용입니다. 구독하기 전까지는 라이트 테마를 계속 사용합니다.",
+  "premium_dlg_bookmark": "무료 버전은 구절 북마크를 최대 5개까지 저장할 수 있으며, 한도에 도달했습니다. 쓰지 않는 북마크를 삭제하거나 Premium으로 무제한 이용하세요.",
+  "premium_dlg_rakaat_limit": "라카아트 카운터 무료 세션(시작부터 종료까지) {max}회를 모두 사용했습니다. Premium으로 무제한 이용하세요. 다른 기능에는 영향이 없습니다.",
+  "premium_dlg_rakaat_disclaimer_title": "무료 세션 한도",
+  "premium_dlg_rakaat_disclaimer": "무료 라카아트 카운터는 시작부터 종료까지 총 {max}회로 제한됩니다. 세션은 '종료'를 누를 때 집계됩니다. 남은 무료 세션: {n}회. Premium은 무제한입니다.",
+  "premium_dlg_rakaat_start": "알겠습니다, 시작",
+  "premium_rakaat_left": "남은 무료 세션: {n}/{max}회",
+  "premium_benefit_mushaf_listen": "읽기 모드에서 바로 구절 듣기",
+  "premium_benefit_uji": "암송 테스트 무제한 (무료: 하루 1회)",
+  "premium_benefit_dark": "다크 테마 (휴대폰 설정을 따르는 옵션 포함)",
+  "premium_benefit_bookmarks": "구절 북마크 무제한 (무료: 5개)",
+  "premium_benefit_rakaat": "라카아트 카운터 세션 무제한 (무료: 5회)"
 }

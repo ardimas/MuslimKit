@@ -2398,5 +2398,21 @@
   "silsilah_gap_gap_years_images_point0": "初期の預言者について、責任をもって示せる絶対的な年代はありません。",
   "silsilah_gap_gap_years_images_point1": "預言者たちの姿は描きません。",
   "silsilah_p25_title": "クルアーンに名前が挙げられている25人の預言者",
-  "silsilah_p25_note": "アルファベット順で、時代順ではありません。この一覧には関係の線はありません。"
+  "silsilah_p25_note": "アルファベット順で、時代順ではありません。この一覧には関係の線はありません。",
+  "premium_dlg_cta": "プランを見る",
+  "premium_dlg_mushaf_listen": "読書モードで節を聴く機能はPremium限定です。クルアーンを読むことと、最後に読んだ位置のマークは無料のままです。",
+  "premium_dlg_uji": "無料の暗記テストは1日1回で、今日の分はすでに使用済みです。明日もう一度お試しいただくか、Premiumで無制限にご利用ください。",
+  "premium_dlg_dark": "ダークテーマはPremium限定です。ご契約いただくまでは、ライトテーマで表示されます。",
+  "premium_dlg_dark_system": "お使いのスマートフォンはダークモードですが、ダークテーマはPremium限定です。ご契約いただくまでは、ライトテーマのままです。",
+  "premium_dlg_bookmark": "無料版では節のブックマークを最大5件まで保存できます。上限に達しました。不要なブックマークを削除するか、Premiumで無制限にご利用ください。",
+  "premium_dlg_rakaat_limit": "ラカート・カウンターの無料セッション（開始から終了まで）{max}回をすべて使用しました。Premiumなら無制限です。ほかの機能には影響ありません。",
+  "premium_dlg_rakaat_disclaimer_title": "無料セッションの上限",
+  "premium_dlg_rakaat_disclaimer": "無料のラカート・カウンターは、開始から終了までのセッションが合計{max}回までです。セッションは「終了」をタップした時点で数えられます。無料セッションの残り：{n}回。Premiumなら無制限です。",
+  "premium_dlg_rakaat_start": "了解、開始する",
+  "premium_rakaat_left": "無料セッションの残り：{n}／{max}回",
+  "premium_benefit_mushaf_listen": "読書モードからそのまま節を聴ける",
+  "premium_benefit_uji": "暗記テストが無制限（無料：1日1回）",
+  "premium_benefit_dark": "ダークテーマ（スマートフォンの設定に合わせる機能を含む）",
+  "premium_benefit_bookmarks": "ブックマークが無制限（無料：5件）",
+  "premium_benefit_rakaat": "ラカート・カウンターのセッションが無制限（無料：5回）"
 }

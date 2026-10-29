@@ -2398,5 +2398,21 @@
   "silsilah_gap_gap_years_images_point0": "Voor de vroege profeten zijn geen absolute data verantwoord te geven.",
   "silsilah_gap_gap_years_images_point1": "De profeten worden niet afgebeeld.",
   "silsilah_p25_title": "De 25 profeten die in de Koran bij naam worden genoemd",
-  "silsilah_p25_note": "Alfabetisch, niet chronologisch. Deze lijst bevat geen verwantschapslijnen."
+  "silsilah_p25_note": "Alfabetisch, niet chronologisch. Deze lijst bevat geen verwantschapslijnen.",
+  "premium_dlg_cta": "Abonnementen bekijken",
+  "premium_dlg_mushaf_listen": "Een vers beluisteren vanuit de Leesmodus is alleen beschikbaar met Premium. De Koran lezen en je laatst gelezen vers markeren blijft gratis.",
+  "premium_dlg_uji": "De gratis Test uit het hoofd is één keer per dag beschikbaar, en die van vandaag is al gebruikt. Probeer het morgen opnieuw of gebruik Premium voor onbeperkte tests.",
+  "premium_dlg_dark": "Het donkere thema is alleen beschikbaar met Premium. Zolang je niet bent geabonneerd, gebruikt de app het lichte thema.",
+  "premium_dlg_dark_system": "Je telefoon gebruikt de donkere modus, maar het donkere thema is alleen beschikbaar met Premium. Zolang je niet bent geabonneerd, blijft de app het lichte thema gebruiken.",
+  "premium_dlg_bookmark": "De gratis versie bewaart maximaal 5 vers-bladwijzers en die limiet is bereikt. Verwijder een bladwijzer die je niet meer nodig hebt, of gebruik Premium voor onbeperkte bladwijzers.",
+  "premium_dlg_rakaat_limit": "Je hebt alle {max} gratis sessies van de Rakaat-teller gebruikt (van start tot einde). Gebruik Premium voor onbeperkte sessies. Andere functies blijven ongewijzigd.",
+  "premium_dlg_rakaat_disclaimer_title": "Limiet gratis sessies",
+  "premium_dlg_rakaat_disclaimer": "De gratis Rakaat-teller is in totaal beperkt tot {max} sessies (van start tot einde). Een sessie telt mee wanneer je op Beëindigen tikt. Resterende gratis sessies: {n}. Premium ontgrendelt onbeperkte sessies.",
+  "premium_dlg_rakaat_start": "Begrepen, starten",
+  "premium_rakaat_left": "Resterende gratis sessies: {n} van {max}",
+  "premium_benefit_mushaf_listen": "Verzen rechtstreeks beluisteren vanuit de Leesmodus",
+  "premium_benefit_uji": "Onbeperkte tests uit het hoofd (gratis: één per dag)",
+  "premium_benefit_dark": "Donker thema, ook volgens de instelling van je telefoon",
+  "premium_benefit_bookmarks": "Onbeperkte vers-bladwijzers (gratis: 5 bladwijzers)",
+  "premium_benefit_rakaat": "Onbeperkte sessies van de Rakaat-teller (gratis: 5 sessies)"
 }

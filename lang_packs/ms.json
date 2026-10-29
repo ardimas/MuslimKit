@@ -2398,5 +2398,21 @@
   "silsilah_gap_gap_years_images_point0": "Tiada tarikh mutlak yang boleh dipertanggungjawabkan untuk nabi-nabi awal.",
   "silsilah_gap_gap_years_images_point1": "Rupa para nabi tidak dilukis.",
   "silsilah_p25_title": "25 nabi yang disebut namanya dalam Al-Quran",
-  "silsilah_p25_note": "Mengikut abjad, bukan urutan masa. Tiada garis hubungan dalam senarai ini."
+  "silsilah_p25_note": "Mengikut abjad, bukan urutan masa. Tiada garis hubungan dalam senarai ini.",
+  "premium_dlg_cta": "Lihat pakej",
+  "premium_dlg_mushaf_listen": "Mendengar ayat daripada Mod bacaan hanya tersedia dengan Premium. Membaca Al-Quran dan menanda bacaan terakhir kekal percuma.",
+  "premium_dlg_uji": "Ujian Hafazan percuma tersedia sekali sehari, dan hari ini sudah digunakan. Cuba lagi esok, atau gunakan Premium untuk Ujian Hafazan tanpa had.",
+  "premium_dlg_dark": "Tema gelap hanya tersedia dengan Premium. Selagi belum melanggan, aplikasi menggunakan tema cerah.",
+  "premium_dlg_dark_system": "Telefon anda menggunakan mod gelap, tetapi tema gelap hanya tersedia dengan Premium. Selagi belum melanggan, aplikasi terus menggunakan tema cerah.",
+  "premium_dlg_bookmark": "Versi percuma boleh menyimpan sehingga 5 penanda ayat, dan anda sudah mencapai had itu. Padam satu penanda yang tidak lagi diperlukan, atau gunakan Premium untuk penanda tanpa had.",
+  "premium_dlg_rakaat_limit": "Anda sudah menggunakan kesemua {max} sesi percuma Rakaat Counter (dari mula hingga selesai). Gunakan Premium untuk sesi tanpa had. Ciri lain tidak terjejas.",
+  "premium_dlg_rakaat_disclaimer_title": "Had sesi percuma",
+  "premium_dlg_rakaat_disclaimer": "Rakaat Counter percuma dihadkan kepada {max} sesi (dari mula hingga selesai) secara keseluruhan. Sesi dikira apabila anda menekan Selesai. Baki sesi percuma: {n}. Premium membuka sesi tanpa had.",
+  "premium_dlg_rakaat_start": "Faham, mulakan",
+  "premium_rakaat_left": "Baki sesi percuma: {n} daripada {max}",
+  "premium_benefit_mushaf_listen": "Dengar ayat terus daripada Mod bacaan",
+  "premium_benefit_uji": "Ujian Hafazan tanpa had harian (percuma: sekali sehari)",
+  "premium_benefit_dark": "Tema gelap, termasuk mengikut tetapan telefon",
+  "premium_benefit_bookmarks": "Penanda ayat tanpa had (percuma: 5 penanda)",
+  "premium_benefit_rakaat": "Sesi Rakaat Counter tanpa had (percuma: 5 sesi)"
 }
