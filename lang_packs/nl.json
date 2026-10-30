@@ -2456,5 +2456,8 @@
   "panduan_rec_istighfar_taubat_note": "Reciteer het 100 keer, of zo vaak als je kunt.",
   "panduan_rec_istighfar_taubat_translation": "Ik vraag Allah, de Almachtige, om vergeving. Er is geen god dan Hij, de Levende, de Zelfstandige, en ik keer me berouwvol naar Hem.",
   "panduan_rec_sayyidul_istighfar_label": "Sayyid al-Istighfar",
-  "panduan_rec_sayyidul_istighfar_translation": "O Allah, U bent mijn Heer, er is geen god (die met recht aanbeden mag worden) behalve U; U hebt mij geschapen. Ik ben Uw dienaar. Ik blijf trouw aan mijn verbond met U, zo goed als ik kan. Ik zoek toevlucht bij U tegen het kwaad dat ik heb gedaan. Ik erken Uw gunst aan mij en ik erken mijn zonde; vergeef mij dus, want niemand vergeeft zonden behalve U."
+  "panduan_rec_sayyidul_istighfar_translation": "O Allah, U bent mijn Heer, er is geen god (die met recht aanbeden mag worden) behalve U; U hebt mij geschapen. Ik ben Uw dienaar. Ik blijf trouw aan mijn verbond met U, zo goed als ik kan. Ik zoek toevlucht bij U tegen het kwaad dat ik heb gedaan. Ik erken Uw gunst aan mij en ik erken mijn zonde; vergeef mij dus, want niemand vergeeft zonden behalve U.",
+  "jumat_notification_title": "Gebedstijd: Vrijdaggebed",
+  "jumat_notification_body": "Het is tijd voor het vrijdaggebed in {location}",
+  "niat_jumat_intro": "Ik ben van plan het verplichte vrijdaggebed te verrichten, {rakaat} rakaat, gericht naar de qibla"
 }

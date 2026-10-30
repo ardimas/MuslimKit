@@ -2456,5 +2456,8 @@
   "panduan_rec_istighfar_taubat_note": "100 kez veya gücün yettiğince çok oku.",
   "panduan_rec_istighfar_taubat_translation": "Yüce Allah'tan bağışlanma dilerim; O'ndan başka ilâh yoktur; O, Hayy'dır, Kayyûm'dur ve O'na tevbe ederim.",
   "panduan_rec_sayyidul_istighfar_label": "Seyyidü’l-İstiğfar",
-  "panduan_rec_sayyidul_istighfar_translation": "Allah’ım, sen benim Rabbimsin, senden başka hakkıyla ibadete layık ilah yoktur, beni sen yarattın. Ben senin kulunum. Gücüm yettiğince sana verdiğim ahde ve sözüme bağlıyım. Yaptığım kötülüğün şerrinden sana sığınırım. Bana verdiğin nimeti itiraf ederim, günahımı da itiraf ederim; beni bağışla. Şüphesiz günahları senden başka bağışlayan yoktur."
+  "panduan_rec_sayyidul_istighfar_translation": "Allah’ım, sen benim Rabbimsin, senden başka hakkıyla ibadete layık ilah yoktur, beni sen yarattın. Ben senin kulunum. Gücüm yettiğince sana verdiğim ahde ve sözüme bağlıyım. Yaptığım kötülüğün şerrinden sana sığınırım. Bana verdiğin nimeti itiraf ederim, günahımı da itiraf ederim; beni bağışla. Şüphesiz günahları senden başka bağışlayan yoktur.",
+  "jumat_notification_title": "Namaz Vakti: Cuma Namazı",
+  "jumat_notification_body": "{location} bölgesi için Cuma namazı vakti girdi",
+  "niat_jumat_intro": "Cuma farz namazını {rakaat} rekat olarak kıbleye dönerek kılmaya niyet ettim"
 }

@@ -2456,5 +2456,8 @@
   "panduan_rec_istighfar_taubat_note": "Dibaca 100 kali atau sebanyak mungkin.",
   "panduan_rec_istighfar_taubat_translation": "Aku memohon ampun kepada Allah Yang Maha Agung, tiada tuhan selain Dia Yang Maha Hidup lagi Maha Berdiri Sendiri, dan aku bertaubat kepada-Nya.",
   "panduan_rec_sayyidul_istighfar_label": "Sayyid al-Istighfar",
-  "panduan_rec_sayyidul_istighfar_translation": "Ya Allah, Engkaulah Tuhanku, tiada tuhan (yang berhak disembah dengan sebenarnya) melainkan Engkau, Engkaulah yang menciptakan aku. Aku hamba-Mu. Aku akan setia pada perjanjianku dengan-Mu sekadar kemampuanku. Aku berlindung dengan-Mu daripada kejahatan apa yang telah aku lakukan. Aku mengakui nikmat-Mu yang Engkau kurniakan kepadaku dan aku mengakui dosaku, maka ampunilah aku. Sesungguhnya tiada yang dapat mengampunkan dosa melainkan Engkau."
+  "panduan_rec_sayyidul_istighfar_translation": "Ya Allah, Engkaulah Tuhanku, tiada tuhan (yang berhak disembah dengan sebenarnya) melainkan Engkau, Engkaulah yang menciptakan aku. Aku hamba-Mu. Aku akan setia pada perjanjianku dengan-Mu sekadar kemampuanku. Aku berlindung dengan-Mu daripada kejahatan apa yang telah aku lakukan. Aku mengakui nikmat-Mu yang Engkau kurniakan kepadaku dan aku mengakui dosaku, maka ampunilah aku. Sesungguhnya tiada yang dapat mengampunkan dosa melainkan Engkau.",
+  "jumat_notification_title": "Waktu Solat: Solat Jumaat",
+  "jumat_notification_body": "Sudah masuk waktu Solat Jumaat bagi kawasan {location}",
+  "niat_jumat_intro": "Aku niat menunaikan solat fardhu Jumaat {rakaat} rakaat menghadap kiblat"
 }

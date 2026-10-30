@@ -2456,5 +2456,8 @@
   "panduan_rec_istighfar_taubat_note": "Recítalo 100 veces, o tantas veces como puedas.",
   "panduan_rec_istighfar_taubat_translation": "Pido perdón a Allah, el Inmenso; no hay más dios que Él, el Viviente, el Sustentador, y me arrepiento ante Él.",
   "panduan_rec_sayyidul_istighfar_label": "Sayyid al-Istighfar",
-  "panduan_rec_sayyidul_istighfar_translation": "Oh Allah, Tú eres mi Señor, no hay divinidad (digna de ser adorada con verdad) excepto Tú; Tú me has creado. Soy Tu siervo. Seré fiel a mi pacto contigo en la medida de mis posibilidades. Me refugio en Ti del mal que he cometido. Reconozco Tu favor sobre mí y reconozco mi pecado; perdóname, pues nadie perdona los pecados sino Tú."
+  "panduan_rec_sayyidul_istighfar_translation": "Oh Allah, Tú eres mi Señor, no hay divinidad (digna de ser adorada con verdad) excepto Tú; Tú me has creado. Soy Tu siervo. Seré fiel a mi pacto contigo en la medida de mis posibilidades. Me refugio en Ti del mal que he cometido. Reconozco Tu favor sobre mí y reconozco mi pecado; perdóname, pues nadie perdona los pecados sino Tú.",
+  "jumat_notification_title": "Hora de oración: Oración del Viernes",
+  "jumat_notification_body": "Es hora de la oración del Viernes en {location}",
+  "niat_jumat_intro": "Tengo la intención de realizar la oración obligatoria del Viernes, {rakaat} rakaat, mirando hacia la qibla"
 }

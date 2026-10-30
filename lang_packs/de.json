@@ -2456,5 +2456,8 @@
   "panduan_rec_istighfar_taubat_note": "Sprich es 100-mal oder so oft du kannst.",
   "panduan_rec_istighfar_taubat_translation": "Ich bitte Allah, den Gewaltigen, um Vergebung. Es gibt keinen Gott außer Ihm, dem Ewig-Lebenden, dem Beständigen, und ich wende mich reumütig zu Ihm.",
   "panduan_rec_sayyidul_istighfar_label": "Sayyid al-Istighfar (Herr der Bitten um Vergebung)",
-  "panduan_rec_sayyidul_istighfar_translation": "O Allah, Du bist mein Herr, es gibt keinen Gott (der zu Recht angebetet wird) außer Dir, Du hast mich erschaffen. Ich bin Dein Diener. Ich halte den Bund mit Dir und das Versprechen an Dich, so gut ich kann. Ich suche Zuflucht bei Dir vor dem Übel dessen, was ich getan habe. Ich erkenne Deine Gnade gegen mich an und ich erkenne meine Sünde an, so vergib mir. Wahrlich, niemand vergibt die Sünden außer Dir."
+  "panduan_rec_sayyidul_istighfar_translation": "O Allah, Du bist mein Herr, es gibt keinen Gott (der zu Recht angebetet wird) außer Dir, Du hast mich erschaffen. Ich bin Dein Diener. Ich halte den Bund mit Dir und das Versprechen an Dich, so gut ich kann. Ich suche Zuflucht bei Dir vor dem Übel dessen, was ich getan habe. Ich erkenne Deine Gnade gegen mich an und ich erkenne meine Sünde an, so vergib mir. Wahrlich, niemand vergibt die Sünden außer Dir.",
+  "jumat_notification_title": "Gebetszeit: Freitagsgebet",
+  "jumat_notification_body": "Es ist Zeit für das Freitagsgebet in {location}",
+  "niat_jumat_intro": "Ich beabsichtige, das Pflicht-Freitagsgebet, {rakaat} Rakaat, in Richtung Qibla zu verrichten"
 }
