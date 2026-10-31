@@ -295,7 +295,7 @@
   "checklist_shalat_title": "Liste de Vérification des Prières",
   "checklist_today": "Aujourd'hui",
   "checklist_toggle_dhuha": "Afficher le Duha",
-  "checklist_toggle_jumat": "Afficher la Prière du Vendredi (remplace le Dhuhr)",
+  "checklist_toggle_jumat": "Vendredi au lieu du Dhuhr",
   "checklist_toggle_rawatib": "Afficher les Sunnah Rawatib",
   "checklist_toggle_tahajud": "Afficher le Tahajjud",
   "checklist_toggle_witr": "Afficher le Witr",
@@ -2456,5 +2456,8 @@
   "panduan_rec_istighfar_taubat_note": "Récite-le 100 fois, ou autant de fois que tu le peux.",
   "panduan_rec_istighfar_taubat_translation": "Je demande pardon à Allah, le Très Grand ; il n'y a de divinité que Lui, le Vivant, Celui qui subsiste par Lui-même, et je me repens à Lui.",
   "panduan_rec_sayyidul_istighfar_label": "Sayyid al-Istighfar (le maître des demandes de pardon)",
-  "panduan_rec_sayyidul_istighfar_translation": "Ô Allah, Tu es mon Seigneur, il n'y a de divinité (digne d'être adorée à juste titre) que Toi, Tu m'as créé. Je suis Ton serviteur. Je reste fidèle à mon engagement envers Toi et à ma promesse envers Toi autant que je le peux. Je cherche refuge auprès de Toi contre le mal de ce que j'ai commis. Je reconnais Ton bienfait envers moi et je reconnais mon péché, pardonne-moi donc. Car nul ne pardonne les péchés en dehors de Toi."
+  "panduan_rec_sayyidul_istighfar_translation": "Ô Allah, Tu es mon Seigneur, il n'y a de divinité (digne d'être adorée à juste titre) que Toi, Tu m'as créé. Je suis Ton serviteur. Je reste fidèle à mon engagement envers Toi et à ma promesse envers Toi autant que je le peux. Je cherche refuge auprès de Toi contre le mal de ce que j'ai commis. Je reconnais Ton bienfait envers moi et je reconnais mon péché, pardonne-moi donc. Car nul ne pardonne les péchés en dehors de Toi.",
+  "jumat_notification_title": "Heure de prière : Prière du Vendredi",
+  "jumat_notification_body": "C'est l'heure de la prière du Vendredi pour {location}",
+  "niat_jumat_intro": "J'ai l'intention d'accomplir la prière obligatoire du Vendredi, {rakaat} rakaat, face à la qibla"
 }

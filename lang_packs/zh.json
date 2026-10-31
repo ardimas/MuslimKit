@@ -295,7 +295,7 @@
   "checklist_shalat_title": "礼拜清单",
   "checklist_today": "今天",
   "checklist_toggle_dhuha": "显示杜哈拜",
-  "checklist_toggle_jumat": "显示主麻拜(取代晌礼)",
+  "checklist_toggle_jumat": "主麻拜取代晌礼",
   "checklist_toggle_rawatib": "显示拉瓦提卜圣行拜",
   "checklist_toggle_tahajud": "显示副功夜礼",
   "checklist_toggle_witr": "显示维特尔拜",
@@ -2456,5 +2456,8 @@
   "panduan_rec_istighfar_taubat_note": "念100遍，或尽力多念。",
   "panduan_rec_istighfar_taubat_translation": "我向至大的真主求饶，除他之外再无应受崇拜的主，他是永生的、维系万物的，我向他忏悔。",
   "panduan_rec_sayyidul_istighfar_label": "求饶之首（Sayyid al-Istighfar）",
-  "panduan_rec_sayyidul_istighfar_translation": "真主啊，你是我的主，除你之外再无应受崇拜的主，是你创造了我。我是你的仆人，我将尽我所能恪守对你的盟约。我求你护佑我免遭我所作之恶。我承认你赐予我的恩典，也承认我的罪过，求你饶恕我，因为除你之外，无人能饶恕罪过。"
+  "panduan_rec_sayyidul_istighfar_translation": "真主啊，你是我的主，除你之外再无应受崇拜的主，是你创造了我。我是你的仆人，我将尽我所能恪守对你的盟约。我求你护佑我免遭我所作之恶。我承认你赐予我的恩典，也承认我的罪过，求你饶恕我，因为除你之外，无人能饶恕罪过。",
+  "jumat_notification_title": "礼拜时间：主麻拜",
+  "jumat_notification_body": "{location}地区的主麻拜时间已到",
+  "niat_jumat_intro": "我举意面向克尔白礼主麻主命拜{rakaat}拜"
 }

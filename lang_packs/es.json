@@ -295,7 +295,7 @@
   "checklist_shalat_title": "Checklist de Oraciones",
   "checklist_today": "Hoy",
   "checklist_toggle_dhuha": "Mostrar Duha",
-  "checklist_toggle_jumat": "Mostrar Oración del Viernes (reemplaza Duhr)",
+  "checklist_toggle_jumat": "Viernes en lugar de Duhr",
   "checklist_toggle_rawatib": "Mostrar Sunnah Rawatib",
   "checklist_toggle_tahajud": "Mostrar Tahajjud",
   "checklist_toggle_witr": "Mostrar Witr",
@@ -2456,5 +2456,8 @@
   "panduan_rec_istighfar_taubat_note": "Recítalo 100 veces, o tantas veces como puedas.",
   "panduan_rec_istighfar_taubat_translation": "Pido perdón a Allah, el Inmenso; no hay más dios que Él, el Viviente, el Sustentador, y me arrepiento ante Él.",
   "panduan_rec_sayyidul_istighfar_label": "Sayyid al-Istighfar",
-  "panduan_rec_sayyidul_istighfar_translation": "Oh Allah, Tú eres mi Señor, no hay divinidad (digna de ser adorada con verdad) excepto Tú; Tú me has creado. Soy Tu siervo. Seré fiel a mi pacto contigo en la medida de mis posibilidades. Me refugio en Ti del mal que he cometido. Reconozco Tu favor sobre mí y reconozco mi pecado; perdóname, pues nadie perdona los pecados sino Tú."
+  "panduan_rec_sayyidul_istighfar_translation": "Oh Allah, Tú eres mi Señor, no hay divinidad (digna de ser adorada con verdad) excepto Tú; Tú me has creado. Soy Tu siervo. Seré fiel a mi pacto contigo en la medida de mis posibilidades. Me refugio en Ti del mal que he cometido. Reconozco Tu favor sobre mí y reconozco mi pecado; perdóname, pues nadie perdona los pecados sino Tú.",
+  "jumat_notification_title": "Hora de oración: Oración del Viernes",
+  "jumat_notification_body": "Es hora de la oración del Viernes en {location}",
+  "niat_jumat_intro": "Tengo la intención de realizar la oración obligatoria del Viernes, {rakaat} rakaat, mirando hacia la qibla"
 }

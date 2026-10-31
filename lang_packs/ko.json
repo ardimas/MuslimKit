@@ -295,7 +295,7 @@
   "checklist_shalat_title": "예배 체크리스트",
   "checklist_today": "오늘",
   "checklist_toggle_dhuha": "두하 표시",
-  "checklist_toggle_jumat": "금요 예배 표시 (두흐르 대체)",
+  "checklist_toggle_jumat": "금요 예배로 두흐르 대체",
   "checklist_toggle_rawatib": "라와티브 순나 표시",
   "checklist_toggle_tahajud": "타하주드 표시",
   "checklist_toggle_witr": "위트르 표시",
@@ -2456,5 +2456,8 @@
   "panduan_rec_istighfar_taubat_note": "100번 또는 할 수 있는 만큼 많이 암송합니다.",
   "panduan_rec_istighfar_taubat_translation": "위대하신 알라께 용서를 구합니다. 그분 외에 신은 없으며, 영원히 살아 계시고 만물을 유지하시는 분이십니다. 저는 그분께 회개합니다.",
   "panduan_rec_sayyidul_istighfar_label": "사이이드 알이스티그파르(최상의 용서 구함)",
-  "panduan_rec_sayyidul_istighfar_translation": "알라시여, 당신은 저의 주님이십니다. 당신 외에는 (참으로 예배받아 마땅한) 신이 없습니다. 당신께서 저를 창조하셨습니다. 저는 당신의 종입니다. 저는 힘이 닿는 데까지 당신과의 서약과 약속을 지키겠습니다. 제가 저지른 악으로부터 당신께 피난처를 구합니다. 제게 베푸신 당신의 은혜를 인정하고 제 죄를 인정합니다. 그러니 저를 용서해 주십시오. 당신 외에는 죄를 용서할 수 있는 분이 없기 때문입니다."
+  "panduan_rec_sayyidul_istighfar_translation": "알라시여, 당신은 저의 주님이십니다. 당신 외에는 (참으로 예배받아 마땅한) 신이 없습니다. 당신께서 저를 창조하셨습니다. 저는 당신의 종입니다. 저는 힘이 닿는 데까지 당신과의 서약과 약속을 지키겠습니다. 제가 저지른 악으로부터 당신께 피난처를 구합니다. 제게 베푸신 당신의 은혜를 인정하고 제 죄를 인정합니다. 그러니 저를 용서해 주십시오. 당신 외에는 죄를 용서할 수 있는 분이 없기 때문입니다.",
+  "jumat_notification_title": "예배 시간: 금요 예배",
+  "jumat_notification_body": "{location} 지역의 금요 예배 시간이 되었습니다",
+  "niat_jumat_intro": "나는 키블라를 향해 금요 예배 의무 {rakaat}라카트를 행할 것을 니야합니다"
 }
