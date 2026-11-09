@@ -2459,5 +2459,13 @@
   "panduan_rec_sayyidul_istighfar_translation": "알라시여, 당신은 저의 주님이십니다. 당신 외에는 (참으로 예배받아 마땅한) 신이 없습니다. 당신께서 저를 창조하셨습니다. 저는 당신의 종입니다. 저는 힘이 닿는 데까지 당신과의 서약과 약속을 지키겠습니다. 제가 저지른 악으로부터 당신께 피난처를 구합니다. 제게 베푸신 당신의 은혜를 인정하고 제 죄를 인정합니다. 그러니 저를 용서해 주십시오. 당신 외에는 죄를 용서할 수 있는 분이 없기 때문입니다.",
   "jumat_notification_title": "예배 시간: 금요 예배",
   "jumat_notification_body": "{location} 지역의 금요 예배 시간이 되었습니다",
-  "niat_jumat_intro": "나는 키블라를 향해 금요 예배 의무 {rakaat}라카트를 행할 것을 니야합니다"
+  "niat_jumat_intro": "나는 키블라를 향해 금요 예배 의무 {rakaat}라카트를 행할 것을 니야합니다",
+  "insight_action_tasbih": "타스비흐 열기",
+  "insight_action_hafalan": "타흐피즈 열기",
+  "insight_weekday_pattern_one": "{day1}은(는) 다른 요일보다 의무 예배가 느슨해지기 쉬운 날이에요. 그날만 알림을 설정해 볼까요?",
+  "insight_weekday_pattern_two": "{day1}과(와) {day2}은(는) 다른 요일보다 의무 예배가 느슨해지기 쉬운 날이에요. 그 이틀만 알림을 설정해 볼까요?",
+  "insight_jamaah_effect": "함께 예배한 날에는 다른 예배도 시간 초반에 기록되는 경향이 있어요({withPct}% 대 {withoutPct}%). 함께 예배하는 것이 도움이 되는 것 같아요.",
+  "insight_dzikir_link": "지크르를 한 날에는 의무 예배가 더 온전히 기록되는 경향이 있어요({withPct}% 대 {withoutPct}%). 짧은 지크르도 의미가 있어요.",
+  "insight_hafalan_risk_one": "{surah} {ayahFrom}-{ayahTo}은(는) {days}일째 복습하지 않았어요. 오늘 잠깐 복습하면 간직하는 데 도움이 돼요.",
+  "insight_hafalan_risk_many": "암송 {count}곳이 복습 예정일을 넘겼어요. 가장 오래된 것은 {surah} {ayahFrom}-{ayahTo}({days}일)입니다. 이것부터 천천히 시작해 보세요."
 }

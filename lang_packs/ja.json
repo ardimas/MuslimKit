@@ -2459,5 +2459,13 @@
   "panduan_rec_sayyidul_istighfar_translation": "アッラーよ、あなたは私の主です。あなたのほかに（真に崇拝されるべき）神はありません。あなたが私をお創りになりました。私はあなたのしもべです。私は力の限り、あなたとの誓約と約束に忠実であります。私は自分が犯した悪からあなたにご加護を請います。私に与えられたあなたの恩恵を認め、私の罪を認めます。どうか私をお赦しください。あなたのほかに罪を赦せる方はいないのですから。",
   "jumat_notification_title": "礼拝時間：金曜礼拝",
   "jumat_notification_body": "{location}の金曜礼拝の時間になりました",
-  "niat_jumat_intro": "私はキブラに向かって金曜礼拝の義務礼拝を{rakaat}ラカート行うことを意図します"
+  "niat_jumat_intro": "私はキブラに向かって金曜礼拝の義務礼拝を{rakaat}ラカート行うことを意図します",
+  "insight_action_tasbih": "タスビーを開く",
+  "insight_action_hafalan": "タハフィーズを開く",
+  "insight_weekday_pattern_one": "{day1}は、他の曜日より義務の礼拝がゆるやかになりやすい日です。その日だけリマインダーを設定してみませんか？",
+  "insight_weekday_pattern_two": "{day1}と{day2}は、他の曜日より義務の礼拝がゆるやかになりやすい日です。その2日だけリマインダーを設定してみませんか？",
+  "insight_jamaah_effect": "集団礼拝をした日は、ほかの礼拝も時間の早い段階で記録される傾向があります（{withPct}% 対 {withoutPct}%）。みんなで礼拝すると助けになるようです。",
+  "insight_dzikir_link": "ズィクルをした日は、義務の礼拝がより揃って記録される傾向があります（{withPct}% 対 {withoutPct}%）。短いズィクルでも十分です。",
+  "insight_hafalan_risk_one": "{surah} {ayahFrom}-{ayahTo}は{days}日間復習されていません。今日少し復習すると定着を助けます。",
+  "insight_hafalan_risk_many": "暗誦の{count}か所が復習予定日を過ぎています。最も長いのは{surah} {ayahFrom}-{ayahTo}（{days}日）。まずはこれから、ゆっくり始めましょう。"
 }

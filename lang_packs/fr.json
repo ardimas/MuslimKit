@@ -2459,5 +2459,13 @@
   "panduan_rec_sayyidul_istighfar_translation": "Ô Allah, Tu es mon Seigneur, il n'y a de divinité (digne d'être adorée à juste titre) que Toi, Tu m'as créé. Je suis Ton serviteur. Je reste fidèle à mon engagement envers Toi et à ma promesse envers Toi autant que je le peux. Je cherche refuge auprès de Toi contre le mal de ce que j'ai commis. Je reconnais Ton bienfait envers moi et je reconnais mon péché, pardonne-moi donc. Car nul ne pardonne les péchés en dehors de Toi.",
   "jumat_notification_title": "Heure de prière : Prière du Vendredi",
   "jumat_notification_body": "C'est l'heure de la prière du Vendredi pour {location}",
-  "niat_jumat_intro": "J'ai l'intention d'accomplir la prière obligatoire du Vendredi, {rakaat} rakaat, face à la qibla"
+  "niat_jumat_intro": "J'ai l'intention d'accomplir la prière obligatoire du Vendredi, {rakaat} rakaat, face à la qibla",
+  "insight_action_tasbih": "Ouvrir le Tasbih",
+  "insight_action_hafalan": "Ouvrir le Tahfidz",
+  "insight_weekday_pattern_one": "{day1} tend à être un jour plus léger pour vos prières obligatoires que les autres jours. Voulez-vous définir un rappel rien que pour ce jour ?",
+  "insight_weekday_pattern_two": "{day1} et {day2} tendent à être des jours plus légers pour vos prières obligatoires que les autres jours. Voulez-vous définir un rappel rien que pour ces jours ?",
+  "insight_jamaah_effect": "Les jours où vous priez en congrégation, vos autres prières tendent à être enregistrées plus tôt dans leur horaire ({withPct} % contre {withoutPct} %). Prier en groupe semble aider.",
+  "insight_dzikir_link": "Les jours où vous faites du dhikr, vos prières obligatoires tendent à être enregistrées plus complètement ({withPct} % contre {withoutPct} %). Même un court dhikr compte.",
+  "insight_hafalan_risk_one": "{surah} {ayahFrom}-{ayahTo} n'a pas été révisé depuis {days} jours. Une courte révision aujourd'hui aidera à le préserver.",
+  "insight_hafalan_risk_many": "{count} parties de votre mémorisation ont dépassé leur date de révision ; la plus ancienne est {surah} {ayahFrom}-{ayahTo} ({days} jours). Commencez par celle-ci, en douceur."
 }

@@ -2459,5 +2459,13 @@
   "panduan_rec_sayyidul_istighfar_translation": "真主啊，你是我的主，除你之外再无应受崇拜的主，是你创造了我。我是你的仆人，我将尽我所能恪守对你的盟约。我求你护佑我免遭我所作之恶。我承认你赐予我的恩典，也承认我的罪过，求你饶恕我，因为除你之外，无人能饶恕罪过。",
   "jumat_notification_title": "礼拜时间：主麻拜",
   "jumat_notification_body": "{location}地区的主麻拜时间已到",
-  "niat_jumat_intro": "我举意面向克尔白礼主麻主命拜{rakaat}拜"
+  "niat_jumat_intro": "我举意面向克尔白礼主麻主命拜{rakaat}拜",
+  "insight_action_tasbih": "打开赞念",
+  "insight_action_hafalan": "打开塔哈菲兹",
+  "insight_weekday_pattern_one": "{day1}往往是你的主命拜比其他日子更松散的一天。要为这一天单独设置提醒吗？",
+  "insight_weekday_pattern_two": "{day1}和{day2}往往是你的主命拜比其他日子更松散的日子。要为这两天单独设置提醒吗？",
+  "insight_jamaah_effect": "在你参加集体礼拜的日子，其他礼拜往往记录得更靠近时间初段（{withPct}% 对 {withoutPct}%）。一起礼拜似乎有帮助。",
+  "insight_dzikir_link": "在你赞念的日子，主命拜往往记录得更完整（{withPct}% 对 {withoutPct}%）。哪怕是简短的赞念也有意义。",
+  "insight_hafalan_risk_one": "{surah} {ayahFrom}-{ayahTo} 已有 {days} 天没有复习。今天简短复习一下有助于保持记忆。",
+  "insight_hafalan_risk_many": "你的背诵中有 {count} 处已过复习日期，最久的是 {surah} {ayahFrom}-{ayahTo}（{days} 天）。先从这一处轻松开始。"
 }

@@ -2459,5 +2459,13 @@
   "panduan_rec_sayyidul_istighfar_translation": "Oh Allah, Tú eres mi Señor, no hay divinidad (digna de ser adorada con verdad) excepto Tú; Tú me has creado. Soy Tu siervo. Seré fiel a mi pacto contigo en la medida de mis posibilidades. Me refugio en Ti del mal que he cometido. Reconozco Tu favor sobre mí y reconozco mi pecado; perdóname, pues nadie perdona los pecados sino Tú.",
   "jumat_notification_title": "Hora de oración: Oración del Viernes",
   "jumat_notification_body": "Es hora de la oración del Viernes en {location}",
-  "niat_jumat_intro": "Tengo la intención de realizar la oración obligatoria del Viernes, {rakaat} rakaat, mirando hacia la qibla"
+  "niat_jumat_intro": "Tengo la intención de realizar la oración obligatoria del Viernes, {rakaat} rakaat, mirando hacia la qibla",
+  "insight_action_tasbih": "Abrir Tasbih",
+  "insight_action_hafalan": "Abrir Tahfidz",
+  "insight_weekday_pattern_one": "{day1} tiende a ser un día más flojo para tus oraciones obligatorias que el resto. ¿Quieres poner un recordatorio solo para ese día?",
+  "insight_weekday_pattern_two": "{day1} y {day2} tienden a ser días más flojos para tus oraciones obligatorias que el resto. ¿Quieres poner un recordatorio solo para esos días?",
+  "insight_jamaah_effect": "Los días que rezas en congregación, tus otras oraciones tienden a registrarse antes dentro de su hora ({withPct} % frente a {withoutPct} %). Rezar en grupo parece ayudar.",
+  "insight_dzikir_link": "Los días que haces dhikr, tus oraciones obligatorias tienden a registrarse más completas ({withPct} % frente a {withoutPct} %). Incluso un dhikr corto cuenta.",
+  "insight_hafalan_risk_one": "{surah} {ayahFrom}-{ayahTo} lleva {days} días sin repasarse. Un repaso breve hoy ayudará a conservarlo.",
+  "insight_hafalan_risk_many": "{count} partes de tu memorización han pasado su fecha de repaso; la más antigua es {surah} {ayahFrom}-{ayahTo} ({days} días). Empieza por esta, con calma."
 }

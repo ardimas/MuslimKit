@@ -2459,5 +2459,13 @@
   "panduan_rec_sayyidul_istighfar_translation": "Ya Allah, Engkaulah Tuhanku, tiada tuhan (yang berhak disembah dengan sebenarnya) melainkan Engkau, Engkaulah yang menciptakan aku. Aku hamba-Mu. Aku akan setia pada perjanjianku dengan-Mu sekadar kemampuanku. Aku berlindung dengan-Mu daripada kejahatan apa yang telah aku lakukan. Aku mengakui nikmat-Mu yang Engkau kurniakan kepadaku dan aku mengakui dosaku, maka ampunilah aku. Sesungguhnya tiada yang dapat mengampunkan dosa melainkan Engkau.",
   "jumat_notification_title": "Waktu Solat: Solat Jumaat",
   "jumat_notification_body": "Sudah masuk waktu Solat Jumaat bagi kawasan {location}",
-  "niat_jumat_intro": "Aku niat menunaikan solat fardhu Jumaat {rakaat} rakaat menghadap kiblat"
+  "niat_jumat_intro": "Aku niat menunaikan solat fardhu Jumaat {rakaat} rakaat menghadap kiblat",
+  "insight_action_tasbih": "Buka Tasbih",
+  "insight_action_hafalan": "Buka Tahfiz",
+  "insight_weekday_pattern_one": "Hari {day1} cenderung lebih longgar untuk solat fardu berbanding hari lain. Mahu tetapkan peringatan khas untuk hari itu?",
+  "insight_weekday_pattern_two": "Hari {day1} dan {day2} cenderung lebih longgar untuk solat fardu berbanding hari lain. Mahu tetapkan peringatan khas untuk dua hari itu?",
+  "insight_jamaah_effect": "Pada hari anda solat berjemaah, solat yang lain cenderung direkodkan lebih awal dalam waktunya ({withPct}% berbanding {withoutPct}%). Berjemaah nampaknya membantu.",
+  "insight_dzikir_link": "Pada hari anda berzikir, solat fardu anda cenderung direkodkan lebih lengkap ({withPct}% berbanding {withoutPct}%). Zikir ringkas pun bermakna.",
+  "insight_hafalan_risk_one": "{surah} {ayahFrom}-{ayahTo} sudah {days} hari tidak diulang. Ulang kaji sebentar hari ini akan membantu menjaganya.",
+  "insight_hafalan_risk_many": "{count} bahagian hafalan anda sudah melepasi tarikh ulang kaji; yang paling lama {surah} {ayahFrom}-{ayahTo} ({days} hari). Mulakan dengan yang ini, perlahan-lahan."
 }
