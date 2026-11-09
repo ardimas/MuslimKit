@@ -2463,5 +2463,13 @@
   "isha_review_title": "Bazı namazlar henüz kaydedilmedi",
   "isha_review_body": "Yatsı vakti girdi, ancak {list} İbadet Günlüğünde henüz kayıtlı değil. Belki kaydetmeyi unuttun? Kıldıysan şimdi tamamla ki kaydın doğru olsun. Kılmadıysan ya da mazeretin varsa sorun değil, \"Doğru\" seç.",
   "isha_review_cta": "Şimdi tamamla",
-  "isha_review_ok": "Doğru"
+  "isha_review_ok": "Doğru",
+  "insight_action_tasbih": "Tesbih'i aç",
+  "insight_action_hafalan": "Tahfiz'i aç",
+  "insight_weekday_pattern_one": "{day1}, farz namazların için diğer günlere göre genellikle daha gevşek bir gün. Yalnızca o gün için bir hatırlatıcı kurmak ister misin?",
+  "insight_weekday_pattern_two": "{day1} ve {day2}, farz namazların için diğer günlere göre genellikle daha gevşek günler. Yalnızca o günler için bir hatırlatıcı kurmak ister misin?",
+  "insight_jamaah_effect": "Cemaatle kıldığın günlerde diğer namazlarını vaktin daha başında kaydetme eğilimindesin (%{withPct} - %{withoutPct}). Cemaat yardımcı oluyor gibi.",
+  "insight_dzikir_link": "Zikir yaptığın günlerde farz namazların daha eksiksiz kaydedilme eğiliminde (%{withPct} - %{withoutPct}). Kısa bir zikir bile değerlidir.",
+  "insight_hafalan_risk_one": "{surah} {ayahFrom}-{ayahTo} {days} gündür tekrar edilmedi. Bugün kısa bir tekrar onu korumana yardım eder.",
+  "insight_hafalan_risk_many": "Ezberinin {count} bölümü tekrar tarihini geçti; en eskisi {surah} {ayahFrom}-{ayahTo} ({days} gün). Yavaşça bundan başla."
 }

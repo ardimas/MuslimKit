@@ -2463,5 +2463,13 @@
   "isha_review_title": "Sommige gebeden zijn nog niet geregistreerd",
   "isha_review_body": "Het Isha-gebed is ingegaan, maar {list} staan nog niet in je Ibadah-dagboek. Misschien vergeten? Heb je ze gebeden, vul ze dan nu aan zodat je overzicht klopt. Zo niet, of was je verhinderd, dan is dat prima: kies „Klopt“.",
   "isha_review_cta": "Nu aanvullen",
-  "isha_review_ok": "Klopt"
+  "isha_review_ok": "Klopt",
+  "insight_action_tasbih": "Tasbih openen",
+  "insight_action_hafalan": "Tahfidz openen",
+  "insight_weekday_pattern_one": "{day1} is doorgaans een rustiger dag voor je verplichte gebeden dan andere dagen. Wil je een herinnering instellen alleen voor die dag?",
+  "insight_weekday_pattern_two": "{day1} en {day2} zijn doorgaans rustiger dagen voor je verplichte gebeden dan andere dagen. Wil je een herinnering instellen alleen voor die dagen?",
+  "insight_jamaah_effect": "Op dagen dat je in gemeenschap bidt, leg je je andere gebeden doorgaans eerder in hun tijd vast ({withPct}% tegenover {withoutPct}%). Samen bidden lijkt te helpen.",
+  "insight_dzikir_link": "Op dagen dat je dhikr doet, zijn je verplichte gebeden doorgaans vollediger vastgelegd ({withPct}% tegenover {withoutPct}%). Zelfs een korte dhikr telt.",
+  "insight_hafalan_risk_one": "{surah} {ayahFrom}-{ayahTo} is al {days} dagen niet herhaald. Een korte herhaling vandaag helpt om het te behouden.",
+  "insight_hafalan_risk_many": "{count} delen van je memorisatie zijn over hun herhaaldatum; de langste is {surah} {ayahFrom}-{ayahTo} ({days} dagen). Begin rustig met deze."
 }

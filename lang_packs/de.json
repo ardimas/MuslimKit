@@ -2463,5 +2463,13 @@
   "isha_review_title": "Einige Gebete sind noch nicht eingetragen",
   "isha_review_body": "Das Isha-Gebet hat begonnen, aber {list} sind in deinem Ibadah-Journal noch nicht eingetragen. Vielleicht vergessen? Wenn du sie gebetet hast, trage sie jetzt nach, damit dein Journal stimmt. Wenn nicht oder wenn du verhindert warst, ist das in Ordnung. Wähle „Stimmt so“.",
   "isha_review_cta": "Jetzt vervollständigen",
-  "isha_review_ok": "Stimmt so"
+  "isha_review_ok": "Stimmt so",
+  "insight_action_tasbih": "Tasbih öffnen",
+  "insight_action_hafalan": "Tahfidz öffnen",
+  "insight_weekday_pattern_one": "{day1} ist tendenziell ein lockererer Tag für deine Pflichtgebete als die übrigen Tage. Möchtest du eine Erinnerung nur für diesen Tag festlegen?",
+  "insight_weekday_pattern_two": "{day1} und {day2} sind tendenziell lockerere Tage für deine Pflichtgebete als die übrigen Tage. Möchtest du eine Erinnerung nur für diese Tage festlegen?",
+  "insight_jamaah_effect": "An Tagen, an denen du in Gemeinschaft betest, erfasst du deine anderen Gebete tendenziell früher in ihrer Zeit ({withPct} % vs. {withoutPct} %). Gemeinsam zu beten scheint zu helfen.",
+  "insight_dzikir_link": "An Tagen mit Dhikr sind deine Pflichtgebete tendenziell vollständiger erfasst ({withPct} % vs. {withoutPct} %). Auch ein kurzes Dhikr zählt.",
+  "insight_hafalan_risk_one": "{surah} {ayahFrom}-{ayahTo} wurde seit {days} Tagen nicht wiederholt. Eine kurze Wiederholung heute hilft, es zu bewahren.",
+  "insight_hafalan_risk_many": "{count} Teile deines Auswendiglernens sind über dem Wiederholungstermin; am längsten {surah} {ayahFrom}-{ayahTo} ({days} Tage). Beginne sanft mit diesem."
 }

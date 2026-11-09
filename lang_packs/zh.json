@@ -2463,5 +2463,13 @@
   "isha_review_title": "有些礼拜还没有记录",
   "isha_review_body": "宵礼（Isha）时间已到，但{list}尚未记录在你的礼拜日志中。是不是忘记记录了？如果已经完成，请现在补上，让记录保持准确。如果没有完成或有特殊情况也没关系，请选择“没问题”。",
   "isha_review_cta": "现在补全",
-  "isha_review_ok": "没问题"
+  "isha_review_ok": "没问题",
+  "insight_action_tasbih": "打开赞念",
+  "insight_action_hafalan": "打开塔哈菲兹",
+  "insight_weekday_pattern_one": "{day1}往往是你的主命拜比其他日子更松散的一天。要为这一天单独设置提醒吗？",
+  "insight_weekday_pattern_two": "{day1}和{day2}往往是你的主命拜比其他日子更松散的日子。要为这两天单独设置提醒吗？",
+  "insight_jamaah_effect": "在你参加集体礼拜的日子，其他礼拜往往记录得更靠近时间初段（{withPct}% 对 {withoutPct}%）。一起礼拜似乎有帮助。",
+  "insight_dzikir_link": "在你赞念的日子，主命拜往往记录得更完整（{withPct}% 对 {withoutPct}%）。哪怕是简短的赞念也有意义。",
+  "insight_hafalan_risk_one": "{surah} {ayahFrom}-{ayahTo} 已有 {days} 天没有复习。今天简短复习一下有助于保持记忆。",
+  "insight_hafalan_risk_many": "你的背诵中有 {count} 处已过复习日期，最久的是 {surah} {ayahFrom}-{ayahTo}（{days} 天）。先从这一处轻松开始。"
 }

@@ -2463,5 +2463,13 @@
   "isha_review_title": "Hay oraciones sin registrar",
   "isha_review_body": "Ha entrado la hora de Isha, pero {list} aún no están registradas en tu Diario de Adoración. ¿Quizá se te olvidó anotarlas? Si ya las hiciste, complétalas ahora para que tu registro sea exacto. Si no las hiciste o tuviste una excusa, no pasa nada: elige «Está bien».",
   "isha_review_cta": "Completar ahora",
-  "isha_review_ok": "Está bien"
+  "isha_review_ok": "Está bien",
+  "insight_action_tasbih": "Abrir Tasbih",
+  "insight_action_hafalan": "Abrir Tahfidz",
+  "insight_weekday_pattern_one": "{day1} tiende a ser un día más flojo para tus oraciones obligatorias que el resto. ¿Quieres poner un recordatorio solo para ese día?",
+  "insight_weekday_pattern_two": "{day1} y {day2} tienden a ser días más flojos para tus oraciones obligatorias que el resto. ¿Quieres poner un recordatorio solo para esos días?",
+  "insight_jamaah_effect": "Los días que rezas en congregación, tus otras oraciones tienden a registrarse antes dentro de su hora ({withPct} % frente a {withoutPct} %). Rezar en grupo parece ayudar.",
+  "insight_dzikir_link": "Los días que haces dhikr, tus oraciones obligatorias tienden a registrarse más completas ({withPct} % frente a {withoutPct} %). Incluso un dhikr corto cuenta.",
+  "insight_hafalan_risk_one": "{surah} {ayahFrom}-{ayahTo} lleva {days} días sin repasarse. Un repaso breve hoy ayudará a conservarlo.",
+  "insight_hafalan_risk_many": "{count} partes de tu memorización han pasado su fecha de repaso; la más antigua es {surah} {ayahFrom}-{ayahTo} ({days} días). Empieza por esta, con calma."
 }

@@ -2463,5 +2463,13 @@
   "isha_review_title": "未記録の礼拝があります",
   "isha_review_body": "イシャーの時刻になりましたが、{list}が礼拝ジャーナルにまだ記録されていません。記録し忘れではありませんか？ 礼拝を済ませていれば、記録が正確になるよう今のうちに追加しましょう。まだの場合や事情があった場合は問題ありません。「このままでOK」を選んでください。",
   "isha_review_cta": "今すぐ追加",
-  "isha_review_ok": "このままでOK"
+  "isha_review_ok": "このままでOK",
+  "insight_action_tasbih": "タスビーを開く",
+  "insight_action_hafalan": "タハフィーズを開く",
+  "insight_weekday_pattern_one": "{day1}は、他の曜日より義務の礼拝がゆるやかになりやすい日です。その日だけリマインダーを設定してみませんか？",
+  "insight_weekday_pattern_two": "{day1}と{day2}は、他の曜日より義務の礼拝がゆるやかになりやすい日です。その2日だけリマインダーを設定してみませんか？",
+  "insight_jamaah_effect": "集団礼拝をした日は、ほかの礼拝も時間の早い段階で記録される傾向があります（{withPct}% 対 {withoutPct}%）。みんなで礼拝すると助けになるようです。",
+  "insight_dzikir_link": "ズィクルをした日は、義務の礼拝がより揃って記録される傾向があります（{withPct}% 対 {withoutPct}%）。短いズィクルでも十分です。",
+  "insight_hafalan_risk_one": "{surah} {ayahFrom}-{ayahTo}は{days}日間復習されていません。今日少し復習すると定着を助けます。",
+  "insight_hafalan_risk_many": "暗誦の{count}か所が復習予定日を過ぎています。最も長いのは{surah} {ayahFrom}-{ayahTo}（{days}日）。まずはこれから、ゆっくり始めましょう。"
 }

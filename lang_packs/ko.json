@@ -2463,5 +2463,13 @@
   "isha_review_title": "아직 기록되지 않은 예배가 있어요",
   "isha_review_body": "이샤 시간이 되었지만 {list}이(가) 예배 일지에 아직 기록되지 않았어요. 기록을 깜빡하셨나요? 이미 드렸다면 기록이 정확하도록 지금 채워 주세요. 아직이거나 사정이 있었다면 괜찮아요. \"맞아요\"를 선택하세요.",
   "isha_review_cta": "지금 채우기",
-  "isha_review_ok": "맞아요"
+  "isha_review_ok": "맞아요",
+  "insight_action_tasbih": "타스비흐 열기",
+  "insight_action_hafalan": "타흐피즈 열기",
+  "insight_weekday_pattern_one": "{day1}은(는) 다른 요일보다 의무 예배가 느슨해지기 쉬운 날이에요. 그날만 알림을 설정해 볼까요?",
+  "insight_weekday_pattern_two": "{day1}과(와) {day2}은(는) 다른 요일보다 의무 예배가 느슨해지기 쉬운 날이에요. 그 이틀만 알림을 설정해 볼까요?",
+  "insight_jamaah_effect": "함께 예배한 날에는 다른 예배도 시간 초반에 기록되는 경향이 있어요({withPct}% 대 {withoutPct}%). 함께 예배하는 것이 도움이 되는 것 같아요.",
+  "insight_dzikir_link": "지크르를 한 날에는 의무 예배가 더 온전히 기록되는 경향이 있어요({withPct}% 대 {withoutPct}%). 짧은 지크르도 의미가 있어요.",
+  "insight_hafalan_risk_one": "{surah} {ayahFrom}-{ayahTo}은(는) {days}일째 복습하지 않았어요. 오늘 잠깐 복습하면 간직하는 데 도움이 돼요.",
+  "insight_hafalan_risk_many": "암송 {count}곳이 복습 예정일을 넘겼어요. 가장 오래된 것은 {surah} {ayahFrom}-{ayahTo}({days}일)입니다. 이것부터 천천히 시작해 보세요."
 }
