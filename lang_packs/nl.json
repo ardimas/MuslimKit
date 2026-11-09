@@ -2459,5 +2459,9 @@
   "panduan_rec_sayyidul_istighfar_translation": "O Allah, U bent mijn Heer, er is geen god (die met recht aanbeden mag worden) behalve U; U hebt mij geschapen. Ik ben Uw dienaar. Ik blijf trouw aan mijn verbond met U, zo goed als ik kan. Ik zoek toevlucht bij U tegen het kwaad dat ik heb gedaan. Ik erken Uw gunst aan mij en ik erken mijn zonde; vergeef mij dus, want niemand vergeeft zonden behalve U.",
   "jumat_notification_title": "Gebedstijd: Vrijdaggebed",
   "jumat_notification_body": "Het is tijd voor het vrijdaggebed in {location}",
-  "niat_jumat_intro": "Ik ben van plan het verplichte vrijdaggebed te verrichten, {rakaat} rakaat, gericht naar de qibla"
+  "niat_jumat_intro": "Ik ben van plan het verplichte vrijdaggebed te verrichten, {rakaat} rakaat, gericht naar de qibla",
+  "isha_review_title": "Sommige gebeden zijn nog niet geregistreerd",
+  "isha_review_body": "Het Isha-gebed is ingegaan, maar {list} staan nog niet in je Ibadah-dagboek. Misschien vergeten? Heb je ze gebeden, vul ze dan nu aan zodat je overzicht klopt. Zo niet, of was je verhinderd, dan is dat prima: kies „Klopt“.",
+  "isha_review_cta": "Nu aanvullen",
+  "isha_review_ok": "Klopt"
 }

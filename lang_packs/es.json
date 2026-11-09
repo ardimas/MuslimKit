@@ -2459,5 +2459,9 @@
   "panduan_rec_sayyidul_istighfar_translation": "Oh Allah, Tú eres mi Señor, no hay divinidad (digna de ser adorada con verdad) excepto Tú; Tú me has creado. Soy Tu siervo. Seré fiel a mi pacto contigo en la medida de mis posibilidades. Me refugio en Ti del mal que he cometido. Reconozco Tu favor sobre mí y reconozco mi pecado; perdóname, pues nadie perdona los pecados sino Tú.",
   "jumat_notification_title": "Hora de oración: Oración del Viernes",
   "jumat_notification_body": "Es hora de la oración del Viernes en {location}",
-  "niat_jumat_intro": "Tengo la intención de realizar la oración obligatoria del Viernes, {rakaat} rakaat, mirando hacia la qibla"
+  "niat_jumat_intro": "Tengo la intención de realizar la oración obligatoria del Viernes, {rakaat} rakaat, mirando hacia la qibla",
+  "isha_review_title": "Hay oraciones sin registrar",
+  "isha_review_body": "Ha entrado la hora de Isha, pero {list} aún no están registradas en tu Diario de Adoración. ¿Quizá se te olvidó anotarlas? Si ya las hiciste, complétalas ahora para que tu registro sea exacto. Si no las hiciste o tuviste una excusa, no pasa nada: elige «Está bien».",
+  "isha_review_cta": "Completar ahora",
+  "isha_review_ok": "Está bien"
 }
