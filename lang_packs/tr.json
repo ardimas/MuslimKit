@@ -1655,7 +1655,7 @@
   "settings_title": "Ayarlar",
   "settings_widgets_desc": "MuslimKit widget'larını ana ekrana ekleyin",
   "settings_widgets_title": "Widget'lar",
-  "share_app_message": "🕌 MuslimKit'i keşfedin — hepsi bir arada Müslüman uygulaması!\n\n✅ Yapay zekâ rekât sayacı (%100 cihazda)\n✅ Namaz vakitleri + ezan, kıble yönü\n✅ Sesli Kur'an, Hıfz\n✅ Dua ve Zikir, namaz ve abdest rehberleri\n✅ İbadet Günlüğü + ana ekran widget'ları\n✅ Hicri takvim ve oruç hatırlatıcıları\n✅ Dijital tesbih\n\n📲 Ücretsiz indirmek için:\n{link}",
+  "share_app_message": "🕌 MuslimKit'i keşfedin — hepsi bir arada Müslüman uygulaması!\n\n✅ Yapay zekâ rekât sayacı (%100 cihazda)\n✅ Namaz vakitleri + ezan, kıble yönü\n✅ Kur'an: tilavet, mushaf okuma modu ve tecvid\n✅ Tahfiz: ezber takibi, tekrar ve ezber testi\n✅ Dua ve zikir, namaz, abdest ve teyemmüm rehberleri\n✅ Peygamberlerin soy ağacı\n✅ İbadet Günlüğü + ana ekran widget'ları\n✅ Hicri takvim ve oruç hatırlatıcıları\n✅ Dijital tesbih\n\n📲 Ücretsiz indirmek için:\n{link}",
   "show_rawatib_toggle": "Revatib Namazlarını Göster",
   "single_dzikir": "Tekli Zikir",
   "sitting": "Oturuş",

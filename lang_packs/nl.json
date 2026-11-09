@@ -1655,7 +1655,7 @@
   "settings_title": "Instellingen",
   "settings_widgets_desc": "Voeg MuslimKit-widgets toe aan je beginscherm",
   "settings_widgets_title": "Widgets",
-  "share_app_message": "🕌 Ontdek MuslimKit — jouw alles-in-één app voor moslims!\n\n✅ AI-rakaat-teller (100% op het apparaat)\n✅ Gebedstijden + adhan, qibla-richting\n✅ Koran met audio, Tahfidz\n✅ Doea & Dhikr, gebeds- en wudu-gidsen\n✅ Aanbiddingsdagboek + startschermwidgets\n✅ Hijri-kalender & vasteherinneringen\n✅ Digitale tasbih\n\n📲 Download hem hier gratis:\n{link}",
+  "share_app_message": "🕌 Ontdek MuslimKit — jouw alles-in-één app voor moslims!\n\n✅ AI-rakaat-teller (100% op het apparaat)\n✅ Gebedstijden + adhan, qibla-richting\n✅ Koran: recitatie, mushaf-leesmodus & tajwid\n✅ Tahfiz: memoriseer-tracker, herhaling & geheugentest\n✅ Smeekbeden & dhikr, gidsen voor gebed, woedoe & tayammum\n✅ Stamboom van de profeten\n✅ Gebedsdagboek + widgets voor het startscherm\n✅ Hijri-kalender & vastenherinneringen\n✅ Digitale tasbih\n\n📲 Download hem hier gratis:\n{link}",
   "show_rawatib_toggle": "Rawatib-gebeden tonen",
   "single_dzikir": "Enkel dhikr",
   "sitting": "Zitten",
