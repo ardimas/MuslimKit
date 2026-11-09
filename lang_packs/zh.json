@@ -2459,5 +2459,9 @@
   "panduan_rec_sayyidul_istighfar_translation": "真主啊，你是我的主，除你之外再无应受崇拜的主，是你创造了我。我是你的仆人，我将尽我所能恪守对你的盟约。我求你护佑我免遭我所作之恶。我承认你赐予我的恩典，也承认我的罪过，求你饶恕我，因为除你之外，无人能饶恕罪过。",
   "jumat_notification_title": "礼拜时间：主麻拜",
   "jumat_notification_body": "{location}地区的主麻拜时间已到",
-  "niat_jumat_intro": "我举意面向克尔白礼主麻主命拜{rakaat}拜"
+  "niat_jumat_intro": "我举意面向克尔白礼主麻主命拜{rakaat}拜",
+  "isha_review_title": "有些礼拜还没有记录",
+  "isha_review_body": "宵礼（Isha）时间已到，但{list}尚未记录在你的礼拜日志中。是不是忘记记录了？如果已经完成，请现在补上，让记录保持准确。如果没有完成或有特殊情况也没关系，请选择“没问题”。",
+  "isha_review_cta": "现在补全",
+  "isha_review_ok": "没问题"
 }

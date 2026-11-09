@@ -2459,5 +2459,9 @@
   "panduan_rec_sayyidul_istighfar_translation": "Ya Allah, Engkaulah Tuhanku, tiada tuhan (yang berhak disembah dengan sebenarnya) melainkan Engkau, Engkaulah yang menciptakan aku. Aku hamba-Mu. Aku akan setia pada perjanjianku dengan-Mu sekadar kemampuanku. Aku berlindung dengan-Mu daripada kejahatan apa yang telah aku lakukan. Aku mengakui nikmat-Mu yang Engkau kurniakan kepadaku dan aku mengakui dosaku, maka ampunilah aku. Sesungguhnya tiada yang dapat mengampunkan dosa melainkan Engkau.",
   "jumat_notification_title": "Waktu Solat: Solat Jumaat",
   "jumat_notification_body": "Sudah masuk waktu Solat Jumaat bagi kawasan {location}",
-  "niat_jumat_intro": "Aku niat menunaikan solat fardhu Jumaat {rakaat} rakaat menghadap kiblat"
+  "niat_jumat_intro": "Aku niat menunaikan solat fardhu Jumaat {rakaat} rakaat menghadap kiblat",
+  "isha_review_title": "Ada solat yang belum direkodkan",
+  "isha_review_body": "Waktu Isyak telah masuk, tetapi {list} belum direkodkan dalam Jurnal Ibadah anda. Mungkin terlupa? Jika sudah ditunaikan, lengkapkan sekarang supaya rekod anda tepat. Jika belum atau anda uzur, tidak mengapa, pilih \"Sudah betul\".",
+  "isha_review_cta": "Lengkapkan sekarang",
+  "isha_review_ok": "Sudah betul"
 }

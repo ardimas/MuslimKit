@@ -2459,5 +2459,9 @@
   "panduan_rec_sayyidul_istighfar_translation": "Ô Allah, Tu es mon Seigneur, il n'y a de divinité (digne d'être adorée à juste titre) que Toi, Tu m'as créé. Je suis Ton serviteur. Je reste fidèle à mon engagement envers Toi et à ma promesse envers Toi autant que je le peux. Je cherche refuge auprès de Toi contre le mal de ce que j'ai commis. Je reconnais Ton bienfait envers moi et je reconnais mon péché, pardonne-moi donc. Car nul ne pardonne les péchés en dehors de Toi.",
   "jumat_notification_title": "Heure de prière : Prière du Vendredi",
   "jumat_notification_body": "C'est l'heure de la prière du Vendredi pour {location}",
-  "niat_jumat_intro": "J'ai l'intention d'accomplir la prière obligatoire du Vendredi, {rakaat} rakaat, face à la qibla"
+  "niat_jumat_intro": "J'ai l'intention d'accomplir la prière obligatoire du Vendredi, {rakaat} rakaat, face à la qibla",
+  "isha_review_title": "Certaines prières ne sont pas encore enregistrées",
+  "isha_review_body": "L'heure d'Isha est entrée, mais {list} ne sont pas encore enregistrées dans ton Journal d'adoration. Un oubli peut-être ? Si tu les as faites, complète-les maintenant pour que ton suivi soit exact. Sinon, ou si tu avais une excuse, ce n'est pas grave : choisis « C'est correct ».",
+  "isha_review_cta": "Compléter maintenant",
+  "isha_review_ok": "C'est correct"
 }
