@@ -1655,7 +1655,7 @@
   "settings_title": "Einstellungen",
   "settings_widgets_desc": "MuslimKit-Widgets zum Startbildschirm hinzufügen",
   "settings_widgets_title": "Widgets",
-  "share_app_message": "🕌 Entdecke MuslimKit — deine All-in-One-App für den Alltag als Muslim!\n\n✅ KI-Rakaat-Zähler (100 % auf dem Gerät)\n✅ Gebetszeiten + Adhan, Qibla-Richtung\n✅ Koran mit Audio, Tahfidz\n✅ Dua & Dhikr, Gebets- & Wudhu-Anleitungen\n✅ Gebetstagebuch + Homescreen-Widgets\n✅ Hijri-Kalender & Fastenerinnerungen\n✅ Digitale Tasbih\n\n📲 Jetzt kostenlos herunterladen:\n{link}",
+  "share_app_message": "🕌 Entdecke MuslimKit — deine All-in-One-App für den Alltag als Muslim!\n\n✅ KI-Rakaat-Zähler (100 % auf dem Gerät)\n✅ Gebetszeiten + Adhan, Qibla-Richtung\n✅ Koran: Rezitation, Mushaf-Lesemodus & Tajwid\n✅ Tahfiz: Auswendiglern-Tracker, Wiederholung & Gedächtnistest\n✅ Bittgebete & Dhikr, Anleitungen für Gebet, Wudu & Tayammum\n✅ Stammbaum der Propheten\n✅ Gebetstagebuch + Startbildschirm-Widgets\n✅ Hijri-Kalender & Fastenerinnerungen\n✅ Digitaler Tasbih\n\n📲 Jetzt kostenlos herunterladen:\n{link}",
   "show_rawatib_toggle": "Rawatib-Gebete anzeigen",
   "single_dzikir": "Einzelnes Dhikr",
   "sitting": "Sitzen",

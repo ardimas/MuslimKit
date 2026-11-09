@@ -1655,7 +1655,7 @@
   "settings_title": "설정",
   "settings_widgets_desc": "MuslimKit 위젯을 홈 화면에 추가하세요",
   "settings_widgets_title": "위젯",
-  "share_app_message": "🕌 MuslimKit를 만나보세요 — 올인원 무슬림 앱!\n\n✅ AI 라카아 카운터 (100% 기기 내 처리)\n✅ 예배 시간 + 아잔, 키블라 방향\n✅ 오디오가 있는 꾸란, 타피즈\n✅ 두아와 지크르, 예배 및 우두 가이드\n✅ 예배 일지 + 홈 화면 위젯\n✅ 히즈라 달력 및 단식 알림\n✅ 디지털 타스비\n\n📲 무료 다운로드:\n{link}",
+  "share_app_message": "🕌 MuslimKit를 만나보세요 — 올인원 무슬림 앱!\n\n✅ AI 라카아 카운터 (100% 기기 내 처리)\n✅ 예배 시간 + 아잔, 키블라 방향\n✅ 꾸란: 낭독, 무스하프 읽기 모드, 타즈위드\n✅ 타흐피즈: 암송 트래커, 복습, 암송 테스트\n✅ 두아·지크르, 예배·우두·타얌뭄 가이드\n✅ 예언자 계보\n✅ 예배 일지 + 홈 화면 위젯\n✅ 히즈라력 & 금식 알림\n✅ 디지털 타스비흐\n\n📲 무료 다운로드:\n{link}",
   "show_rawatib_toggle": "라와티브 예배 표시",
   "single_dzikir": "단일 기도문",
   "sitting": "앉기",

@@ -1655,7 +1655,7 @@
   "settings_title": "Ajustes",
   "settings_widgets_desc": "Añade widgets de MuslimKit a tu pantalla de inicio",
   "settings_widgets_title": "Widgets",
-  "share_app_message": "🕌 Descubre MuslimKit — ¡tu app musulmana todo en uno!\n\n✅ Contador de rakaat con IA (100 % en el dispositivo)\n✅ Horarios de oración + adhan, dirección de la Qibla\n✅ Corán con audio, Tahfidz\n✅ Dua y Dhikr, guías de oración y wudu\n✅ Diario de adoración + widgets de inicio\n✅ Calendario hijri y recordatorios de ayuno\n✅ Tasbih digital\n\n📲 Descárgala gratis aquí:\n{link}",
+  "share_app_message": "🕌 Descubre MuslimKit — ¡tu app musulmana todo en uno!\n\n✅ Contador de rakaat con IA (100 % en el dispositivo)\n✅ Horarios de oración + adhan, dirección de la qibla\n✅ Corán: recitación, modo de lectura mushaf y tajwid\n✅ Tahfiz: seguimiento de memorización, repaso y prueba de memorización\n✅ Duas y dhikr, guías de oración, wudu y tayammum\n✅ Genealogía de los profetas\n✅ Diario de adoración + widgets de pantalla de inicio\n✅ Calendario hijri y recordatorios de ayuno\n✅ Tasbih digital\n\n📲 Descárgala gratis aquí:\n{link}",
   "show_rawatib_toggle": "Mostrar oraciones Rawatib",
   "single_dzikir": "Dhikr único",
   "sitting": "Sentado",

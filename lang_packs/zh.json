@@ -1655,7 +1655,7 @@
   "settings_title": "设置",
   "settings_widgets_desc": "将 MuslimKit 小组件添加到主屏幕",
   "settings_widgets_title": "小组件",
-  "share_app_message": "🕌 试试 MuslimKit —— 你的穆斯林生活全能助手!\n\n✅ AI 拉卡特计数器（100% 本地运行）\n✅ 礼拜时间 + 宣礼、朝向方向\n✅ 带音频的古兰经、背诵（Tahfidz）\n✅ 都阿与赞词、礼拜和小净指南\n✅ 礼拜日志 + 主屏幕小组件\n✅ 伊斯兰历日历与斋戒提醒\n✅ 数字念珠\n\n📲 点击免费下载:\n{link}",
+  "share_app_message": "🕌 试试 MuslimKit —— 你的穆斯林生活全能助手!\n\n✅ AI 拉卡特计数器（100% 本地运行）\n✅ 礼拜时间 + 宣礼、基卜拉方向\n✅ 古兰经：诵读音频、经本阅读模式与泰吉威德\n✅ 背诵：背诵追踪、复习与背诵测试\n✅ 祈祷词与赞念、礼拜·小净·土净指南\n✅ 先知世系\n✅ 礼拜日志 + 主屏幕小组件\n✅ 回历日历与斋戒提醒\n✅ 数字念珠\n\n📲 点击免费下载:\n{link}",
   "show_rawatib_toggle": "显示拉瓦提卜副功拜",
   "single_dzikir": "单一记主",
   "sitting": "坐（久鲁斯）",
